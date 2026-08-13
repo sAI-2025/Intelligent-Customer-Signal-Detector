@@ -444,3 +444,26 @@ def api_data_reset(request):
     else:
         return JsonResponse({"error": "invalid target"}, status=400)
     return JsonResponse({"status": "ok", "target": target})
+
+
+def coming_soon(request):
+    feature = request.GET.get("feature", "This feature")
+    # Pretty names and descriptions
+    feature_meta = {
+        "AskAssistant": {
+            "title": "AskAssistant Chatbot",
+            "desc": "An AI-powered assistant trained on your workspace to answer questions, analyze risk signals, and draft customer response playbooks on the fly.",
+            "icon": "🤖"
+        },
+        "ConnectTeam": {
+            "title": "Connect Team",
+            "desc": "Deep Slack & Discord integration to alert account executives, triage customer issues instantly, and trigger workflows on custom events.",
+            "icon": "💬"
+        }
+    }
+    meta = feature_meta.get(feature, {
+        "title": feature,
+        "desc": "We are currently building this feature to help streamline your operations workflow. Stay tuned!",
+        "icon": "⚡"
+    })
+    return render(request, "customer_signal/coming_soon.html", {"meta": meta})

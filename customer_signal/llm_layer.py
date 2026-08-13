@@ -4,6 +4,7 @@ Phase 4 — LangChain + Groq rationale generation, on-demand + cached.
 Never called from the Process button. Only called when a Customer Detail
 page is opened for the first time (or via /reanalyze/ to force refresh).
 """
+import os
 import logging
 from pydantic import BaseModel, Field
 
@@ -12,7 +13,7 @@ from .signal_logic import compute_signal_flags
 
 logger = logging.getLogger(__name__)
 
-MODEL_NAME = "llama-3.3-70b-versatile"
+MODEL_NAME = os.getenv("GROQ_MODEL_NAME", "llama-3.1-8b-instant")
 
 
 class SignalOutput(BaseModel):
@@ -46,14 +47,38 @@ CUSTOMER FEEDBACK
 (stated sentiment in source data: {stated_sentiment})
 
 Task:
-1. Write a 1-3 sentence plain-language rationale for why this customer is
-   flagged, using only the signals and evidence given above.
+1. Write a 1-3 sentence human-friendly, concise, and simple explanation of the churn risk (no corporate jargon). Follow this simple tone: "The predicted risk score is X/100, so the customer is considered [low/medium/high] risk. However, [specific flags like month-to-month contract or unresolved status] are warning signs that could increase risk in the future." You must accurately reflect the PREDICTED RISK SCORE and risk band.
 2. List 3-5 short evidence bullets (label + value) drawn only from the data given.
 3. State your own independent read of the feedback's sentiment (Positive/Neutral/Negative).
 4. Suggest one short, concrete next action for the ops team.
 
 {format_instructions}
 """
+
+# PROMPT_TEMPLATE = """
+# Analyze the customer using ONLY the provided data. Never invent, assume, or contradict facts or system signals.
+
+# PROFILE: {profile_summary}
+# RISK: {risk_score}/100
+# BANDS: 0-33 Low | 34-66 Medium | 67-100 High
+# SIGNALS: {signal_flags}
+# CONVERSATION: {transcript_text}
+# FEEDBACK: "{feedback_text}"
+# SOURCE SENTIMENT: {stated_sentiment}
+
+# Return:
+
+# 1. Risk Summary — 1-3 simple sentences. State exact score + band. Mention relevant system signals as warning signs when present. Never say the customer will churn. Do not let signals override the model band.
+
+# 2. Evidence — 3-5 bullets, "Label: Value". Use only provided facts; use fewer .
+
+# 3. Independent Feedback Sentiment — classify feedback as exactly Positive, Neutral, or Negative. Do not copy the source sentiment without evaluating the feedback.
+
+# 4. Next Action — exactly one short, concrete ops action based only on the evidence.
+
+# Keep everything concise and human-friendly. No jargon. Never invent facts, signals, causes, or behavior.
+# {format_instructions}
+# """
 
 
 def build_profile_summary(customer: Customer) -> str:
@@ -86,8 +111,8 @@ def _template_fallback(customer: Customer, flags: list, transcript) -> SignalOut
 
 def _get_llm_chain():
     from langchain_groq import ChatGroq
-    from langchain.prompts import ChatPromptTemplate
-    from langchain.output_parsers import PydanticOutputParser
+    from langchain_core.prompts import ChatPromptTemplate
+    from langchain_core.output_parsers import PydanticOutputParser
 
     parser = PydanticOutputParser(pydantic_object=SignalOutput)
     prompt = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
@@ -111,7 +136,7 @@ def get_or_generate_analysis(customer: Customer, force: bool = False) -> SignalA
         chain, parser = _get_llm_chain()
         result = chain.invoke({
             "profile_summary": build_profile_summary(customer),
-            "risk_score": customer.predicted_churn_score,
+            "risk_score": f"{customer.predicted_churn_score} / 100 ({customer.risk_band} Risk)",
             "signal_flags": flags,
             "transcript_text": format_turns(transcript.turns_json if transcript else []),
             "feedback_text": transcript.feedback_text if transcript else "",

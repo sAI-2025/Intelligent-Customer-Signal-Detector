@@ -24,19 +24,19 @@
 {% else %}
 
   <div class="kpi-grid">
-    <div class="kpi-card">
+    <div class="kpi-card" onclick="location.href='{% url 'customer_signals' %}'" style="cursor: pointer; transition: transform 0.2s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
       <div class="kpi-value">{{ analyzed_count }}</div>
       <div class="kpi-label">Customers Analyzed</div>
     </div>
-    <div class="kpi-card accent-red">
+    <div class="kpi-card accent-red" onclick="location.href='{% url 'customer_signals' %}?risk=High'" style="cursor: pointer; transition: transform 0.2s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
       <div class="kpi-value">{{ high_risk }}</div>
       <div class="kpi-label">High Risk</div>
     </div>
-    <div class="kpi-card">
+    <div class="kpi-card" onclick="location.href='{% url 'customer_signals' %}?resolution=NotResolved'" style="cursor: pointer; transition: transform 0.2s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
       <div class="kpi-value">{{ open_issues }}</div>
       <div class="kpi-label">Open Issues</div>
     </div>
-    <div class="kpi-card accent-red">
+    <div class="kpi-card accent-red" onclick="location.href='{% url 'customer_signals' %}?sentiment=Negative'" style="cursor: pointer; transition: transform 0.2s; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
       <div class="kpi-value">{{ negative_signals }}</div>
       <div class="kpi-label">Negative Signals</div>
     </div>

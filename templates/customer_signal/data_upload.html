@@ -58,14 +58,16 @@
         <p id="csv-selected-file" class="selected-file"></p>
       </div>
 
-      <label class="checkbox">
-        <input type="checkbox" id="auto-process">
-        Run processing after upload
-      </label>
+      <div class="upload-actions" style="display: flex; align-items: center; justify-content: space-between; margin-top: 20px; padding-top: 15px; border-top: 1px solid var(--border-color);">
+        <label class="checkbox" style="display: flex; align-items: center; gap: 8px; font-weight: 500; cursor: pointer;">
+          <input type="checkbox" id="auto-process" checked>
+          Run processing after upload
+        </label>
 
-      <button type="button" class="btn btn-primary" id="upload-btn">
-        Upload
-      </button>
+        <button type="button" class="btn btn-primary btn-large" id="upload-btn" style="min-width: 150px;">
+          <i class="fas fa-upload"></i> Upload
+        </button>
+      </div>
 
       <div id="upload-status" class="status-message" role="status"></div>
     </div>

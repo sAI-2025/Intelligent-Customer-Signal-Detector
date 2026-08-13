@@ -1,0 +1,45 @@
+{% extends "customer_signal/base.html" %}
+{% block title %}{{ meta.title }} — Coming Soon{% endblock %}
+
+{% block content %}
+<div class="coming-soon-container" style="display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 70vh; text-align: center; padding: 20px; animation: slideUpFade 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;">
+  
+  <!-- Glowing Graphic Container -->
+  <div class="coming-soon-icon-wrapper" style="position: relative; margin-bottom: 30px;">
+    <div class="glow-effect" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 140px; height: 140px; border-radius: 50%; background: radial-gradient(circle, rgba(37, 99, 235, 0.3) 0%, rgba(37, 99, 235, 0) 70%); filter: blur(15px); animation: pulseGlow 3s infinite alternate;"></div>
+    <div class="coming-soon-icon" style="position: relative; width: 100px; height: 100px; border-radius: 24px; background: rgba(255, 255, 255, 0.8); backdrop-filter: blur(10px); border: 1px solid rgba(229, 231, 235, 0.5); display: flex; align-items: center; justify-content: center; font-size: 48px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05); z-index: 2;">
+      {{ meta.icon }}
+    </div>
+  </div>
+
+  <span class="badge" style="background: rgba(37, 99, 235, 0.1); color: var(--primary); padding: 6px 16px; border-radius: 99px; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 16px;">
+    Under Development
+  </span>
+
+  <h1 class="page-title" style="font-size: 36px; font-weight: 800; color: var(--text-primary); margin-bottom: 16px; letter-spacing: -0.5px;">
+    {{ meta.title }}
+  </h1>
+
+  <p class="page-subtitle" style="font-size: 16px; color: var(--text-secondary); max-width: 500px; line-height: 1.6; margin: 0 auto 32px;">
+    {{ meta.desc }}
+  </p>
+
+  <div class="action-buttons" style="display: flex; gap: 15px; justify-content: center;">
+    <button class="btn btn-secondary" onclick="window.history.back()" style="padding: 12px 24px;">Go Back</button>
+    <a href="{% url 'overview' %}" class="btn btn-primary" style="padding: 12px 24px; text-decoration: none; display: inline-flex; align-items: center; justify-content: center;">Go to Dashboard</a>
+  </div>
+</div>
+
+<style>
+  @keyframes pulseGlow {
+    from {
+      transform: translate(-50%, -50%) scale(0.9);
+      opacity: 0.6;
+    }
+    to {
+      transform: translate(-50%, -50%) scale(1.1);
+      opacity: 1;
+    }
+  }
+</style>
+{% endblock %}
