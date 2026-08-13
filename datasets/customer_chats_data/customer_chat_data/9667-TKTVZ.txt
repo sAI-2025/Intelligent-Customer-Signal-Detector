@@ -1,0 +1,20 @@
+Customer ID: 9667-TKTVZ
+Topic: frequent internet disconnections
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there! My internet has been disconnecting frequently lately. It's really frustrating me. 
+
+Agent: Hello! I understand this can be a major inconvenience.  Can you please provide your account number and address so I can look into it? 
+
+Customer: Sure, my account is [redacted] and I live at [redacted]. 
+
+Agent: Thank you for that information. We'll take a look into your DSL account to see what might be causing the disconnections. 
+
+Customer: Thanks for looking into this!  
+
+Agent: No problem, we're going to check everything out. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for getting back to me so quickly and for your prompt action on resolving my internet issue.
+Sentiment: Positive

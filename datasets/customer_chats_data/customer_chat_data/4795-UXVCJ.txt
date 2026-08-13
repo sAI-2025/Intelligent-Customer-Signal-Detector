@@ -1,0 +1,18 @@
+Customer ID: 4795-UXVCJ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Hello!  I'd be happy to help.  What is your account name? 
+Customer: My name is George and my account number is 1234567. 
+Agent: Thank you, George. Can you tell me a little more about the situation? 
+Customer: The signal is weak in there, I can barely stream videos. 
+Agent:  I see. Have you tried restarting your router or moving it to a different location? 
+Customer: Yeah, I did that already. No luck.
+Agent: Okay, George. Let me check our records on the signal strength in your area and see if there is anything we can do. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for trying to help, but unfortunately it didn't resolve the issue."
+Sentiment: Negative

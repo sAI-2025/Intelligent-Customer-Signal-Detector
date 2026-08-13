@@ -1,0 +1,17 @@
+Customer ID: 1545-ACTAS
+Topic: customer cannot access support history
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble accessing my support history on your website. Can you help me out?
+Agent:  Absolutely, let's take a look at this together.  I need some information to assist you better. What is your account name? 
+Customer: My username is JohnSmith47.
+Agent:   Thank you, JohnSmith47. I see there are a couple of tickets in your history related to internet outages. Would you like me to pull up those details for you?
+Customer: Yes please. Thanks!
+Agent: Here they are - the details on those issues regarding your recent outages. 
+Customer:  Thanks for that.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was quick and helpful, and I was able to get the information I needed easily. 😊
+Sentiment: Positive

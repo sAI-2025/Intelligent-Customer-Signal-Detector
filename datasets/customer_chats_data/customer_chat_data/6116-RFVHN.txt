@@ -1,0 +1,17 @@
+Customer ID: 6116-RFVHN
+Topic: customer asks about available promotional offers
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about any current promotions or deals available?
+Agent:  Hello! Thanks for reaching out. Our most recent promotion is a 10% discount off your next bill if you sign up for our Fiber Unlimited plan. 
+Customer:  Hmm, that sounds interesting. Do you have anything else going on right now for customers like me with my current plan? 
+Agent:  Absolutely! We also offer a referral bonus of $50 if you refer a friend to switch over.  
+Customer:  Sweet! How does the referral work exactly?
+Agent: You get $50 and your friend gets $50 off their first month, just for signing up with your link. 
+Customer:  Cool, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and clearly explained the promotions I was interested in.
+Sentiment: Positive

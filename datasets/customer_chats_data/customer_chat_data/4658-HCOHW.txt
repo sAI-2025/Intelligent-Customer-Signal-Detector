@@ -1,0 +1,15 @@
+Customer ID: 4658-HCOHW
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet connection, it keeps dropping out frequently. 
+Agent:  I understand your frustration. Can you please tell me your account information and what device(s) you are experiencing this issue on?
+Customer: My account number is 1234567890. The issue seems to happen most during the evening hours when I'm streaming movies.
+Agent:  Okay, thank you. Let me check on that for you.  We do have some reports of issues in your area lately, but I will double-check and see if there is anything else we can do to help. 
+Customer:  I appreciate it!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's good to know they're aware of the problem, hopefully it gets resolved soon."
+Sentiment: Neutral

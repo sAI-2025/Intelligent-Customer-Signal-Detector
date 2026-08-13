@@ -1,0 +1,16 @@
+Customer ID: 2054-PJOCK
+Topic: download speed decreases significantly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My download speed has been drastically slower lately.  Is this a known issue? 
+Agent: I understand your concern, we'll do our best to help you. Can you please tell me what your modem is and how many devices are connected?  
+Customer: It's a Netgear Nighthawk model with one desktop computer and two laptops connected to the router.
+Agent: Thank you. We will check on that for you and see if we can pinpoint the issue. 
+Customer: Thanks, I hope it's not too long of a wait.  
+Agent:  We are checking on your account now. I expect your download speed to return to normal by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for getting back to me so quickly and for addressing the issue!
+Sentiment: Positive

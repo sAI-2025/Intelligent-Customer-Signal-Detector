@@ -1,0 +1,18 @@
+Customer ID: 8807-OPMBM
+Topic: unexpected data charges
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just noticed a huge jump in my data charges on my bill. How can this be? 
+Agent:  I apologize for the unexpected charge. Can you please provide your account number and the billing date of the statement you're referring to?
+Customer: Sure, it's [Account Number] and the bill date is May 10th. I have a two-year contract with them, paying $25.65 per month for no internet.
+Agent:  I see your account details. Your monthly charges are based on usage, and there doesn't seem to be any unexpected activity. Could you tell me more about what you think might cause this? 
+Customer: I haven't used much data recently. What can we do about it?
+Agent: I'd be happy to help. Let me check your account again.  Please wait a moment, while I look into it.
+Customer: Thank you!
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and resolved the issue quickly. Thanks for the clarification on my data usage!
+Sentiment: Positive

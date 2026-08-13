@@ -1,0 +1,24 @@
+Customer ID: 2778-OCLGR
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet.  It keeps dropping in and out. 
+
+Agent: Hello! I understand your frustration. Could you tell me a little more about what's happening?
+
+Customer:  Well, it happens constantly now. Sometimes for just a few minutes, sometimes for longer periods. 
+
+Agent: Thank you for that information. To help me troubleshoot this issue, could you please provide your account number and the service address where you are experiencing the connection problems?
+
+Customer: My account number is 1234567890. I live at 123 Main St. 
+
+Agent:  Alright, thank you for that information. We'll get to the bottom of this for you. I just need a moment to check on your service status.
+
+Customer: Ok. Thank you.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was much faster and easier than I thought it would be, thanks!"
+Sentiment: Positive

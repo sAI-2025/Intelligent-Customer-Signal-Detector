@@ -1,0 +1,18 @@
+Customer ID: 8875-AKBYH
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is much lower than expected. I was hoping for 20 Mbps.  Is there an issue?
+Agent: We understand your concern about your upload speed. Can you please provide your account information so we can troubleshoot this further?
+Customer: My name is Harold, and my account number is #123456789.  
+Agent: Thank you, Harold. Let me check on the status of your account. 
+Customer: Okay, thanks.  
+Agent: Your current upload speed appears to be around 8 Mbps. There are no known issues with our network at this time, but we'll investigate further for any potential causes. 
+Customer: Really? That seems slow for fiber optic internet. 
+Agent: We appreciate your patience, Harold. I'm currently investigating the matter and will update you by the end of the day regarding the resolution. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for taking the time to look into this, it's good to know they're working on a solution."
+Sentiment: Positive

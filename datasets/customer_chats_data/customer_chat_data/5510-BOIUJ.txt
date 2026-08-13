@@ -1,0 +1,17 @@
+Customer ID: 5510-BOIUJ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet speed is incredibly slow during peak hours. Is there a known issue? 
+Agent:  Hi there! I'm sorry to hear about your slow connection. Let me check on what might be causing this for you. 
+Customer: Thanks, it just started happening a few days ago and gets really bad during evening rush hour.
+Agent:  I see that peak hours are usually around 6pm-9pm. Do you mind telling me what device and your plan is?
+Customer: I'm using my laptop and have a month-to-month contract, $19.25/month with no internet plan, just standard data. 
+Agent: Thank you for the info.  I can see there is some congestion in our network during peak hours. We'll look into it and may be able to boost your speed. 
+Customer: That would be great! 
+Agent:  We'll do our best, I hope this helps! Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response, I appreciate the update and hope my connection speeds up soon!
+Sentiment: Positive

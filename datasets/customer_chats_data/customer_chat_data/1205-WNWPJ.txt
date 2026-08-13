@@ -1,0 +1,18 @@
+Customer ID: 1205-WNWPJ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is down completely. Can't connect to any sites or apps. 
+Agent: I understand your frustration.  What's your account number and last name, please?
+Customer: 1234567890, Smith
+Agent: Okay, Mr. Smith. Let me check on the connection status for you.  
+Customer: Thanks! Is there a delay or outage affecting my area?
+Agent: There is no official service alert for outages in your region at this time. 
+Customer: OK, but it's been down all morning.  Is there anything I can do to fix this?
+Agent: Would you like me to initiate a check of the line?   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and helpful, thank you!
+Sentiment: Positive

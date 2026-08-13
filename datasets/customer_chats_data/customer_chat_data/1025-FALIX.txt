@@ -1,0 +1,17 @@
+Customer ID: 1025-FALIX
+Topic: customer reports incorrect account details
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I have an issue with my account details and need them to be corrected. 
+Agent:  Hello! Thank you for reaching out. What specific details are incorrect?
+Customer: My billing address is listed as [Incorrect address]. It should be [Correct address].
+Agent:  I see the discrepancy. Please allow me a moment while I update your account information. 
+Customer: Thanks, that's helpful.
+Agent: Your payment and other information will be updated shortly.
+Customer: Great, thank you!  
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks for your help!
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 7056-IMHCC
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble connecting to Wi-Fi in my living room and bedrooms. 
+
+Agent: Thank you for reaching out!  I understand your concern, can you please tell me what type of device you are using? 
+
+Customer: I'm using my laptop and phone. 
+
+Agent:  Can you describe the problem a bit more? For example, is it slow, intermittent, or does it completely drop out?
+
+Customer: The signal is very weak in some rooms. It's mostly fine in the kitchen. 
+
+Agent:  I understand. I can check your internet connection for possible issues. Please allow me to run some diagnostic tests for you. 
+
+Customer: Okay. Thanks, I appreciate that.  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quickly resolved my problem."
+Sentiment: Positive

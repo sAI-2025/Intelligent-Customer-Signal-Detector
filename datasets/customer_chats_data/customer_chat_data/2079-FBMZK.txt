@@ -1,0 +1,24 @@
+Customer ID: 2079-FBMZK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet speed has been really slow lately, especially during peak hours. 
+
+Agent:  I understand your concern. Could you please provide your account information so I can investigate further?
+
+Customer: Sure, here it is... [account details]
+
+Agent: Thanks for that.  It looks like several other customers are experiencing similar issues. Let's see what we can do.  We may need to run a speed test.
+
+Customer: Okay. 
+
+Agent: Please hold while I check your connection. Your internet speed test is showing that you’re experiencing an average download speed of 20 Mbps, which is slower than the advertised speed of 100 Mbps.  I'll let you know what I find. 
+
+Customer: Thank you.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a good experience; thanks for working through the issue and getting me connected!
+Sentiment: Positive

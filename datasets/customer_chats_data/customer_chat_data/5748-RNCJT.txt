@@ -1,0 +1,24 @@
+Customer ID: 5748-RNCJT
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to my internet. It's very slow and keeps dropping out. 
+
+Agent: I understand your concern about the speed and connectivity issues.  Could you please provide me with your account details so I can check on the status of your connection? 
+
+Customer: Sure, it's (customer name) and my account number is #123456789. 
+
+Agent: Thank you for providing that information. Let me check on your fiber optic internet service.  
+
+Customer: Thanks. I hope this will be fixed soon! 
+
+Agent: We are currently working on addressing the slow connection and instability issue.  We will notify you once it’s resolved. 
+
+Customer: Okay, thanks so much for your help. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and update. Hopefully this is resolved soon!"
+Sentiment: Positive

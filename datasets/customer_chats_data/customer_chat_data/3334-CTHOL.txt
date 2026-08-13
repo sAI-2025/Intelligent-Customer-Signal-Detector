@@ -1,0 +1,17 @@
+Customer ID: 3334-CTHOL
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet speed. It's extremely slow and lagging, making it hard to do anything online. 
+Agent: I understand your frustration. Can you tell me more about the issues you are experiencing? 
+Customer:  I can't even load a simple webpage, let alone watch a video or play an online game. The latency is really high! 
+Agent: I'm looking into that now. May I have your account information for verification?  
+Customer: Sure. Here it is. 
+Agent: Thank you. We will be investigating the issue and getting back to you soon with our findings.  
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help, I appreciate you looking into this."
+Sentiment: Positive

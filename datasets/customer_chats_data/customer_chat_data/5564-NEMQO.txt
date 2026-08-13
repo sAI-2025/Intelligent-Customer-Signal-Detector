@@ -1,0 +1,18 @@
+Customer ID: 5564-NEMQO
+Topic: music service activation problem
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't seem to activate my music service after subscribing through your website. 
+Agent:  Hello! Thank you for reaching out. To help with your activation, could you please provide your account information?   
+Customer: Sure thing, it’s [account number]. 
+Agent: Alright, I see your account. Can you tell me what the issue is exactly? 
+Customer: My music service isn't activating and I'm not sure why.  
+Agent: I’ve reviewed your account and fiber connection looks good. Let's check on your account again just to be safe. 
+Customer: Thank you. 
+Agent:   You're welcome, we'll get this sorted out for you! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent quickly resolved my issue and I appreciate their helpfulness.
+Sentiment: Positive

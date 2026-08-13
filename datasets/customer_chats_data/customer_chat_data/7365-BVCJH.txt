@@ -1,0 +1,17 @@
+Customer ID: 7365-BVCJH
+Topic: TV service unavailable despite active subscription
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble accessing my TV service. It's been disconnected since this morning. 
+Agent:  I understand your concern. Could you please provide me with your account details or the customer ID associated with your TV service?
+Customer: Sure, my name is [name] and account number is [account number]. My plan is month-to-month, paid $24.4 per month. 
+Agent: Thank you, [name]. I can see your DSL internet connection and active subscription for the TV service.  Let me check on this issue for you. 
+Customer: Please let me know what's going on. 
+Agent: My apologies for the inconvenience. It appears there might be a billing or technical issue that is preventing the service from being activated. We're currently investigating and working to resolve it as quickly as possible.  We'll get back to you with an update shortly.
+Customer: Okay, thank you for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and update regarding my TV service issue.
+Sentiment: Positive

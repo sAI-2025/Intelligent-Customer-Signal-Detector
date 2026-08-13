@@ -1,0 +1,18 @@
+Customer ID: 3453-RTHJQ
+Topic: customer dissatisfied with music catalog
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to complain about your music catalog. It's way too limited! 
+Agent:  I understand your frustration, Ms. Peterson. Would you mind letting me know what specifically you find lacking in your experience? 
+Customer: There's not much in the classic rock genre. My entire life has been dedicated to that!
+Agent: I apologize for the inconvenience this may cause. We offer a wide range of music genres. 
+Customer:  Well, it's just not there! What about jazz or blues? 
+Agent: I see what you mean. Our catalog is constantly evolving with new artists and genres added regularly. 
+Customer:  I appreciate that, but it doesn't feel like the service for my needs.
+Agent: We are happy to hear your feedback. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the agent's attempts at addressing my concerns, the music selection still feels inadequate for a customer who deeply enjoys classic rock.
+Sentiment: Negative

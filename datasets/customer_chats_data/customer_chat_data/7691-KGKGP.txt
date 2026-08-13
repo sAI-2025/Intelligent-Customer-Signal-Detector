@@ -1,0 +1,24 @@
+Customer ID: 7691-KGKGP
+Topic: hardware configuration problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed is terrible! It's so slow I can barely stream videos. 
+
+Agent:  I understand your frustration. Can you tell me what model modem and router you are using? 
+
+Customer:  It’s a Netgear Nighthawk R6700. 
+
+Agent:  Okay, thank you. Let's try a few things to troubleshoot the issue. Would you like me to walk through some basic steps for your modem setup? 
+
+Customer: Yes please.
+
+Agent:  I can provide some step-by-step instructions on how to configure your modem and router properly, which can sometimes help improve your internet speed.
+ 
+Customer: Great, I’d appreciate that.
+
+Agent: Okay, let's get this resolved!  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and knowledgeable, and it looks like my internet issues are starting to improve!"
+Sentiment: Positive

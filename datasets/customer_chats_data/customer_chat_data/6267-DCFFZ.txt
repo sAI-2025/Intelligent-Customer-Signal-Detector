@@ -1,0 +1,28 @@
+Customer ID: 6267-DCFFZ
+Topic: music playback buffering
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't seem to get any of my music playing on YouTube properly. 
+
+Agent:  I understand your frustration. Can you tell me what device and browser you are using?
+
+Customer: My computer, chrome, 68 years old, not that tech-savvy, but...
+ 
+Agent: I see you're on a month-to-month contract. Do you have a fiber optic internet connection? 
+
+Customer: Yes.  And this is the third time since yesterday! 
+
+Agent: Let me take a look into your account. Please hold. 
+
+Customer: Thanks for trying to help. 
+
+Agent:  I see there's no issue with bandwidth or subscription status. We are having some temporary issues, but I'll make sure you can stream music soon. 
+
+Customer: Okay, that's great. Thank you!
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick resolution and update - it seems like things should be back to normal now!
+Sentiment: Positive

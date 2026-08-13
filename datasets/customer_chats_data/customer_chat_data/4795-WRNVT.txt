@@ -1,0 +1,23 @@
+Customer ID: 4795-WRNVT
+Topic: one phone line has no service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my phone service today. 
+
+Agent: Hello!  I understand you're experiencing issues with your phone line. I can certainly help you sort this out. 
+
+Customer: My service is down completely and there's no internet connection either. My plan is a month-to-month contract. 
+
+Agent:  Thank you for providing that information, my apologies for the inconvenience. Could you tell me your account number or the phone number associated with your line?
+
+Customer: I’d be happy to provide it. Account number is XXXXXXXXXX and the phone number is XXX-XXX-XXXX
+
+Agent: Thank you.  I'm looking into this now. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quickly resolved my issue."
+Sentiment: Positive

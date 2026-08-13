@@ -1,0 +1,28 @@
+Customer ID: 3088-LHEFH
+Topic: customer wants to update payment information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to update my payment information.  My card has expired and I'd like to change it. 
+
+Agent: Hello! Thank you for reaching out.  I understand you want to update your payment method. 
+
+Customer: Sure, I'm on a month-to-month plan for $79/month for Fiber optic internet. 
+ 
+Agent: Alright, we can definitely do that. To ensure accuracy, could you please provide your account information? 
+ 
+Customer: My name is [customer name], and the account number is [account number].  
+
+Agent: Thank you! I'll just need to verify some details. Please hold while I check our records. 
+
+Customer:  Okay.  
+ 
+Agent: We do have your information saved. We can update your payment method. What's the new card information? 
+
+Customer: [New card information]
+ 
+Agent: Thank you for providing that information. Your payment details will be updated now.  We'll process your next bill accordingly.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in updating my payment info. Thanks!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 0628-CNQRM
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow today. I can't even load a webpage properly. 
+Agent: Hi there! I understand you're experiencing slow internet speeds. Can you please tell me your account number and the specific issue you're facing? 
+Customer: Sure, my account number is [account number].  It seems like everything on my network is extremely slow – even downloading a file.
+Agent: Thank you for providing that information. I see your DSL internet speed is currently below average. 
+Customer: Can you help me fix it? I'm paying $67.50 a month and this isn't what I signed up for.
+Agent: Let me connect you to our network engineers. We can investigate the issue further and offer solutions. 
+Customer: Okay, that sounds good. Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping with my slow internet - hopefully it gets resolved quickly!"
+Sentiment: Positive

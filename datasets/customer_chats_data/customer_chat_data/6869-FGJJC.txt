@@ -1,0 +1,24 @@
+Customer ID: 6869-FGJJC
+Topic: inconsistent internet connection quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It seems inconsistent.  Is there a known outage?
+
+Agent: Hello! We are aware of some connectivity issues in your area. 
+
+Customer: Thank goodness someone is aware! Could you tell me when it's likely to be fixed?
+
+Agent: Our technicians are working diligently to resolve this issue. 
+
+Customer: This has been going on for hours now, and my work schedule is being thrown off by it. 
+
+Agent: I understand your frustration. We will keep you updated on the situation. 
+
+Customer: Thank you, that’s really helpful.  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The update about ongoing efforts to resolve the issue was appreciated, but the extended outage is making it difficult to manage my work schedule.
+Sentiment: Neutral

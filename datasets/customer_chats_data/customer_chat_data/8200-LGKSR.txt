@@ -1,0 +1,18 @@
+Customer ID: 8200-LGKSR
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello! I'm having trouble with my upload speed. It's slower than expected compared to what I paid for. 
+Agent:  I understand your concern. Could you please provide me with your account details and the specific issue you're experiencing? 
+Customer: My account number is 1234567890. My upload speed is only around 5Mbps, it should be closer to 10Mbps according to my plan.
+Agent:  I see that your current speed is significantly lower than the advertised speed. This might be due to various factors such as network congestion or issues with your modem/router setup.
+Customer:  Is there anything we can do about this? I've been on hold for a while, and my internet usage has been hampered. 
+Agent:  We can definitely take a look into this. To diagnose the issue effectively, could you please try running a speed test from your computer or mobile device? We will then be able to determine if there are any issues with your connection. 
+Customer: Ok, I'll do that right now!
+Agent: Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and proactive in trying to troubleshoot the issue, but a faster resolution would have been appreciated."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 4001-TSBTV
+Topic: selected movie unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to find my selected movie on the streaming service. 
+Agent:  I understand your concern. Could you please provide me with your account information? 
+Customer: My name is [Name] and my customer number is [Number]. 
+Agent: Thank you, [Name]. We are currently experiencing an outage affecting a few titles, including yours.
+Customer: Oh no! Is there a timeline for when this will be fixed?
+Agent:  I apologize for the inconvenience. Our technical team has been working on resolving it and we expect the issue to be resolved within the next 30 minutes.
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! Appreciate the quick response."
+Sentiment: Positive

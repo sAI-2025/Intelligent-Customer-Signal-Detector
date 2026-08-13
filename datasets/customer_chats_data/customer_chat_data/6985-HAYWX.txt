@@ -1,0 +1,17 @@
+Customer ID: 6985-HAYWX
+Topic: customer wants to know retention offers
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m looking to see if there are any offers or promotions that might apply to my account.  
+Agent: Certainly! To help me find some potential options for you, could you please tell me what kind of internet service you have and how long you've been a customer? 
+Customer: I have fiber optic internet, and I've been with you since April 2019.
+Agent:  I see your account is in good standing after 26 months. We do frequently offer discounts for loyal customers like yourself. 
+Customer: That’s great!  Are there any offers that might apply to a month-to-month contract?
+Agent: We do not currently have any promotions specifically tailored to month-to-month contracts at the moment, but we always appreciate our monthly subscribers.
+Customer: Thank you for your time. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for the helpful information!  It was nice to hear about potential savings as a long-term customer.
+Sentiment: Positive

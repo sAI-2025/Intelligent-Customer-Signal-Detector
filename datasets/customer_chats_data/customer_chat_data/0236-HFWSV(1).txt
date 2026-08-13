@@ -1,0 +1,18 @@
+Customer ID: 0236-HFWSV
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need help with my internet connection. It keeps dropping out frequently. 
+Agent: Hello!  I understand your frustration with frequent disconnections. Can you tell me a little more about what's been happening?
+Customer: Yes, it seems like every hour or so for the past two days. It happens during work calls and watching movies too. 
+Agent: I apologize for this inconvenience. To investigate further, could you please provide your account information or customer ID number? 
+Customer: Sure, my name is [customer's name] and account ID is 1234567890.  
+Agent: Thank you for providing that information. Let me check on the status of your service. 
+Customer: Thanks. 
+Agent: It looks like there may be some network congestion at your location. We'll fix this issue as soon as possible.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting to the bottom of my internet issues!  Hopefully, it stays stable now."
+Sentiment: Positive

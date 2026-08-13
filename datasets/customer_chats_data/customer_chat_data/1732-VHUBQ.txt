@@ -1,0 +1,17 @@
+Customer ID: 1732-VHUBQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet at all. It was working fine earlier today.
+Agent: Thank you for contacting us.  I understand you’re having trouble with your internet service. 
+Customer: Can you help me fix this? My phone is useless without it.
+Agent: I apologize for any inconvenience, let me take a look into the status of your account. 
+Customer: Thanks. 
+Agent:  Based on our records, we seem to have a technical issue with your fiber connection line.  The technician should be able to resolve this within an hour. 
+Customer: Great! Thank you so much.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was quickly and efficiently resolved, thank you!"
+Sentiment: Positive

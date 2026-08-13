@@ -1,0 +1,26 @@
+Customer ID: 9174-IHETN
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble connecting to my internet service. Calls aren't going through and it's been happening for over an hour now. 
+
+Agent:  I understand your frustration. Let me check on your account. Can you please provide your account number? 
+
+Customer: It's [account number]
+
+Agent: Thank you, I see that you have a two-year contract with us. We are happy to assist you further. 
+
+Customer: That's great!   Is it just my service or other customers experiencing this too?
+
+Agent:  I'm investigating the issue now. Could you tell me what kind of device you are using for calls?
+
+Customer: My computer and a landline phone. 
+
+
+Agent: Thank you, I will get back to you shortly.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and they're getting to the bottom of the issue quickly!
+Sentiment: Positive

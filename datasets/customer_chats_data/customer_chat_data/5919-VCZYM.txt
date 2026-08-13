@@ -1,0 +1,16 @@
+Customer ID: 5919-VCZYM
+Topic: damaged network equipment
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I had a power surge and my network equipment is fried!
+Agent:  I understand you're experiencing issues with your equipment. I'm sorry to hear that. 
+Customer: My modem/router was damaged. Can we get a replacement?
+Agent: Absolutely. Please provide me with your account information or the order number associated with this device, and we can arrange for a replacement. 
+Customer: Here is my email address. Thanks! 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks so much for processing the replacement request quickly!  The whole experience was very efficient.
+Sentiment: Positive

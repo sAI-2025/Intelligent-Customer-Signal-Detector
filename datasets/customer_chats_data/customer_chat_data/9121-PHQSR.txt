@@ -1,0 +1,18 @@
+Customer ID: 9121-PHQSR
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having frequent disconnections and it is very frustrating. 
+Agent: Thank you for reaching out to us! I understand your frustration with the internet interruptions. 
+Customer:  I've been a loyal customer for over 16 months, paying $85.05 monthly and I have fiber optic connection. It's concerning that this is happening so often. 
+Agent:  I see that you are on a month-to-month contract and using our Fiber Optic service. Could you please tell me your account number?
+Customer: 1234567890
+Agent: Thanks, I will check into this for you. We may have some underlying issues with the network affecting your connection.  
+Customer:  That's a relief, thank you so much.   
+Agent: Thank you for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it! Hopefully this resolves the frequent disconnects."
+Sentiment: Positive

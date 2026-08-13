@@ -1,0 +1,26 @@
+Customer ID: 4439-JMPMT
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm experiencing really high latency and ping. It makes it impossible to play online games. 
+
+Agent: I understand your frustration. Could you please tell me more about what you've been seeing? 
+
+Customer:  My ping is consistently above 100ms, even when not using any applications.  I was just streaming a game and my FPS dropped significantly.
+ 
+Agent: Let's check if there are any network issues on your end. Do you have a chance to try restarting your modem/router?
+
+Customer: Okay, I did that. But the problem is still ongoing. It's been happening for the past hour or so.  
+
+Agent: We can investigate further if you'd like. Would you be able to share your account information and location with me? 
+ 
+Customer: Sure, here it is. 
+ 
+Agent: Thank you for contacting us. 
+ 
+**Thank you for contacting us.**
+
+----------------------------------------
+Feedback: "While the agent was helpful, I still haven't resolved the high latency issue after restarting my modem/router. Hopefully this gets investigated further."
+Sentiment: Neutral

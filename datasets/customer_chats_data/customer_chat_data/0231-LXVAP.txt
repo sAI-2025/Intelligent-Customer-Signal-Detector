@@ -1,0 +1,15 @@
+Customer ID: 0231-LXVAP
+Topic: network device overheating
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having issues with my router overheating and it's making a loud buzzing noise. 
+Agent: Hello, thanks for contacting us.  Please provide your account information so we can look into this for you. 
+Customer: Sure, here it is - [account details] 
+Agent: Thank you.  We are investigating your account and will be getting back to you with the next steps shortly.
+Customer: Alright. Thanks! 
+Agent: We apologize for any inconvenience caused by this issue. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful for the prompt response and quick resolution."
+Sentiment: Positive

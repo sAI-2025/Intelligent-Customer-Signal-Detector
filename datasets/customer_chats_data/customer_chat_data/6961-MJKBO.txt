@@ -1,0 +1,17 @@
+Customer ID: 6961-MJKBO
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! My upload speed is significantly slower than expected. I just re-ran a speed test and it’s only 5 Mbps.  Is this normal?
+Agent: Thank you for contacting us! We're sorry to hear your upload speeds are lower than usual. 
+Customer:  I signed up for the $20.45 plan and was expecting much better performance. I have been a loyal customer for 47 months!
+Agent: We understand your concern, and we want to help get things back to normal. Can you please provide your account number or email address?
+Customer: My account number is XXXXXXXXXX1234.
+Agent:  Thank you. We'll look into this further. 
+Customer:  Is there anything I can do in the meantime?
+Agent:  We are working on it right now, and it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While waiting for resolution, I hope they can clarify what steps are being taken to speed up my connection."
+Sentiment: Neutral

@@ -1,0 +1,18 @@
+Customer ID: 7673-LPRNY
+Topic: customer wants to upgrade service plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about upgrading my service plan.  
+Agent: Hello! Certainly, I can assist with that. What is the specific plan upgrade you're interested in? 
+Customer: To a faster speed, something like 100 Mbps. My current DSL is decent, but it feels slow at times. 
+Agent: Okay, based on your 23-month tenure and $78.55 monthly payment, we can offer the 100 Mbps plan with a slightly higher monthly fee of $99.  
+Customer: Thanks for the info.  
+Agent: No problem!  Would you like to proceed with the upgrade? 
+Customer: Yes please. 
+Agent: Great! Let me process your request, and we'll update your account. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The upgrade was handled quickly and efficiently, thanks! I appreciate the clear explanation of pricing.
+Sentiment: Positive

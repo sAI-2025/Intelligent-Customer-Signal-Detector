@@ -1,0 +1,24 @@
+Customer ID: 3106-ULWFW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is super slow today. It's almost unusable.
+
+Agent: I understand your frustration, please hold while I check on your account. 
+
+Customer: Thanks!  I've been having this issue for the past few hours. 
+
+Agent: Alright, let me look at your recent activity logs and connectivity reports. 
+
+Customer: Okay. 
+
+Agent: It appears there is a temporary outage in your area affecting your connection speed. We will get that resolved as soon as possible.  
+
+Customer: Thank you! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for getting this sorted out so quickly.  It's much appreciated!
+Sentiment: Positive

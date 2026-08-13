@@ -1,0 +1,21 @@
+Customer ID: 0947-IDHRQ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is really weak in the living room. It cuts out constantly. 
+
+Agent: I understand your frustration.  Can you please provide me with your account information or at least your full address?
+
+Customer: Sure, my name is Michael and my account number is 1234567890.  My address is 123 Main Street, Anytown, USA.  
+
+Agent: Thank you, Michael. I'm looking into this now, it seems like your router is in a bad location or there might be some interference.  
+
+Customer: Thanks! Hope it gets sorted quickly. 
+
+Agent: We'll get that resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks, agent, for getting this sorted out quickly and efficiently.
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 2506-CLAKW
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I was just checking my internet speed and it's way slower than usual.  My plan is 100Mbps fiber optic.
+Agent: Hi there! Thanks for contacting us. Can you please provide your account number or the email address associated with your service?
+Customer: Sure, my account number is 123456789 and my email is john.doe@email.com
+Agent: Thank you for providing that information. We're currently seeing some speed fluctuations in your area. 
+Customer: Well I’ve been paying $98.15 per month, and it shouldn’t be this slow
+Agent:  I understand your frustration, John. Let me check on the status of your connection and see if there are any possible solutions for you. 
+Customer: Thanks
+Agent:  We'll investigate further and provide an update within a few hours.
+Customer: Okay, thanks again!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the agent's prompt response and will be interested to see how this issue is resolved."
+Sentiment: Positive

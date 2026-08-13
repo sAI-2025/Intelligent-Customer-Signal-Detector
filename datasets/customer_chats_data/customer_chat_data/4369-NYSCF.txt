@@ -1,0 +1,17 @@
+Customer ID: 4369-NYSCF
+Topic: movie application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need help with my movie app crashing constantly. 
+Agent:  I understand you're having trouble accessing your streaming content.  Could you please provide your account details so I can further assist you?
+Customer: Sure, my name is John and my account number is 123456789. 
+Agent: Thank you, John. We'll look into this issue for you right away.
+Customer: Thanks!  Do you know what's causing it?  I just started using the app last week. 
+Agent: I've reviewed your account and there are no reported outages or service disruptions currently affecting your connection. 
+Customer: Ok, well, it's crashing a lot anyway. Just a heads-up.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, but I still haven't figured out why my app keeps crashing despite no reported outages.
+Sentiment: Neutral

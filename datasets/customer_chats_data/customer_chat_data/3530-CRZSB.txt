@@ -1,0 +1,17 @@
+Customer ID: 3530-CRZSB
+Topic: poor TV picture quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with the picture quality on my TV. 
+Agent: I understand you are experiencing issues with the picture quality on your TV?  Could you please tell me what kind of device you are using and what specific problems you are encountering?
+Customer: I'm using a Smart TV that came with cable, but the picture is grainy and fuzzy. It's been this way for about three days.
+Agent:  I see. Thanks for letting me know.  Let me check on your account to see if there are any issues with your service or equipment. 
+Customer: Thanks. 
+Agent: I have located the issue, it seems like you may be experiencing a signal quality problem and we can resolve this quickly for you. We will run a speed test and adjust your connection parameters.  Is there anything else I can help you with today?
+Customer: No, that's all. Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in resolving my TV issue quickly and efficiently.
+Sentiment: Positive

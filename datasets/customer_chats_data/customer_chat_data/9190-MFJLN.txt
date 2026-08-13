@@ -1,0 +1,23 @@
+Customer ID: 9190-MFJLN
+Topic: hardware configuration problem
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble setting up my new modem.  I can't seem to get it connected. 
+Agent: Hello! I understand you're having trouble connecting your modem. What model is it? 
+Customer: It's a DOCSIS 3.1 model.
+Agent: Okay, let me walk you through the steps again. Can you tell me what error messages you're seeing on the screen?
+Customer: I just see a spinning wheel and no internet connection.  It keeps giving me an error message about the IP address being invalid.
+Agent: Is your router also powered on? 
+Customer: Yes, it is.
+Agent: Okay, let me verify that your router's settings are correct. Can you give me access to your modem's configuration page?
+Customer: Sure, here it is.  [uploads image] 
+Agent: Thank you! I think I found the issue.  Connect your internet cable to the proper port on the modem and then power on your router.   You should be good to go now.  
+
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quickly resolved my issue with the modem setup. Thanks!"
+Sentiment: Positive

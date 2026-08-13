@@ -1,0 +1,17 @@
+Customer ID: 4851-BQDNX
+Topic: customer questions promotional offer terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m calling about the latest promotional offer on your website. 
+Agent:  Hello!  I can help you with that information. What specific promotion are you inquiring about?
+Customer: The one for unlimited data and free streaming.   
+Agent:  To clarify, you're referring to the "Unlimited Data + Free Streaming" package? 
+Customer: Yes, but I need to know if it's just for new customers or for existing subscribers like me.
+Agent:  It is for new customers. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for clarifying the promotion details! It was easy to understand and clear.
+Sentiment: Positive

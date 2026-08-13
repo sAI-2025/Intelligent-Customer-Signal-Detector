@@ -1,0 +1,19 @@
+Customer ID: 3943-KDREE
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't access any websites or apps. 
+Agent:  I understand your concern, I'd be happy to help troubleshoot this issue.  Could you please provide me with your account information?
+Customer: Sure, it's [Account Number].   
+Agent: Thank you, [Account Number], let me check the service status.
+Customer: You can see right now on my end that I have no access at all. 
+Agent: I see there is a network outage in your area affecting service for your account.  I'll notify our team to get this fixed as soon as possible.
+Customer: How long will it be? 
+Agent: We estimate the issue will be resolved within the next hour or two.  We'll keep you updated.
+Customer: Thanks.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the update and quick response, thanks for helping!"
+Sentiment: Positive

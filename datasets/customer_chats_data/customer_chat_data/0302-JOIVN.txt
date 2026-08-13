@@ -1,0 +1,15 @@
+Customer ID: 0302-JOIVN
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my plan allows. I’m only getting about 10Mbps when my plan says 250Mbps. 
+Agent:  Thank you for reaching out, I understand your concern! Could you please provide your account details so I can check your connection?
+Customer: Sure. My name is John Smith and my account number is 123456789. 
+Agent: Here's my information about your account: [account information]  John, we will investigate this issue for you. 
+Customer: Thank you! 
+Agent: I am looking into it now. We’ll get back to you with an update within the next hour or so. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and hope this issue gets resolved soon.
+Sentiment: Positive

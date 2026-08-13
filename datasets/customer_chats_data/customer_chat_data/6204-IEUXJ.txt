@@ -1,0 +1,17 @@
+Customer ID: 6204-IEUXJ
+Topic: customer wants to downgrade internet plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'd like to downgrade my internet plan. 
+Agent:  I understand you'd like to switch your plan. Could you tell me which plan you're interested in downgrading to?
+Customer: I want to go down from the Fiber 1000 plan to the Fiber 25 plan.
+Agent: Okay, no problem. I can certainly help with that for you.  How long do you anticipate staying on this new plan?
+Customer: Not sure yet but would prefer a shorter term contract if possible.
+Agent: We do have month-to-month options available. And we're happy to offer a 30-day trial period for the Fiber 25 plan, should you wish to test it out first! 
+Customer: That sounds good!  Thank you. 
+Agent:  Absolutely, no problem at all. We will be updating your account accordingly and will have this resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a smooth and helpful process. Thanks for making the switch so easy!
+Sentiment: Positive

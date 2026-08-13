@@ -1,0 +1,16 @@
+Customer ID: 2712-SYWAY
+Topic: online support tools not working
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble accessing some of the online tools on my account.  The links aren't working properly.
+Agent: Hello! I understand that you're experiencing issues with our online tools. Could you please tell me which specific tools are not functioning? 
+Customer: My team collaboration platform and the project management software both seem to be offline.
+Agent: Thank you for providing those details, I will investigate this further. 
+Customer:  Any idea when these might be back up?
+Agent:  I'm currently checking on the system outages, and I’ll keep you updated as soon as I have more information.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the update - looking forward to getting these tools back online."
+Sentiment: Positive

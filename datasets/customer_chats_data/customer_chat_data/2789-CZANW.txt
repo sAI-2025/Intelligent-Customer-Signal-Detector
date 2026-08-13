@@ -1,0 +1,16 @@
+Customer ID: 2789-CZANW
+Topic: customer wants to dispute a previous payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I want to dispute a recent payment on my account. It seems like it was charged incorrectly. 
+Agent:  I understand your concern. May I have your account number and the date of the disputed charge?
+Customer: My Account Number is 1234567890, and the incorrect amount was charged on 08/20/2023.
+Agent: Thank you for providing that information. Please hold while we review your dispute request.  
+Customer:  Thanks!   
+Agent: I'm ready to assist you with your concern. Your account has been updated and the incorrect amount will be refunded. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks for resolving my payment dispute so efficiently!
+Sentiment: Positive

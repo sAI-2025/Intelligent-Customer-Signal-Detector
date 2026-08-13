@@ -1,0 +1,18 @@
+Customer ID: 6818-WOBHJ
+Topic: unexpected phone service charges
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I just received my bill and there are charges I don’t understand. My monthly cost is $89.60 but it says I owe over $150? 
+Agent: I'm sorry to hear you're having trouble understanding your bill, [Customer Name].  Could you please provide me with your account number so I can take a look?
+Customer:  [Customer Account Number]
+Agent: Thank you. Looking into it now… This is an unusual issue and the monthly charges are likely due to some overage fees on your plan. Let me check on that for you. 
+Customer: Okay, thank you.
+Agent:  I've found a few details that will help us resolve this. Would you like to proceed with a payment plan or would you prefer to review the information in more detail?  
+Customer: I want to review it. 
+Agent:  We can definitely go over your account and explain the charges in detail if you like. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and patient, and I appreciate them taking the time to explain everything clearly."
+Sentiment: Positive

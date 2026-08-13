@@ -1,0 +1,26 @@
+Customer ID: 7841-TZDMQ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, my upload speed is super slow. I’m getting less than 2 Mbps down when it should be closer to 5.  Is there something going on?
+
+Agent: I understand your concern about the slow upload speed, I'll definitely look into this for you.  Could you please confirm your account details and service address so I can check things out? 
+
+Customer: Sure, my name is Alex and I live at [address].  I have a month-to-month contract. 
+
+Agent: Thanks, Alex. Let me take a look at your account.  Your monthly plan does specify DSL internet with speeds up to 5 Mbps for upload and download. 
+
+Customer: Ok. Is there anything else I can do to improve my speed? 
+
+Agent: Depending on the specific issue, we might need some more information. Would you be able to run a speed test for me again?  
+
+Customer: Sure! Here's the link: [speed test URL].  
+
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this, it seems like my connection is indeed within the advertised speed range.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 1834-ABKHQ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the Wi-Fi in certain rooms of my home. 
+Agent:  I understand.  Could you please tell me what specific rooms are affected and if there are any other details about your internet connection?
+Customer: The living room and bedroom are the worst.  The signal is very weak, and I'm having trouble streaming movies.
+Agent:  I see.  It sounds like your signal strength could be impacted by obstacles or interference.  Would you mind sharing your router's location? 
+Customer: It’s right in the middle of the living room, facing the wall next to the TV. 
+Agent:  Thank you for providing that information!  I can look into this further and see if there are any troubleshooting steps we can take.   
+Customer: Thank you!
+Agent:  Let me know if you have any other questions, or if you'd like me to walk you through the next steps. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I feel much better knowing they are looking into this problem.
+Sentiment: Positive

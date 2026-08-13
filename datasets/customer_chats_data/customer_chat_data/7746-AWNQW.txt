@@ -1,0 +1,19 @@
+Customer ID: 7746-AWNQW
+Topic: customer unable to update account information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm trying to update my billing information online but it says something went wrong. 
+Agent: I understand your frustration.  Could you please tell me your account number and the specific issue you are experiencing?
+Customer: Sure, my account number is [account number]. When I go to change my payment method, it just loops back to the beginning. 
+Agent: Thank you for providing that information. Let's try to resolve this.  Can you tell me what error message you are seeing?
+Customer: It says "unable to process request".  I am on a month-to-month plan and haven't had any issues before.
+Agent: Okay, I see your account details now.  We may have a temporary technical issue preventing this update from going through. 
+Customer: Well, that's frustrating.  I just need to change my payment method because the card I used is expired.
+Agent: Please hold for a moment while I check on the status of the system.  It should be resolved soon. 
+Customer: Thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The issue was resolved quickly and efficiently, thanks!
+Sentiment: Positive

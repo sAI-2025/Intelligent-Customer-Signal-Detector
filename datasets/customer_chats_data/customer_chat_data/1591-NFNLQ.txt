@@ -1,0 +1,17 @@
+Customer ID: 1591-NFNLQ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is significantly lower than expected. It’s only around 5 Mbps, while my contract states 100 Mbps and I'm paying $80 a month. 
+Agent:  I understand your concern, John. Let's take a look at the details of your account. 
+Customer: Thank you.  Can you check on the connection? I haven’t experienced this before in my tenure with your company. 
+Agent: I'm checking your connection now and will be able to get back to you soon. 
+Customer: Thanks, looking forward to hearing from you! 
+Agent:  No problem, John. Our engineers are already working on it, and we'll have a diagnosis shortly. 
+Customer: Great. Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, but I hope the issue with my internet speed is resolved quickly."
+Sentiment: Neutral

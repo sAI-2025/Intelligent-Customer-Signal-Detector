@@ -1,0 +1,17 @@
+Customer ID: 6650-VJONK
+Topic: songs take too long to load
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having issues with song loading times on my Spotify Premium.  My internet is DSL and it's really slow. 
+Agent:  I understand you're experiencing slow download speeds for your Spotify Premium app. Can you please confirm your account details?
+Customer: Sure, it's (name) and I have a month-to-month contract.  
+Agent: Thank you. We can take a look at your account details to see if there are any issues with the speed. 
+Customer: My internet speed has always been slow since I got this service.  I just started it a month ago, is there anything else that could be done? 
+Agent:  We're sorry for the frustration you're facing. We'll check your account and see if there are any network issues that might be affecting song load times. 
+Customer: Okay, thanks. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the agent checking my account, it seems like a recurring issue with my DSL service.  Hopefully this gets addressed permanently."
+Sentiment: Neutral

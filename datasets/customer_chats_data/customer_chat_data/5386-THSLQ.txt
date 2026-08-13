@@ -1,0 +1,27 @@
+Customer ID: 5386-THSLQ
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am having trouble connecting to my calls. The number is not working properly. 
+
+Agent:  I understand your frustration. Can you please provide me with your account number or email address? 
+
+Customer: It's [Account Number]. 
+
+Agent: Thank you for that information. We are seeing some reports of intermittent issues with our DSL service. Our team is currently investigating the problem.  
+ 
+Customer: Okay, thank you. 
+
+Agent: I apologize for any inconvenience this may cause. We will continue to update you as we receive further information. 
+ 
+Customer: Thank you. 
+
+Agent:  Thank you for contacting us. 
+
+
+**Thank you for contacting us.**
+
+----------------------------------------
+Feedback: The agent was helpful and kept me updated, but I still hope the issue gets resolved soon.
+Sentiment: Neutral

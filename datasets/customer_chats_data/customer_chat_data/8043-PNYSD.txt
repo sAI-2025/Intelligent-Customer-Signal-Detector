@@ -1,0 +1,17 @@
+Customer ID: 8043-PNYSD
+Topic: customer unhappy with service reliability
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection has been down for hours now. This is unacceptable. 
+Agent: I understand your frustration, [Customer Name].  I'm sorry to hear that you've been experiencing service interruptions.
+Customer: It's been like this since early morning! How can I get this fixed?
+Agent: Let me look into the issue with your account. Please hold while I check for any outages in your area. 
+Customer:  I just want it to work, please.   
+Agent: We should be able to restore service shortly. We're working hard to resolve the problem.
+Customer: Thanks!  Hoping it's not too long now...
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly! Hopefully, I don't have to worry about this internet outage all day."
+Sentiment: Positive

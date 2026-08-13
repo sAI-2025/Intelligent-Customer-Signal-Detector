@@ -1,0 +1,17 @@
+Customer ID: 2037-SGXHH
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet speed is super slow and I can barely stream anything. 
+Agent:  I understand your frustration, I'll help get this sorted out. Can you please provide your account number?
+Customer:  Sure, it's [Account Number] 
+Agent: Thank you!  Let me check the speeds on your connection now. 
+Customer: It just keeps buffering even when there are no other devices using the internet. 
+Agent: Okay, based on what I see, a temporary issue might be occurring with the fiber line. We're sending out a technician to take a closer look at that for you. 
+Customer:  Great! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this resolved so quickly! It's nice to know there are people who actually care about customer issues.
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 2027-CWDNU
+Topic: customer asks about discount eligibility
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I was wondering about a discount on my bill. I'm currently paying $85.6 for my fiber optic internet. 
+Agent: Certainly!  To help me check your eligibility, could you please provide your account number?
+Customer:  It's [account number]. Thank you.
+Agent: Based on your 18-month tenure and month-to-month contract, you are eligible for a 10% discount. Would you like to apply it now?
+Customer: Yes, that would be great! 
+Agent: Your new bill will reflect the discount at $77.52 per month. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in getting my discount applied.  Thanks!
+Sentiment: Positive

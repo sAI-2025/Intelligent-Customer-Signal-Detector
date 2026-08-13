@@ -1,0 +1,17 @@
+Customer ID: 6035-BXTTY
+Topic: movie video quality becomes blurry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble viewing videos on my streaming service today. They are becoming blurry. 
+Agent:  I apologize for the inconvenience. May I have your account information and some details about what kind of video quality you're experiencing?
+Customer: Sure. My account number is 1234567890. It started happening about an hour ago after a reboot.
+Agent: Thank you, I can see that on your account. Your internet service type is DSL and we are investigating the possible cause of this blurry video issue. 
+Customer: Is there something I should do in the meantime?
+Agent:  I'm checking our systems for any known issues with your service and will update you shortly. 
+Customer: Okay, thank you for your help.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and kept me informed throughout the process."
+Sentiment: Positive

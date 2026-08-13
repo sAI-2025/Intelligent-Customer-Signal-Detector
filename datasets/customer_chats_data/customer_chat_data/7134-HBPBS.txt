@@ -1,0 +1,16 @@
+Customer ID: 7134-HBPBS
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is super slow today. I can barely play online games. Is this happening to other users? 
+Agent: We apologize for the inconvenience, and we're checking on your account status. Could you please provide your service address or account number so we can access your details? 
+Customer: Sure, my address is [redacted], Account Number [redacted]. 
+Agent:  I see your account is active with Fiber Optic internet and has a good history of performance. However, there might be some network congestion in the area right now. We'll investigate further and let you know what we find! 
+Customer: Okay thanks. Hope it gets fixed soon. 
+Agent:  No worries, I'm checking for any outages or spikes in traffic. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and update, hope the issue is resolved quickly!
+Sentiment: Positive

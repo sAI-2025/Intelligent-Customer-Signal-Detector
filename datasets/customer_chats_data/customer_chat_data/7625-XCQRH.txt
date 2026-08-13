@@ -1,0 +1,24 @@
+Customer ID: 7625-XCQRH
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't connect to the internet at all.
+
+Agent: Hello!  I understand you're having trouble connecting to the internet. 
+
+Customer: My service has been completely down for hours. This is my first month on a Month-to-Month contract and I am not happy with this issue
+
+Agent:  I apologize for the inconvenience.  May I have your account information, please?  
+ 
+Customer:  Account Number: [account number]   First Name: [first name] 
+ 
+Agent:  Thank you.  I'm looking into the status of your connection now and will let you know when it's back online.
+
+Customer: Thanks!
+
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Hopefully this gets resolved soon, as the lack of internet service is seriously affecting my work."
+Sentiment: Negative

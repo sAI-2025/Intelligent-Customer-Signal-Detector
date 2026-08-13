@@ -1,0 +1,22 @@
+Customer ID: 3654-ARMGP
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection has been incredibly slow lately, especially during peak hours. 
+
+Agent: I understand your frustration, Mr./Ms. [Last Name].  I'd be happy to help troubleshoot this issue for you.
+
+Customer: Thanks! It's really affecting my work from home.
+
+Agent: To investigate further, could you please tell me the exact speed issue you're experiencing and what time of day it typically happens?
+
+Customer: The speeds are dropping significantly around 7 pm and 10 pm. My DSL is usually pretty reliable.  
+
+Agent: Alright, thank you for that information. I will check your account and see if there's anything we can do to improve the speed during those peak hours.
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this! Hopefully it gets resolved soon so my work isn't slowed down further."
+Sentiment: Positive

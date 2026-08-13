@@ -1,0 +1,28 @@
+Customer ID: 1196-AMORA
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't connect to anything online!
+
+Agent: Hello, thank you for contacting us.  I understand your internet connection is not working as expected.  Can you please provide me with your account number or the email address associated with your contract? 
+
+
+Customer: My account number is 1234567890 and my email address is john.smith@email.com
+
+Agent: Thank you for providing that information. I'll be checking on the status of your service.  Please hold while I locate the details. 
+
+Customer: Okay, thank you. 
+
+Agent:  I am seeing a technical issue impacting many customers in your area. We are currently working to resolve it. The estimated resolution time is approximately 1 hour.
+
+Customer: Okay, thank you for letting me know. 
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update!  It's good to know they're working on a solution.
+Sentiment: Positive

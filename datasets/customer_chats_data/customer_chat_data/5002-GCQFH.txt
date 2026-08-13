@@ -1,0 +1,23 @@
+Customer ID: 5002-GCQFH
+Topic: remote or TV device cannot connect to service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my remote to service.  I've checked all cables and settings, but still can't get a signal. 
+
+Agent:  We understand your frustration, let me take a look into this for you. Can you please provide the device model and what service you are trying to connect? 
+
+Customer: It's a [brand] remote and I am trying to access my streaming services.
+
+Agent: Alright, thanks!  Please check if your internet is running smoothly on the TV screen. 
+
+Customer: The signal is fine, it just won't connect to the service.
+
+Agent: Okay, could you please try restarting both the device and modem? If that doesn’t resolve the issue, I can further assist you.   
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help!  I was able to get it working after restarting everything."
+Sentiment: Positive

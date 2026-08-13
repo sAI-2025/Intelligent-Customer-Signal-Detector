@@ -1,0 +1,26 @@
+Customer ID: 7941-RCJOW
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I keep experiencing frequent internet disconnections lately.  It's really frustrating!
+
+Agent: Thank you for contacting us regarding your internet connection. I understand it can be disruptive when you experience frequent disconnections. 
+
+Customer: Yes, it has been happening almost daily and even during work hours.
+
+Agent: To help troubleshoot this issue, could you please provide me with your account number and the specific device you're experiencing these issues on?  I will need some information to check your connection status. 
+
+Customer: My account number is XXXXXXX-XXXXXXX and I'm using my laptop.
+
+Agent: Thank you for that information! I can see there have been some recent outages in your area. We are working to resolve the issue as quickly as possible.  We will keep you updated on our progress. 
+
+Customer: Thanks, this is very helpful information.
+
+
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for keeping me informed about the outage. It's reassuring to know they are working on it!
+Sentiment: Positive

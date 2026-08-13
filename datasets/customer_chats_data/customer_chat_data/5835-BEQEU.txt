@@ -1,0 +1,22 @@
+Customer ID: 5835-BEQEU
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there!  I'm experiencing extremely high latency when using my internet. It's making it impossible to stream video and play online games. 
+
+Agent: I apologize for the trouble with your internet connection. I can help you troubleshoot this issue. Could you please provide me with your account information, including your service address or username? 
+
+Customer: Sure. My account is [Account Name], located at [Address]  
+ 
+Agent: Thank you.  To give us a better understanding of the problem, could you tell me what devices and software you're using?
+
+Customer: Mostly my laptop for work and gaming, along with PlayStation 4.
+
+Agent: Alright, I'm looking into your connection now and will be back to you shortly.
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help!  Hopefully this gets resolved quickly so I can get back to enjoying my online games."
+Sentiment: Positive

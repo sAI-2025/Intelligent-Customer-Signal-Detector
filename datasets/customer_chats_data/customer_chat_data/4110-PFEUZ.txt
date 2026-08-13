@@ -1,0 +1,17 @@
+Customer ID: 4110-PFEUZ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble getting a strong Wi-Fi signal in certain rooms of my house. 
+Agent: Hello!  I'm happy to help you troubleshoot this issue. Could you please tell me more about the specific rooms and what type of internet connection you are using? 
+Customer: We're on fiber optic, and it seems like the signal is weakest in the bedrooms and living room.
+Agent: Thanks for that detail. I'll be sure to check our records for any potential interference or signal issues in those areas.  Is your router also located in a bedroom/living room? 
+Customer: It is.  I was hoping to move it, but I'm not sure where would be the best place without impacting other areas of the house.
+Agent:  We recommend considering the placement of your router for optimal signal strength. There are typically multiple ways to improve Wi-Fi coverage. 
+Customer: Ok, thanks for that.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and clear; I appreciate the advice on moving my router!
+Sentiment: Positive

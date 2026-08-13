@@ -1,0 +1,17 @@
+Customer ID: 9986-BONCE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room.  The signal is pretty weak. 
+Agent: Hello! I apologize for the inconvenience. Can you tell me your account details so I can look into this further?
+Customer: Sure, it's [customer name], account number [account number] and my monthly plan is month-to-month with $20.95.  
+Agent: Thank you for that information. I see a few other customers in the area have reported similar issues as well. 
+Customer: Okay. Do you think there's a fix or a timeline on when this will be resolved?
+Agent: We aim to resolve the issue within the next 24 hours, we are working on the matter and will get back to you with an update.
+Customer: Thanks for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's good to know it's being addressed, but hoping for a faster resolution to my Wi-Fi connection."
+Sentiment: Neutral

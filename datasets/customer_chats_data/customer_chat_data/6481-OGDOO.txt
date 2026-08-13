@@ -1,0 +1,17 @@
+Customer ID: 6481-OGDOO
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been really slow and unstable lately.  It's like I can barely load a webpage. 
+Agent: I understand your frustration, I apologize for the inconvenience. Could you please tell me your account details so I can check on the status of your service? 
+Customer: Sure, my name is John Smith, and my account number is 1234567890.  I'm using Fiber internet with a one-year contract.   
+Agent: Thank you, John. Let me take a look at your account details.  We might have some network issues in your area causing the slow speeds.  
+Customer: Okay, that sounds like what's going on. 
+Agent: I'm running diagnostics now. We will be fixing it as soon as possible. You should see improvements within an hour or so. 
+Customer: Great! Thank you for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for the quick resolution and clear explanation of the issue. I appreciate your prompt response!"
+Sentiment: Positive

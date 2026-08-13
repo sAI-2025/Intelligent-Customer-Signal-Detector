@@ -1,0 +1,15 @@
+Customer ID: 3164-AALRN
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I can't connect to the internet at all.  My DSL connection has been down since this morning. 
+Agent: Thank you for contacting us. Please tell me your account name and address so I can investigate further.
+Customer: My account name is [account name] and my address is [address].
+Agent:  I'm seeing that there is a reported outage in your area. We are currently working to resolve the issue, which should be resolved within 30 minutes. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate the quick response."
+Sentiment: Positive

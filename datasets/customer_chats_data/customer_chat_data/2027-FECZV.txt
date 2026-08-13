@@ -1,0 +1,24 @@
+Customer ID: 2027-FECZV
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm having trouble connecting to the internet. It just shows a spinning wheel and says 'Internet connection failed.' 
+
+Agent:  I understand your concern, let me look into this for you. Can you please confirm your account details? 
+
+Customer: Sure, my name is [Customer Name], customer ID #1234567890. I'm on a month-to-month contract and my plan is the $106.7 Fiber optic.  My billing address is [Billing Address]. 
+
+Agent: Thank you for providing your details, [Customer Name]. We are seeing some network issues in your area. 
+
+Customer: No problem. Thanks anyway. I hope they fix it soon! 
+
+Agent: I'm working on resolving the issue.  We should have a restoration in place within 1 hour. Please let me know if you have any further questions. 
+
+Customer: Thank you, appreciate your help!
+ 
+ Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your quick response and helpful update on the internet outage. I look forward to getting back online soon!
+Sentiment: Positive

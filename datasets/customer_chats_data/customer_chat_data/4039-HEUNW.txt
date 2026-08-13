@@ -1,0 +1,17 @@
+Customer ID: 4039-HEUNW
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I keep losing internet connection and it's really frustrating. 
+Agent:  I understand your frustration, Ms. Jones.  Can you tell me your account details or at least which service provider you are currently with?
+Customer: I am with Spectrum, my account number is [redacted], and the issue started about an hour ago. 
+Agent: Thank you for providing that information. We'll send a technician to investigate. Would you like us to schedule a time to contact you? 
+Customer: Yes, please.
+Agent:  We will be in touch within the next two hours. 
+Customer:  Thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully this gets resolved soon! Thanks for taking care of it."
+Sentiment: Positive

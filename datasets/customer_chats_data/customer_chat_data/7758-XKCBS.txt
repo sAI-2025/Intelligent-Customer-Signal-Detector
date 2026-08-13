@@ -1,0 +1,20 @@
+Customer ID: 7758-XKCBS
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. My connection is completely down. 
+
+Agent:  I understand your concern, I am sorry to hear that you are experiencing a connectivity issue. Can you please provide me with your account number and location so I can investigate further? 
+
+Customer: My account number is 1234567890. I live at [street address]. 
+
+Agent: Thank you for that information.  I am looking into the issue now and will update you shortly. 
+
+Customer: Ok, thank you. 
+
+Agent:  We are working on getting your connection back online. We apologize for the inconvenience.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and I appreciate them keeping me updated while they worked to resolve the issue.
+Sentiment: Positive

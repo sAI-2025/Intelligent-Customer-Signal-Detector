@@ -1,0 +1,17 @@
+Customer ID: 2956-GGUCQ
+Topic: customer wants to apply an available offer
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'd like to apply for the current discount offer. 
+Agent: Certainly!  What promotion are you interested in?
+Customer: The one for new customers with fiber optic internet.  My contract is month-to-month and my bill is $78.85 per month.
+Agent:  I see.  Your account has been active for 24 months and currently you're on a month-to-month plan.  To apply the promotion, we just need to update your billing information and confirm your eligibility. 
+Customer: Ok. How do I proceed?
+Agent: Let me know if you have any questions.  We can help you with that!
+Customer: Thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in explaining the steps to apply for the discount, making the process easy for me.
+Sentiment: Positive

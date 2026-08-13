@@ -1,0 +1,7 @@
+Django
+langchain
+langchain-groq
+numpy
+pandas
+whitenoise
+gunicorn

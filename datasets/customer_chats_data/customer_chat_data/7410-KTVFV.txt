@@ -1,0 +1,17 @@
+Customer ID: 7410-KTVFV
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my download speed has been really slow lately. It’s nowhere near what I pay for. 
+Agent: Thank you for reaching out.  I can certainly help with that. Could you please provide your account details and the specific speeds you're experiencing?
+Customer: Sure, my account number is [account number]. My download speed has been under 5 Mbps for days now. It’s supposed to be at least 10 Mbps according to my plan.
+Agent: I see that you have a DSL connection with a $49.55 monthly plan.  Our speeds vary based on your location and signal strength, but it's unlikely there would be a significant lag in your speed for your account.
+Customer: No, no it’s not! The other members of my household can connect to the internet at normal speeds. 
+Agent: I understand. We do have occasional issues with DSL connections, especially during peak hours and bad weather.  Let me check our records and see what we can do.
+Customer: Ok. Thanks for your help.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the quick response but it seems like a network issue is causing my slow speeds, even though other members are fine."
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 0420-BWTPW
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet constantly. 
+Agent: Hello!  I'm sorry to hear you're experiencing frequent disconnections. Please tell me your account number and what device you're using when it happens.
+Customer: 1234567890, my laptop. I usually experience a drop every hour or so. 
+Agent: Thank you for providing that information. Let's take a look at your plan and check the connection speed.
+Customer:  My DSL seems to be slow too. 
+Agent: I understand. We'll need to investigate further and see what might be causing these issues. 
+Customer: Thanks, hope it gets resolved soon. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for looking into my internet issue!  I appreciate the update on when I can expect a resolution.
+Sentiment: Positive

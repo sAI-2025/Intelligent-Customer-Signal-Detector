@@ -1,0 +1,17 @@
+Customer ID: 5902-WBLSE
+Topic: customer wants to upgrade TV package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to upgrade my TV package. 
+Agent:  Sure! What are you interested in upgrading to?
+Customer: I was thinking about getting the premium plan with more channels.
+Agent:  I can certainly help you with that. Do you have any preferred channels or specific content you're looking for?
+Customer: Yes, I'd like access to sports and news channels. 
+Agent: Okay! Let me check your account for compatibility and pricing options.
+Customer: Thanks!
+Agent: Your current package is $20.15 per month with a two-year contract.  The premium plan will be a little more, but we'll go over the specific details.   It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for helping me sort this out! I appreciate the clear explanation."
+Sentiment: Positive

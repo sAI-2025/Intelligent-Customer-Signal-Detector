@@ -1,0 +1,18 @@
+Customer ID: 9000-PLFUZ
+Topic: customer has contacted support multiple times
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm calling again about my internet speed, it's been terrible for weeks now. 
+Agent:  I understand your frustration. Let me pull up your account information for you.
+Customer: Thanks, that would be great. 
+Agent: Your DSL plan has a decent history of performance, however it seems like there might be recent issues with the network. 
+Customer: I've had similar problems before, and they don't seem to resolve them. 
+Agent:  I apologize for the inconvenience.  Would you like me to escalate this to our engineering team? 
+Customer: Yes please. 
+Agent: I have escalated your case. Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it seems like similar issues keep resurfacing despite repeated attempts to resolve them.
+Sentiment: Neutral

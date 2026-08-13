@@ -1,0 +1,21 @@
+Customer ID: 9513-DXHDA
+Topic: data usage overage charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just received a notification about an overage charge on my bill. 
+Agent:  I'm sorry to hear that you're facing this issue. Can you please provide me with your account number? 
+Customer: Here it is. 
+Agent: Thank you. Let me pull up your account and review the details. 
+Customer: I just started my internet service on DSL, do you think this charge is because of that? 
+Agent:  Yes, DSL plans often have higher data limits compared to other types of internet services like cable or fiber optic. 
+Customer: Okay, well, would it be possible to adjust the plan for me?
+Agent: We can definitely explore some options with you. I'll need a few more details about your usage and your preferred type of service.  
+Customer: Sure, my monthly data use usually goes around 20GB. 
+Agent: Thank you! I have found an alternative plan option that may be beneficial for you with lower overage charges. Would you like to hear more? 
+Customer: Yes please.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in explaining the situation and offering a solution that fits my needs.
+Sentiment: Positive

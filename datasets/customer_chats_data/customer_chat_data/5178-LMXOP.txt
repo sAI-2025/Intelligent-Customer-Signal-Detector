@@ -1,0 +1,18 @@
+Customer ID: 5178-LMXOP
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I just checked my speedtest and it's only 5Mbps, when I was promised 20Mbps.
+Agent: Hi there! Thank you for contacting us.  I understand your concern about the slow upload speed. Could you please tell me your account number?
+Customer:  It’s 123456789. 
+Agent: Okay, thank you. I'm checking on your service and account now.  We'll have a look at what might be causing this issue.  
+Customer:  Is there anything I can do to speed up the upload? 
+Agent: We're still looking into the cause of the slow speeds. We will update you shortly with our findings. Meanwhile, please try restarting your modem and router as well. It may help temporarily.
+Customer: Ok. Thank you!
+Agent:  No problem at all. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's effort to investigate, but it seems like a restart will have little impact until the root cause is addressed.
+Sentiment: Neutral

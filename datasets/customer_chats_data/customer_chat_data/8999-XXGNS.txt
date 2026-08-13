@@ -1,0 +1,17 @@
+Customer ID: 8999-XXGNS
+Topic: network device overheating
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is acting really slow today and my router is extremely hot.  I can't believe it's this bad! 
+Agent: I understand your concern, sir. Could you please tell me your account name?
+Customer: It's Robert Smith, account number 123456789. 
+Agent: Thank you, Mr. Smith.  I can see that your router is showing signs of overheating. Let me check on the service status for you. 
+Customer: Okay, thanks.
+Agent: I see there's a scheduled maintenance going on in your area, but there shouldn't be any issues with network speeds after the maintenance is complete. 
+Customer: Well, that's good to know...but the router was just fine yesterday!  It makes me feel uncomfortable.   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent did provide helpful information, I still have concerns about my router's performance after this maintenance.
+Sentiment: Neutral

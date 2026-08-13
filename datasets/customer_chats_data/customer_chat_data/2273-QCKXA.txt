@@ -1,0 +1,26 @@
+Customer ID: 2273-QCKXA
+Topic: songs stop unexpectedly
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, my Spotify music keeps stopping unexpectedly, and I don't know why.  
+
+Agent: I understand your frustration! Can you please tell me what device you are using to listen to Spotify?
+
+Customer: I use my laptop for it. 
+
+Agent: And what type of internet plan do you have?
+
+Customer: It's a DSL connection, and the monthly cost is $49.05.  
+
+Agent: Thank you for that information. Let me check if there are any known issues with your internet service affecting Spotify playback. 
+
+Customer: Thanks! 
+
+Agent: I've checked our system and found no reported outages in your area. Your internet connection looks strong, and we don't have any specific reports on problems with Spotify playback recently. 
+  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** "While the agent was helpful, it would be nice to know what steps I can take if this continues."
+Sentiment: Neutral

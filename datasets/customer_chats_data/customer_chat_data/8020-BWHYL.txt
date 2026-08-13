@@ -1,0 +1,22 @@
+Customer ID: 8020-BWHYL
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow today, pinging out at over 200ms!  It was fine yesterday. Is there an issue with service?
+
+Agent: I understand your concern, [Customer Name].  Let's take a look into this. Please tell me your full address and account number so I can check your connection.
+
+Customer: Sure, it's 123 Main Street, Apt 4B, and my account number is #987654.
+
+Agent: Thank you for that information, [Customer Name].  I see your internet speed is being impacted by a temporary network issue in your area.  We are working to resolve it right now.
+
+Customer: Thanks! That's good to know. 
+
+Agent: You’re welcome! I’ll keep you updated on the progress and let me know if you have any other questions. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the issue, it was frustrating dealing with such slow internet all day!
+Sentiment: Negative

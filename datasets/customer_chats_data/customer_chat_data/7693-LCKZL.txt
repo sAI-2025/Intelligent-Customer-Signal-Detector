@@ -1,0 +1,18 @@
+Customer ID: 7693-LCKZL
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing slow speeds during peak hours today. 
+Agent:  Hi there! My name is John and I'd be happy to help with your internet service.  Can you tell me a little more about what’s happening?
+Customer: It's like everything's running so slowly. Websites load forever, even streaming video seems laggy.
+Agent:  I understand. Are you using the fiber optic connection? 
+Customer: Yes, I am on the $80.15 plan. Just started five months ago.
+Agent:  Ok, thank you. We can look into this further. Have you tried restarting your modem and router?
+Customer: I'll give that a try. 
+Agent: No problem! Let me know if it works or not. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The steps the agent suggested seem promising, hopefully my internet speeds will improve soon."
+Sentiment: Positive

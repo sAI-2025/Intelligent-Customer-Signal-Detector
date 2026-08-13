@@ -1,0 +1,20 @@
+Customer ID: 5895-QSXOD
+Topic: websites load slowly despite active connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my website loading.  It seems incredibly slow even with a strong connection. 
+Agent: Thanks for reaching out! Can you tell me your internet plan and what websites you're experiencing issues with?  
+Customer: It's the $70.05/month plan, Fiber optic, and it’s affecting all of my normal websites.
+Agent: I understand, let me check on that. 
+Customer: Thanks.
+Agent: We have a couple of options to help speed things up for you. Would you like to try some troubleshooting steps first or would you prefer to go ahead with a network optimization?
+Customer:  Let's start with the troubleshooting, please. 
+Agent: Okay, let me give you some instructions on how to clear your browser cache and cookies. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I feel like the troubleshooting steps worked! 😄
+Sentiment: Positive

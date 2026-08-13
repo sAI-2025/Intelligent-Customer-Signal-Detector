@@ -1,0 +1,17 @@
+Customer ID: 7524-VRLPL
+Topic: customer cannot complete device setup
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble setting up my new device. 
+Agent:  Hello! What seems to be the issue?
+Customer: My internet is not connecting properly after I followed the instructions on the screen. 
+Agent: I'll walk you through some troubleshooting steps. First, can you confirm your modem and router are powered on and connected to each other?
+Customer: Yes, they're both turned on.  
+Agent: Okay, let me check your account information for any potential connectivity issues. 
+Customer: Thank goodness! I've been worried about being disconnected.
+Agent: We're glad we could help!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick and helpful solution! It was a relief to get my internet back up and running.
+Sentiment: Positive

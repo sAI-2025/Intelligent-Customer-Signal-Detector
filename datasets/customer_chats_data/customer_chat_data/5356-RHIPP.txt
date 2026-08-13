@@ -1,0 +1,17 @@
+Customer ID: 5356-RHIPP
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't seem to connect to the internet at all. 
+Agent:  I understand your issue, let's get this sorted out. What is the exact error message you are seeing?
+Customer: It just says "No Internet Connection" and nothing else. 
+Agent: Have you checked your modem and router for any issues or signal problems? 
+Customer: I did, everything seems okay there.
+Agent: Okay, let's try some troubleshooting steps.  Can you access your router settings to see if there are any network configuration errors? 
+Customer: I can see the connection is on. 
+Agent: Thanks for that information. I'm going to check with our technicians on this one. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, thanks!  😊
+Sentiment: Positive

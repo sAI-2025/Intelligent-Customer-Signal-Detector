@@ -1,0 +1,18 @@
+Customer ID: 7576-OYWBN
+Topic: customer reports poor overall service experience
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having some problems with your service lately.  I feel like my speeds are consistently slow, and customer service has been difficult to get in touch with.
+Agent: I understand you're experiencing some issues with your internet speed and service. Can you please tell me more about what specific problems you’re facing? 
+Customer: The speeds are just terrible. It takes forever to load websites and videos. Also, getting through on the phone is a nightmare, it seems like I'm always put on hold for hours.
+Agent: I apologize for the inconvenience you're experiencing.  Could you please provide me with your account information so I can check on the issue? 
+Customer: My name is John Smith and my account number is 1234567890.
+Agent: Thank you, Mr. Smith. We'll look into this right away. What is your preferred method of contact for future updates?  
+Customer: Email would be best.
+Agent: Okay, we'll keep you updated via email. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent’s prompt response and effort to resolve this issue. Hopefully, my internet speeds will improve soon.
+Sentiment: Positive

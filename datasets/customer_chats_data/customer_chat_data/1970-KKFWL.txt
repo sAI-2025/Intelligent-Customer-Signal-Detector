@@ -1,0 +1,22 @@
+Customer ID: 1970-KKFWL
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My ping is extremely high, I'm getting unplayable lag every few minutes. Is there a network issue? 
+
+Agent:  I understand your frustration, and I apologize for the inconvenience. Could you please provide your account information so I can look into this further?
+
+Customer: Sure, here it is: [account details]
+
+Agent: Thank you! I'm seeing some reports of increased latency in your area. We are actively working on a solution. How long have you been experiencing this issue?  
+
+Customer: About an hour now. 
+
+Agent: I understand. I will update you with any further developments as soon as possible. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating to be stuck with unplayable lag, especially for an hour!  Hopefully this issue gets resolved quickly.
+Sentiment: Negative

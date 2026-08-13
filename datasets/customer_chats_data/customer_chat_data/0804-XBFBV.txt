@@ -1,0 +1,15 @@
+Customer ID: 0804-XBFBV
+Topic: equipment-related charge dispute
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to dispute a charge on my bill.
+Agent:  I understand. Please provide your account number and the specific date of the disputed charge. 
+Customer: My account number is [account number], and the charge in question was for equipment rental. 
+Agent: Let me look into this for you. The equipment rental fee should not be on your monthly bill. I'm going to have a supervisor review your file.
+Customer:  Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks!
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 3785-NRHYR
+Topic: additional phone line cannot be activated
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I need assistance activating my additional phone line. 
+Agent:  Hello! Thank you for contacting us. What is your account number? 
+Customer: 1234567890 
+Agent: Alright, I see your account is current and on a month-to-month plan. But we're seeing an issue with activating the additional line.  
+Customer: Really? I just want to be able to call my family! 
+Agent: We apologize for the inconvenience. Let me check what's holding things up.  
+Customer: Thanks!  
+Agent:  I can see that it requires a few adjustments on our end, and we should have this all sorted out by the end of the day.   
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this fixed so quickly!  My family is happy now."
+Sentiment: Positive

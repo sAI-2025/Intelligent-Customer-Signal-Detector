@@ -1,0 +1,15 @@
+Customer ID: 1397-XKKWR
+Topic: question about contract renewal terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need some clarification about my contract renewal terms.  My current one is up in a few months, and I was wondering what the options are. 
+Agent: Certainly!  You're currently on a one-year contract for DSL internet at $35.3 per month. 
+Customer: That's correct.  What about any potential price increases or new offerings? 
+Agent: There haven't been any significant changes to the pricing structure.  We do offer additional speeds and data packages, but your current plan is quite competitive. 
+Customer: Alright, thanks for that.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and informative, quickly addressing my questions about my renewal terms.
+Sentiment: Positive

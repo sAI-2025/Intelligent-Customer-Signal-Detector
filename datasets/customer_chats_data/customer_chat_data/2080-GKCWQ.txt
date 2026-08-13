@@ -1,0 +1,17 @@
+Customer ID: 2080-GKCWQ
+Topic: internet connection slow or unstable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My internet speed is extremely slow today and I can barely get on any websites. 
+Agent:  I understand you're experiencing intermittent slowness. Could you please tell me your account number?
+Customer:  34567890
+Agent: Thank you for providing that information. We will look into this right away. 
+Customer:  Is there a way to speed up my connection?
+Agent:  Our technicians have been working on a potential network issue in your area, but we're doing everything we can to resolve it promptly. 
+Customer: Okay, thanks. 
+Agent:  We apologize for the inconvenience. We appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: It seems like they're working on it, hopefully I'll be back to normal browsing soon!
+Sentiment: Neutral

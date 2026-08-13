@@ -1,0 +1,15 @@
+Customer ID: 9845-PEEKO
+Topic: customer is dissatisfied with contract terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm very unhappy with my contract terms.  I just received a notice that my monthly rate is going up significantly.
+Agent: I understand your frustration, and I apologize for any confusion this may have caused. Can you please tell me more about the specific changes you're seeing in your bill? 
+Customer: My current plan is a two-year contract.  I'm paying $79.20 per month for Fiber optic internet and I've been using it for over five years. The rate increase is drastic!
+Agent: I can certainly look into this for you.  Could you please provide your account information so I can take a closer look? 
+Customer: [Account details provided]
+Agent: Thank you. Based on your long-term tenure and current plan, we do offer a slight adjustment in rates. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While it's good to see some changes are being made, I still feel dissatisfied with the abrupt rate increase after so many years of loyalty.
+Sentiment: Negative

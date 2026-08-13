@@ -1,0 +1,20 @@
+Customer ID: 5600-KTXFM
+Topic: customer wants to add another line
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I want to add another line to my account, please.
+Agent:  Of course! I can definitely help with that. Can you tell me a bit more about your desired plan and any other details on your existing service? 
+Customer: My current plan is Fiber Optic internet for $69.95/month, and I would like to add another line, using the same plan. 
+Agent:  I understand. Is this for yourself or someone else?
+Customer: For myself. 
+Agent: Alright.  Let me check on adding that new line to your account.  We just need a few details from you. Would you mind providing your name and current billing address?
+Customer: My name is John Smith, and my address is 123 Main Street, Anytown, USA.
+Agent: Thank you, John. I'm verifying everything now. We'll be able to add another line for you with your existing plan at $69.95/month!  Would you like to set up automatic payments if you'd prefer?
+Customer: Yes, please. 
+Agent: Done! Thank you for contacting us.  
+Thank you for contacting
+
+----------------------------------------
+Feedback: The process was quick and easy, thanks for the smooth addition of my new line!
+Sentiment: Positive

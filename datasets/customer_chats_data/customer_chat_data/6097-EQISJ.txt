@@ -1,0 +1,25 @@
+Customer ID: 6097-EQISJ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my upload speed. It seems to be significantly slower than expected. 
+
+Agent:  I understand your concern. Can you please provide your account details and location? 
+
+Customer: My account number is XXX-XXXX-XXXX and I live in [city, state]. 
+
+Agent: Thanks for providing the information. Let me check on your connection speed. 
+
+Customer: I'm really frustrated, it's taking a long time to upload files. 
+
+Agent:  I see that your upload speed is currently fluctuating between 5 and 7 Mbps. The average speed in your area is around 20 Mbps. 
+
+
+Agent: We are experiencing some network congestion at the moment. I'll update you on this issue and ensure it gets resolved quickly. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the information, it's still frustrating that my upload speed is so much slower than expected, even with reported congestion."
+Sentiment: Negative

@@ -1,0 +1,22 @@
+Customer ID: 7856-GANIL
+Topic: device unable to register on network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is not connecting to Wi-Fi at all today. I’ve tried restarting my router but it’s still not working. 
+Agent:  I understand your frustration, Mrs. [Last Name].  Let's try a few things to see if we can get this resolved.   
+
+Customer: Please tell me what to do next.
+Agent: Could you please tell me the device you are trying to connect and the error message you receive? 
+Customer: My laptop says it cannot register on the network.  The error code is [error code]. 
+Agent: Thank you for that information. I'm going to check your account details and see if there's a known issue with your service or device. 
+
+Customer: Thanks, I hope you can help me quickly.
+Agent: I am working on it now.  Please hold while I check your account.
+Customer: Ok.   
+Agent: I've reviewed your account and the issue appears to be related to your modem/router.  We can work through some troubleshooting steps together. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very patient and helpful, and I appreciate getting this resolved quickly!"
+Sentiment: Positive

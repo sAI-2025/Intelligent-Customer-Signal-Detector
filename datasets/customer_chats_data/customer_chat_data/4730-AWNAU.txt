@@ -1,0 +1,23 @@
+Customer ID: 4730-AWNAU
+Topic: unlimited data feature not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I am having issues with my unlimited data feature not working on my DSL connection. It's been a few days and it hasn't fixed itself. 
+
+Agent: Thank you for contacting us. Could you please provide your account number and the specific error message you are seeing?
+
+Customer:  My account number is 1234567890. I keep getting "Connection Error". 
+
+Agent: Okay, thank you. I'm checking on this now. Please hold while I locate more information about your account. 
+
+Customer: No problem 
+
+Agent: The issue appears to be related to a recent DSL modem firmware update. We have resolved the issue for all customers affected and your connection should be working properly in a few minutes.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was quickly resolved! Thank you for getting this sorted so efficiently."
+Sentiment: Positive

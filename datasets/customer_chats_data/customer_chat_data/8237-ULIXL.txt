@@ -1,0 +1,17 @@
+Customer ID: 8237-ULIXL
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My Wi-Fi signal is weak in certain rooms of my apartment. 
+Agent:  I understand your concern. Could you please tell me which rooms are experiencing the issue? 
+Customer: It's mainly the living room and bedroom.
+Agent: I see, thanks for that detail.  Could you try restarting your router or connecting to another device to see if it helps? 
+Customer: I tried restarting the router but nothing seems to work. 
+Agent: Okay, let me check our records to see if there's any ongoing service issue with your area. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, I still haven't been able to fix my weak Wi-Fi signal after trying a reboot."
+Sentiment: Neutral

@@ -1,0 +1,30 @@
+Customer ID: 6647-ZEDXT
+Topic: TV service unavailable despite active subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, my TV service is not working and I don't see a reason why it would be. 
+
+Agent:  I understand that your TV service is down. Can you please provide me with your account number?
+
+Customer: Sure, it's [account number]. 
+
+Agent: Thank you for providing your account information. Let me check on the status of your service and see if there are any outages in your area.
+
+Customer:  Thanks! I just want to know why this is happening. 
+
+Agent: Based on our records, we have a few customers reporting issues with their TV service due to maintenance today. We're working on resolving them as quickly as possible.
+ 
+Customer: Ok. When can I expect the service back?
+
+Agent:  We estimate your service will be back online within the hour. Our technicians are currently working to resolve this issue. 
+
+Customer:  Thanks!
+
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided clear updates throughout the issue. It's good to know TV service is expected back online soon.
+Sentiment: Positive

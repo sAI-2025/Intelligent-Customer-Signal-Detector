@@ -1,0 +1,19 @@
+Customer ID: 5003-XZWWO
+Topic: router or modem not responding
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is down and I can’t connect to anything.
+Agent: Hello there! Thank you for contacting us.  Can you please tell me your account number? 
+Customer: It's [Account Number].
+Agent: I see that you have a DSL connection with us. Can you describe what happened, when did this begin and have you tried restarting your modem/router?
+Customer: No, nothing seems to be working now.  Been down for about an hour and haven’t restarted anything yet. 
+Agent: I'll try to troubleshoot this for you. Would you mind if I check the service status for your area to see if there are any outages reported? 
+Customer: Sure, that would be great! 
+Agent: Okay, it looks like your modem is offline, let me escalate this and have a technician check on it.  I'll update you with the status of your case.
+Customer: Thanks, I appreciate that.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this issue sorted out quickly! Much appreciated."
+Sentiment: Positive

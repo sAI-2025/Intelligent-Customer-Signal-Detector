@@ -1,0 +1,17 @@
+Customer ID: 6702-OHFWR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having some trouble with my Wi-Fi signal. It’s very weak in the living room and bedroom. 
+Agent:  I understand you're experiencing a poor Wi-Fi connection. Can you tell me your account number please?
+Customer: Sure, it’s [account number]
+Agent:  Thank you. I'm looking into this for you now. Have you checked to see if your router is in range? 
+Customer: Yes, but nothing seems to help.
+Agent: Please check the signal strength on your device and let me know what you find. This will help me understand where the issue might be occurring. 
+Customer: My signal strength is very low in these specific rooms
+Agent:  I am looking into this now. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for your help, I appreciate you getting this looked into!
+Sentiment: Positive

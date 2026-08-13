@@ -1,0 +1,16 @@
+Customer ID: 9639-BUJXT
+Topic: service installation incomplete
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I haven't received my service installation yet. My account is [Account Number], and I've been waiting since last Friday.
+Agent: Thank you for contacting us, we understand this is an issue.  May I please have your full address for verification? 
+Customer: Yes, it's [Address]. I haven't received a call or email update about the installation yet. 
+Agent: I see that your installation is scheduled for tomorrow and there should be updates sent to you shortly. We apologize for any inconvenience this may cause. 
+Customer: Thank goodness!  I just wanted to make sure. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and I'm relieved that the installation is scheduled. 😊
+Sentiment: Positive

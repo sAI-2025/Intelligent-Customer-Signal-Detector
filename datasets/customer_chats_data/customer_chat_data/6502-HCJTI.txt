@@ -1,0 +1,19 @@
+Customer ID: 6502-HCJTI
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there!  I'm having trouble connecting to the internet constantly. It's been happening for about a week now.
+Agent: I understand your frustration. Let me gather some information to help resolve this. Could you please tell me your account number and what device(s) are experiencing disconnections? 
+Customer: My account number is 1234567890, it’s on my bill.  My laptop and phone are constantly disconnecting.
+Agent: Thank you! I have access to your account and found a few potential issues with your modem/router configuration. Would you like me to walk through some troubleshooting steps or would you prefer we schedule an appointment for technician assistance? 
+Customer:  Okay, can you tell me the steps to fix it?
+Agent:  Let me guide you through the process first.  Just a moment... 
+Customer:  Thank you so much! 
+Agent:  Here's what to do: unplug your modem/router from the power outlet for about 30 seconds, then plug it back in.  
+Customer:   That worked! Thank you so much! 
+Agent:  You’re welcome!
+
+----------------------------------------
+Feedback: Thank you for helping me resolve this internet issue! Your guidance was very helpful. 😊
+Sentiment: Positive

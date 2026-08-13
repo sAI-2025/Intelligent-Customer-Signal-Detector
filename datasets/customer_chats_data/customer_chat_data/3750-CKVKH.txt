@@ -1,0 +1,24 @@
+Customer ID: 3750-CKVKH
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble connecting to the internet.  The latency is really high and it's making my online gaming experience almost impossible.
+
+Agent: I understand your frustration, we'd like to help! Could you please provide your account information so we can look into this further? 
+
+Customer: Sure, my account number is [account number], and my name is John Smith. 
+
+Agent: Thank you for providing that information, John. I am checking the account details.  
+
+Customer: It has been working fine before, but this started about a week ago.   
+
+Agent: Alright, John. Let me investigate some potential issues with your connection. The last reported latency was [latency data].
+
+Customer: Okay, thank you for your time! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help getting this resolved.  It's nice to have stable internet again!"
+Sentiment: Positive

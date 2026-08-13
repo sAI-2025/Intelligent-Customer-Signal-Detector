@@ -1,0 +1,24 @@
+Customer ID: 4013-TLDHQ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been really slow lately.  I’m on the $78.25 plan and it’s frustrating. 
+
+Agent: I understand your frustration.  Can you please provide me with your account details?  
+
+Customer: Sure. My name is John Smith, my account number is XXXXXXXXXX-XXXXXXX.
+
+Agent: Thank you, John.  I'm looking into this now.  The speed test results look a little off. 
+
+Customer: That’s great to hear!
+
+Agent: Let me check with our engineers and I’ll be back in touch shortly.  
+
+Customer: Thanks! 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the quick response and resolution of my internet issue. 😊
+Sentiment: Positive

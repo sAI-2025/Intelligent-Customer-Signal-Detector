@@ -1,0 +1,17 @@
+Customer ID: 8631-NBHFZ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow today. It takes forever to load webpages and even watch videos.  Ping is constantly high.
+Agent: I understand your frustration, Mr./Ms. [last name]. We're sorry to hear about the issues you're experiencing. 
+Customer: This has been happening for a few days now.  Is there something going on with the line or service?
+Agent: Let me check our system and see what we can find.  Give me a moment.
+Customer: Please let me know if you need any more information from my end. 
+Agent: I'll call you back in about 5 minutes. 
+Customer: Ok, thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was polite, it would be helpful to have a clear update on the cause of the slow internet and timeline for resolution."
+Sentiment: Neutral

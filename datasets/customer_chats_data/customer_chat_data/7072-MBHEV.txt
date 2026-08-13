@@ -1,0 +1,28 @@
+Customer ID: 7072-MBHEV
+Topic: phone signal weak or unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I’m having trouble with my phone signal. It keeps cutting in and out. 
+
+Agent:  I understand your frustration, Ma'am.  Could you please tell me your account number or email address?
+
+Customer: Sure, it's  21475938. 
+
+Agent: Thank you for that information. I’m checking on your service history and network status. 
+
+Customer: Do you think there is a problem with the towers around here? My neighbors all have perfect signal. 
+ 
+Agent: Some areas may experience intermittent connectivity, especially during peak hours or due to weather conditions.  We are looking into it now.   
+
+Customer: Okay. Thanks for letting me know. 
+
+Agent: I’ll update you on any developments and let you know as soon as we have an update. 
+ 
+Customer: Okay, thanks.  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a pretty quick resolution, appreciate the prompt updates!
+Sentiment: Positive

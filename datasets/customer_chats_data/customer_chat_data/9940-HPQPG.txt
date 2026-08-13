@@ -1,0 +1,28 @@
+Customer ID: 9940-HPQPG
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm experiencing frequent internet disconnections lately.  My speed is also very slow.
+
+Agent: Hello! Thank you for reaching out to us. I understand that you're having some issues with your internet connection. 
+
+Customer: It seems to happen every hour or so.  I was really hoping to get the most out of my fiber optic plan, but it just feels unreliable.
+
+Agent: Let me gather some information about your account. What is your full name and address please?
+
+Customer: John Smith, 123 Main Street, Anytown, USA
+
+Agent: Thank you for that, Mr. Smith.  I see your account is currently on a month-to-month contract. Could you tell me what devices you're using? 
+
+Customer: I mainly use my laptop and desktop PC for work and browsing.
+
+Agent: Okay, Mr. Smith. I'll get started looking into this right away.
+
+Customer: Thanks.  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful in getting information, it still feels like my internet connection hasn't been reliable and consistent despite paying for fiber optic speeds."
+Sentiment: Negative

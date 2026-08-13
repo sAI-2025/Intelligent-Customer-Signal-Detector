@@ -1,0 +1,17 @@
+Customer ID: 3744-ZRRDZ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having constant internet outages today.  It's been happening since morning. 
+Agent:  I understand your frustration. What is your account number and the address where you are experiencing the disconnections?
+Customer: My account number is 12345678. The problem started around 9am this morning at my apartment, 12B Meadow Lane.
+Agent: Thank you for providing that information. Let me check on your service status.
+Customer:  Appreciate it. I've been paying for a reliable fiber optic internet connection. It was working fine last week.
+Agent: I'm looking into the issue now and will have an update shortly. 
+Customer: Okay, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: It would be helpful to receive updates on the progress of resolving this issue sooner rather than later, as internet outages are disruptive.
+Sentiment: Neutral

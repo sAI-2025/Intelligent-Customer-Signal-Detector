@@ -1,0 +1,17 @@
+Customer ID: 3716-BDVDB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just wanted to report frequent internet disconnections lately. 
+Agent:  I understand your concern, we're sorry for the inconvenience. Can you please provide your account information so I can take a look?
+Customer: Sure, my name is John, and my account number is 1234567890.
+Agent: Thank you, John.  Let me check your Fiber connection status. 
+Customer: It's been happening a lot since I started using the internet again after upgrading to a new modem.  
+Agent:  I see there are some reports of similar issues in your area. We are working with our technicians to resolve it right away. 
+Customer:  Thank you for checking into this.   
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and quick to address the issue, thanks!
+Sentiment: Positive

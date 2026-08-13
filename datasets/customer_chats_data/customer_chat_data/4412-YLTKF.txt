@@ -1,0 +1,17 @@
+Customer ID: 4412-YLTKF
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! My download speed is much slower than my plan allows. I’m on a month-to-month contract and paying $78.05 per month for fiber optic internet. 
+Agent:  Hello there! I'd be happy to help troubleshoot your download speeds. Could you please provide your account information so I can take a look?
+Customer: My name is [name] and my account number is [account number]. 
+Agent: Thank you, [name]. I see your contract details. Let me check on the current speed test results for your service area.  We may have some temporary issues impacting speeds at this time. 
+Customer: Ok.  I hope there's a fix soon.
+Agent: I'll do my best to address the issue. There's a possibility that you might need to restart your modem or router as well, and let me know if that works!
+Customer: Thanks for your help, Agent. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, it seems like the issue is temporary."
+Sentiment: Neutral

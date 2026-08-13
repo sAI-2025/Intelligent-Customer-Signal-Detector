@@ -1,0 +1,17 @@
+Customer ID: 1891-UAWWU
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet is really slow this evening. It's just not working as it should. 
+Agent: Hello! I understand your concern about the network speed.  Can you please provide me with your account information and the specific time when the issue started?
+Customer: Sure, my name is George. My account number is 1234567890. It's slow since around 5pm today. 
+Agent: Thank you, George! I see that you have a Fiber Optic internet connection and your contract is month-to-month. Can you tell me what device you are using to access the internet? 
+Customer: My laptop.  
+Agent: Ok, George. I'm looking into this for you now. It could be a temporary network congestion during peak hours.   
+Customer: Thank you, I appreciate it! 
+Agent: We understand that slow speeds can be frustrating. Let me know if there are any other details you need to share.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this, the speed issue seems to have resolved itself now. 😊
+Sentiment: Positive

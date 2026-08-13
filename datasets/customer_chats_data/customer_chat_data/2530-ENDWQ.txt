@@ -1,0 +1,21 @@
+Customer ID: 2530-ENDWQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can’t connect to the internet at all. It’s been down since this morning. 
+Agent:  I understand there's an issue with your internet connection. May I have your account details?
+Customer: Sure. My account number is 1234567890 and my name is John Smith.
+Agent: Thank you, Mr. Smith.  Let me check on the status of your service. 
+Customer:  Is there a problem with the fiber optic lines? The internet was working fine until this morning.
+Agent: We are currently investigating the outage in your area.  We will update you as soon as we have more information. 
+Customer:  Thanks, I appreciate that. 
+Agent: Thank you for contacting us. 
+
+
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It would be helpful if there was a clearer timeframe on when the service might be back up.
+Sentiment: Neutral

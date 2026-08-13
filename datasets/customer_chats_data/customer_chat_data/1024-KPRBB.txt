@@ -1,0 +1,16 @@
+Customer ID: 1024-KPRBB
+Topic: referral discount not applied
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm calling about my recent referral discount. It wasn't applied to my bill and I was expecting it. 
+Agent: Hello! Thank you for reaching out. Can you please provide your account information so we can look into this for you?
+Customer: Sure, my name is [customer name] and my account number is [account number]. 
+Agent: I see the account.  It looks like the referral discount was not applied because you haven't been a subscriber on a contract plan for a full year yet. 
+Customer: Oh, that makes sense. Thanks! 
+Agent: You are welcome! Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the clarification, I appreciate the help getting this resolved! 😊
+Sentiment: Positive

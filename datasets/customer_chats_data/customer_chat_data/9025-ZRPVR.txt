@@ -1,0 +1,18 @@
+Customer ID: 9025-ZRPVR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Hello!  I understand your living room has a weak Wi-Fi signal.  Can you tell me what kind of device you are using? 
+Customer: It’s a laptop and my phone works fine.  
+Agent: Thank you, I'd like to check if there are any known issues with our service in your area. 
+Customer: Okay.  
+Agent: Let me double-check the details on your account, one moment please.
+Customer: Alright.
+Agent: All right, based on the information I have, it seems that a few of our customers in your building are experiencing similar issues. 
+Agent: We're working to resolve this as soon as possible.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and appreciated! Thanks for getting me an update on the issue.
+Sentiment: Positive

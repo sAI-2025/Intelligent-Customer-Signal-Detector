@@ -1,0 +1,18 @@
+Customer ID: 2476-YGEFM
+Topic: device compatibility problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting my new gaming PC to my router. 
+Agent:  Hello! What device are you trying to connect? And what error message are you getting?
+Customer: I just installed the newest router and it isn't working with my PC. 
+Agent: I understand, let me ask some questions about your setup for a quick troubleshooting session.  What modem and router model do you have?
+Customer: It's a Netgear Nighthawk RAX40 with fiber-optic internet. 
+Agent:  Thanks! Can you check if your PC is connected to the correct Wi-Fi network as well? 
+Customer: Yes, I can confirm my PC is on the correct Wi-Fi network.
+Agent: Alright, let me send some troubleshooting instructions over to you and see if that helps.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for your help!  The issues were quickly resolved and I'm finally able to game.
+Sentiment: Positive

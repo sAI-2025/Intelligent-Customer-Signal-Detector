@@ -1,0 +1,25 @@
+Customer ID: 1465-VINDH
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speed. It's significantly slower than what I pay for each month. 
+
+Agent:  I understand your frustration.  Can you please confirm your plan and current address?
+
+Customer: Yes, it is a basic Fiber optic plan for $102.1 per month. My address is [address]. 
+
+Agent: Thank you.  Let me run some diagnostics to check speeds at your location. 
+
+Customer: Okay, thanks. 
+
+Agent: I've reviewed the speed test results and there are no outages reported in your area. 
+
+Customer: Still not great! 
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, the download speeds still seem much slower than what I am paying for.
+Sentiment: Negative

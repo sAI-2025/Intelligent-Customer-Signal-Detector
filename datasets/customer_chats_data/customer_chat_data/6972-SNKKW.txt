@@ -1,0 +1,15 @@
+Customer ID: 6972-SNKKW
+Topic: customer unhappy with service reliability
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having a lot of trouble connecting to your service lately. 
+Agent:  I understand you're experiencing connectivity issues. Can you please provide me with your account details so I can take a closer look? 
+Customer: Sure, my name is John Smith and my account number is 1234567890. 
+Agent: Thank you for the information, Mr. Smith. I'm looking into it now.  
+Customer: Well, this has been going on for a while now and it's very frustrating. 
+Agent:  I apologize for any inconvenience this may be causing. We are committed to providing reliable service, and we appreciate your patience as we work on resolving this issue. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the update and commitment to resolution, the ongoing connectivity issues have been extremely disruptive."
+Sentiment: Negative

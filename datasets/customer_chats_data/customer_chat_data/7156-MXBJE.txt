@@ -1,0 +1,17 @@
+Customer ID: 7156-MXBJE
+Topic: customer reports poor overall service experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm calling about my internet service.  It's been very slow lately and unreliable, especially during peak hours. 
+Agent: Hello! Thank you for reaching out to us. We understand your frustration with the performance of your service. 
+Customer: Yeah, I’ve had a terrible experience overall. My speed has gone down significantly over the last few months.  
+Agent: To help me investigate further, could you please provide me with your account number and the exact timeframes when the issues occurred?
+Customer: Sure. Account Number is [Account Number].  Slow internet connection started around 2 weeks ago during work hours on a daily basis. 
+Agent: Thank you for providing that information. I’ll look into it right away, and will keep you updated on our findings. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the prompt response and hope this issue gets resolved quickly."
+Sentiment: Positive

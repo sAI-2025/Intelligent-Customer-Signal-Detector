@@ -1,0 +1,24 @@
+Customer ID: 3258-SYSWS
+Topic: customer questions unlimited data pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble understanding my data plan.  Can you please explain what unlimited data means?
+
+Agent: Hi there! I'd be happy to clarify your data plan.  Unlimited data typically means you can use as much internet as you want without incurring additional fees. 
+
+Customer: But how much does that cost? My monthly payment is $113.8, and I don't know if unlimited data would change that.
+
+Agent: The monthly cost will likely remain the same with unlimited data.  Do you have a particular plan in mind or have any other questions about your current package?
+
+Customer: Just wondering...is there anything else I can do to lower my bill? 
+
+Agent: Let me check on some options for you.  Just hold while I look into that.
+
+Customer: Thanks!
+
+Agent: No problem! You're welcome. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and patient, answering all my questions thoroughly and clearly.  I appreciate their assistance with understanding my plan better.
+Sentiment: Positive

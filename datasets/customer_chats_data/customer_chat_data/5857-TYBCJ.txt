@@ -1,0 +1,27 @@
+Customer ID: 5857-TYBCJ
+Topic: modem or router unable to establish connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet isn't working at all, I can't connect to the internet. 
+
+Agent: I understand that you are experiencing a connectivity issue with your Fiber optic internet.  Please tell me your account name and your service address. 
+
+Customer: John Miller, 123 Main Street 
+ 
+Agent: Thank you for providing those details, Mr. Miller. We'll be looking into the cause of your internet outage now. 
+
+Customer:  Can you give me an estimated time of when it might be fixed?
+
+Agent: The technician should be able to diagnose and resolve this issue within the next hour or so. We'll keep you updated as we make progress. 
+ 
+Customer: Okay, thank you for your help. I really hope it's resolved soon!  
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Great, thanks for the prompt update and I appreciate your team getting this sorted out so quickly!
+Sentiment: Positive

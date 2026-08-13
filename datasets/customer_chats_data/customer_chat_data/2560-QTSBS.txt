@@ -1,0 +1,21 @@
+Customer ID: 2560-QTSBS
+Topic: customer wants to change contract type
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'd like to change my contract type. 
+Agent:  I understand! What would you like to switch to?
+Customer:  To a different data plan with No internet service. 
+Agent: Okay, and your current data plan is the one for No Internet at $23.30 per month for 72 months. 
+Customer:  What about the plans that offer No internet but lower cost?
+Agent: We do have some plans offering a similar value with a lower monthly charge. Would you like me to provide some options based on your current usage? 
+Customer:  Yes please.
+Agent:  Okay, here are a few options. Which would be best for you?
+Customer:  I'd like the one that offers the lowest cost but still has good coverage. 
+Agent:  Here’s the one with the lowest monthly charge at $10 per month; it provides similar coverage to your current plan. 
+Customer: This sounds great!   Thank you, I would like to switch.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided clear options, making the change process smooth and easy.
+Sentiment: Positive

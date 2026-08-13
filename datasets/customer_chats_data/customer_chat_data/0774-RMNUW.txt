@@ -1,0 +1,16 @@
+Customer ID: 0774-RMNUW
+Topic: customer cannot find required account option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I can't seem to find my account information on your website. I need to update some details. 
+Agent:  I understand. To help me assist you, could you please tell me what type of account information you are looking for?
+Customer:  My billing and payment history. 
+Agent:  Of course. Please provide your full name and the email address associated with your account, and I'll be able to pull up that information for you. 
+Customer:  [Full Name]  at [Email Address]. 
+Agent: Your billing history will be available for download from here. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful solution!  I appreciate the prompt response to my request.
+Sentiment: Positive

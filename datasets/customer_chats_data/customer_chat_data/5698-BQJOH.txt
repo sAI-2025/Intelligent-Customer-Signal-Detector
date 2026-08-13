@@ -1,0 +1,23 @@
+Customer ID: 5698-BQJOH
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet at all. It just says "No Internet" on my computer. 
+
+Agent: Thank you for contacting us. Can you please provide your account information so we can troubleshoot this further?  
+
+Customer: Sure, my name is John Smith and my account number is 123456789.
+
+Agent: I have confirmed the account details, John.  I see that your service is currently down in our system. We are currently working on restoring connectivity for you. 
+
+Customer: Is there an estimated time of resolution? 
+
+Agent: We apologize for the inconvenience. Our technicians are actively working to resolve this issue and we anticipate a resolution within the next hour or two.  
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate your prompt response."
+Sentiment: Positive

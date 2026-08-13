@@ -1,0 +1,17 @@
+Customer ID: 8184-WMOFI
+Topic: customer dissatisfied with support experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just wanted to express my frustration with the recent service outages I've been experiencing. 
+Agent: Hello! Thank you for reaching out.  I apologize for the inconvenience caused by the service outages.  Can you please tell me your account number? 
+Customer: Here it is. It’s 1234567890.
+Agent: I see, and based on your service history, this seems to be related to a recent DSL network repair.
+Customer: Yeah, that's exactly what makes this frustrating.  I had no idea about the repairs until now. 
+Agent: We’re always trying to keep our customers updated on planned maintenance. I can see if there are any specific actions we can take to improve your experience. 
+Customer: Well, I hope so. It's been a real hassle dealing with this for over a week now.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the effort to address my concerns, it would be helpful if future communication about planned maintenance were more proactive and transparent."
+Sentiment: Neutral

@@ -1,0 +1,18 @@
+Customer ID: 1850-AKQEP
+Topic: secondary device cannot connect
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my secondary device to my internet plan. 
+Agent: Hello!  I understand you're experiencing an issue with your secondary device connection.  What type of device and what is the error message saying?
+Customer: It's a laptop, and it says "Network Connection Failed." 
+Agent: Okay, can you provide me with your account information like your name or subscriber ID? 
+Customer: John Smith, my account number is XXX-XXXXXXX.
+Agent: Thank you, John.  I'm looking into this now.  Just give us a few minutes and we will get it sorted out for you.
+Customer: Okay, thanks!
+Agent: You're welcome!  Please let me know if there's anything else I can assist with. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick resolution! Hopefully this connection issue stays fixed."
+Sentiment: Positive

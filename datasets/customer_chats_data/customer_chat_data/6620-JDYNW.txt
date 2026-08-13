@@ -1,0 +1,15 @@
+Customer ID: 6620-JDYNW
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello! I'm having some issues with my internet connection. It keeps dropping out frequently. 
+Agent:  I understand, and I'm sorry to hear about the disconnections.  Could you please tell me what type of device you are using and your modem/router model?
+Customer: I'm using a laptop and my modem is a Netgear DGND1000v3. 
+Agent: Okay, thank you. Let's see if we can troubleshoot this issue.  I have you in queue for a technical specialist to review the connection logs.   
+Customer: Great, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and I appreciate their prompt response.
+Sentiment: Positive

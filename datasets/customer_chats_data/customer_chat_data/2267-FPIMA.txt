@@ -1,0 +1,17 @@
+Customer ID: 2267-FPIMA
+Topic: customer questions unexpected data consumption
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! I just noticed my data usage is much higher than usual this month. Is there something going on?
+Agent:  I'd be happy to help investigate that, please provide your account number and email address so we can look into it further. 
+Customer: Sure, here it is. Thanks. My account number is 1234567890 and my email is john.smith@email.com
+Agent:  Thank you, John. Let me check your data usage history. It looks like you've had some unexpected spikes this month due to streaming videos and heavy downloads.  
+Customer: Oh right, I was watching a lot of TV shows. Is there anything we can do about it? 
+Agent: We can definitely adjust your plan if you want! Let me see what options are available for you with our fiber optic internet and monthly contract. 
+Customer: Great. Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks, the agent was helpful in explaining the data usage issue and found a good solution!"
+Sentiment: Positive

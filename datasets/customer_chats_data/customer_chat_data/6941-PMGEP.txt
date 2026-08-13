@@ -1,0 +1,17 @@
+Customer ID: 6941-PMGEP
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet at all. Everything is completely down. 
+Agent:  I understand your concern, I apologize for the inconvenience.  May I have your account number please?
+Customer: Sure, it’s [account number]
+Agent: Let me check on that right now.  My apologies again! 
+Customer: Thank you
+Agent: We've detected an issue with your service connection, a technician is currently dispatched to your location. We will keep you updated on the estimated time of resolution. 
+Customer: Okay, thank you for letting me know.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the prompt response and update!  I hope they can get it fixed quickly.
+Sentiment: Positive

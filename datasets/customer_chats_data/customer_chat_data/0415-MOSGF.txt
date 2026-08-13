@@ -1,0 +1,18 @@
+Customer ID: 0415-MOSGF
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet connection has been really slow and unstable lately. 
+Agent:  Hello! I understand your frustration with the slow connection speeds. Could you please tell me your full name and account number so I can pull up your details? 
+Customer: Sure, my name is John Smith and my account number is 123456789.
+Agent: Thank you, John.  I see that you're on a month-to-month plan with DSL internet service for $44.40 per month. Are you experiencing this issue specifically during certain times of the day or after using specific apps? 
+Customer: Mostly in the evenings when I use Netflix and YouTube streaming, and also my work emails are slow to load.  
+Agent: I apologize for the inconvenience, John. Let's see what we can do. I will check your connection speed and see if there's any congestion on our network that might be affecting you.
+Customer: Thanks. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and professional, and I appreciate them taking the time to investigate the issue.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 0761-AETCS
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is incredibly slow today, I'm paying $19.3 per month and my internet plan was supposed to be 50 mbps. Is this normal?
+Agent: Thank you for contacting us! I can definitely help with that.  To troubleshoot your issue, could you please provide me with your account information or the service address where you're experiencing slow speeds?
+Customer: My account number is XXX-XXXX and my city is San Francisco. 
+Agent: I understand. Let me check on this for you. 
+Customer: Thank you so much!
+Agent: You're welcome!  I see that there might be an ongoing maintenance issue in your area. We will get your download speeds back to normal as soon as we can.
+Customer: Okay, thank you!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the update on the slow speeds - thanks for keeping me informed!"
+Sentiment: Positive

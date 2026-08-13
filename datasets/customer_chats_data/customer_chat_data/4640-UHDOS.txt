@@ -1,0 +1,22 @@
+Customer ID: 4640-UHDOS
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than I expected. It's barely 1Mbps.  My contract says it should be around 5Mbps. 
+
+Agent: Hello! Thank you for contacting us. We understand that slow speeds can be frustrating. Can you please provide your account number and the specific location where you experience these issues?
+
+Customer: My account number is 1234567890. The issue is mostly at the house in [City, State].  I've been a customer for 13 months with consistent payment every month.
+
+Agent: I apologize for the inconvenience. We'd be happy to look into this further.  Could you please try restarting your modem and router? It often resolves temporary connectivity issues.
+
+Customer: Tried that; no change. My DSL is usually okay, but today it feels like a snail's pace.
+
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This issue seems to persist despite my attempts to troubleshoot. I hope this can be resolved quickly as promised speeds are essential for work.
+Sentiment: Negative

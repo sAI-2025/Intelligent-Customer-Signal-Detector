@@ -1,0 +1,17 @@
+Customer ID: 1810-MVMAI
+Topic: customer cannot access included music service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can’t access my music streaming service. It says “Unable to connect” on both my phone and computer. 
+Agent:  I understand your frustration, I'm sorry for the inconvenience. Can you please provide your account name or email address so I can check on your subscription?
+Customer: My account name is [account name].  My email is [email]   
+Agent: Thank you for providing that information. I see your DSL internet connection is working, but there may be a temporary service issue with the music streaming platform. 
+Customer: Okay, well it’s been working fine before.
+Agent: We have some reports of similar issues, and we're investigating at the moment.  I will update you once we know more about the situation.   
+Customer: Thanks for letting me know 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated on the issue.  Hopefully a fix is coming soon."
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 6010-DDPPW
+Topic: movie application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I am having trouble accessing the movie app. It keeps crashing.
+Agent: I understand your frustration.  I can help troubleshoot this issue. 
+Customer:  My internet is fine - it's a constant crash.  Can you help with the application?
+Agent: Please try restarting your device and check if that resolves the problem. If not, we will need to look into further support.
+Customer: Tried restarting. No change. Still crashing. 
+Agent: Thank you for providing this information. I'm looking into the issue now. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Still haven't been able to access the app after multiple restarts.  Hoping for a quicker resolution."
+Sentiment: Negative

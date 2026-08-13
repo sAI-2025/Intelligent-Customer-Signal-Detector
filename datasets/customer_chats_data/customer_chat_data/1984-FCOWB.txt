@@ -1,0 +1,18 @@
+Customer ID: 1984-FCOWB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I've been experiencing frequent internet disconnections lately. 
+Agent:  I understand your frustration, John. Let me check your account details to see what's going on.
+Customer: Thanks. My account is under a one-year contract and I'm paying $109.5 per month for Fiber optic internet.
+Agent: Okay, John, based on your account history, it appears you haven't experienced any major outages, but we do need to review your router settings.  
+Customer: My router is brand new, the last one was faulty and I replaced it about a year ago. 
+Agent:  Well then, let me initiate a remote support session to check your system configuration. 
+Customer: Great! Thank you.
+Agent: No problem at all, John. We'll get that sorted out for you soon. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and resolved the issue quickly, thanks to their willingness to explore solutions beyond just basic troubleshooting.
+Sentiment: Positive

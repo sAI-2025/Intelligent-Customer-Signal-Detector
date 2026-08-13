@@ -1,0 +1,17 @@
+Customer ID: 0268-QKIWO
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some pretty bad latency issues when using your service. It's like lag spikes every few minutes. 
+Agent:  I understand you're experiencing high latency. Can you tell me a little more about what device and connection you're using? 
+Customer: Laptop running Windows 10, wired ethernet connection, usually get around 25-30 mbps download speed. 
+Agent: Thanks for the details.  Could you give me your account name or email address so I can check on the service on your end? 
+Customer: My account is "JohnSmith4" 
+Agent: Thank you, JohnSmith4. We'll investigate this further.   
+Customer: Okay, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a good start and hopefully will get things resolved quickly. Thanks for your help!
+Sentiment: Positive

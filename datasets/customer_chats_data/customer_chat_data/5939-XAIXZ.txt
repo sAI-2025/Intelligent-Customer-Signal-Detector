@@ -1,0 +1,17 @@
+Customer ID: 5939-XAIXZ
+Topic: movie playback fails on specific devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble playing my movies on my Roku TV. It keeps saying 'connection error'.
+Agent:  I'm sorry to hear that your movie playback isn't working as expected. Could you tell me what specific device and error message you are seeing? 
+Customer: It's a Roku Ultra. The error message is "Network Error - No Internet Connection"
+Agent: Okay, thank you. I see your DSL connection is running strong.  Are you having trouble connecting to the internet at all or just with the movie playback?
+Customer: Just with the movies. 
+Agent: Can you try restarting both your Roku TV and your modem/router? Sometimes a simple restart can fix these issues. 
+Customer: Okay, I'll do that.  
+Agent: No problem, let me know if you have any other questions or issues after restarting. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The issue was resolved easily and quickly! Thanks for the help.
+Sentiment: Positive

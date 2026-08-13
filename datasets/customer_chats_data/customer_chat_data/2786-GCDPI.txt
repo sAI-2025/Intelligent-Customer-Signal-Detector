@@ -1,0 +1,26 @@
+Customer ID: 2786-GCDPI
+Topic: customer dissatisfied with movie selection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My movie selection is terrible! I can’t find any of my favorites. Is there a way to change it? 
+
+Agent:  Hello! We'd be happy to help you with that. Could you tell me your preferred genres and what you're looking for?
+
+Customer:  I like classics, musicals, and comedies from the '50s and '60s. Also, maybe some old cartoons. 
+
+Agent: I understand! Many of our classic movies are available on our Classic Movies & TV channel. Would you like me to show you what’s currently included? 
+
+Customer:  Yes, please. Thanks so much.
+
+Agent:   I've reviewed your selection and found a few options based on your preferences. Would you like me to proceed with recommendations?
+ 
+Customer:  Wonderful! Thank you very much.
+
+Agent:  Of course! I can see some titles for you that should be right up your alley. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: **"Much better, thanks for the helpful suggestions!"**
+Sentiment: Positive

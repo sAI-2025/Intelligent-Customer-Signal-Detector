@@ -1,0 +1,16 @@
+Customer ID: 5482-NUPNA
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I can't seem to get any internet connection at all. 
+Agent:  I understand, we're experiencing a widespread outage in your area. Can you please provide your account information?
+Customer: My name is John Smith and my account number is 1234567890.
+Agent: Thank you, Mr. Smith. I see your account has an active month-to-month contract with DSL service and we're investigating the issue.
+Customer: That's great!  Just let me know when I can expect my internet back online.
+Agent: We will update you on our progress as soon as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the outage, it would be nice to have an estimated time of return!
+Sentiment: Neutral

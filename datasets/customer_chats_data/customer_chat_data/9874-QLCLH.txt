@@ -1,0 +1,18 @@
+Customer ID: 9874-QLCLH
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! I just wanted to report some really high ping/latency issues while gaming online. It's been super frustrating lately.
+Agent:  I understand your frustration with the lag you've been experiencing. I'm happy to help troubleshoot this for you. 
+Customer:  Sure, thanks! I was hoping to connect with my friends on Discord and it just isn't working properly.
+Agent: To better assist you, could you please provide me with your account information? 
+Customer:  Here it is: [account details]
+Agent: Thank you for providing that information. I can take a look into the issue.
+Agent:  Based on your usage history and fiber optic connection plan, we may need to run some diagnostics. 
+Customer:  Sounds good! Thanks again for your help. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the help in troubleshooting my ping issues.  Hopefully these diagnostics will resolve the problem and allow me to play with my friends."
+Sentiment: Positive

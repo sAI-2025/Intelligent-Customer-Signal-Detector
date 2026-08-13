@@ -1,0 +1,17 @@
+Customer ID: 8627-EHGIP
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't get online at all. My internet is completely down.
+Agent:  I understand your concern. Let's try to troubleshoot this together. Please confirm your account details for faster assistance. 
+Customer: Sure, my name is John Smith, and my account number is 1234567890. I also have a DSL connection.
+Agent: Thank you, John. I can see that your internet service has been down for some time. We're currently experiencing technical difficulties with our DSL lines.  
+Customer: Oh no! My work project deadline is tomorrow! What can I do? 
+Agent:  I understand this is a critical situation for you. We are working on resolving the issue as quickly as possible and will keep you updated. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the update, it's still frustrating to be without internet access for so long."
+Sentiment: Negative

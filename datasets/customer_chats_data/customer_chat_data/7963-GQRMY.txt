@@ -1,0 +1,24 @@
+Customer ID: 7963-GQRMY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having trouble with my upload speeds. It's significantly slower than what I expected for my plan. 
+
+Agent:  I understand, we can definitely look into this for you. Can you please tell me your account details and the specific upload speed issue you're facing?
+
+Customer: My username is JohnSmith1234, and it seems like my uploads are averaging around 5Mbps when I usually get 10-15Mbps. 
+
+Agent: Thank you for providing those details, JohnSmith1234.  Let me check your DSL modem settings and see if there's anything we can adjust. 
+
+Customer: Thanks!  
+ 
+Agent: There are some issues with the DSL connection. I am going to connect you to a technician who will be able to resolve this for you today. 
+
+Customer: Awesome, thanks!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The issue was resolved quickly and efficiently, appreciate the help!"
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 5196-SGOAK
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble staying connected to the internet today. 
+Agent:  I understand your frustration. Can you please provide me with your account information? 
+Customer: Sure, my name is Michael Smith and my account number is 1234567890. 
+Agent: Thank you, Michael. I'm looking into the disconnections you are experiencing.  
+Customer: It happens every few minutes. 
+Agent: Let me check our logs for any recent outages.  
+Customer: That would be great!
+Agent: There doesn't appear to be an outage reported in your area, but we can look into possible network congestion that might be causing the issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick response and investigation. Hopefully, this resolves the internet issues soon!
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 6712-OAWRH
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't seem to get online at all. My internet is completely down. 
+
+Agent:  I understand your frustration! Let me check on your service status. What's your account email address?
+
+Customer: It’s [account_email]
+
+Agent: Thank you. I see your Fiber connection hasn't been working for some time now. Could you please tell me the last time you checked your internet connection and if there were any unusual activity or changes made recently to your router settings? 
+ 
+Customer:  I was just on it yesterday evening, everything seemed fine then.
+
+Agent: Okay, I’m going to initiate a troubleshooting process for your account now. We'll check the network for outages in your area and see if that helps.  We should have an update within the next hour or so.  
+ 
+Customer: Great! Thanks for your help.
+
+Agent: You're very welcome, I hope you can get back online soon. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response and troubleshooting! Fingers crossed for a speedy fix."
+Sentiment: Positive

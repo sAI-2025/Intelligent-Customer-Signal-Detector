@@ -1,0 +1,21 @@
+Customer ID: 4367-NHWMM
+Topic: customer wants to upgrade TV package
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I want to upgrade my TV package. 
+Agent:  I understand.  Can you tell me which plan you're interested in?  What is your current package?
+Customer: My current plan is the $24.9/month option with basic channels. 
+Agent: Okay, great!  That should be easy to upgrade to a higher tier package. What are you looking for exactly?
+Customer: I want more premium channels, maybe something similar to HBO Max or Showtime.  
+Agent: We have a few options that might fit your preference. Would you like me to list them out for you? 
+Customer: Yeah, please. 
+Agent: Sure! We offer a package with HBO Max, Showtime and other premium channels. The price is $54.99/month. 
+Customer: Hmmm.  That's a bit steep.
+Agent: I understand. There are several other options you could consider.
+Customer: Ok, thanks for your help!
+Agent: No problem at all. We will get this sorted out for you today. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While the agent was helpful in providing information, I'm still hesitant about the high cost for my desired upgrade.
+Sentiment: Negative

@@ -1,0 +1,24 @@
+Customer ID: 8659-IOOPU
+Topic: TV service unavailable despite active subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My TV service is down, and I can't connect to my streaming apps. It's been happening all day. 
+
+Agent:  I understand your frustration.  Can you please provide me with your account number or the name on the account?
+
+Customer:  My account number is X-XXXX-1234.  I signed up for this two years ago and paid $100.45 a month. 
+
+Agent: Thank you, I'm looking into it now. We have records of your active subscription and Fiber optic internet connection. 
+
+Customer: Great! 
+
+Agent:  We are experiencing some network issues in your area at the moment. It is expected to be resolved within the hour.  
+
+Customer:  Okay. 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and kept me informed throughout the process. Hopefully the issue will be resolved soon!"
+Sentiment: Positive

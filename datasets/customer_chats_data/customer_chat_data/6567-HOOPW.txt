@@ -1,0 +1,26 @@
+Customer ID: 6567-HOOPW
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. My connection keeps dropping out frequently. 
+
+Agent:  I understand your frustration with the frequent disconnections.  Let me take a look into that for you. Can you please provide your account details and the device you are using?
+
+
+Customer: Sure. Here is my account number - [account number]. And I'm using my laptop, running Windows 10.
+
+Agent: Thank you, [account number]....  I have reviewed your service and it seems that there might be a temporary network issue on our end. We are working to resolve it as soon as possible, but in the meantime, here are some troubleshooting steps you can try:
+
+
+Customer: I'll give these a try...
+
+Agent:  You're welcome! Please let us know if the problem persists after trying these suggestions. 
+
+Customer: Alright. Thank you for your help. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into it, the intermittent connection seems to be resolved now! 😊
+Sentiment: Positive

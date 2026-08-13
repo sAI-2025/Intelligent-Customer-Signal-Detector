@@ -1,0 +1,17 @@
+Customer ID: 5960-WPXQM
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet is weak in certain rooms of my house. Is this a common issue? 
+Agent: I understand your concern.  Could you please tell me the specific location(s) and the devices you're using?
+Customer: Living room and bedroom, just on my laptop mostly 
+Agent: Let me check our records to see if there are any outages or issues in that area. 
+Customer: Okay! Thanks 
+Agent:  I found a few users have reported similar issue, it looks like the signal is getting weaker in your specific location due to some building material interference. 
+Customer: Ok, thanks for letting me know! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for explaining the cause and providing a solution!  It's helpful to have that information."
+Sentiment: Positive

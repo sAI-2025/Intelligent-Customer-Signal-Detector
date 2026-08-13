@@ -1,0 +1,29 @@
+Customer ID: 0195-IESCP
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! My upload speed is significantly slower than expected. I’m paying $85.25 per month and have Fiber optic internet. 
+
+Agent: Thank you for contacting us, what's your account name? 
+
+Customer:  It's (account name) 
+
+Agent: I see the account details, let me check on the upload speed.
+
+Customer: My speeds are around 10 Mbps when it should be at least 25Mbps.
+
+Agent: It seems like there might be a temporary issue with your connection. I can run some diagnostics to check for any technical problems and troubleshoot accordingly.
+
+
+Customer: Alright, thanks! 
+
+Agent:  I'm investigating the cause of the slow upload speed now. We’ll have an update shortly. 
+
+Customer: Thanks again 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful to hear I'm on a list for updates, hopefully it gets resolved quickly.
+Sentiment: Neutral

@@ -1,0 +1,24 @@
+Customer ID: 6711-FLDFB
+Topic: customer questions unexpected data consumption
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I have a question about my data usage this month. It seems unusually high! 
+
+Agent:  Hi there! I understand you're concerned about your data usage. What is the specific amount of data that you are seeing?
+
+Customer: Well, I only use a bit for streaming and emails - usually around 5-7 gigabytes per week. This month it’s close to 30 gigabytes!  
+
+Agent: I can definitely check on that for you. Let me take a look at your account details. 
+
+Customer: Thanks so much. 
+
+Agent: Okay, there was an update to your Fiber plan this month which increased the speed by 20%. This will increase your data allowance slightly. 
+ 
+Customer: Hmm, I wasn’t even aware of that.  Thanks for letting me know!   
+
+Agent: You're welcome. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful! Thanks for explaining the change in my plan. 😊
+Sentiment: Positive

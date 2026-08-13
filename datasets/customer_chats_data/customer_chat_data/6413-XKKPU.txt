@@ -1,0 +1,23 @@
+Customer ID: 6413-XKKPU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can’t get online at all.  My internet is completely down. 
+
+Agent: Hello!  I understand you're experiencing a connectivity issue and are unable to access the internet. 
+
+Customer: It’s been happening for the last hour or so. My speed test shows no connection.
+
+Agent: I apologize for this inconvenience, I see your account details here. Could you please check if there have been any recent changes?
+ 
+Customer:  No, everything seems normal on my end. Just the internet itself is down. 
+
+Agent:  Thank you for providing that information. Let me check with our network team to see what's causing this issue.   
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating issue, but I appreciate the help in figuring it out!
+Sentiment: Negative

@@ -1,0 +1,20 @@
+Customer ID: 2984-MIIZL
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with my upload speed. It's significantly slower than expected. 
+
+Agent:  Hi! I understand your concern about slow upload speeds. Could you please tell me your account details and what the current average download/upload speed is?
+
+Customer: Sure, my account is [account number]. My average upload speed is around 5 Mbps right now.
+
+Agent: Thank you for providing those details.  I've checked our system, and it looks like there may be a temporary issue on your end. We’ll be working to resolve this as soon as possible. 
+
+Customer: Okay, thanks!
+
+Agent: I will keep you updated on the progress of the resolution. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update and for looking into it!  Hopefully things will speed up soon.
+Sentiment: Positive

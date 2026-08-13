@@ -1,0 +1,17 @@
+Customer ID: 3348-CFRNX
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my Wi-Fi signal is really weak in the living room and dining area. 
+Agent:  I understand your concern. Can you tell me your account number and which router you're using?
+Customer: My account number is #123456789. I have a Netgear Nighthawk R7000 running on the main router.
+Agent: Thank you, I can see some reports that have come in regarding this issue with your connection. 
+Customer:  I've tried restarting my modem and router but no luck. 
+Agent: Let me check to see if there is a known outage or an update for our latest network software. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the agent was able to help me troubleshoot, hopefully my Wi-Fi will be strong again soon."
+Sentiment: Neutral

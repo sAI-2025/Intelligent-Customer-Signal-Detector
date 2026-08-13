@@ -1,0 +1,17 @@
+Customer ID: 9469-WEJBT
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed has been incredibly slow lately.  I'm subscribed to 50 Mbps and it's barely reaching 10 Mbps. 
+Agent: I understand your concern about your internet speed, John. Can you please tell me the full details of what you're experiencing? 
+Customer: It's been happening for the past week or so, and I've contacted my neighbors as well who have fiber too, they haven't had this issue.  
+Agent: Thank you for that information.  I can certainly look into that for you. Please allow me a moment to review your account and check for any service disruptions. 
+Customer: Okay, thanks! 
+Agent: Let me know if you experience other issues with your internet connection or need any further assistance. 
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and I hope the issue gets resolved soon."
+Sentiment: Positive

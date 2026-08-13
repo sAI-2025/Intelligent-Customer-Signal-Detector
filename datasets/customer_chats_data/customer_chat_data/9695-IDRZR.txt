@@ -1,0 +1,20 @@
+Customer ID: 9695-IDRZR
+Topic: customer asks about installation status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I was wondering if there has been any update on my internet installation. 
+
+Agent: Hi there!  I can certainly look into that for you. What's your address so we can verify your details?
+
+Customer:  [Address]
+
+Agent: Alright, thank you. I see your account is active and your Fiber optic installation was scheduled for today. We will notify you if there are any delays or changes. 
+
+Customer:  Okay, thanks! 
+
+Agent:  We appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update!  I appreciate the notification and look forward to my internet connection."
+Sentiment: Positive

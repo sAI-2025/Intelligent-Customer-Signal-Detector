@@ -1,0 +1,23 @@
+Customer ID: 6161-UUUTA
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is super slow. I can barely watch videos and play online games. It feels like a dial-up! 
+
+Agent: I understand your frustration.  May I have your account information for further assistance?
+
+Customer: Of course. Username is John Smith, Account number [redacted].  It’s been pretty bad all day.
+
+Agent: Thank you for providing that information, Mr. Smith.  I'm checking on your connection and will be in touch shortly with an update. 
+
+Customer: Okay. Thanks a bunch!  
+
+Agent:  I have isolated the issue to a temporary spike in latency.  It should return to normal soon. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and explaining what was happening!  The connection is much better now, appreciate it.
+Sentiment: Positive

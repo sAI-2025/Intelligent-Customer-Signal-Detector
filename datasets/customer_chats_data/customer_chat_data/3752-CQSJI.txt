@@ -1,0 +1,19 @@
+Customer ID: 3752-CQSJI
+Topic: website form fails during submission
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble submitting my form on your website.  The last step keeps failing.
+Agent:  Hi there! I'd be happy to help troubleshoot this issue. Can you please tell me what kind of form you are trying to submit?
+Customer: It's the information update form for my account details. 
+Agent: Thank you, I can see that you have a month-to-month contract and your current payment is $20.45 per month.  Let me check this out for you now.
+Customer: Thanks! 
+Agent:  I believe the issue might be with the form submission itself. Would you like to try submitting it again?
+Customer: I'll give that a try. 
+Agent: Great, let me know if there are any further issues or if anything else comes up. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The issue was resolved and the agent was helpful! Thanks again for your assistance.
+Sentiment: Positive

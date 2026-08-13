@@ -1,0 +1,17 @@
+Customer ID: 8467-WYNSR
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble connecting to my internet service. It just keeps saying "unable to connect". 
+Agent:  I understand your frustration. Let me check on that for you. Can you please provide your account number and the last time your service was working? 
+Customer:  My account number is 1234567890. The last time it worked properly was about an hour ago, before I started having trouble.
+Agent: Okay, thank you for that information. We see there’s a network issue affecting calls at the moment. 
+Customer: What can be done? My work depends on this internet connection!
+Agent:  We're working to get this resolved as quickly as possible. Please stay on the line and I'll update you with any changes or estimated resolution time.
+Customer: Okay, thanks for checking.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the updates and hope it gets fixed soon!"
+Sentiment: Positive

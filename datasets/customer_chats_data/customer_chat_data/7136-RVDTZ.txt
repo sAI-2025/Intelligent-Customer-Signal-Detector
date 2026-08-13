@@ -1,0 +1,24 @@
+Customer ID: 7136-RVDTZ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my Wi-Fi signal is very weak in the bedrooms of my house. 
+
+Agent:  I understand your concern. Could you please provide me with your account information so I can look into this further? 
+
+Customer: Sure, my account number is 1234567890 and it's under the John Smith name.
+
+Agent: Thank you for providing that information.  Let me check on your account details.
+
+Customer: It’s great to hear from a real person! 
+
+Agent: I'm happy to help. We might have a few things we can do to improve your Wi-Fi strength in those rooms. 
+
+Customer: Okay, thanks!
+
+Agent:  I will be able to get you started with the steps necessary to resolve this. Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's nice to have a real person help with my issue, and they seem willing to fix it.
+Sentiment: Positive

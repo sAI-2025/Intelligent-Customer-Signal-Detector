@@ -1,0 +1,24 @@
+Customer ID: 4115-BNPJY
+Topic: movie audio and video synchronization problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My video and audio on my streaming service is out of sync. I just can't enjoy the movie! 
+
+Agent:  I understand your frustration.  Could you please provide me with your account information or your device model?
+
+
+Customer: Sure, it's [account number] and my laptop has a Windows 10 OS.
+
+Agent: Thank you for that information. I will look into this right away and get back to you shortly. 
+  
+Customer: Thanks! 
+
+Agent: Let me know if anything else comes up. Thank you for contacting us.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was resolved quickly, thanks! Hopefully they'll fix the issue so I can enjoy my movie without delay.
+Sentiment: Positive

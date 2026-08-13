@@ -1,0 +1,29 @@
+Customer ID: 3804-RVTGV
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is significantly lower than expected. I was expecting around 15 Mbps, but it's currently running at 4 Mbps.  
+
+Agent: Thank you for reaching out to us today. Could you please provide your account information so we can check on the status of your service?
+
+Customer: Sure, my name is Robert Smith and my account number is 1234567890.
+ 
+Agent: We've run a speed test and it seems there might be an issue with the network connection at your location.  We will need to investigate further. 
+
+
+Customer: Could you tell me more about this? I just upgraded my router last week, so I don't understand why the speed is still slow. 
+
+Agent: We understand that this is frustrating. We can schedule a technician visit to check for any potential issues on your line with no service fee. Would you like to proceed with that option today?  
+
+
+Customer: Yes, please. 
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick response and technician visit being scheduled! Hopefully this resolves the slow speeds issue.
+Sentiment: Positive

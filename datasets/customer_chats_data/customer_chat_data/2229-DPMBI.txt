@@ -1,0 +1,17 @@
+Customer ID: 2229-DPMBI
+Topic: live TV freezes during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My live TV is freezing up constantly, it's really annoying.  
+Agent: Hi there! I'm happy to help. Can you tell me your account number and what device you're using?
+Customer: 1234567890, I'm watching on my smart tv.
+Agent: Thanks for the information. Let's see if we can fix this issue. 
+Customer:  It's been happening since yesterday! 
+Agent:  I understand your frustration. Please try restarting your TV and modem to see if that helps. If not, there might be a problem with our server. I'll check for updates on my end. 
+Customer: Okay, thanks.
+Agent:  No worries at all, let me know if you have any other questions or problems in the meantime. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While restarting helped temporarily, the freezing continues and I'm still dealing with the issue."
+Sentiment: Negative

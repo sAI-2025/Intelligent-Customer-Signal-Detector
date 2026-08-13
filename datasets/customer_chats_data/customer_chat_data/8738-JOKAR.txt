@@ -1,0 +1,17 @@
+Customer ID: 8738-JOKAR
+Topic: customer dissatisfied with movie selection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm not happy with the movie selection available in my plan. There are hardly any new releases. 
+Agent:  I understand your frustration, Mr./Ms. [Last Name], I apologize for the limited options you're seeing.
+Customer: What can be done? I was hoping for more variety.
+Agent: We regularly update our movie selection based on viewer preferences and trending titles. 
+Customer: Hmm, that seems a bit random.
+Agent:  I can certainly check your usage history to see if there are any factors impacting the selections you're seeing. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: **While I appreciate the follow-up, I still feel like my movie selection is lacking.**
+Sentiment: Negative

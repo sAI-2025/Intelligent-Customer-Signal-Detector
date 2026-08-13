@@ -1,0 +1,18 @@
+Customer ID: 9300-RENDD
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is so slow! I can barely load a webpage. 
+Agent: Thank you for contacting us, I'm happy to help with your internet issue. What is your account number?
+Customer:  It’s 1234567890
+Agent:  I have reviewed your account and see that you are experiencing slow speeds. We can definitely take a look into this further for you. Please hold while I check your connection status. 
+Customer: Thanks!
+Agent: Alright, let me check...it looks like there might be an issue with the fiber optic line in your area. 
+Customer:  Oh no! 
+Agent: We'll get that sorted out for you today. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this fixed so quickly, I appreciate your help!"
+Sentiment: Positive

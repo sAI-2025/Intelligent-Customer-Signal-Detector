@@ -1,0 +1,16 @@
+Customer ID: 7547-EKNFS
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is really slow. It seems like it's constantly fluctuating between 10-20 Mbps. 
+Agent: I understand your frustration with the slow connection speeds.  To help me troubleshoot this issue, could you please provide your account information and service address? 
+Customer: Sure, here it is. Account number [redacted] and my address is [redacted] 
+Agent: Thank you for providing that information. Based on our records, your Fiber connection seems to be experiencing some intermittent issues today.  
+Customer:  Okay, that makes sense! 
+Agent: We're currently working on a technical issue that may be affecting your service. We'll be able to get it resolved shortly. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate you letting me know about the ongoing issue!"
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 1084-UQCHV
+Topic: network equipment not responding
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet is not working and I can't seem to get online.  
+Agent: I understand your issue, [customer name]. We're sorry to hear that your internet isn't working as expected. 
+Customer: My Fiber connection is down entirely. What should I do?
+Agent: Please hold while we investigate this for you.  Let me check your account information.
+Customer: Thanks.
+Agent: Based on our records, there seems to be a network equipment issue impacting your service. We'll have a technician dispatched soon to resolve the problem. 
+Customer: Okay, great. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and explained the situation clearly. Thanks for getting things fixed!
+Sentiment: Positive

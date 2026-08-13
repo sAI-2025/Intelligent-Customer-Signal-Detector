@@ -1,0 +1,16 @@
+Customer ID: 2654-VBVPB
+Topic: customer questions unexpected data consumption
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hey there! I have a question about my data usage. It seems like it's going way faster than usual. 
+Agent:  I understand your concern! To better assist you, could you please tell me what kind of device you are using and the specific amount of data used so far this month?
+Customer:  It's just my phone; I use it for calls, texts, and occasional streaming. So far this month, it's 4GB already. 
+Agent:  That’s quite a bit! It seems like you might be using more than expected based on your contract information. Could you double-check the usage breakdown? 
+Customer: I am seeing a few apps that seem to be utilizing a lot of data - I think they are downloading something for me through work, and my social media apps too. 
+Agent:  I see what you mean! Our mobile plans often include large download limits depending on your service package, which can impact usage. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very helpful explanation of how data works. I appreciate the clarification and understanding of my usage patterns.
+Sentiment: Positive

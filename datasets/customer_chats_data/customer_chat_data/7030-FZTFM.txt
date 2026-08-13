@@ -1,0 +1,25 @@
+Customer ID: 7030-FZTFM
+Topic: late payment inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I haven’t received my bill this month. Is there a problem with payment?
+
+Agent: Thank you for contacting us.  I can help you with that. Please provide your account number and email address. 
+
+Customer: My account number is XXXXXXXXXXXX and my email is [email protected]
+
+Agent: Thank you. I see you're on the two-year contract. Your monthly payment is $110.9, correct?
+
+Customer: Yes, that's correct.
+
+Agent: We haven't been able to find a record of your late payments yet.  I can pull up your billing history and investigate further. 
+
+Customer: Thanks. 
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and thorough in their investigation, and I now feel confident about my bill payment status.
+Sentiment: Positive

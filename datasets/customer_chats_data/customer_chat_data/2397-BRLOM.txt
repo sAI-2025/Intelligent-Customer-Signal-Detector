@@ -1,0 +1,17 @@
+Customer ID: 2397-BRLOM
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. It's only about 10 Mbps, while I was expecting at least 25.
+Agent:  I understand your frustration. Could you please provide me with your account information so I can check the status?
+Customer: Sure, my name is John Smith and my account number is 123456789.
+Agent: Thank you, John. I've checked your speed test results, and it appears there may be a temporary network issue in your area.  
+Customer: Oh! That explains why. Is that something you can fix?
+Agent: We are working on resolving this issue. We will provide an update as soon as possible with the estimated resolution time. 
+Customer: Okay, thanks.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and informative in explaining the situation, which is much appreciated!
+Sentiment: Positive

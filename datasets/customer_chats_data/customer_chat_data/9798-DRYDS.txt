@@ -1,0 +1,19 @@
+Customer ID: 9798-DRYDS
+Topic: customer wants to downgrade internet plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to downgrade my internet plan. 
+Agent: Certainly, what is your current plan and why are you looking to downgrade?
+Customer:  I have the DSL plan, and I'm just finding I don't need all the speed anymore.
+Agent: Okay, no problem. Our base plan is $49.95 per month. What else would you like to know?
+Customer: That sounds good. 
+Agent: Awesome! We can get this done for you today. 
+Customer: Great! Thank you.
+Agent: No problem at all. Just one more thing, please confirm your new plan number.
+Customer: 100
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and the process of downgrading my plan was quick and easy!
+Sentiment: Positive

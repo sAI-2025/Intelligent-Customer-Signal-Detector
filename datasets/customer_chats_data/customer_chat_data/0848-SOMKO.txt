@@ -1,0 +1,27 @@
+Customer ID: 0848-SOMKO
+Topic: movies buffering during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with buffering during playback on my streaming service.  
+
+Agent: Hello! My name is Sarah, how can I help you today? 
+
+Customer: I've been watching movies and it keeps freezing up and buffering. It seems to be a pretty consistent issue.
+
+Agent:  I understand, your internet speed may be impacting your playback experience. 
+   Could you please confirm what type of connection you have (DSL)?
+
+Customer: Yes, it is DSL. I signed on for the $48.4 plan with two-year contract, and been a customer for 70 months.  
+
+Agent: Thank you for that information. Let's check your account to see if there are any active service disruptions.
+ 
+Customer: Okay. Thanks! 
+
+Agent: I have located some recent network issues on your account and will be sending out an email with steps to resolve the buffering problem. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks, Sarah!  It's nice to know that they are finally looking into this issue, hopefully it gets fixed soon.
+Sentiment: Positive

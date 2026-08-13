@@ -1,0 +1,17 @@
+Customer ID: 4872-VXRIL
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, my Wi-Fi signal is really weak in the living room and bedroom. It's barely usable sometimes.
+Agent:  I understand your frustration. Can you please tell me which devices are experiencing issues and what you have tried so far to troubleshoot? 
+Customer: I've restarted the modem and router already, but nothing seems to help.
+Agent: Okay, thanks for that information. Let me check our records on those specific areas. 
+Customer:  Thanks! 
+Agent:  I just confirmed your signal strength in those rooms. There might be some interference from neighboring devices or obstructions. We may need to run a network optimization check. Would you like to schedule a time for that? 
+Customer: Yes, please. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me and looking into the issue! I appreciate the help!
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 4919-IKATY
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is so slow! It’s barely half of what it should be. 
+Agent: I understand your concern, [Customer Name].  I'd be happy to help troubleshoot this issue. Can you please provide your account details? 
+Customer: Sure, my name is Robert Johnson and my account number is 1234567890. 
+Agent: Thank you for sharing that information, Mr. Johnson. I can see your plan is Fiber optic.  
+Customer: How long have I been with this company?
+Agent: You've been a valued customer for five months now!
+Customer: Is there anything I can do to improve my speed? 
+Agent: Let me check the status of your connection. We may need to run some diagnostics or adjust settings to ensure optimal performance.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and explained what they were doing, but I still haven't seen any noticeable improvement in my speed."
+Sentiment: Neutral

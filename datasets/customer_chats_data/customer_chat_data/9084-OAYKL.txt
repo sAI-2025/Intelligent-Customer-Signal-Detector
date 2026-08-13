@@ -1,0 +1,30 @@
+Customer ID: 9084-OAYKL
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my bedroom and living room. The signal is just really weak there. 
+
+Agent:  I understand your concern.  Can you please tell me your account number?
+
+Customer: Yes, it's 1234567890. 
+
+Agent: Thank you. I have a few questions for you about the location of these rooms and which devices are connected to the Wi-Fi network. 
+
+Customer:  My bedroom is on the second floor, and my living room is located directly below. We're using a couple of smart devices and laptops at the moment. 
+
+Agent: I see.  Would you like me to walk you through some troubleshooting steps?
+
+Customer: Yes, please. 
+ 
+Agent:  There are some basic things we can try first, such as restarting your router or checking for interference from other electronics. We may also need to reconfigure the Wi-Fi network settings on your devices. 
+
+Customer: Okay, I'll give that a shot! 
+
+Agent: Thank you for contacting us.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The troubleshooting steps were helpful and clear, thanks for assisting me with this!
+Sentiment: Positive

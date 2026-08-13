@@ -1,0 +1,16 @@
+Customer ID: 5485-WUYWF
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need some help with my internet connection. It keeps dropping out frequently. 
+Agent: Hello!  I understand your frustration with frequent disconnections. Can you tell me what kind of device you're using and the location of your modem?
+Customer:  It's a laptop and the modem is in the living room. I live in a rural area, though.
+Agent: I see, thanks for that information. We might need to check with our technical support team about potential line issues. 
+Customer: Okay, thanks.
+Agent: Let me connect you to them now.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out! Hopefully the issue is resolved soon.
+Sentiment: Positive

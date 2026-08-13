@@ -1,0 +1,24 @@
+Customer ID: 1548-ARAGG
+Topic: new service activation delayed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is not working, and I was told my service activation would be delayed today. What can I do? 
+
+Agent:  I understand your frustration, our team has encountered a few scheduling delays with DSL activations lately. Can you please provide me with your account number or the name on the account?
+
+Customer: My account number is XXXXXXXXXX and my name is John Smith. 
+
+Agent: Thank you, John. I'll check if there are any updates on your activation. 
+
+Customer:  That would be great, thank you!
+
+Agent: No problem, John. We are working to expedite your activation. Please allow us a couple more days for an update.
+
+Customer: Okay, thanks!
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update and quick response. Hopefully this delay is resolved soon."
+Sentiment: Positive

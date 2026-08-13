@@ -1,0 +1,27 @@
+Customer ID: 8049-WJCLQ
+Topic: Wi-Fi equipment requires frequent restarting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with my Wi-Fi connection. It keeps dropping out and needs to be restarted frequently.
+
+Agent: Thank you for contacting us.  I understand your concern. Can you tell me what modem/router model you have? 
+
+Customer: It's the ARRIS surfboard SBG6700v2, I think. 
+
+Agent:  Okay, thanks. Have you tried restarting both your router and modem? 
+
+Customer: Yes, but it still keeps happening! Is there anything else I can do?
+
+Agent: Let me check on some settings for that particular model.  Hold on a second. 
+ 
+Customer: Ok
+
+Agent: I have adjusted the settings and you should see an improvement. We're also looking into getting a faster plan upgrade to ensure this doesn't happen again! 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Feedback:  Thanks, the connection seems much better now!  Really appreciate the quick help and follow-up on potential future solutions.
+Sentiment: Positive

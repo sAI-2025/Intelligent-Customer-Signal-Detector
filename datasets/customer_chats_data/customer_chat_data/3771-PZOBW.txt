@@ -1,0 +1,17 @@
+Customer ID: 3771-PZOBW
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My internet keeps disconnecting frequently, and it's been happening more often lately. 
+Agent: I understand your frustration. Can you please provide your account details so I can investigate further?
+Customer: Sure, my name is John Smith, account number 1234567890.  My Fiber plan costs $90.7 per month.
+Agent: Thank you, John. We're looking into this now.  
+Customer: Can you give me an estimated time for when I might expect to have a stable connection again?
+Agent: I am checking the service records and will update you as soon as we get some progress. 
+Customer: Thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and kept me updated, hopefully this issue is resolved quickly."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1481-ZUWZA
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having constant internet disconnections throughout the day. 
+Agent: Hello!  I understand you're experiencing frequent disconnections. Can you please provide me with your account information?
+Customer: Sure, my name is Thomas Miller and my account number is 1234567890. 
+Agent: Thank you, Mr. Miller. I see your account details are current.  Would you mind if I take a look at the recent disconnections logs?
+Customer: Yes please.
+Agent: Alright, let me check the service status for Fiber optic and locate any known outages.
+Customer: Okay 
+Agent: Thank you. I'm seeing an issue with your connection on the network side. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my internet woes! Thanks for getting this sorted out so quickly.
+Sentiment: Positive

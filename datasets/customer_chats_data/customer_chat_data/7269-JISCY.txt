@@ -1,0 +1,23 @@
+Customer ID: 7269-JISCY
+Topic: family or shared line benefits not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting my family/shared line benefits to work.  I've been paying $45.05 a month for DSL internet and have been with you for 55 months.
+
+Agent: Thank you for contacting us, I understand you are experiencing an issue with your shared line benefits. May I please confirm your account information so I can assist you better?
+ 
+Customer: My name is Mary Smith, Account Number: 1234567890 and my phone number is (555) 123-4567.  
+
+Agent: Thank you, Mary. Let me take a look at your account to see what's going on with the benefits.
+ 
+Customer: Ok, thanks.
+
+Agent: I've located the issue and I can confirm that the benefits are not being applied correctly. It should be resolved by the end of the day.  
+
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "This was a quick and easy fix, thanks for the help!"
+Sentiment: Positive

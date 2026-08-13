@@ -1,0 +1,17 @@
+Customer ID: 7643-RCHXS
+Topic: downloaded movie cannot play
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I downloaded a movie but it won't play. 
+Agent:  I understand, can you please tell me what the error message is?
+Customer: It says something about "network connection required."
+Agent:  Have you checked your network connection? You mentioned you are on No internet. 
+Customer: Yes, I am sure it was downloaded successfully but it won't play.
+Agent: We also need to check if you are using the correct app. Please try to open the movie again and let me know what happens.
+Customer: Thanks, I think that did the trick! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick help and resolved issue! Thank you.
+Sentiment: Positive

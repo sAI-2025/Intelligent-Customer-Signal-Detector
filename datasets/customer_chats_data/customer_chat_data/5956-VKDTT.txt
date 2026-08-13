@@ -1,0 +1,17 @@
+Customer ID: 5956-VKDTT
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble with my internet speed during peak hours. It’s slow and intermittent. 
+Agent:  I understand your frustration, let me help you troubleshoot this. Can you please tell me more about what device/application you are experiencing issues with? 
+Customer: My laptop is very slow when streaming movies or checking emails. 
+Agent: Thank you for that information. Have you noticed any changes in network performance lately?
+Customer: Nope, it's been fine until these past few days. 
+Agent: Okay, I'll check our network logs and see if there are any reports of outages during peak hours. 
+Customer: Thank you!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's help resolving my slow internet issue. Hopefully this is a temporary fix!
+Sentiment: Positive

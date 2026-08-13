@@ -1,0 +1,18 @@
+Customer ID: 7595-EUIVN
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My upload speed is much slower than expected. I'm paying $75.8 a month for fiber optic internet and it hasn't been consistent at all. 
+Agent:  I understand your concern. Could you please tell me your account number or the device you are using to check the speeds?
+Customer: My account is [account number], and I’m currently using my laptop.
+Agent:  Okay, thank you. Let's take a look at your speed test results. 
+Customer: The upload speed I am getting is [upload speed] Mbps.
+Agent: We will need to check further into this issue. Would you mind checking the connection light on your router?
+Customer: My router light shows it’s active, but still slow.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate their prompt response,  the speed issues persist even after troubleshooting steps.  I'm hoping for a quicker resolution to this problem.
+Sentiment: Negative

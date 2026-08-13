@@ -1,0 +1,17 @@
+Customer ID: 8402-OOOHJ
+Topic: unlimited data feature missing from account
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having trouble accessing my unlimited data feature in my account. 
+Agent:  I understand your concern about your unlimited data. Could you please provide me with your account information?
+Customer: Sure, it's [account name] and my phone number is [phone number].
+Agent: Thank you! I have located your account, but there seems to be an error on our end regarding the unlimited data plan. 
+Customer:  Is that possible? I was expecting this as part of my contract.
+Agent: We'll need to review your account details further to address this. Please hold while I check with my supervisor. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It was a bit frustrating waiting for a resolution and hoping they could clarify the issue."
+Sentiment: Negative

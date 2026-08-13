@@ -1,0 +1,17 @@
+Customer ID: 4424-TKOPW
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It's significantly slower than expected.
+Agent:  I understand your concern, we want to ensure you have a smooth experience. Could you please tell me your account details and location? 
+Customer: Sure, it's [account number], and I'm located in [city]. My internet plan is Fiber Optic with a month-to-month contract. 
+Agent: Thank you for providing that information. Let me check on the upload speed for your account.
+Customer:  It seems like my upload is around 10 Mbps, whereas I was expecting at least 25. 
+Agent: I see what appears to be a congestion issue with your network. We will send our technician to diagnose the problem.
+Customer: Okay, thank you.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for quickly addressing my slow upload speed.  Hopefully it gets resolved soon."
+Sentiment: Positive

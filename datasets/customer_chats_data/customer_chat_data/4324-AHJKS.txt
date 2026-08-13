@@ -1,0 +1,24 @@
+Customer ID: 4324-AHJKS
+Topic: new service activation delayed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  My internet service hasn't been activated yet. My activation was scheduled for today. 
+
+Agent:  We apologize for this delay. Can you provide your account number and the address where the service is being installed?
+
+Customer:   Sure, my account number is XYZ4567890, and I live at 123 Main St. 
+
+Agent:  Thank you. We will be checking on the status of your activation right now. 
+
+Customer:   Okay, thanks for looking into this. 
+
+Agent:  We're working to get your service activated as soon as possible. 
+
+Customer:   I hope it gets taken care of soon! 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: It seems like the activation process is being handled promptly, so hopefully I'll be online soon!
+Sentiment: Positive

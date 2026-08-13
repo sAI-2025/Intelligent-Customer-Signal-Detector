@@ -1,0 +1,17 @@
+Customer ID: 9565-AXSMR
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is really slow and I’m not getting the speeds advertised in my plan. 
+Agent:  I understand your concern about your download speeds. To best assist you, could you please provide your account information?
+Customer: Sure. It's [account number].
+Agent: Thanks for that info. Based on our records, it seems there may be a temporary issue with the connection in your area. 
+Customer: Okay, well my internet is very slow even though I’m paying for $19.20/month.  Is there any discount available?
+Agent: Unfortunately, we do not offer discounts based on complaints like this. However, please know that our team is working hard to address the issue and improve your experience. 
+Customer: Well, thanks for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I understand there may be temporary issues, it's disappointing that a $19.20 plan doesn't deliver advertised speeds.
+Sentiment: Negative

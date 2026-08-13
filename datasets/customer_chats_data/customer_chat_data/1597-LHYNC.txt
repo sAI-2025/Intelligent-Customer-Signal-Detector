@@ -1,0 +1,20 @@
+Customer ID: 1597-LHYNC
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I have been experiencing frequent internet disconnections lately.
+
+Agent: Thank you for contacting us! I understand this is concerning.  Could you please provide your account information and a little more detail about these disconnections? 
+
+Customer: Sure, my name is John Smith and my account number is 1234567890.  They seem to happen every hour or so since last week.
+
+Agent: I see your account details, Mr. Smith. Thank you for that information. Let me check the service status on your line.
+
+Customer:  It's been very frustrating. 
+
+Agent: We apologize for the inconvenience this is causing.  I'm looking into it now. This should be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for getting back to me so quickly, I appreciate your help resolving this!
+Sentiment: Positive

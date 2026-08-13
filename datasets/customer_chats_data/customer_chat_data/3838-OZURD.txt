@@ -1,0 +1,28 @@
+Customer ID: 3838-OZURD
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is significantly lower than what I am subscribed to. It was 10 times slower just this morning. 
+
+Agent:  I'd be happy to look into this for you. Can you please provide your account details so I can access your plan information?
+
+Customer: Sure, my username is [username] and my email address is [email].
+
+Agent: Thank you. Based on your information, you are subscribed to our 1 Gbps Fiber Optic Plan.  We'll need to investigate further into the issue with your download speed.
+
+
+Customer:  Okay, that would be great. 
+
+Agent: I see some recent network traffic data indicating a potential slowdown in certain areas of your network. We're actively working on it.  
+ 
+Customer:   Thanks for looking into it.
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was resolved quickly and I appreciate the agent keeping me updated.
+Sentiment: Positive

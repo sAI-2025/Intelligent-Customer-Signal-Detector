@@ -1,0 +1,24 @@
+Customer ID: 6521-YYTYI
+Topic: customer wants cheaper service options
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I was hoping to explore cheaper service options. My monthly cost is $93.3 for fiber optic internet and I'm on a month-to-month contract.
+
+Agent: Thank you for contacting us, I understand you are looking into some different plans.  Could you please tell me what features are most important to you in your internet plan? 
+
+Customer: Well, it would be nice to see something more affordable, maybe around $50-$60 range. 
+
+Agent: We offer several plans that are tailored to different budgets and needs. Let's take a look at some options for you. 
+
+Customer: I'm on fiber optic internet, and I don't need much data or speed changes.  I just need reliable connection.
+
+Agent:  Understood. We do have lower-tier plans that offer a strong internet connection without the premium features of our higher-end plans.  Would you like me to give you some details on those? 
+
+Customer: Yeah, please.
+
+Agent:  Of course, I can share more about those plans with you. I'd be happy to discuss them and see which one fits your needs best.  It will
+
+----------------------------------------
+Feedback: This was helpful, thanks!  I appreciate the options they offered, and I look forward to seeing what works best for me.
+Sentiment: Positive

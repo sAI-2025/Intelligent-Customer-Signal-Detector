@@ -1,0 +1,18 @@
+Customer ID: 7639-SUPCW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is really slow and keeps dropping in and out. It's been happening all day. 
+Agent: I understand your frustration, [Customer name].  I'd be happy to help diagnose the issue. Could you tell me what device you are using?
+Customer: Laptop connected via DSL modem.
+Agent: Alright, could you please provide the MAC address of your device? We can then check for any possible network configuration issues. 
+Customer: (Provides MAC address)
+Agent: Thank you. I'm checking on the status of your connection now. It should be resolved within a few minutes.
+Customer: Ok, thanks.
+Agent:  We’ve just finished a system update to fix some underlying network problems that might have caused the slow connection. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this fixed! My internet is working much better now. 😊
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 3212-KXOCR
+Topic: installation appointment problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to reschedule my installation appointment; it’s been pushed back too many times. 
+Agent:  I understand your frustration,  can you please provide me with your account number and the original date of your appointment? 
+Customer: Sure, it's 1234567890 and I originally booked for April 15th.
+Agent:  I see the changes made to your appointment, and I apologize for any inconvenience this has caused. Would you like to reschedule at a different time or are you looking to cancel entirely? 
+Customer: I'd prefer a new date. 
+Agent: We have appointments available on April 20th and May 5th.  
+Customer:  May 5th works for me. 
+Agent: Thank you for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in finding a new date and I appreciate the efficiency!
+Sentiment: Positive

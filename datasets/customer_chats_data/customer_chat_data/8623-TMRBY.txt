@@ -1,0 +1,24 @@
+Customer ID: 8623-TMRBY
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't access the internet at all. My connection is completely down.
+
+Agent: I understand your concern,  may I have your account information please? 
+
+Customer: Sure, my name is [Customer Name], and my customer ID is #[ID Number].
+
+Agent: Thank you, [Customer Name]. Let me check on the status of your internet service. 
+
+Customer: Thanks for checking. 
+
+Agent: Based on our records, there seems to be a technical issue with your Fiber optic connection that will be resolved by the end of the day. 
+
+Customer: Ok.  Thank you.
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for the update!  It's good to know it should be fixed soon.
+Sentiment: Positive

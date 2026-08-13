@@ -1,0 +1,17 @@
+Customer ID: 6726-WEXXK
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is lower than expected. I'm paying $85.9 per month and get fiber optic internet, but the speed test shows something like 10 Mbps down while the advertised speed is 200+ Mbps.
+Agent: I understand your frustration. Could you please provide me with your account details?
+Customer: My name is John Smith, my account number is 1234567890. 
+Agent: Thank you for providing your information, Mr. Smith. Let me investigate the issue further. 
+Customer:  Thanks.
+Agent: I have reviewed your account and it seems like there might be some network congestion in your area causing slower upload speeds. We’ll be able to improve it soon.
+Customer:  Well, that's something!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, I appreciate the update and hope the speed improvement is quick."
+Sentiment: Positive

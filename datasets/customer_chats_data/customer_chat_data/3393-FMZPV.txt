@@ -1,0 +1,17 @@
+Customer ID: 3393-FMZPV
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. It keeps dropping in and out frequently.  I've noticed this issue for about a week now. 
+Agent: Thanks for reaching out! I'd be happy to help troubleshoot. Could you please provide me with your account details so I can take a closer look?
+Customer: Sure, my name is John Smith, account number 1234567890 and my address is [redacted].  I've been a customer for about 2 years now, using Fiber optic.
+Agent: Thanks, John. My apologies but this information doesn't appear to be associated with our system. Can you check the details again?
+Customer: I checked all of that, it's correct.
+Agent:  Thank you for providing your account information, John. Based on your recent usage and connection issues, I'd recommend checking your modem/router for any loose connections or firmware updates. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the troubleshooting advice was helpful, it would be even better if the system could automatically verify account information."
+Sentiment: Neutral

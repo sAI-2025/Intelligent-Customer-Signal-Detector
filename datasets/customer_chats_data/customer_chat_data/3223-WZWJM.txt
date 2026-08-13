@@ -1,0 +1,24 @@
+Customer ID: 3223-WZWJM
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can’t connect to the internet at all.  It’s been down for hours now. 
+
+Agent: Hello! My apologies for the inconvenience. Can you tell me your account details and location please?
+
+Customer: Sure, my account number is #1234567890. I'm in San Francisco.
+
+Agent: Okay, thank you.  I am going to investigate this issue now. 
+
+Customer: Great!  Is there an estimated time when I can expect connectivity back?
+
+Agent:  We are seeing some widespread outages at the moment. Our engineers are working hard to resolve it as quickly as possible. We'll keep you updated, but a restoration estimate could be within the next few hours. 
+
+Customer: Okay.  Thanks!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the update and hopefully resolved soon!"
+Sentiment: Positive

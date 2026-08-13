@@ -1,0 +1,27 @@
+Customer ID: 0137-UDEUO
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't connect to anything.
+
+Agent: I understand your concern.  Can you please provide your account information? 
+
+Customer: Sure, my name is John Doe and my account number is [redacted].
+
+Agent: Thank you, John. Let me double-check the status of your service. 
+
+Customer: Thanks! This has been a real pain!
+
+Agent: I'm looking into it now. We may have some maintenance going on in your area.  
+ 
+Customer: Great! Hopefully, it gets fixed soon. 
+
+Agent: I'll update you with any progress updates and let you know if there are any solutions available. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful the agent was able to provide an update and keep me informed about the situation!
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 8749-TZYEC
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I've been experiencing frequent internet disconnections lately. It's really frustrating. 
+
+Agent: Hello!  My name is Alex, and I'd be happy to help with this issue. Can you tell me your account number?
+
+Customer: Yes, it's XXX-XXXXXXX. 
+
+Agent: Thank you. I see you have a two-year contract with us.  Is there a specific time or location where you notice these disconnections most frequently? 
+
+Customer: Mostly in the evenings and during peak usage times. 
+
+Agent: Okay, we'll take a look at our network logs to see what might be causing this.  We may need to run some tests on your connection. 
+
+Customer: Thank you for looking into it!
+
+Agent: Of course!  I will update you as soon as I have more information.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for working through this with me, appreciate the follow-up."
+Sentiment: Positive

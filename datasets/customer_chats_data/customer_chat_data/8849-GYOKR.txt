@@ -1,0 +1,17 @@
+Customer ID: 8849-GYOKR
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet speed. It's very slow and often drops out. 
+Agent:  I understand your frustration. Please provide me with your account number or email address so I can access more information about your service.
+Customer: Yes, it's [account number]. 
+Agent: Thank you. I see that your Fiber optic plan has been active for the past five years and is currently on a one-year contract. We would like to investigate this issue further.
+Customer:  I hope we can resolve this soon. Thanks.
+Agent: Please hold while I check for any possible issues with your connection, our team will be able to identify any potential problems. 
+Customer:  Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and hopefully my internet issue gets resolved soon.
+Sentiment: Positive

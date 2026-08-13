@@ -1,0 +1,15 @@
+Customer ID: 7538-GWHML
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet and experiencing really high latency. 
+Agent:  I understand you're experiencing high ping issues. Can you please tell me your exact location and any other details about this problem?
+Customer: I live in [City, State]. It feels like every time I try to do something online, it takes ages! My speeds on the speed test are 95 down. Is there a known issue with Fiber optic service right now?  
+Agent: Thanks for that information.  We haven't received any widespread reports of latency issues with our fiber optic network in your area at this time.
+Customer: Hmm, I guess so. Well hopefully you guys can help me get back online quickly. 
+Agent: We will do our best to assist you. Please try restarting your modem and router if that doesn't solve the issue,  and let us know how it goes! Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful to hear there aren't widespread issues, but hoping for a quick resolution to this problem."
+Sentiment: Neutral

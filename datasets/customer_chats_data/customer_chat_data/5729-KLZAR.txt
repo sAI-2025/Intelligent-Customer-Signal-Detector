@@ -1,0 +1,17 @@
+Customer ID: 5729-KLZAR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my Wi-Fi in certain rooms of my apartment. 
+Agent: Hello!  I understand you're experiencing a weak Wi-Fi signal in some areas. Can you tell me more about the specific rooms and what devices are affected? 
+Customer: Yeah, it's mostly in the living room and bedroom. My laptop and phone aren't getting a strong connection there. 
+Agent:  I'd like to check your router's signal strength. Could you please access your router settings on your device and take a screenshot of the signal strength?
+Customer: Sure, here it is! 
+Agent:  Thank you for that information. I'm going to suggest a few troubleshooting steps and see if they resolve the issue. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help! The issues seem resolved now."
+Sentiment: Positive

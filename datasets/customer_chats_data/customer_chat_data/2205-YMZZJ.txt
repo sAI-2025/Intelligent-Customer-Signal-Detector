@@ -1,0 +1,19 @@
+Customer ID: 2205-YMZZJ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need help with my upload speed. It's very slow compared to what I was expecting. 
+Agent: Hi there! My name is Alex, and I’m happy to assist you today. What's your account number so I can look into this for you?
+Customer: Sure, it’s #12345678.
+Agent: Thanks for providing that information.  I see your contract is month-to-month with a $84.8 monthly fee. Are you using Fiber optic internet service? 
+Customer: Yes, I'm getting Fiber. 
+Agent: Okay, let me check on the speed and see if there are any issues on our end.  
+Customer:  Thanks! 
+Agent: It looks like your connection is running slightly below average for your plan right now. Could you tell me what kind of activities are causing slower speeds? 
+Customer: I'm trying to upload pictures from my phone to a cloud storage service, and it's taking ages.  
+Agent:  I understand. We can troubleshoot that issue further.  Would you like to get on a call with our technical team for real-
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate the prompt assistance in resolving my upload speed issues.
+Sentiment: Positive

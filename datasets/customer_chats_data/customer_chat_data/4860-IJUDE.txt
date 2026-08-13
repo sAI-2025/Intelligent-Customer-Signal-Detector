@@ -1,0 +1,17 @@
+Customer ID: 4860-IJUDE
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! My internet keeps dropping out, it's been happening for a few days now. 
+Agent: I understand your frustration.  Can you please provide me with your account number and the specific times you experience disconnections?
+Customer: Sure, my account is [account number], and it happens most frequently in the evenings between 7 PM and 9 PM. 
+Agent: Thank you. Let's take a closer look at your Fiber connection.  I can check for any potential outages or congestion issues. 
+Customer: That would be great. Thanks!
+Agent: I will investigate this now. Please hold while I run some diagnostics.
+Customer: Okay, thanks again. 
+Agent: I have located the source of the issue and have already taken steps to resolve it. Your internet connection should be stable now.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quick in resolving my problem! Thanks for a smooth experience."
+Sentiment: Positive

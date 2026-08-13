@@ -1,0 +1,17 @@
+Customer ID: 5876-QMYLD
+Topic: inconsistent internet connection quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet consistently. It's been dropping in and out frequently lately. 
+Agent: Certainly!  I understand it can be frustrating when your internet isn't stable. What device are you using?
+Customer: My laptop, but this happens with my phone too. 
+Agent: Could you please tell me your account details so I can check the service history for any potential issues on our end?
+Customer: Sure, here is my name and number in case that's needed, [REDACTED]. 
+Agent: Okay, thank you. We will run a network diagnostic to see if there are any errors.
+Customer: Thanks! 
+Agent:  No problem at all. We'll get this sorted out for you. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate the quick resolution! Hopefully, the issue gets resolved soon.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 9940-RHLFB
+Topic: calls dropping unexpectedly
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet keeps dropping out! I can't even finish this email. 
+Agent:  I understand your frustration, and I'd like to get this resolved for you. Can you please provide me with your account number or the name associated with it?
+Customer: Sure. It's [Account Number]. 
+Agent: Thank you. I'm looking into your account now. 
+Customer: Okay, thanks.  
+Agent: We're seeing some intermittent connectivity issues on your end.  I'll be able to check and address the problem today. 
+Customer: Great! Thanks for your help.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting this fixed so quickly, I really appreciate it! 👍
+Sentiment: Positive

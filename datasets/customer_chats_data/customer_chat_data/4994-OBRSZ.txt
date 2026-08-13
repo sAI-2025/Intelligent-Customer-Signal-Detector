@@ -1,0 +1,17 @@
+Customer ID: 4994-OBRSZ
+Topic: calls failing between connected lines
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I’m having issues with my calls failing between connected lines. 
+Agent: Thank you for contacting us!  Can you tell me what devices are connected and where you're experiencing the issue?
+Customer: It’s happening on both my landline and cell phone. 
+Agent:  I see, can you provide your account number and your service address so I can look into this further? 
+Customer: My account number is 1234567890 and the address is 123 Main Street
+Agent: Alright, thank you! Let me connect with the engineers.  We’ll have a look at what’s going on. 
+Customer:  Okay, great. Thanks for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in resolving my issue."
+Sentiment: Positive

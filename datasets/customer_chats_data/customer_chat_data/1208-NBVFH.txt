@@ -1,0 +1,17 @@
+Customer ID: 1208-NBVFH
+Topic: websites load slowly despite active connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My website is loading extremely slowly lately, even though my connection is strong.  It's been like this for two days now. 
+Agent: I understand you are experiencing slow load times on your websites. Can you tell me what type of websites you are referring to?
+Customer: Mostly the ones I use for work and for personal browsing. 
+Agent: Please provide a website address or names of those sites, along with your IP address so I can check your connection speed.  
+Customer: Sure, here's the link: [website address]
+Agent: Thank you. I will look into this now and be in touch shortly. 
+Customer: Great, thanks!
+Agent: No problem at all, it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, hopefully it gets fixed quickly!"
+Sentiment: Positive

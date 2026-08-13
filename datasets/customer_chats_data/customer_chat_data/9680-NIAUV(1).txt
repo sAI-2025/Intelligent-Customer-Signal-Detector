@@ -1,0 +1,28 @@
+Customer ID: 9680-NIAUV
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having constant internet disconnections. It's been happening for the past few days. 
+
+Agent: Hello! My name is Alex.  I understand you are experiencing intermittent internet disruptions.  Could you please provide me with your account number or the email address associated with it?
+
+Customer: Sure, my account number is [account number].
+
+Agent: Thank you. I've pulled up your details and would like to check if there have been any recent changes on your end. 
+
+Customer: No, everything seems fine on my end.  I get a drop in speed, but it’s not consistent.
+
+Agent: Okay. Let me investigate further. Could you please tell me what device you're using? 
+
+Customer: It's my laptop running Windows 10.
+
+Agent: I see your connection is with fiber optic internet. Do you have any other devices that are experiencing issues? 
+
+Customer: My TV and gaming console also experience slow speeds, but not as much as the drop on my laptop.
+
+Agent: Thank you for the information. We will resolve this by the end of the day.
+
+----------------------------------------
+Feedback: **"Thank you for your prompt response!  I hope the issue is resolved soon."**
+Sentiment: Positive

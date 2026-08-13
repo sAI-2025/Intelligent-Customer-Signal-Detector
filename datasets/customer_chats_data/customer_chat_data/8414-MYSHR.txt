@@ -1,0 +1,24 @@
+Customer ID: 8414-MYSHR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my Wi-Fi signal in certain rooms of my house.
+
+Agent:  I understand your frustration, could you please tell me which rooms are experiencing issues? 
+
+Customer: Mostly the bedrooms, but even the living room is struggling.
+
+Agent:  Okay, thank you for that information. We may need to check your modem and router settings. 
+
+Customer: I just set it up myself. Is there a way to reset them?
+
+Agent:  Yes, there are instructions on how to do that on our website. Please follow the steps for "Resetting Modem/Router." 
+
+Customer: Oh, great! Thanks for your help.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy solution. Thanks again for your assistance!
+Sentiment: Positive

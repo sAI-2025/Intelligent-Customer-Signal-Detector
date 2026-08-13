@@ -1,0 +1,18 @@
+Customer ID: 1597-FZREH
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just can't seem to connect to the internet.  It’s completely gone.
+Agent: I understand your frustration. Can you please provide me with your account information and location? 
+Customer: Sure! My account number is 1234567890, and I live in Seattle, WA.
+Agent: Thank you. Let's check on the status of your DSL connection.  I'm seeing a service outage within your area.
+Customer: Oh no...thanks for letting me know! How long will it take to get back online? 
+Agent: We're currently working on resolving this issue, and estimated restoration time is between 30-60 minutes.  We apologize for the inconvenience.
+Customer: Thanks. What can I expect during that time?
+Agent: You may experience some buffering or connection errors as we fix the issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know, appreciate the update on the outage!"
+Sentiment: Positive

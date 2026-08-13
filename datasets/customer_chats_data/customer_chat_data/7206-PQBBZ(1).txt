@@ -1,0 +1,17 @@
+Customer ID: 7206-PQBBZ
+Topic: customer cannot find expected self-service option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't find the option to renew my contract online.  I need to do it before my current month-to-month ends.
+Agent:  Hello! Thank you for contacting us today.  What is your account name and number? 
+Customer: It's [customer's account name].  My number is 1234567890
+Agent: I apologize there might be some confusion on how to find it on our website, may I help you navigate the site a bit better ?
+Customer: Yes please.
+Agent: Alright, let me show you where the self-service options are located.  You should see an option for "Renew Now" or something similar under your account information. 
+Customer: Oh wow! Thank you so much, I did not notice that!  I think I'll just renew it through there.
+Agent: You got it!  We hope our service continues to meet your needs.  Thanks again for contacting us today. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the issue was resolved quickly and easily, the online renewal option is user-friendly."
+Sentiment: Positive

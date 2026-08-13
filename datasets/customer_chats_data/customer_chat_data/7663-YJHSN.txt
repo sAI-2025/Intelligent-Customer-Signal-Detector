@@ -1,0 +1,17 @@
+Customer ID: 7663-YJHSN
+Topic: data usage overage charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I have an overage charge on my account.  I went over my data allowance and it seems to be a $50 fee.
+Agent: I understand your concern, [Customer Name].  Can you please provide your account number? 
+Customer: 1234567890
+Agent: Thank you for providing that information. I can quickly take a look at your usage history and see why you went over your allowance. 
+Customer: It's been pretty consistent with my usual browsing, streaming, and online gaming.  I just need to understand why it was so high.
+Agent: Based on your Fiber optic internet plan, your data usage is typically moderate but we did have a spike in activity during the first week of April. 
+Customer: Hmm, that's interesting! 
+Agent: Thanks for reaching out, [Customer Name].  I hope this helps clarify the situation. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining why my data usage went over. I appreciate their prompt response and clear explanation.
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 2003-CKLOR
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed today. It seems much slower than usual.
+
+Agent: Hello!  I understand you are experiencing slow speeds. Can you please tell me your account number and a little about the issues you're facing?
+
+Customer: Sure, account number is 1234567890. The speed test shows I'm getting around half the download speed I usually get.  I was expecting to be at least as fast or even faster with my Fiber connection.
+
+Agent: Thank you for providing that information. I have access to your account and can run some diagnostics to check the speed and identify any potential issues. 
+
+Customer: Okay, thanks!
+
+Agent: Let me go ahead and take a look.  I'll be checking your service status and looking into this for you now.
+
+Customer:  Thanks!  Looking forward to it.
+
+Agent: I've run some diagnostics on your account and there doesn't seem to be anything obvious causing the slow speed.   We're going to check for any potential issues with our network. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the quick diagnosis, hope it gets sorted out soon!"
+Sentiment: Positive

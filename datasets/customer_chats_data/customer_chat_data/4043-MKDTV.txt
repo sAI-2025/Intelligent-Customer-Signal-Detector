@@ -1,0 +1,18 @@
+Customer ID: 4043-MKDTV
+Topic: customer wants to upgrade service plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to upgrade my service plan.  
+Agent: Hello! Thank you for reaching out. What plan are you interested in?
+Customer: I want something faster speed and more data, if possible. 
+Agent: We have several plans with different speeds and data allowances available. Could you tell me a bit about your current usage needs?
+Customer: My work mostly involves video conferencing, so I need fast upload and download speeds.  I also watch a lot of streaming shows in the evenings.
+Agent: Okay, I see. We offer a plan that offers increased speed and data for a monthly fee of $140. 
+Customer: That sounds good! Can I switch to that now?
+Agent: Absolutely! Let me get started with your upgrade details.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and easy, thanks for helping me upgrade my service! 😊
+Sentiment: Positive

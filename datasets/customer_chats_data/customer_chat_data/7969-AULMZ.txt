@@ -1,0 +1,15 @@
+Customer ID: 7969-AULMZ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my download speed. It's significantly slower than my subscribed plan.
+Agent:  I understand your concern. Can you please provide your account information or a link to your speed test results? 
+Customer: My account number is XXX-XXXX-1234, and here's the speed test result: [link to speedtest] 
+Agent: Thank you for providing that information. I've reviewed your account details and will look into this further.  
+Customer: Okay, thank you.
+Agent: We will be able to assist you with resolving this issue as soon as possible.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the prompt response! Hoping for a speedy resolution to get my speed back up."
+Sentiment: Positive

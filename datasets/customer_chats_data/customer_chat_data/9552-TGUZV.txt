@@ -1,0 +1,23 @@
+Customer ID: 9552-TGUZV
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need help with my internet connection. It's been very slow and unstable lately.
+
+Agent:  Certainly, what is your account name please?
+
+Customer: My name is John Smith, and my account name is 1234567890.
+
+Agent: Thank you, Mr. Smith. I'm looking into the issue now. Could you tell me a little about the devices you are using to connect?
+
+Customer:  It’s just my laptop, and I have a wireless network on it. 
+
+Agent: Okay, we’ll check your speed and routing logs. Please stay on the line with us while we work this out.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and I appreciate them resolving my internet issues quickly."
+Sentiment: Positive

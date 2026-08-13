@@ -1,0 +1,24 @@
+Customer ID: 4704-ERYFC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! My ping and latency have been really bad lately, making it impossible to play online. Is there anything that can be done?
+
+Agent: Hi there!  I understand you're experiencing high latency issues.  Can you tell me what games or online platforms you typically use? 
+
+Customer: I mostly game with my friends on Fortnite and Valorant, and also stream some YouTube content.
+
+Agent: Alright, thank you. We can definitely take a look at your connection speeds to see if we can pinpoint the issue. Can you try connecting to our website using an IP address lookup tool like WhatIsMyIP.com?  
+ 
+Customer: I did that, and it shows my ping speed is around 150-200 ms. 
+
+Agent: Okay, thank you for that information. Let's see what we can do to improve your connection. We'll need some more details about your location. Could you tell me where you are located? 
+  
+Customer: I live in Los Angeles, California.  
+  
+Agent: Alright, we're going to send over an engineer to check your signal. Please allow a couple of days for the process.
+
+----------------------------------------
+Feedback: **Feedback:** "I appreciate the prompt response and investigation. Hopefully, a technician can address this issue quickly."
+Sentiment: Positive

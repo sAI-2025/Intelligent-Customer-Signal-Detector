@@ -1,0 +1,18 @@
+Customer ID: 8818-XYFCQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't seem to connect to the internet at all. 
+Agent:  I understand your concern, let me pull up your account information. 
+Customer: My plan is the Fiber Optic, and it's been a month-to-month contract for three years now.
+Agent: Okay, according to our records, there is no outage in your area. 
+Customer: That's weird, I can't connect at all. It was working fine last night! 
+Agent:  I’d like to check the connection status. Can you please provide us with your account number and location? 
+Customer: My account number is [redacted]. I live at [address].
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm still unable to connect despite what the agent said, could there be a deeper issue on their end?
+Sentiment: Negative

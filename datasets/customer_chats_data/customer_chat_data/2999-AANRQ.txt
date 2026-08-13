@@ -1,0 +1,19 @@
+Customer ID: 2999-AANRQ
+Topic: customer asks about upgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about upgrading my internet plan?  I'm looking at your higher speed options. 
+Agent: Certainly! Which service are you interested in? 
+Customer: The one with faster speeds and unlimited data would be great - what does that cost?
+Agent: It depends on the area you live in. Could you please provide me with your address or zip code so I can give you an accurate estimate?  
+Customer: My address is [Address] 
+Agent: Okay, thank you! We offer a variety of plans to fit different budgets and needs.  The plan with faster speeds and unlimited data will be around $100 per month.  Would that be suitable for you? 
+Customer: Hmm, I'm not sure if that fits my budget right now. Can you give me any discounts or promos? 
+Agent:  You're in luck! We currently have a promotion with a discount of $15 off the price per month when you upgrade your plan. How does that sound?  
+Customer: Okay, great! Thanks for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your helpfulness and for explaining the promotion! I appreciate it. 😊
+Sentiment: Positive

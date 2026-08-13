@@ -1,0 +1,17 @@
+Customer ID: 1485-YDHMM
+Topic: question about contract renewal terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm calling to inquire about my contract renewal terms. 
+Agent:  Hello! Of course. What is your name and account number? 
+Customer: My name is John Smith, and my account number is #1234567890.
+Agent: Your contract is currently on a month-to-month basis at $93.25 per month for Fiber optic internet. 
+Customer: Okay, thanks. I've been using the service for five years now.  Is that standard? 
+Agent: Yes, your current plan is standard. You will receive a renewal notice in the coming weeks with details of your renewal terms.
+Customer: Thank you!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear, but I'd like to know what my specific options are beyond just the standard plan.
+Sentiment: Positive

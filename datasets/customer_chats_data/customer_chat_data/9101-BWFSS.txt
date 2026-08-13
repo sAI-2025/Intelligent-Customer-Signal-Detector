@@ -1,0 +1,16 @@
+Customer ID: 9101-BWFSS
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi there, I'm having trouble connecting to the internet at times.  The ping is really high, making it impossible to play online games.
+Agent: I understand your frustration with the high latency. Can you please provide me with your account number and the specific time frame this issue occurs? 
+Customer: My account number is 1234567890. It happens more during evenings and late nights, around 8pm to midnight.
+Agent: Thank you for the details. I've checked your connection and it seems like there might be an issue with local network congestion at that time of day. Let me run some diagnostic tests and I'll get back to you in a few minutes.
+Customer: Okay, thanks.
+Agent:  Okay, here are the results. The diagnosis shows no widespread network problems. The latency is likely due to other factors such as your router's configuration or device-specific issues. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the diagnostic report, it would be helpful if we could explore potential solutions beyond just router settings and device-specific issues."
+Sentiment: Neutral

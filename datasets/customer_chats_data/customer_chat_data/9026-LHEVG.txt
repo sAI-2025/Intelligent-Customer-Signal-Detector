@@ -1,0 +1,17 @@
+Customer ID: 9026-LHEVG
+Topic: poor TV picture quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I have a question about my TV picture quality. It seems blurry and grainy.
+Agent:  I understand your concern, let's get this sorted out. Can you please tell me your account details? 
+Customer: Sure, my account name is [redacted] and I'm currently on the month-to-month plan for $40.75 per month. 
+Agent: Thank you for that information.  I can see there have been a few recent complaints about similar issues, would you mind checking if your TV is connected to the same outlet as your internet router?
+Customer: I think it's connected directly to the TV, but I will check.
+Agent:  Okay. Let me know if that resolves the problem. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The issue seems resolved after checking my connection - thanks!"
+Sentiment: Positive

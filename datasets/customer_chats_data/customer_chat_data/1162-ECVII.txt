@@ -1,0 +1,26 @@
+Customer ID: 1162-ECVII
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble with my download speed. It seems to be significantly slower than what I am paying for. 
+
+Agent: Thank you for contacting us, we understand your concern about your internet speeds. Can you please provide me with the following details: your account information and the specific issue you are facing?
+
+Customer: Sure, my name is John Smith and my account number is 12345678.  The download speed has been consistently slow for the past few days. I pay $109.75 per month for Fiber optic internet.
+
+Agent: Thank you, John. Let me check our records and look into this for you. We typically see speeds closer to your subscribed plan with fiber optic. 
+ 
+Customer: Great! Thank you. 
+  
+Agent: I've reviewed the account and have found a slight issue with your current router configuration. Would you like me to walk you through a quick fix?
+
+Customer: Yes, please.
+
+Agent: Okay, let me show you how to change your router settings. We can also take a look at any potential network congestion issues. 
+  
+Customer: Thank you, this really helps!
+
+----------------------------------------
+Feedback: This was a very helpful and quick resolution to my issue. Thanks for the prompt and efficient support!
+Sentiment: Positive

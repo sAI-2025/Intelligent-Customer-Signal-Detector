@@ -1,0 +1,20 @@
+Customer ID: 1212-GLHMD
+Topic: music service activation problem
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I can’t seem to activate my music service! It says “account not found” on the activation page. 
+Agent:  I understand your frustration, Mr./Ms. [Last Name]. Could you please provide your account number and email address used for sign-up?
+Customer: Sure, here it is: [Account Number] and my email is [email address]
+Agent: Thank you for that information. I see there's a slight delay on our end with the activation process.  We'll be able to get this sorted out shortly. 
+Customer: Okay, thanks.
+Agent: Just confirming your music service subscription is through month-to-month and your internet plan is fiber optic?  
+Customer: Yes, that's correct.
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly! Hopefully the activation will be sorted out soon."
+Sentiment: Positive

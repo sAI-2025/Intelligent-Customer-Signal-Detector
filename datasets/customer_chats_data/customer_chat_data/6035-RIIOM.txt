@@ -1,0 +1,18 @@
+Customer ID: 6035-RIIOM
+Topic: late payment inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm calling to inquire about my payment for this month. It seems like it’s late. 
+Agent:  Certainly!  May I have your account number, please?
+Customer:  Sure.  It's 1234567890. 
+Agent: Thank you.  Let me pull up your details.  Your monthly payment is $97.2 and your contract is still active for a two year term. Your tenure has been a solid 54 months with us. 
+Customer: Oh, okay.   
+Agent: We do have a grace period of [time frame] if you're facing any difficulty paying on time.  Can I send over the details of your payment history? 
+Customer: Yes please. 
+Agent:  Here’s the latest payment status report.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful, and thanks for walking me through the payment information! It's good to know about the grace period in case of future delays.
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 3506-LCJDC
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my upload speed. It's slower than expected and frustratingly slow when streaming. 
+Agent:  I understand your frustration.  Can you please tell me your account details and the specific upload speeds you are seeing? 
+Customer: My account number is 1234567890, and my current download speed is around 15 Mbps, which is fine but the upload is very slow at only 1 Mbps. 
+Agent: Thank you for providing that information.  I see there are some recent outages in your area impacting upload speeds. We're working to resolve this as soon as possible. 
+Customer: Okay, thanks for letting me know. Hopefully it will be fixed soon. 
+Agent:  We appreciate your patience.  It should be back to normal speed within the next few hours. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated! I'll believe it when I see it, but hopefully the slow upload speeds will be resolved soon."
+Sentiment: Neutral

@@ -1,0 +1,24 @@
+Customer ID: 9481-IEBZY
+Topic: modem or router unable to establish connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't seem to connect my internet at all. My modem or router is flashing and I just get a spinning wheel icon on my computer screen. 
+
+Agent: Thank you for contacting us, what's your account name and address so we can pull up your service details?
+
+Customer:  My name is Robert Smith, and my address is 123 Main Street.
+ 
+Agent: We have Robert Smith in our system with a fiber optic connection.  I'm going to investigate the issue with your modem or router now. 
+
+Customer: Thank you! 
+
+Agent: Okay, I am looking into this issue for you now. It may just be a temporary glitch and we should have everything working again shortly. 
+ 
+Customer: Okay, thank you!  
+ 
+Agent: We will resolve this as soon as possible. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and I appreciate their quick resolution to my internet issue!
+Sentiment: Positive

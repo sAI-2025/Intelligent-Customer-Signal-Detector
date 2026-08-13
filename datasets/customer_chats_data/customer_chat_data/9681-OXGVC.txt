@@ -1,0 +1,20 @@
+Customer ID: 9681-OXGVC
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It's completely down. 
+
+Agent:  I understand your frustration, let's troubleshoot this together. Can you please tell me your account number and service address? 
+
+Customer: My account number is 1234567890. The address is 123 Main Street, Anytown, CA 54321.  
+
+Agent: I see the issue there. We're experiencing some server outages in your area. It should be resolved by the end of the day. 
+
+Customer: Thanks for letting me know. 
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for keeping me informed, I appreciate the update!
+Sentiment: Positive

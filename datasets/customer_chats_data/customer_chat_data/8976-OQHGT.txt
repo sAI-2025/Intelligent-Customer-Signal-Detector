@@ -1,0 +1,15 @@
+Customer ID: 8976-OQHGT
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been really slow and unstable lately. 
+Agent: I understand your concern. Could you please tell me more about what's happening? What device are you using? 
+Customer: It seems to be affecting both my laptop and phone. 
+Agent: Thank you for that information. Let me check our records on your DSL connection. 
+Customer:  I have been a customer since November,  but I am on a month-to-month contract. 
+Agent:  We do see there is a DSL line issue in the area, it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the DSL issue! Hopefully this resolves things quickly."
+Sentiment: Positive

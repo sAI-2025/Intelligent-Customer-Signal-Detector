@@ -1,0 +1,24 @@
+Customer ID: 0207-MDKNV
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speed. It's much slower than what I pay for, and it's been happening for a few days now. 
+
+Agent:  I understand your concern, [Customer name]. Can you please provide your account information so I can look into the issue?
+
+Customer: Sure, here are the details: Account number is XXXXXXX-XXXXXXX, Monthly billing date is 08/31/2023 and my contract type is month to month.  
+
+Agent: Thank you for providing that information. Your subscription plan includes fiber optic internet with a download speed of up to 100 Mbps. Let me see what's causing the issue.
+
+Customer: It seems like it's significantly slower than usual. Is there something I can do to fix this problem? 
+
+Agent:  I am investigating the issue now. Could you please try restarting your modem or router? This may help resolve temporary connectivity issues. 
+
+Customer: Okay, thank you for your help. 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and helpful troubleshooting advice!  Hopefully this solves my slow internet issue."
+Sentiment: Positive

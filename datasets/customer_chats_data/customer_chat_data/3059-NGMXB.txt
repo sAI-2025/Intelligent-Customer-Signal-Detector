@@ -1,0 +1,28 @@
+Customer ID: 3059-NGMXB
+Topic: damaged network equipment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to report a problem with my network equipment. My DSL modem keeps cutting out and internet speeds are extremely slow. 
+
+Agent: Hello!  My name is Sarah, how can I help you? 
+
+Customer: My service has been spotty for the last week or so. I'm on a month-to-month plan.
+
+Agent: I understand your concern about the network issues. Can you please tell me your account number and location? 
+
+Customer: 1234567890, my address is [redacted]
+
+Agent: Thank you for that information.  Let me look into this issue. 
+
+Customer: That would be great. 
+
+Agent: I'm investigating the problem now.  We will keep you updated on our progress. 
+
+Customer: Thanks!
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: **"I appreciate the agent's prompt response and updates, hopefully this gets resolved soon."**
+Sentiment: Neutral

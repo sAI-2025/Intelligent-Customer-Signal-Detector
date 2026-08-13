@@ -1,0 +1,17 @@
+Customer ID: 1522-VVDMG
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! My internet is really slow during peak hours today. It feels like I can barely load a webpage. 
+Agent: Thanks for reaching out to us, we'll take a look into that!  Could you please tell me your account details?
+Customer: Sure! My name is Sarah and my account number is 1234567890. 
+Agent: Thank you Sarah, I see there's an issue with your network speed during peak hours. 
+Customer:  Is there anything we can do about it? Can I expect a faster connection during the evening?
+Agent: We are actively working on optimizing our network to ensure smooth browsing even during peak times. 
+Customer: Okay, thanks for letting me know!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for the update and information about the ongoing fix. Hopefully my internet speeds will improve tonight."
+Sentiment: Neutral

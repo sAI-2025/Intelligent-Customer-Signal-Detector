@@ -1,0 +1,18 @@
+Customer ID: 8380-MQINP
+Topic: activation completed but service unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My service is still not active! I just completed the activation online a few hours ago. 
+Agent:  I understand your frustration. Can you please provide your account number and the order ID for your activation?
+Customer:  My account number is  1234567890 and the order number is 89012345.
+Agent: Thank you for providing that information. Let me check on this for you. 
+Customer:  I'm hoping to get my internet service up and running soon! 
+Agent: I have located your issue and it appears there was a slight delay with provisioning the service. 
+Customer: Okay, great.  
+Agent: Your service should be activated shortly.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting my service sorted out!  I'm glad to have internet access now.
+Sentiment: Positive

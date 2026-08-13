@@ -1,0 +1,18 @@
+Customer ID: 8543-MSDMF
+Topic: data unavailable despite active plan
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I can't seem to connect to my internet service. It says data unavailable despite having an active plan and paying $77.4 per month. 
+Agent:  I understand you're having trouble accessing your internet connection. Could you please confirm your account details?
+Customer: Sure, my name is [Name], and my account number is [Account Number].
+Agent: Thank you for providing that information. Let me check on the status of your service. 
+Customer:  My plan is month-to-month with DSL internet. I've been a customer for three months now.
+Agent: We are aware of a temporary issue with data availability affecting some customers. We’re working to resolve it as quickly as possible. 
+Customer:  Okay, how long will this take?
+Agent:  I apologize for the inconvenience. We hope to have the data restored within the next few hours.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! Hopefully I'll be back online soon."
+Sentiment: Positive

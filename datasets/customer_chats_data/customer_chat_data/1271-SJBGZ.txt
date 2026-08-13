@@ -1,0 +1,16 @@
+Customer ID: 1271-SJBGZ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is very slow. I subscribed to a 50 Mbps plan, but it's barely reaching 10 Mbps.  
+Agent: Thank you for contacting us. Could you please provide your account number and the specific details of the issue?
+Customer: Yes, my account number is 1234567890. My speeds have been consistently slow since last week. I've checked my router and there are no problems.
+Agent:  I understand your frustration. Let me check for any issues with our network in your area. 
+Customer: Thank you, that’s very helpful.
+Agent: I'm seeing some reports of network congestion in your region. We'll be working to address it. You can expect to see improvements within the next few days.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the update, it's disappointing that my speeds haven't improved after a week of consistent slowness."
+Sentiment: Negative

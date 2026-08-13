@@ -1,0 +1,20 @@
+Customer ID: 2428-HYUNX
+Topic: customer reports repeated unresolved problems
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm calling again about my internet service.  It seems like every time I try to use it something goes wrong. 
+Agent: I apologize for the inconvenience, Mr./Ms. [Last Name]. Could you please tell me your account number?
+Customer: It's 123-456-7890.
+Agent: Thank you.  I see that you have experienced recurring issues with connectivity. Let me check the history of your service plan and maintenance records.
+Customer: I just need my internet to work, it is very frustrating!
+Agent: We've run some diagnostics and there doesn't seem to be anything obvious at this time, but we can schedule a technician visit for you. 
+Customer: Okay, great. Thank you.
+Agent:  I'll go ahead and book that appointment for you.  What's your preferred date?
+Customer: I’m available anytime next week.
+Agent: Alright, we will send you an email confirmation with the date and time. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It seems like the issue is still ongoing despite troubleshooting, but the agent was helpful in finding a solution.
+Sentiment: Neutral

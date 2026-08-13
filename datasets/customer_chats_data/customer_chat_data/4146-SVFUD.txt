@@ -1,0 +1,16 @@
+Customer ID: 4146-SVFUD
+Topic: high latency or ping during usage
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I'm having terrible lag and high ping when using my internet.  It's been happening on and off all day.
+Agent: I understand your concern, I'll be happy to help troubleshoot this issue. 
+Customer: My service plan is month-to-month and it's DSL. It's only been running for a month now, so I'm not sure if there's something wrong with the line itself.
+Agent: Let me check your account details.  
+Customer: Okay.
+Agent: Thanks, [Name], we're looking into some potential network congestion in your area right now that is impacting speeds. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for explaining the issue and letting me know about the congestion! Hopefully, things will improve soon."
+Sentiment: Neutral

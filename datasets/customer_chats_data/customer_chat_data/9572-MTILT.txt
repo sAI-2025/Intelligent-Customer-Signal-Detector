@@ -1,0 +1,16 @@
+Customer ID: 9572-MTILT
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can’t connect to the internet at all. 
+Agent:  I understand your concern, could you please provide me with your account number and service address? 
+Customer: My account number is 1234567890. The address is 123 Main Street, Anytown, USA. 
+Agent: I'm seeing a fiber outage in your area. We are currently working to restore it as quickly as possible.  
+Customer: That’s great. Will my internet be back up and running soon? 
+Agent: Yes, we expect the service to be restored within 2 hours. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick update! I appreciate your updates on the outage."
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 8051-HJRLT
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble connecting to your service. My ping is extremely high and I can't play online games. 
+Agent:  I understand, let me take a look at your account information. What does the issue occur on? Is it during specific times or all the time?
+Customer: It happens constantly, even when there are no other users on the network. 
+Agent: I see your account details and fiber optic connection. Can you tell me your exact location and internet speed test results for us? 
+Customer: (location details and Speedtest results provided) 
+Agent:  Hmm, it seems like a temporary issue with local network congestion. We're working on resolving this right now. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! I appreciate that you're working to get things back up and running."
+Sentiment: Positive

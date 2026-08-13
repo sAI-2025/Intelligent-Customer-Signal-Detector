@@ -1,0 +1,18 @@
+Customer ID: 7579-OOPEC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to your service. It seems really slow. 
+Agent: Hello!  I understand you're experiencing high latency. Can you tell me a bit more about what you're seeing? What devices and applications are you using?
+Customer: On my laptop, everything is very laggy. I can't even load the news site!
+Agent:  I see.  Have you run any speed tests recently? 
+Customer: Yes, on my phone. My ping is over 100ms
+Agent: Ok, that's concerning. It looks like there might be a network issue in your area. I can check it for you right now. 
+Customer: Thank goodness! 
+Agent:  I will connect with the engineers and escalate this to see what we can do. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting things sorted out so quickly, much appreciated!"
+Sentiment: Positive

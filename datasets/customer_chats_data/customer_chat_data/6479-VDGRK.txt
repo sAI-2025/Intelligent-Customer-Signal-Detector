@@ -1,0 +1,27 @@
+Customer ID: 6479-VDGRK
+Topic: live TV freezes during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My live TV keeps freezing up during playback. It's been happening for a few days now. 
+
+Agent: I understand your frustration, I apologize for the inconvenience. Can you please provide me with your account details so I can look into this further?
+
+Customer: Sure, my account number is XXX-XXXX and my name is John Smith. 
+
+Agent: Thank you, John. Let's see what we can do.  We have a few technicians that are working on the issue right now. It might be a temporary network service outage in your area. 
+ 
+Customer:  Okay, thanks for letting me know. 
+
+Agent: You're welcome, John. I will keep you updated as soon as we have more information. 
+
+Customer: Great, thank you!
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me quickly and keeping me updated on the situation.
+Sentiment: Positive

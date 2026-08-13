@@ -1,0 +1,27 @@
+Customer ID: 5227-JSCFE
+Topic: customer reports repeated unresolved problems
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi, I'm calling about my internet service. It keeps dropping and I've already reported it twice this month. 
+
+Agent: I understand your frustration, Mr./Ms. [Last Name]. Can you please provide me with the account number and a brief description of the issue?
+
+Customer: My account number is [Account Number] and  the issues are frequent drops. 
+
+Agent: Thank you for providing that information. Could you tell me if there has been any recent changes to your equipment or network setup, such as adding new devices or moving your router? 
+
+Customer: No changes recently. I've had DSL internet with this company for a long time -  seven years, actually.
+
+Agent:  I apologize for the continued issues. I will look into this further for you. 
+
+Customer: Thanks.
+
+Agent: Thank you for contacting us.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Still hoping to get this resolved quickly as the dropped internet is very frustrating."
+Sentiment: Neutral

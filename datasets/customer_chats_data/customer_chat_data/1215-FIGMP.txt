@@ -1,0 +1,31 @@
+Customer ID: 1215-FIGMP
+Topic: service cancellation option difficult to find
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble canceling my service online. I need to cancel my contract. 
+
+Agent:  I understand your frustration, let me guide you through the cancellation process.  What is your account number?
+
+Customer: It's [account number] and I signed up for a month-to-month plan back when I moved.
+
+Agent: Thank you. We offer a simplified method for service cancellation. 
+   You may have to call our customer service line, however, we do try to help customers with their service changes where possible.
+
+
+Customer: Thanks, but there isn't a clear way to cancel online!  I only want to cancel my service and not my account
+
+Agent: Our online portal does offer an option for account closure after the completion of your current billing cycle. 
+   Please contact us if you have any questions or require further assistance.
+
+Customer: Okay, what's the phone number?
+
+Agent: You can reach our customer service line at 1-800-555-1234
+
+Customer: Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in guiding me to cancel my service, the online process needs improvement for clarity and ease of cancellation.
+Sentiment: Neutral

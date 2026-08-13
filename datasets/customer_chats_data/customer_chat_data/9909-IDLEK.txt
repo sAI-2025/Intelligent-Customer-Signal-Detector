@@ -1,0 +1,15 @@
+Customer ID: 9909-IDLEK
+Topic: customer asks about installation status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just wanted to check on the installation status for my service. My address is [Address]. 
+Agent: Hello!  Thank you for contacting us. Please allow me to pull up your account information. 
+Customer: Thanks
+Agent: Your Fiber optic installation has been scheduled for tomorrow at [Time]. We'll send you an email confirmation with the technician's name and details.
+Customer: Okay, thanks so much for letting me know. 
+Agent: You are welcome! It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for the update, everything seems clear now!"
+Sentiment: Positive

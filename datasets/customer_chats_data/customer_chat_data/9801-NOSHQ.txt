@@ -1,0 +1,18 @@
+Customer ID: 9801-NOSHQ
+Topic: line transfer or replacement problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't get through to anyone on my landline.  
+Agent: Thank you for contacting us, what is your account number? 
+Customer: ...
+Agent:  I'm sorry to hear about this issue. We have a hold on line transfers in the system. 
+Customer:  What do I need to do? 
+Agent: Let me see if there is an option to re-route or we can look into having your line replaced. 
+Customer:   Okay, I'd prefer to just replace it. 
+Agent: A replacement would be done today and you can expect a call from our team by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in resolving my landline issue.  I appreciate their quick response and proactive solution.
+Sentiment: Positive

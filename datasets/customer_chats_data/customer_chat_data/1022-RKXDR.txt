@@ -1,0 +1,30 @@
+Customer ID: 1022-RKXDR
+Topic: one phone line has no service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I don't have any service on my phone line. 
+
+Agent:  Hi there!  I understand your concern about no service. Can you please provide your account number?
+
+Customer: It’s 1234567890. 
+
+Agent: Thank you for providing your account number, I'm sorry to hear you are experiencing this issue. Please hold while I look into the matter further.  
+
+Customer: Thanks
+
+Agent: Alright, I see that there might be an outage in your area. We will have a technician take care of it soon. 
+
+Customer: Okay. 
+
+Agent: Would you like me to update the billing information?
+
+Customer: No thank you, just let me know when it's back on. 
+  
+Agent: Alright, we’ll do that. Thank you for contacting us.   
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the quick response and update! Looking forward to service returning."
+Sentiment: Positive

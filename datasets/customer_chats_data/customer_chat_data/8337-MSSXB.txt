@@ -1,0 +1,16 @@
+Customer ID: 8337-MSSXB
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is terrible. It's barely above dial-up! I need to finish a video edit and this is ridiculous.
+Agent:  I understand your frustration, I apologize for the slow speed you are experiencing. 
+Customer:  How long will it take to fix this?  Is there an outage or something that can be done?
+Agent: Let me check on your account details. Your fiber optic connection should have been optimized recently. Please allow a few minutes.
+Customer:  Okay, thanks!
+Agent: I've verified the recent service upgrade was implemented correctly.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent did seem helpful, it would be nice to know how long this optimization process will take."
+Sentiment: Neutral

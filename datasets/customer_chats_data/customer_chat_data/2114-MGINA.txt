@@ -1,0 +1,17 @@
+Customer ID: 2114-MGINA
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been slower than what I’m used to lately. I’ve subscribed to 100 Mbps plan.
+Agent: I understand your concern, [customer name]. Could you please provide your account information so we can check on the current speed test results? 
+Customer: Here it is - Account number 1234567890 and my name is John.
+Agent: Thank you, John. We'll be happy to assist you with this. Please allow me a moment while I look into your account. 
+Customer:  Thank you! This has been happening for the last few days. 
+Agent: Upon checking your account, we noticed there was an unexpected outage in your area on Tuesday. We apologize for any inconvenience this may have caused. 
+Customer: Thank goodness! 
+Agent: You're welcome, John. Please let me know if you have any further questions.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quick to resolve the issue. Thanks for getting back to me so quickly!
+Sentiment: Positive

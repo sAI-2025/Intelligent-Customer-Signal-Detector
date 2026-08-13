@@ -1,0 +1,20 @@
+Customer ID: 5669-SRAIP
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed has been significantly slower than expected for the past few days. I'm paying $39.5 per month and just started my contract 5 months ago. Is there something going on with my DSL connection?
+
+Agent: Hello! Thank you for contacting us,  I understand your frustration. Could you please provide your account details so I can check the status of your service? 
+
+Customer: Sure, my name is John Smith and my account number is 1234567890. 
+
+Agent:  John, thank you. We'll look into this for you right away. 
+
+Customer:  Thanks so much! I hope you can find a solution soon.
+
+Agent:  I will be sure to look into the issue and resolve it as soon as possible. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: It's good to know they're working on it, but hopefully this gets addressed quickly!
+Sentiment: Neutral

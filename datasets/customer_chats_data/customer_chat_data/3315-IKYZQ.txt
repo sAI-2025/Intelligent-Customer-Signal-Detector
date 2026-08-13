@@ -1,0 +1,17 @@
+Customer ID: 3315-IKYZQ
+Topic: customer was charged after cancellation
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I recently cancelled my service and was charged today. My account is [Account number] 
+Agent:  I understand you are concerned about a charge after cancellation. Can you please provide your full name and date of birth?
+Customer: My name is John Smith, and the contract ended on [Date]. 
+Agent: I see John Smith with an active DSL account that has been billing for over two months now. 
+Customer:  That's right. 
+Agent: Let me look into this for you. We are sorry about the mistake. 
+Customer: Thank you.   
+Agent:  I have resolved this issue and it should not happen again.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the resolution, I'm still confused why the account wasn't properly cancelled after [date].
+Sentiment: Negative

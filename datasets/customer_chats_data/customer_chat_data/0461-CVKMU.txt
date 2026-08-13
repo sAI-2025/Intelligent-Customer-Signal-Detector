@@ -1,0 +1,25 @@
+Customer ID: 0461-CVKMU
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in some rooms of my home. 
+
+Agent:  I understand your concern. Can you please tell me a little more about this?
+
+Customer: My living room and bedroom are both weak. The rest of the house has great signal. 
+ 
+Agent: Thank you for that information. I'd be happy to help investigate further.  Please allow me to check your account. 
+
+Customer: Okay, thanks.
+
+Agent: I've checked your account and it looks like everything is working as it should. There doesn’t appear to be a known issue with the signal strength in your home. 
+ 
+Customer: Really? That’s strange because it seems so bad for those rooms specifically. 
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the agent's thoroughness,  I still find it hard to believe the signal is fine in those specific rooms.
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 4183-WCSEP
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to Wi-Fi in my living room and bedroom. 
+Agent: Thank you for contacting us! Could you please tell me your account number and which rooms are experiencing the weak signal?  
+Customer: My account number is XXXXXXXXXX. The living room and bedroom have weak signals.
+Agent: I understand, I'll look into this for you. We might need to check with our technician about possible network issues in these areas. 
+Customer: Thanks.
+Agent: No problem at all!  I've checked your account and there are no reported outages or signal problems in those rooms. We can try resetting your modem/router. Is that something you’d like to try? 
+Customer: Yes, please. 
+Agent: Okay, I'll guide you through the process.  Let me know if anything else comes up!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution!  Thanks for the assistance.
+Sentiment: Positive

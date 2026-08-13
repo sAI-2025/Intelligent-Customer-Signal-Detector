@@ -1,0 +1,17 @@
+Customer ID: 3769-MHZNV
+Topic: outgoing calls failing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there, I'm having trouble with my calls failing out of nowhere. 
+Agent:  I understand that you're experiencing issues with your outgoing calls. What specific issue are you facing?
+Customer: It seems like they just stop working completely, and then the caller gets a busy signal or error message on their end.
+Agent: I'd be happy to look into this for you. Can you please provide me with your account number and the phone number you're having problems connecting to?
+Customer:  Here it is, 1234567890. The caller is usually a neighbor's young son who calls about dog walks.  
+Agent:  Thanks for that information. I'm checking your account now and will get back to you shortly. 
+Customer:  Thank you
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent’s prompt attention to my issue, hopefully it gets resolved soon!
+Sentiment: Positive

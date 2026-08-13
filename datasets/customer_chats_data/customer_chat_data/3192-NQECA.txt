@@ -1,0 +1,16 @@
+Customer ID: 3192-NQECA
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been really slow and unstable lately.  It's almost unusable for work calls and streaming. 
+Agent: I understand your frustration. Can you please provide your account information so I can take a look at the details of your service? 
+Customer: Sure, my name is John Smith, account number 1234567890.  I'm on a two-year contract and pay $110/month for fiber optic.
+Agent: Thank you, John. I've checked the connection details and it seems like there might be an issue with your router. Can you try restarting it? 
+Customer: Already did that, but no change.  
+Agent: Alright, let me run a speed test to verify.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the solution was helpful, I'm still having significant connectivity issues that are impacting my work and enjoyment of streaming. Hopefully, this issue gets resolved quickly."
+Sentiment: Neutral

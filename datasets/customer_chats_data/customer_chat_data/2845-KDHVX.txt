@@ -1,0 +1,18 @@
+Customer ID: 2845-KDHVX
+Topic: mobile data becomes unusually slow
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm experiencing very slow mobile data speeds today. It's been much slower than usual. 
+Agent:  I understand your concern about your mobile data speed. Could you please tell me your account number and the device you are using?
+Customer: My account number is XXX-XXXXXXX. It's an iPhone.
+Agent: Thank you for providing that information, I am checking on your service plan and data usage to see if anything unusual is occurring. 
+Customer:  Thanks.
+Agent:  I have noticed some recent changes in your monthly bandwidth allocation and speed. Would you like me to explain those further?
+Customer: Yes please.
+Agent: We're currently working on a temporary solution for your issue, the issue should be resolved by the end of today. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful! Thank you for addressing the issue and providing updates.
+Sentiment: Positive

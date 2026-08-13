@@ -1,0 +1,17 @@
+Customer ID: 1599-EAHXY
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It's much slower than expected.
+Agent:  I understand your frustration, [customer name]. Could you please tell me your account number and where you're experiencing slow speeds? 
+Customer: Sure, my account number is 12345678. I live in a small town with limited internet options. 
+Agent: Okay, thanks for that information.  I'll look into this further for you. 
+Customer: Any idea how long it might take to resolve?
+Agent: We are working on getting your upload speed back to optimal levels. Please stay patient and I'll update you as soon as possible. 
+Customer: Thanks for the help, I appreciate that!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for helping me resolve this issue.  I really appreciate your promptness.
+Sentiment: Positive

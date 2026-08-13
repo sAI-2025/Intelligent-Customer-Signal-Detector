@@ -1,0 +1,15 @@
+Customer ID: 3336-JORSO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my Wi-Fi signal is very weak in the living room. I can barely stream movies. 
+Agent:  I understand your frustration. What's the exact address of the living room and which devices are you having trouble with?
+Customer: 123 Main Street, Apartment B. My smart TV, laptop, and tablet all struggle to connect properly. 
+Agent:  Ok, thanks for that information. We've got a few technicians scheduled for your area today, I will have them check it out.
+Customer: That would be great!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting this issue sorted out quickly!  I appreciate the prompt action.
+Sentiment: Positive

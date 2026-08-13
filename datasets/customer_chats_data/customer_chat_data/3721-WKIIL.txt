@@ -1,0 +1,19 @@
+Customer ID: 3721-WKIIL
+Topic: customer cannot find expected self-service option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't find the option to change my billing plan online. 
+Agent:  I understand you need assistance changing your billing plan. Can you please tell me which plan you're trying to switch to? 
+Customer: The one that offers 10 GB of data for $19.60 a month. 
+Agent: I see, and are you looking to make this change online yourself or via phone call? 
+Customer: Online.  I've been trying to find it but can't locate the option.
+Agent: Let me guide you through finding that plan. Would you like me to walk you through our online self-service portal?
+Customer: Yes, please. I appreciate your help.
+Agent: Sure thing! Click on "Manage My Account" and then select "Billing." From there you should see a section for changing plans. 
+Customer: Thanks! 
+Agent: You're welcome! Did that fix your issue? Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for walking me through it, the online option was easy to find after all!
+Sentiment: Positive

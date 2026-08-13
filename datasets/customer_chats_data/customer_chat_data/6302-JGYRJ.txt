@@ -1,0 +1,16 @@
+Customer ID: 6302-JGYRJ
+Topic: downloaded music cannot play offline
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My downloaded music won't play offline on my account. 
+Agent: Thank you for contacting us. I understand you're experiencing an issue with downloading music and being unable to play it offline. Can you please confirm your device and the specific music titles that are not playing?
+Customer:  I have a Samsung Galaxy S23. The songs "Bohemian Rhapsody" by Queen and "Hotel California" by Eagles are the two I'm having trouble with. 
+Agent: Thanks for providing details. Let me check on this for you, I will get back to you shortly. 
+Customer:  Okay. 
+Agent: We have a technical issue affecting some music downloads recently. It should be resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for letting me know, I appreciate the update and look forward to being able to enjoy my downloaded songs offline soon!"
+Sentiment: Positive

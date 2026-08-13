@@ -1,0 +1,19 @@
+Customer ID: 5130-IEKQT
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my bedroom. The signal is very weak. 
+Agent:  I understand your frustration, let me check on that for you.  Could you please tell me your account number and the address of the house?
+Customer: My account number is 1234567890, and it's at 123 Maple Street. 
+Agent: Thank you. I see there are a couple of possible reasons for this. Could you try restarting the modem/router?  
+Customer:  I just did that, but no difference.   
+Agent: Let me look into your account further and see if anything else is going on.  
+Customer: That would be great. 
+Agent: I've run a diagnostics check; there doesn't appear to be any technical issue with the connection. Would you mind checking the router placement?
+Customer: Thanks, that might help.   
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: It seems like the Wi-Fi problem is resolved now, thanks for your help!
+Sentiment: Positive

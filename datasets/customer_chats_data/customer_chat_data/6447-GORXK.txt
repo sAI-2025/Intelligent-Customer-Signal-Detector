@@ -1,0 +1,17 @@
+Customer ID: 6447-GORXK
+Topic: mobile data disconnects frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having a lot of trouble with my mobile data disconnecting frequently. It seems to happen more often than usual.
+Agent:  I understand your frustration, I apologize for the inconvenience. What device and plan are you using? 
+Customer: I use an iPhone 13, and I have a month-to-month plan for $25/month. My internet connection is DSL. 
+Agent: Thank you for that information.  Have you noticed any specific patterns or triggers for the disconnects? 
+Customer: It seems to happen more often when I'm using data heavy apps like streaming.
+Agent:  I'll look into this further and see what we can do.
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, hopefully a fix will be easy to implement!"
+Sentiment: Positive

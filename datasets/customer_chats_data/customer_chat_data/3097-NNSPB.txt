@@ -1,0 +1,18 @@
+Customer ID: 3097-NNSPB
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting a stable internet connection. It's constantly dropping in and out. 
+Agent: I understand your concern.  Please let me know your account details so I can look into this further. 
+Customer: Sure, my account number is XXXXXXX-XXX-XXX. And it's the DSL package.
+Agent: Thank you for providing that information. I am checking the current status of your service now and will see if there are any issues on our end. 
+Customer: Alright, thanks.  
+Agent: No problem at all. We're working to resolve this issue. 
+Customer: Okay.  
+Agent:  Let me know if you experience further connectivity issues after I check the system status. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it! Hopefully, things will be back to normal soon."
+Sentiment: Neutral

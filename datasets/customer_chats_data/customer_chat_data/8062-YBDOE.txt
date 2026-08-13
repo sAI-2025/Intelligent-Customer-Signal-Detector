@@ -1,0 +1,17 @@
+Customer ID: 8062-YBDOE
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is terrible! It's only averaging 5 Mbps when I'm paying for 100.
+Agent:  I understand your frustration. Let me check on your account details and service plan. 
+Customer: Yes, it's just been slow for the last few days. I've tried everything to troubleshoot.
+Agent:  Thank you for letting me know.  We can definitely look into that further. To help with troubleshooting, can you provide me your account number or your full name and address on file? 
+Customer: My Account Number is XXX-XXXX-XXXXXXX
+Agent:  I appreciate it, and I'll be happy to take a look at those details.
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was prompt and helpful, and hopefully the issue will be resolved soon.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1043-UXOVO
+Topic: refund inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to request a refund on my internet service.
+Agent:  I understand you'd like a refund. Can you please tell me more about your reason? 
+Customer: My contract is ending soon and I'm switching providers.
+Agent:  We appreciate you choosing us for the past two years.  To process your request, would you mind providing your account details? 
+Customer: Sure, [account number] and [phone number].
+Agent: Thank you. We'll review your account and get back to you within 24 hours with a decision. 
+Customer: Okay, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The process was straightforward and the agent was helpful. Thanks!"
+Sentiment: Positive

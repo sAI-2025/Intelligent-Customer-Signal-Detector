@@ -1,0 +1,23 @@
+Customer ID: 1934-SJVJK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there!  My internet is completely down and I can't connect to any websites. 
+
+Agent: Hi there! We're sorry to hear your internet is down. Can you please tell me your account number or email address?
+
+Customer:  It's [insert account number]
+
+Agent: Thank you, I'm checking on your service and will get back to you as soon as possible. 
+
+Customer: Thanks!
+
+Agent: We're working on a solution for you. Please stay patient while we investigate the issue. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly, I hope things get resolved soon.
+Sentiment: Positive

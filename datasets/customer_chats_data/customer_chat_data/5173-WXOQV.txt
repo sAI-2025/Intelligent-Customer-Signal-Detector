@@ -1,0 +1,18 @@
+Customer ID: 5173-WXOQV
+Topic: customer cannot use data-intensive applications
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I can't seem to use my data-intensive applications like streaming video or downloading large files.  It keeps buffering and lagging. 
+Agent: We apologize for the inconvenience. To help troubleshoot your issue, could you please tell me what kind of applications you are having trouble with? 
+Customer: Primarily video streaming and file downloads. 
+Agent: Alright, we'll take a look at your connection details.  Could you provide me with your account name or any relevant identifiers for the service plan? 
+Customer: [Account information]
+Agent: Thank you, I've checked your account and it seems there may be a temporary issue with our network capacity in your area. 
+Customer: Okay, thanks.
+Agent:  We are actively working on resolving this issue. We will update you when we have more information on the timeframe for resolution. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and kept me updated, even though it seems like a network issue is causing the problem."
+Sentiment: Positive

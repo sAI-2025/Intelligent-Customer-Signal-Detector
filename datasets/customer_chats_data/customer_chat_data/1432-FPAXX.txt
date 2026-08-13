@@ -1,0 +1,17 @@
+Customer ID: 1432-FPAXX
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet has been very slow during peak hours lately. It seems to be struggling with buffering and lagging.
+Agent: I understand your frustration, I'm sorry to hear about the connection issues you're experiencing. 
+Customer: It's become quite difficult to work from home efficiently.  My contract is month-to-month.  
+Agent: Can you tell me a bit more about what time of day this occurs? 
+Customer: Mostly between 5pm and 9pm, when everyone else seems to be using the internet.
+Agent: I'll investigate potential network congestion during peak hours. Let me know if any updates occur.
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully this issue gets resolved soon as it's making working from home nearly impossible."
+Sentiment: Negative

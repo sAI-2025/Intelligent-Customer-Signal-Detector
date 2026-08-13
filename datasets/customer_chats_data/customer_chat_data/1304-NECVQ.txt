@@ -1,0 +1,17 @@
+Customer ID: 1304-NECVQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can’t seem to connect to the internet at all.  I just get a spinning wheel.
+Agent:  I understand your concern about not being able to connect to the internet. Let's troubleshoot this together. What is your account name or number? 
+Customer: It's 1234567890, my username is John Smith.
+Agent: Thank you for providing that information.  I see there seems to be an issue with the Fiber optic line currently. 
+Customer: Oh, I hope this gets fixed soon! 
+Agent: Our technical team is working on it now and we will notify you once the service is restored. 
+Customer: Thanks a bunch. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know what's happening, I appreciate your update."
+Sentiment: Positive

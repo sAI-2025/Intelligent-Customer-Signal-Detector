@@ -1,0 +1,15 @@
+Customer ID: 1064-FBXNK
+Topic: price differs from advertised plan
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I noticed the monthly price advertised on your website differs from what I am currently paying. 
+Agent: Thank you for contacting us! We'd be happy to look into this for you.  What plan are you referring to?
+Customer: The Basic internet plan I signed up for last month. 
+Agent:  I see, and you're on the $19.85 per month plan with a one-year contract, correct? 
+Customer: Yes, that's right. 
+Agent: Thank you for confirming. We will investigate why the prices seem to be different from what is advertised. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This issue was resolved quickly and efficiently.  Thank you!
+Sentiment: Positive

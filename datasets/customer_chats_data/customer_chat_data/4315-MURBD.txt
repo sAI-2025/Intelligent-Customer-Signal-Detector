@@ -1,0 +1,18 @@
+Customer ID: 4315-MURBD
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to my Wi-Fi in the living room and dining room. 
+Agent:  I understand you're experiencing a weak Wi-Fi signal in certain rooms. Could you please tell me your modem model number and what type of router you have?
+Customer: It's a Netgear Nighthawk, model R7000. I have the default TP-Link router included with my service. 
+Agent:  I'd be happy to help. Have you recently made any changes to your home network or equipment? 
+Customer: No, everything has been the same for months. 
+Agent: Thanks for letting me know. Let me check our logs and see what I can find. 
+Customer:  Okay, thank you. 
+Agent: Based on the information provided, there are no known issues with your service at this time. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It seems like the issue was resolved quickly, thanks!"
+Sentiment: Positive

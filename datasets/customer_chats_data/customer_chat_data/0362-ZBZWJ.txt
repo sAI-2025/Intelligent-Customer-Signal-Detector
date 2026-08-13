@@ -1,0 +1,17 @@
+Customer ID: 0362-ZBZWJ
+Topic: equipment-related charge dispute
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I have a dispute about my equipment charge on my bill. It seems like it was charged for an item I didn't receive or use.
+Agent:  Thank you for reaching out to us, what is your account number? 
+Customer: [Account Number]
+Agent: Thank you. Let me take a look at your account. Can you please tell me more about the equipment charge?
+Customer: The bill shows I was charged $39.99 for an internet modem rental.  I have not used or received this equipment. 
+Agent: I see, we will need to verify this with our system. Please give us a few minutes while we investigate further. 
+Customer: Thank you!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quick to resolve my issue, thank you!"
+Sentiment: Positive

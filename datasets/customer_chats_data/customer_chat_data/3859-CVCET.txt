@@ -1,0 +1,18 @@
+Customer ID: 3859-CVCET
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my Wi-Fi in the living room. It's very weak and drops frequently. 
+Agent:  I understand your frustration. What device are you using to connect to the internet?
+Customer:  My laptop. 
+Agent:  Could you tell me your account details so I can check the connection status for you? 
+Customer:  Sure, my account number is 12345678 and the name on the account is [Name].
+Agent: Alright, let me just... (checks information) Yes, we have a couple of reports about intermittent issues in your area. Do you mind if I send an engineer out to take a closer look at your connection? 
+Customer:  That would be great. Thank you!
+Agent:  Of course, I'll schedule that for tomorrow morning around 10 am. Thanks for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very helpful and efficient process. Thank you!
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 1661-CZBAU
+Topic: password reset fails
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am unable to reset my password.  I keep getting an error message that says 'invalid username or email address.' 
+
+Agent: I understand your frustration, we'll get this sorted out for you. Can you please provide us with the email address associated with your account?
+
+Customer: The one I use is [email protected]
+
+Agent: Thank you. Let me check your account information. Please hold while I verify.
+
+Customer: Okay.
+
+Agent:  Your account is verified, and we can see there are no issues with your username or email address. 
+
+Customer: So what do I need to do?  I've tried everything I can think of.
+
+Agent: The issue has been resolved. You can now reset your password by following the steps on our website. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was incredibly helpful and patient, and I was able to finally get my password reset!
+Sentiment: Positive

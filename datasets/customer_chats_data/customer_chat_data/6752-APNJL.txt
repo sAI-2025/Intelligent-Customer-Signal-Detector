@@ -1,0 +1,23 @@
+Customer ID: 6752-APNJL
+Topic: phone service activated but not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just activated my phone service but it's not working yet. 
+
+Agent:  Hi there! I understand you’re having trouble with your phone service activation. Can you please provide me with your account number and the specific problem you are facing? 
+
+Customer: My account number is [account number] and the issue is that my calls aren't connecting.
+
+Agent: Thank you for providing that information. Let me check your account details. 
+
+Customer:  Okay, thanks!
+
+Agent: I see that your DSL internet service is activated as well. Please try restarting your phone’s SIM card by removing it and putting it back in. This should solve the issue.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quickly resolved my problem!"
+Sentiment: Positive

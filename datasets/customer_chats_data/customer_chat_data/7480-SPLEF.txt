@@ -1,0 +1,17 @@
+Customer ID: 7480-SPLEF
+Topic: customer wants to activate unlimited data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'd like to activate unlimited data on my account. My plan is a two-year contract and currently pays $26 per month. 
+Agent:  I can certainly help with that! Could you please provide your account number? 
+Customer: It's [account number] 
+Agent: Thank you. We have a new promotion for unlimited data, and it will be a small increase in price after the end of your current contract.  Would you like to upgrade?
+Customer: Yes, please. 
+Agent: I can activate that for you right away.  Your monthly cost would now be $35 per month.
+Customer: Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for helping me switch to unlimited data! The process was quick and easy.
+Sentiment: Positive

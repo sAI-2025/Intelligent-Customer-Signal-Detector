@@ -1,0 +1,18 @@
+Customer ID: 1038-ZAGBI
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is really weak in some rooms of my house. It works fine in others.
+Agent: I understand your concern, I'd be happy to help you troubleshoot this. Can you tell me a bit more about the specific rooms and where you are seeing the weak connection? 
+Customer:  Mostly living room and basement. Internet is only for streaming and video calls.
+Agent: Okay, we can look into that. I just need to get a little information before sending someone out. 
+Customer: Just tell me what you'd like me to do?
+Agent: I just need the address of your house so I can check your service area and see if there are any known issues. 
+Customer: (Provides Address)  
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me troubleshoot this!  I appreciate the quick response."
+Sentiment: Positive

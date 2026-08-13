@@ -1,0 +1,16 @@
+Customer ID: 4713-LZDRV
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my Wi-Fi signal in the living room. It's weak and keeps dropping out. 
+Agent:  I understand your concern, let me ask some questions to help troubleshoot this for you. Can you please tell me which device you're using? Is it a laptop or desktop, etc.?
+Customer: Laptop.
+Agent: Okay. Also, are there any obstructions in the living room that might be blocking the signal? 
+Customer: There is a bookshelf and some furniture in the way.
+Agent: Thank you for providing that information. I can suggest moving your device away from these objects or consider adjusting your router's positioning.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and offered good troubleshooting advice, thanks for the assistance!
+Sentiment: Positive

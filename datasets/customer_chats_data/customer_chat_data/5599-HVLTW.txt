@@ -1,0 +1,17 @@
+Customer ID: 5599-HVLTW
+Topic: TV streaming quality automatically decreases
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My TV streaming quality has been very poor lately. It keeps buffering and pausing a lot. 
+Agent: I understand your frustration. May I ask what specific services you are experiencing issues with?
+Customer:  I'm using the Premium plan for all my streaming, and it's getting worse over time.  
+Agent: Let me check our records on your account. 
+Customer: My internet speed is good, so it shouldn’t be a problem with my connection.
+Agent: We can take a look at your account to see if there is anything we can adjust on our end. Would you like me to schedule a time to review the logs?
+Customer:  Yes, please. 
+Agent: I'll be in touch shortly to discuss next steps. Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick response and willingness to help solve this streaming issue! Let's hope we can get things back to normal soon.
+Sentiment: Positive

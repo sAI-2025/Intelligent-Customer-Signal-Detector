@@ -1,0 +1,17 @@
+Customer ID: 2436-QBZFP
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection is really slow and unstable.  It's been happening all day. 
+Agent: I understand your concern. Can you please tell me what kind of device you are using?
+Customer: Laptop.  I was just trying to download an update for it.
+Agent: Okay, thank you. Let me check on the connection status.  
+Customer: No problem. Thanks!
+Agent: Our records show a DSL internet plan with your account. We're working on resolving this issue. Please hold while we investigate further. 
+Customer: Thank you.  
+Agent:  The issue has been resolved, and your internet should be functioning normally now.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick resolution! My internet seems much better now. 😊
+Sentiment: Positive

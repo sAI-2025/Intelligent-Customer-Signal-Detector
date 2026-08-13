@@ -1,0 +1,17 @@
+Customer ID: 3768-NLUBH
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is really slow and keeps disconnecting. I’m on a month-to-month plan.
+Agent:  I understand you're experiencing connectivity issues with your Fiber optic service. May I have your account number? 
+Customer: 1234567890 
+Agent: Thank you for providing your account information. I can check the current status of your connection and help troubleshoot this issue.
+Customer:  Really appreciate it!  My internet speeds are terrible. 
+Agent: Let me take a look. I'm seeing some intermittent network errors in your area. 
+Customer: Thanks for looking into this, hope you can fix it soon!   
+Agent: We'll get the problem resolved as quickly as possible. The technical team is working on it now.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's great to hear the issue is being addressed, thanks for your help!"
+Sentiment: Positive

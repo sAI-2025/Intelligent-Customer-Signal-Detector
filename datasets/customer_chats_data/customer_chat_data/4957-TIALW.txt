@@ -1,0 +1,24 @@
+Customer ID: 4957-TIALW
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm experiencing slow internet speeds during peak hours. It's been very frustrating! 
+
+Agent:  I understand your frustration.  Let's take a look at what's going on. Could you please provide me with your account information? 
+
+Customer: Sure, it's [account number]. I have DSL service and it's my only internet connection. 
+   
+Agent: Okay, thank you.  I see that this issue is occurring during peak hours. Have you experienced any similar issues in the past? 
+
+Customer: It seems to be happening more frequently lately than before. 
+
+Agent: I'll check our network logs for anything unusual during those periods.  We'll look into it and get back to you as soon as we have an update!  
+    
+Customer: Thank you, I appreciate your help. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very helpful and efficient process. Thanks for getting this sorted out!
+Sentiment: Positive

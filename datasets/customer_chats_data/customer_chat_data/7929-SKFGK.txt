@@ -1,0 +1,15 @@
+Customer ID: 7929-SKFGK
+Topic: customer asks about installation status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just wanted to check on the installation status for my new Fiber optic service. It’s scheduled for tomorrow afternoon. 
+Agent:  Certainly! Your installation is scheduled for tomorrow afternoon. You should receive a notification from us with a time frame later today. 
+Customer: Okay, thanks.
+Agent:  No problem at all. We look forward to connecting you to our high-speed fiber optic internet. 
+Customer: I'm excited to see it! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is great news! Thanks for the update and looking forward to getting started with my service.
+Sentiment: Positive

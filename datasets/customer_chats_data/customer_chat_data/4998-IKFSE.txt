@@ -1,0 +1,22 @@
+Customer ID: 4998-IKFSE
+Topic: internet service activation problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble activating my new internet service. It says it's been activated but I can't connect to the network. 
+Agent: Hello!  I understand you're experiencing connectivity issues with your newly activated Fiber Optic service.  May I have your account number, please?
+Customer: Sure, it's X-123456789. 
+Agent: Thank you for providing that information. Let me check the system to see what might be causing this issue.
+Customer: No worries. 
+Agent:  I've confirmed your service is activated and should now be working.  Can you double-check your modem/router connection? 
+Customer:  I did, but it seems like nothing is changing.
+Agent: Okay, one moment. Let me connect you to a specialist who can assist further with troubleshooting the problem.  
+Customer: Ok thank you
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the help but unfortunately I'm still unable to connect to the network, despite following the agent's instructions.
+Sentiment: Negative

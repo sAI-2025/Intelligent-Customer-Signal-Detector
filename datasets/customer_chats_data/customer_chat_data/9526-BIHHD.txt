@@ -1,0 +1,18 @@
+Customer ID: 9526-BIHHD
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is really slow today, even when I'm not doing anything. Is there a known outage in my area? 
+Agent:  I understand your frustration. Let me check on your account to see what might be causing this issue. 
+Customer:  Thanks! 
+Agent: Your DSL plan typically has speeds of up to 10 Mbps.  Do you have any recent changes to your internet use, like streaming or downloading a lot of data?
+Customer: No, it's just slow browsing and checking email. 
+Agent: I see that you are experiencing issues during peak hours. 
+Customer: That makes sense! 
+Agent: Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the info, I appreciate the explanation about peak hours. 😊
+Sentiment: Positive

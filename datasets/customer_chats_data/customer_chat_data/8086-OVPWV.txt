@@ -1,0 +1,26 @@
+Customer ID: 8086-OVPWV
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with my internet speed during peak hours. 
+
+Agent:  I understand your issue, I'd like to help get things back on track. What are you experiencing?
+
+Customer:  It seems like everything slows down significantly around 7 pm and 9 pm each evening.
+
+Agent:  Ah, that's a busy time for many. Let me check the current status of your service. 
+
+Customer:  I just started using fiber optic internet two months ago. I’m paying $80.2 per month.
+
+Agent: I see here you're on our standard Fiber Optic plan. Let me run some checks to see what might be causing this slowdown. 
+ 
+Customer: Okay, thanks.
+
+Agent:  We may have a temporary congestion issue with the network during peak hours, but I will look into other potential causes as well.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me troubleshoot my slow internet. It feels like things are finally running smoothly again!"
+Sentiment: Positive

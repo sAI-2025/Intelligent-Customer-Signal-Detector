@@ -1,0 +1,17 @@
+Customer ID: 4873-ILOLJ
+Topic: customer wants to activate unlimited data
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'd like to activate unlimited data on my account. 
+Agent:  Certainly! Please confirm your full name and the account number associated with your monthly payment of $90.35.
+Customer: My name is Thomas Miller, and the account number is 123456789.
+Agent: Thank you, Mr. Miller. I'd like to ensure we have all the correct information before proceeding.  Your Fiber Optic internet plan will be upgraded.
+Customer: Alright. Is there a cost difference for unlimited data?
+Agent: Your current plan is already at the top tier of our service offerings and includes unlimited data with your monthly payment, Mr. Miller! 
+Customer: Oh, okay. Thanks for letting me know. 
+Agent:  You're welcome, Mr. Miller. We appreciate you calling. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and clear in explaining the details of my existing plan.
+Sentiment: Positive

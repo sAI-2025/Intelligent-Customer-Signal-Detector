@@ -1,0 +1,18 @@
+Customer ID: 2361-FJWNO
+Topic: certain TV channels unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't seem to get certain TV channels on my cable package. 
+Agent:  Hello! I apologize for this inconvenience. Can you please tell me your account details?
+Customer: My name is John Smith, my account number is 1234567890, and I have a one-year contract.
+Agent: Thank you, Mr. Smith.  I see there's an issue with channel availability on your DSL connection.
+Customer: It seems like some popular channels are missing for me.  How can I get them back?
+Agent: We're currently experiencing technical issues with a few TV channels. 
+Customer: Ok, thanks for the update. Any estimate when this will be resolved? 
+Agent: Our engineers are working on it and we expect to have the issue resolved within the next 24 hours.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update - I appreciate the prompt response, even if the channel issues persist."
+Sentiment: Positive

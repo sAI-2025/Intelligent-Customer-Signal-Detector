@@ -1,0 +1,17 @@
+Customer ID: 4208-UFFGW
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I'm paying $44.95/month and using DSL. 
+Agent:  I understand your concern.  Can you tell me your account number or the name on the account?
+Customer:  My account number is 1234567890, my name is Mary Smith. 
+Agent: Thank you, Ms. Smith. I'm looking into this issue now. 
+Customer: It's been slow for a few days now. My internet speeds were much faster before. 
+Agent:  I apologize for the inconvenience. We'll investigate this further and get back to you with an update. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick resolution, but I hope they can identify the cause of the sudden drop in speed and offer a solution soon!
+Sentiment: Positive

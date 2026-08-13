@@ -1,0 +1,24 @@
+Customer ID: 7025-WCBNE
+Topic: TV streaming buffering frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble streaming my shows! It keeps buffering constantly.
+
+Agent:  I understand your frustration with buffering issues, especially when trying to enjoy your favorite shows. 
+
+Customer:  It seems like every few minutes it cuts out. My internet is DSL and I've been a customer for over four years now.  My contract is $59.60 per month.
+
+Agent: To troubleshoot this issue further, could you please provide me with your account number and the specific device you're using to stream? 
+ 
+Customer: Sure, here it is. And my Roku.
+
+Agent: I'm ready to assist you.  Let me take a look at your account and streaming logs.
+
+Customer: Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in getting to the root of the issue, thanks for resolving my buffering problem.
+Sentiment: Positive

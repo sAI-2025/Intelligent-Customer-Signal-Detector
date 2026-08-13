@@ -1,0 +1,24 @@
+Customer ID: 9964-WBQDJ
+Topic: customer requests compensation for poor service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having trouble connecting to the internet and need compensation for the poor service. 
+
+Agent:  I understand your frustration. Can you please provide your account number?
+
+Customer: It's [Account Number]. 
+
+Agent: Thank you. I’ve checked your account details and have reviewed your complaints. 
+
+Customer:  What are my options for compensation?
+
+Agent: We can offer a refund of your monthly fees for the next three months, which will be applied to your account. 
+
+Customer: That sounds good.
+
+Agent: Please let me know if you need anything else or have any questions about this. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient resolution, thank you!  😊
+Sentiment: Positive

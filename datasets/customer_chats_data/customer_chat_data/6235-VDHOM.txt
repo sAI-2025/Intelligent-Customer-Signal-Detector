@@ -1,0 +1,17 @@
+Customer ID: 6235-VDHOM
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't access anything! 
+Agent:  I understand your concern.  My name is John, how can I help?
+Customer: Can you please check my connection? It's been like this for hours now.
+Agent: Let me look into that for you.  May I have your account details, such as your address and the last 4 digits of your account number? 
+Customer: (Provides information)
+Agent: Thank you for providing this information. Your internet connection is currently down due to a known technical issue on our end. We apologize for the inconvenience.   We are working to restore service as quickly as possible.  We'll keep you updated via email once service is restored. 
+Customer: Okay, thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated, hopefully I can get back online soon!"
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 7854-FOKSF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than what I was expecting. I'm only getting 5 Mbps down, my plan says it should be 10.
+Agent:  I understand your concern, Mr./Ms. [Last Name], let me check on the details of your account. What is your current location?
+Customer:  [City]
+Agent: Thank you for providing that information. I see a few factors contributing to slower upload speeds in your area. 
+Customer: Is there anything I can do about it other than just wait for it to speed up? 
+Agent: We'll take care of things right away. While we work on the issue, feel free to check our website for any updates.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate your response and action plan, it would be helpful to know a timeline for resolution."
+Sentiment: Neutral

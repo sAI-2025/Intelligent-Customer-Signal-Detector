@@ -1,0 +1,17 @@
+Customer ID: 6641-XRPSU
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet.  It keeps disconnecting frequently.
+Agent: Thanks for reaching out!  I understand you're experiencing frequent internet disconnections and this is frustrating. 
+Customer: It's been happening most of the day. My speeds are going up and down all the time. 
+Agent:  I can certainly look into that for you. To get started, could you please tell me your account number and what device(s) are experiencing the disconnections?
+Customer:  Sure, my account number is [Account Number] and it's on my bill, I’m also using a laptop and my smart TV. 
+Agent: Thank you for that information. I am looking into the issue now. We'll make sure your connection stays stable.
+Customer: Thanks for your help. 
+Agent:  You're very welcome!   Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and my internet seems to be working better already!
+Sentiment: Positive

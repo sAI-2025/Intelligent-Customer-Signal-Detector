@@ -1,0 +1,28 @@
+Customer ID: 2482-CZGBB
+Topic: one phone line has no service
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! I'm having trouble with my phone line. It's completely dead and I don't know why. 
+
+Agent: Hello!  I'm sorry to hear you're experiencing a problem with your service. Can you please tell me your account number or the last four digits of your phone number?
+
+Customer:  Here it is. My account number is 1234567890 and my phone number is 555-123-4567. 
+
+Agent: Thank you for providing that information. I'm checking the status of your service line now. 
+
+Customer:  Thanks! 
+
+Agent:  I can see there are no issues reported on our end, but we may have a temporary glitch with your phone line. I’ve initiated a check and will update you shortly.
+
+Customer: Okay, thanks. 
+
+Agent:   We're looking into this for you now. We should be able to get your service back online within the next hour. 
+
+Customer:  Great, thank you!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting that sorted out - much appreciated!"
+Sentiment: Positive

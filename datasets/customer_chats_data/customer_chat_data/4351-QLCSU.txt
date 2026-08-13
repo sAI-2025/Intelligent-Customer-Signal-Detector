@@ -1,0 +1,26 @@
+Customer ID: 4351-QLCSU
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with my internet connection. It keeps disconnecting frequently. 
+
+Agent:  I understand your frustration, and I apologize for the inconvenience. Can you tell me a little more about when this happens? Is it during specific times of day or specific tasks? 
+
+Customer: Mostly late in the evening, around 8pm.  Playing online games, then the connection drops. It's been like this for the past few weeks.
+
+Agent:  Okay, I see. Could you please confirm your account details and your service address to verify your connection history?
+
+Customer: Sure, my name is Michael Anderson, my account number is 1234567890. My address is 123 Main Street, Anytown, CA 
+
+Agent: Thank you for providing that information, Michael. I've got a few troubleshooting steps in mind to help with your internet connection issues.  Do you have a computer and/or router? 
+
+Customer: Yes, a desktop and a router. We are using DSL.
+
+Agent:  Thank you for contacting us. 
+   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful in addressing my issue and I hope the troubleshooting steps will resolve it soon."
+Sentiment: Positive

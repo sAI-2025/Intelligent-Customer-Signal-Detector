@@ -1,0 +1,17 @@
+Customer ID: 1915-IOFGU
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet, it's extremely slow during peak hours. 
+Agent: Hi there!  I understand your internet is slower than usual during peak times. Can you please tell me a little more about what kind of issues you're experiencing?
+Customer: Yeah, just browsing websites takes forever, and streaming video is laggy. 
+Agent: I can definitely look into this for you. Please give me your account number or the service address associated with your internet plan.
+Customer: My account number is [redacted].  The address is [redacted] 
+Agent: Thank you! Let's see if there are any issues on our end. 
+Customer: I hope we can fix this soon, my work deadlines are getting tight!
+Agent: No worries, we'll get this sorted out for you. We’re checking your network performance now and will keep you updated. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it - hopefully this gets fixed quickly!"
+Sentiment: Positive

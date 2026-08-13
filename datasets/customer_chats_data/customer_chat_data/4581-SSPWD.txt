@@ -1,0 +1,18 @@
+Customer ID: 4581-SSPWD
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is really slow today. It's been dropping frequently.
+Agent: I understand your frustration, Mr./Ms. [Last Name].  I'm sorry to hear you're having trouble with your connection. 
+Customer: Yeah, it's been unusable for most of the day.  Is there a known issue?
+Agent: Let me check our system for any outages or service disruptions.
+Customer: I have Fiber optic internet and started my contract three months ago. $75.8 a month. Shouldn't be this bad. 
+Agent: I see you are on the plan, and we do not currently have any reported issues.  
+Customer: Well, that's frustrating! How long will it take to resolve?
+Agent: We'll work through it as quickly as possible, and we aim to have your internet up and running by the end of today. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: **Feedback:**  Thanks for getting back to me so quickly, hopefully my internet is working smoothly again soon!
+Sentiment: Positive

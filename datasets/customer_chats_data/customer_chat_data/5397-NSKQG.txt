@@ -1,0 +1,18 @@
+Customer ID: 5397-NSKQG
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to upgrade my service plan. Can you tell me about the options? 
+Agent: Of course! To help me direct you to the best plans, could you provide your current DSL plan details, like what speed and features are included?
+Customer: My contract is two years old and my monthly bill is $50.9 for basic DSL internet.  I've been with the company for 67 months overall.
+Agent: Okay, based on your tenure and current plan, you have access to several upgrade options. We offer different speeds and data allowances. Would you like me to walk you through those?
+Customer: Yes, please.
+Agent: Our highest-speed plans offer faster upload and download speeds, along with additional data allowance. 
+Customer: Thanks! 
+Agent:  Let's see which plan is most suitable for your needs.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very helpful and efficient process! I appreciate the guidance on upgrading my service.
+Sentiment: Positive

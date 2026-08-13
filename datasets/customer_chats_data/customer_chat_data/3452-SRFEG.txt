@@ -1,0 +1,24 @@
+Customer ID: 3452-SRFEG
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My internet connection is super slow, I'm getting high latency and ping.  It's been happening all day.
+
+Agent: Hello! I understand you're experiencing high latency. Can you please provide your account details so I can help investigate further? 
+
+Customer: Sure, my account details are (account number), my name is [name], and my phone number is [phone number].
+
+Agent: Thank you for providing those details. Let me check the status of your connection and look for any potential issues. 
+
+Customer: Alright, thanks!
+
+Agent: I'm checking on your fiber optic line, and there doesn't seem to be any reported outages or congestion in your area.  However, we may need to investigate further to pinpoint the exact issue causing this latency. 
+
+Customer: Okay, I appreciate it.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into my internet issues! Hopefully, a quick fix is all that's needed.
+Sentiment: Neutral

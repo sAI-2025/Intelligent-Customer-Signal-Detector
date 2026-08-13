@@ -1,0 +1,15 @@
+Customer ID: 0236-HFWSV
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It's significantly slower than what I was expecting. 
+Agent:  I understand your concern! Can you please provide me with your account details or a screenshot of the speeds test results? 
+Customer: Sure, here’s the link to the speed test results. [Insert URL]
+Agent: Thank you for that information.  Let's look into this further to get things back up and running smoothly. I'll investigate your connection and will let you know if there are any updates soon. 
+Customer: Thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Much appreciated, the agent quickly addressed my concerns and was helpful throughout."
+Sentiment: Positive

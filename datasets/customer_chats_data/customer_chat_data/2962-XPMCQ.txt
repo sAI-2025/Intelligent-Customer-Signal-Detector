@@ -1,0 +1,24 @@
+Customer ID: 2962-XPMCQ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been extremely slow and unstable lately.  Is there a known outage? 
+
+Agent: I understand your frustration, we apologize for the inconvenience. Can you tell me what location you're experiencing issues with?
+
+Customer: I live at [address] but haven't had this issue previously. DSL is being used.
+
+Agent:  Okay, thanks for that information. Let me check our system and see if there are any reports of outages in your area. 
+
+Customer: Thanks
+
+Agent:  Looks like a few other customers around your location are experiencing slow internet speeds as well. We're looking into this for you right now.
+
+Customer: Alright, thanks.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It seems like the slow connection issue is affecting several people in my area, hope it gets resolved soon!
+Sentiment: Negative

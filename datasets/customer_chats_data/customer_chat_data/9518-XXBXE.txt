@@ -1,0 +1,17 @@
+Customer ID: 9518-XXBXE
+Topic: customer wants to update contact information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to update my contact information.
+Agent:  Hi there! Of course we can help with that. What information would you like to change? 
+Customer: My name is now John Smith and my phone number is (redacted)
+Agent: Thank you, John. We'll update your account accordingly. Is there anything else I can assist you with today? 
+Customer: Just a quick question about my monthly billing.
+Agent:  Your current rate for Fiber Optic internet remains $75.30 per month. You're on a Month-to-month contract with us, and we've been serving your account for ten months now. 
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, and I had all the information I needed to understand my billing.
+Sentiment: Positive

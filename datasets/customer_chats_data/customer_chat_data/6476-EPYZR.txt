@@ -1,0 +1,18 @@
+Customer ID: 6476-EPYZR
+Topic: customer cannot view plan details
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble accessing my plan details on your website. 
+Agent: Hello! I understand you're facing difficulties viewing your plan information.  Could you please provide your account email address?
+Customer: My email is [customer_email]
+Agent: I see you have a month-to-month contract with us, and are currently paying $20.50 per month. 
+Customer: Yes, that's right. 
+Agent: Can you confirm which specific information you are trying to access?  Are you looking for your data usage or billing history? 
+Customer: I can't see the details of my plan at all.   
+Agent: Let me check on this for you. Please give me a moment.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful, but it would be better if the website offered clearer navigation to access plan information."
+Sentiment: Neutral

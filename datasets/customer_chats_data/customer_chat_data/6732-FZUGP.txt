@@ -1,0 +1,16 @@
+Customer ID: 6732-FZUGP
+Topic: download speed decreases significantly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed has been drastically slowing down recently, it's barely half what it used to be. 
+Agent: I understand your concern. Could you please confirm your account information and service plan? 
+Customer: Sure, my account number is 1234567890, and I have a one-year contract with fiber optic internet. 
+Agent: Thank you for that information.  Are you experiencing the slow speeds only during certain times of day or when using specific applications?
+Customer: Mostly at night. The download speed is fine during the day but drops dramatically after 8 PM.
+Agent: Let's take a look at your connection data. I may be able to identify any potential issues.  Please hold for me... 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and got right down to the problem! Hopefully we can get this issue resolved quickly."
+Sentiment: Positive

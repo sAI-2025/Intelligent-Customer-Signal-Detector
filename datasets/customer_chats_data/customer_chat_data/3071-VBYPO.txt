@@ -1,0 +1,17 @@
+Customer ID: 3071-VBYPO
+Topic: customer needs equipment replacement
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I need to replace my modem/router combo because it keeps failing. My current one is a Motorola Surfboard SB6183. 
+Agent:  I understand. Please let me know your account number so I can check your plan details and options for replacement equipment. 
+Customer: My account number is [account number]. 
+Agent: Thanks, [account number] confirmed. We offer a standard modem/router combo for $30 with free shipping. Would you like to proceed with that order?  
+Customer: Yes please!
+Agent: Okay, I've placed an order for the standard replacement modem/router combo. You should receive your new equipment within 5 business days. 
+Customer: Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thank you! 😊
+Sentiment: Positive

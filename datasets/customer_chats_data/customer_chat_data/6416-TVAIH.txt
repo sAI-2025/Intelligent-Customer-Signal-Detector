@@ -1,0 +1,24 @@
+Customer ID: 6416-TVAIH
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down. I can't connect to anything!
+
+Agent:  I understand your frustration, I'm sorry to hear about this issue. Can you please provide your account details so we can check on the service?
+
+Customer: Sure, my name is John Smith and my account number is 1234567890. My address is 123 Main Street, Anytown, CA.  
+
+Agent: Thank you for providing that information, John. I'll be checking on your Fiber optic connection now. 
+
+Customer: Appreciate it.
+
+Agent:  I'm looking into the issue and will update you shortly with an estimated time of resolution.  
+
+Customer: Thanks!
+ 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and kept me updated on the situation, appreciate the quick response."
+Sentiment: Positive

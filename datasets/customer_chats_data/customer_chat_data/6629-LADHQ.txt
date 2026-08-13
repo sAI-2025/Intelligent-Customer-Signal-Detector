@@ -1,0 +1,18 @@
+Customer ID: 6629-LADHQ
+Topic: TV streaming buffering frequently
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there! I am having trouble streaming my TV shows on your service.  It's buffering frequently.
+Agent:  I understand your frustration. Can you tell me more about what kind of issues you are experiencing? 
+Customer: When I watch a show or movie, the video keeps pausing and stuttering for several seconds before continuing. It is happening on all my devices. 
+Agent: Thank you for that information. Could you please check if you have any recent updates installed on your streaming device and your computer/phone? 
+Customer:  I've already checked the system update, nothing seems to be amiss.
+Agent: Okay.  Do you happen to use DSL internet connection?  And are these issues occurring only during peak hours?  
+Customer: Yes, I do use DSL. And it definitely happens more often in the evenings and late at night. 
+Agent: Thank you for providing that information.  I'll escalate this issue and investigate further. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but I appreciate the agent taking action and looking into the issue further.
+Sentiment: Negative

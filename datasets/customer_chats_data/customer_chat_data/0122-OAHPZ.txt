@@ -1,0 +1,18 @@
+Customer ID: 0122-OAHPZ
+Topic: customer cannot use data-intensive applications
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't use data-intensive applications like streaming services. 
+Agent: I understand that you're having trouble with certain data-intensive applications.  Can you tell me more about what specific applications you are having issues with and the type of error messages you're receiving? 
+Customer: My Netflix app is lagging. It keeps dropping out and buffering.
+Agent:  I see, and it seems like your connection speed might be a problem.  Can you check your internet speed on SpeedTest.net or another similar website? 
+Customer: I have 100 down/20 up. 
+Agent: Alright, thank you for that information. This may be due to the high demands of streaming content and some data-intensive applications during peak hours.  Would you like us to look into optimizing your plan or offer any troubleshooting solutions? 
+Customer: Yes, please.
+Agent: I can certainly do that. Let me update your plan to a higher speed option for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me get my streaming fixed!  I appreciate the speedy response and upgraded plan."
+Sentiment: Positive

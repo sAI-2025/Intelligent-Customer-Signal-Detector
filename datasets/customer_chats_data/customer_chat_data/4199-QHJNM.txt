@@ -1,0 +1,22 @@
+Customer ID: 4199-QHJNM
+Topic: customer cannot access support history
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't seem to access my past support tickets. Is there a way to do that? 
+
+Agent:  I understand your frustration, and we can certainly help with that! To locate your previous support tickets, please provide me with your account number or the email address associated with your account. 
+
+Customer: My account number is 12345678.  
+
+Agent: I've found your account details, but there seems to be a system error preventing you from accessing your history. 
+
+Customer: What can I do?
+
+Agent: We apologize for the inconvenience. I'll reach out to our technical team for assistance and get back to you with an update within the next few hours.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's quick response but would have liked a more immediate resolution regarding my ticket history issue.
+Sentiment: Neutral

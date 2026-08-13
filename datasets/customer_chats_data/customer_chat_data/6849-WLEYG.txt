@@ -1,0 +1,16 @@
+Customer ID: 6849-WLEYG
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, my internet is super slow right now.  It's really making it hard to work from home.
+Agent: I understand your frustration! Can you please tell me your account details and what device you are using? 
+Customer: Sure, it’s [account name]. It's a laptop running Windows 10.
+Agent: Alright, thanks for providing that information.  It looks like there might be network congestion during peak hours. We'll see if we can speed things up for you. 
+Customer: Great! Thanks so much! 
+Agent: No problem at all. Let me check into this for you now.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response and solution, it's really helpful to have my internet speeds back up!"
+Sentiment: Positive

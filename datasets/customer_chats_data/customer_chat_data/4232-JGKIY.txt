@@ -1,0 +1,16 @@
+Customer ID: 4232-JGKIY
+Topic: referral program question
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there! I have a question about your referral program.  Is it possible to get credit if someone signs up using my referral link? 
+Agent:  Yes, you can earn credits for successful referrals! Please let me know the email address of the person you'd like to refer.
+Customer: Awesome, thanks!  It is [Person's Email]. 
+Agent:  I just need their name and the type of plan they want. 
+Customer: Alright, their name is John, and he wants the No internet plan. 
+Agent:  Perfect. I will send you a confirmation email once his account has been set up. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process! Thanks for helping me get started with the referral program.
+Sentiment: Positive

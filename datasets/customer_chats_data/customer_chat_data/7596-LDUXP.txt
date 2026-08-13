@@ -1,0 +1,18 @@
+Customer ID: 7596-LDUXP
+Topic: customer wants to activate unlimited data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I would like to activate unlimited data on my plan. 
+Agent:  I understand you'd like to upgrade to an unlimited data plan.  May I confirm your account information and current plan details?
+Customer: Yes, my name is John Smith, and my account number is 1234567890.
+Agent: Thank you, Mr. Smith. Your current plan includes Fiber optic internet at $85.15 per month and an active one-year contract. We can assist with activating unlimited data for your plan. 
+Customer:  Okay, I understand. How do I proceed?
+Agent: To activate unlimited data on your account, please confirm your preferred payment method.
+Customer: My credit card is set up for automatic payments. 
+Agent: Okay, we will process your request and activate your unlimited data plan today. We expect it to be completed by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this done so quickly!  The new plan seems great."
+Sentiment: Positive

@@ -1,0 +1,27 @@
+Customer ID: 6229-LSCKB
+Topic: customer cannot access account information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't access my account information online and need to know how much data I've used this month.
+
+Agent:  Hello! I see you're having trouble accessing your account. Could you please provide me with your full name and email address?
+
+Customer: My name is John Smith, and my email is john.smith@email.com. 
+
+Agent: Thank you, Mr. Smith. Your fiber optic connection has been active for six months now, and you're currently on a month-to-month contract for $79.70 per month.  
+
+Customer: Great! I need to know how much data I've used so far this month. 
+
+Agent: Let me check that information for you, Mr. Smith. Your data usage should be reflected in your account online shortly. 
+
+Customer: Thank you!
+ 
+Agent: Thanks for contacting us! 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my issue.  I appreciate the prompt response!
+Sentiment: Positive

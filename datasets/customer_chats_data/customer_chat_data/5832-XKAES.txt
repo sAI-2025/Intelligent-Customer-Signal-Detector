@@ -1,0 +1,20 @@
+Customer ID: 5832-XKAES
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble connecting to the internet frequently. It seems like it drops out about every 30 minutes. 
+Agent: Hello, thanks for contacting us!  Can you tell me your account information and what device(s) you are using? 
+Customer: Account number is XXXXXXX-XXXXXXX. I’m using my laptop.
+Agent: Thank you. Can you please describe the issue a bit more? Is it just slow speeds or complete disconnects? 
+Customer: Mostly just complete disconnects, and sometimes very low speeds.  It's been happening for about 2 weeks now.
+Agent: I understand your frustration! Let me check on your connection status... 
+Customer: Thanks.
+Agent:  We found a few things that might be causing the issue. We're going to need to run some tests and have an engineer take a look. Could you allow us a few minutes to do this? 
+Customer: Okay, sounds good.  
+Agent: Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and communicative throughout the process. I appreciate their efforts to get to the bottom of my internet issue!
+Sentiment: Positive

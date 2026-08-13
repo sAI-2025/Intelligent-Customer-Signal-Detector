@@ -1,0 +1,19 @@
+Customer ID: 9135-MGVPY
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my Wi-Fi signal is really weak in the living room and dining area.
+Agent:  I understand your concern, I'm happy to help troubleshoot this! Could you please tell me what type of modem and router you have? 
+Customer:  It’s a Netgear Nighthawk CM1000 with a Motorola MB8600. 
+Agent: Ok, thanks for that info. Do you experience any issues with the signal strength elsewhere in your home?
+Customer: Yes, it's fine in most other rooms. 
+Agent:  I can send over some troubleshooting steps to check your connection. Would you like me to walk through those now? 
+Customer: Sure
+Agent: Alright, we might need to re-configure your router. Please follow the instructions carefully and let me know if you encounter any problems. 
+Customer: Thanks for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in finding a solution!  I appreciate their quick response and clear troubleshooting steps.
+Sentiment: Positive

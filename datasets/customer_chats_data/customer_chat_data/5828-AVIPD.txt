@@ -1,0 +1,25 @@
+Customer ID: 5828-AVIPD
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet connection is very slow and unstable lately. 
+
+Agent: Hello!  I understand you’re experiencing issues with your internet speed. Can you tell me a bit more about what's going on?  Is it only slow or slow & dropping out frequently too?
+
+Customer: It's mostly slow, but I'm also getting frequent drops in connection. 
+
+Agent:  Hmm, that sounds frustrating! Let's take a look at your account details. Could you please provide me with your last name and the date you purchased your plan? 
+
+Customer: My last name is Smith, and I bought my plan on November 1st, 2023. 
+
+Agent:  Thank you for providing that information.  I'm looking into this right now for you.  We’ll get this sorted out soon!  
+
+
+Customer:  Okay, thank you. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was efficient and helpful in resolving the issue, I appreciate their quick response.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 5624-BQSSA
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my upload speed. It seems way slower than what I was expecting. 
+Agent:  I understand your concern, how is it currently? 
+Customer: The speeds are around 3 Mbps on average, but I'm paying for 5 Mbps. 
+Agent:  Please confirm your account number and location to access more specific details about your plan. 
+Customer:  Sure, my account number is 1234567890 and I live in [City]. 
+Agent:   Thank you! We will look into this for you. 
+Customer:  Thanks!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, hopefully the speeds will be much better soon."
+Sentiment: Positive

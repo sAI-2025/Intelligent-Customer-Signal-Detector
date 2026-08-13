@@ -1,0 +1,19 @@
+Customer ID: 3866-MDTUB
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble getting a decent download speed on my DSL service. 
+Agent: I understand your frustration. Could you please tell me your address so I can look up your account?
+Customer: Sure, it’s [customer address]. 
+Agent: Okay, thanks.  I see your plan is a $70.75/month DSL plan.
+Customer: It is. Is there anything that can be done about the download speed?
+Agent: I'm sorry to hear you're experiencing slow speeds. Let me check on the line quality for you. 
+Customer: Thanks!
+Agent: Okay, it looks like your signal strength might be low in this area and our tech team is working on a solution. We'll let you know when we have an update. 
+Customer: Okay, thanks.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and reassuring, I appreciate their prompt response to my issue!
+Sentiment: Positive

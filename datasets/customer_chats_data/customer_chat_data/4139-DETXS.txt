@@ -1,0 +1,17 @@
+Customer ID: 4139-DETXS
+Topic: TV streaming quality automatically decreases
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I've noticed my TV streaming quality has been dropping lately.
+Agent:  I understand your concern. Could you please provide your account details or the specific channels and devices you are experiencing issues with? 
+Customer: Sure, it happens on all channels; including Netflix and Hulu. My internet speed is good, though DSL. 
+Agent: We have a few common causes for decreased streaming quality, such as network congestion or device compatibility.  Would you be open to troubleshooting steps together?  
+Customer: Absolutely, I'm willing to try that. 
+Agent: Okay, let me walk you through some basic troubleshooting steps...
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and walked me through the troubleshooting steps. Hopefully this will resolve my streaming issues!
+Sentiment: Positive

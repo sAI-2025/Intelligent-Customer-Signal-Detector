@@ -1,0 +1,16 @@
+Customer ID: 3462-BJQQA
+Topic: movie audio and video synchronization problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble with video and audio syncing. It keeps skipping and lagging, especially during action scenes in movies. 
+Agent:  We understand your frustration. Can you please tell me your account details so we can investigate further? 
+Customer: Sure, my name is [Name], account number [Account Number]. I've been a customer for six months with a month-to-month contract. My speed is Fiber optic and the cost is $89.75 per month.
+Agent: Thank you. We're looking into your connection, [Name], as we have several reports of similar issues. 
+Customer:  Anything I can do to help you resolve this?  
+Agent:  We will escalate this issue and get it resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for taking care of this quickly! Hopefully, it's fixed soon."
+Sentiment: Positive

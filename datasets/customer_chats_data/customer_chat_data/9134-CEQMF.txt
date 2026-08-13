@@ -1,0 +1,26 @@
+Customer ID: 9134-CEQMF
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I just called to complain about my download speed being really slow. 
+
+Agent: Thank you for contacting us! I can help with that. Please provide me your account number and a bit more information about your internet usage.
+
+Customer: Here it is. My account number is [account number].  I'm having trouble downloading files, even videos on YouTube.
+
+Agent: Alright, thanks for sharing. We might have some technical issues in your area today, let me check that for you. 
+
+Customer: It started happening a few days ago and has not gotten better. 
+
+Agent: I see the problem, there's currently a temporary outage affecting downloads.  I can expedite getting this sorted out for you. 
+
+Customer: Thanks! That's great news. 
+
+Agent: You are welcome. We will have your service back to normal in about 30 minutes. Thank you for contacting us.
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick resolution and update, I appreciate it!"
+Sentiment: Positive

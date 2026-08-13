@@ -1,0 +1,25 @@
+Customer ID: 3177-LASXD
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet.  It keeps disconnecting every few minutes. 
+
+Agent: Hello! I understand you're experiencing frequent disconnections and would like to help. Can you please provide your account information?
+
+Customer: Sure. My name is [Customer Name] and my account number is 1234567890.
+ 
+Agent: Thank you for that information, [Customer Name]. Let me check the connection status for you. 
+
+Customer:  Is it possible there's a problem with the service? I just moved in last month and haven't had any issues before.
+
+Agent: We have a fiber optic network and your location is connected to our service center. There might be some temporary technical issue.
+
+Customer: Okay, thanks for letting me know. 
+
+Agent: No worries at all! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful to understand the potential cause of the problem and I appreciate your prompt response.
+Sentiment: Positive

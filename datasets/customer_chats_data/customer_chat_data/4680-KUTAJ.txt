@@ -1,0 +1,20 @@
+Customer ID: 4680-KUTAJ
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet speed during peak hours today. 
+
+Agent:  I understand your frustration.  Could you tell me what time this is happening and how much slower than usual are you seeing the speeds?
+
+Customer: It feels about 2x slower than normal around 6 PM and 7 PM, which is when everyone in my neighborhood seems to be online. 
+
+Agent: Thank you for that information.  I'll let our network engineers know about this delay.
+
+Customer: I appreciate it, thanks!
+
+Agent:  I hope things resolve quickly.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into it! Hopefully the speed will improve soon.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 3148-BLQJT
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet frequently. My connection keeps dropping out. 
+Agent:  I understand your frustration, and I'd be happy to help troubleshoot this issue for you. Please tell me a little more about what’s happening. Are you seeing any error messages? 
+Customer: Yes, sometimes I get "Connection Timeout" or "Network Not Available".
+Agent:  Okay, thank you. It might be helpful to check your router's settings and make sure all the connections are secure.
+Customer: I did that already. No change. 
+Agent:  I see. To help me investigate this further, can you tell me what device you are using to access the internet?
+Customer: My laptop and phone.  
+Agent:  Thanks. We'll need to run some diagnostics on your account. Would you be open to connecting me with your internet router for a quick look at its configuration? 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful but unfortunately, the issue persists even after trying the troubleshooting steps suggested.
+Sentiment: Neutral

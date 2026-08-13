@@ -1,0 +1,24 @@
+Customer ID: 1042-HFUCW
+Topic: customer needs equipment replacement
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to request a replacement router. My current one has stopped working and I haven't been able to connect to the internet. 
+
+Agent:  I understand, our technicians can assist with that. Please provide your account information for verification.
+
+Customer: Sure, my name is John Smith. The account number is XXX-XXXX-1234.
+    
+Agent: Thank you John. I'm going to initiate a replacement router order now. 
+
+Customer: Great! How long will it take to get this new one shipped?
+
+Agent: It should be delivered within 5 business days, we’ll keep you updated on the progress of the shipment.  
+
+Customer: Thanks for the information.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The process was quick and easy, I appreciate the prompt assistance."
+Sentiment: Positive

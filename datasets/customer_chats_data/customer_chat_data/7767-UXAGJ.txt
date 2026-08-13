@@ -1,0 +1,17 @@
+Customer ID: 7767-UXAGJ
+Topic: unexpected data charges
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I was surprised to see a $50 charge on my bill this month.  I thought I had only been charged $50.45 per month. 
+Agent: Hello! Thank you for reaching out.  Could you please confirm your account name and the billing cycle you're referring to? 
+Customer: My account name is John Smith, and it's the last billing cycle. 
+Agent: I'm reviewing your account now. It looks like there was an unexpected data charge for approximately $50.  
+Customer: Wow, that's not quite right.  I haven't used much data.  My internet is DSL, and I only use it for work emails, online banking, and checking the weather. 
+Agent: Thank you for clarifying. We often see unexpected charges due to usage fluctuations or special promotional offers. Let me check on this with our billing team and get back to you soon. 
+Customer: Okay, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation, it's still concerning that there was such a significant charge for minimal data use.
+Sentiment: Negative

@@ -1,0 +1,23 @@
+Customer ID: 8444-WRIDW
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having a lot of high latency issues while streaming movies. Is this something you guys are seeing? 
+
+Agent:  I understand your concern.  Would you mind telling me your account name and location so I can look into the issue further?
+
+Customer: My account is [Account Name], and I live in [City, State]. 
+ 
+Agent: Thanks for that information! Let me check on your connection speed and latency right now. 
+
+Customer: Okay, thanks.
+
+Agent:  I'm checking your details. We are currently seeing a temporary network congestion, which is causing high latency issues.  We will get this resolved by the end of the day.
+
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the temporary issue! I appreciate you keeping me in the loop.
+Sentiment: Positive

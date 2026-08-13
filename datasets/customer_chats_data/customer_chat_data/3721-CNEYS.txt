@@ -1,0 +1,21 @@
+Customer ID: 3721-CNEYS
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in certain rooms of my house. 
+
+Agent:  I understand your concern. Could you tell me a bit more about where these rooms are and what kind of issues you're experiencing?
+
+Customer: The living room, dining area, and the guest bedroom seem to have weak signals. It's inconsistent.
+
+Agent:  Thank you for that information. I can certainly look into this further with our network team. Please hold for a moment while I check on the status of your connection. 
+
+Customer: Thanks!  
+Agent: We appreciate your patience, and I’m happy to report there is no known issue impacting your signal at this time. 
+Customer:  Okay, great!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent's quick response was appreciated, and the problem seems resolved.
+Sentiment: Positive

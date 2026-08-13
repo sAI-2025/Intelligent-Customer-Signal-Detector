@@ -1,0 +1,17 @@
+Customer ID: 3050-GBUSH
+Topic: customer wants to activate unlimited data
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I'd like to activate unlimited data on my plan. 
+Agent:  Of course! Could you please provide your account details or the phone number associated with your service?
+Customer: Sure, my name is Michael and my account number is 12345678. 
+Agent: I have that information. We offer unlimited data on our month-to-month plan for $59.99 per month.  Would you like to upgrade now?
+Customer:  Yes please, can this be done immediately?
+Agent: Absolutely! Please allow a few minutes for your update to process. Your new bill will reflect the change and we'll send you confirmation via email shortly. 
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The process was quick and easy, thanks!"
+Sentiment: Positive

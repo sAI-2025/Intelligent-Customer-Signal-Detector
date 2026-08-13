@@ -1,0 +1,17 @@
+Customer ID: 3950-VPYJB
+Topic: customer dissatisfied with movie selection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was hoping for a wider selection of movies on your platform.  I feel like there aren’t many new releases. 
+Agent: Thanks for reaching out! Can you tell me which specific genres or types of movies you're looking for? We try to offer a wide variety.
+Customer:  Well, I was hoping for some action and sci-fi films. The selection is lacking in that area. 
+Agent:  I understand your frustration. I can check into this for you and see if there are any specific reasons why these genres might be missing from our platform. 
+Customer: It's been a frustrating experience, to say the least. 
+Agent: We apologize for any inconvenience. I’ll look into it right away and let you know what I find. 
+Customer: Thanks!  I appreciate your help.
+Agent: You're welcome. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While the agent was helpful, the lack of new releases in action and sci-fi is a significant disappointment.
+Sentiment: Negative

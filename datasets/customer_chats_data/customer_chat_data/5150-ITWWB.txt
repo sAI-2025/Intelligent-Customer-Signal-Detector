@@ -1,0 +1,20 @@
+Customer ID: 5150-ITWWB
+Topic: customer cannot find expected self-service option
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I can't seem to find the self-service option to change my billing details.
+
+Agent:  I understand your frustration!  To help me direct you in the right direction, what exactly are you trying to do? 
+
+Customer: I need to update my payment method and address on my account.  I’m just a little confused about where to find that information online. 
+
+Agent:  Of course! For billing changes, it's best to navigate directly to our "Account Management" section under your profile in the app or website. 
+
+Customer: Thank you, I really appreciate your help.
+
+Agent: You’re welcome! Please let me know if you have any other questions.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in guiding me to the right section of the site. Thanks!
+Sentiment: Positive

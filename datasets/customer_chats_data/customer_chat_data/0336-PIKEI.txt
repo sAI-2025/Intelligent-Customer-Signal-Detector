@@ -1,0 +1,22 @@
+Customer ID: 0336-PIKEI
+Topic: customer was charged after cancellation
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just want to know why I was charged after cancelling my service. 
+
+Agent:  Hello! Thank you for contacting us. Could you please provide your account information so we can look into this for you? 
+
+Customer: My name is Betty Johnson, and my account number is 1234567890.
+ 
+Agent: Hello Betty, I see that your service was cancelled on [Date].  You were able to get a refund of your monthly payments as long as it's within the initial cancellation period.
+
+Customer: That sounds good! 
+
+Agent: Thank you for contacting us. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for clarifying, I appreciate the quick resolution!"
+Sentiment: Positive

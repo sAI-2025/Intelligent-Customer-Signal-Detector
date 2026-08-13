@@ -1,0 +1,18 @@
+Customer ID: 2916-BQZLN
+Topic: music playback buffering
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with music playback buffering.  It seems like every song skips or cuts out frequently. 
+Agent: Hello! Thank you for reaching out to us. I understand this is a frustrating issue.
+Customer: My internet speed is great (1 gig fiber optic).  I've restarted my router and the device, but no luck. 
+Agent: Can you tell me more about what kind of music player or streaming service you are using?
+Customer: Spotify.  It seems to be an issue with the app itself. 
+Agent: Ok, I will look into this further for you. Do you have a specific error message or time frame when this happens?
+Customer: It mostly happens during high-demand songs like popular tracks by popular artists.  I've been trying for the past hour and it’s constant. 
+Agent: Thank you for your information! I apologize for the inconvenience. Please let me know if you have any other questions. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but I appreciate the Agent's prompt assistance in looking into the issue.
+Sentiment: Negative

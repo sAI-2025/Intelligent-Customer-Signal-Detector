@@ -1,0 +1,16 @@
+Customer ID: 2034-CGRHZ
+Topic: existing secondary line not connecting
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I need help setting up my secondary line. It keeps saying “connection error.” 
+Agent:  Good morning! I'm sorry to hear about your trouble. Can you tell me your account number and the service address for the secondary line? 
+Customer: My account number is XXXXXXX-XXX-XXXX. The address is 123 Main Street, Anytown, USA. 
+Agent: Thank you for that information!  I'm checking on this now. Let me know if there’s anything else I can help with.
+Customer: Thanks!
+Agent: We should have this issue resolved within the next few minutes. Please let me know if you experience any further issues. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quick to resolve my issue. Thank you!"
+Sentiment: Positive

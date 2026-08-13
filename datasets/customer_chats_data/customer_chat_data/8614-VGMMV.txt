@@ -1,0 +1,21 @@
+Customer ID: 8614-VGMMV
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed during peak hours. It seems super slow compared to usual. 
+Agent:  I understand your frustration, and I'd like to help get your connection back to normal speed. Can you tell me a little more about what time you experience the slow speeds?
+Customer: Mostly between 6pm-9pm, especially when streaming video.
+Agent: Thank you for that information. Let me take a look at your account and see if there's anything we can do to troubleshoot it.  
+Customer: Okay.
+Agent: I just ran a speed test on your connection, and based on the results, the problem seems likely stemming from network congestion during peak hours. 
+Customer: Hmm, okay. 
+Agent: Would you like me to offer any suggestions for improving your connection in these situations?  
+Customer: Yes please
+Agent: We may be able to help with some temporary solutions, such as adjusting your bandwidth settings or using a VPN. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided some good troubleshooting suggestions.  I appreciate the quick resolution.
+Sentiment: Positive

@@ -1,0 +1,54 @@
+Intelligent-Customer-Signal-Detector/
+│
+├── manage.py
+├── db.sqlite3
+├── requirements.txt
+├── .gitignore
+├── README.md
+│
+├── venv/
+│
+├── Setting/
+│   ├── __init__.py
+│   ├── settings.py
+│   ├── urls.py
+│   ├── asgi.py
+│   └── wsgi.py
+│
+├── customer_signal/
+│   ├── __init__.py
+│   ├── admin.py
+│   ├── apps.py
+│   ├── models.py
+│   ├── views.py
+│   ├── urls.py
+│   ├── forms.py
+│   ├── tests.py
+│   │
+│   ├── migrations/
+│   │   ├── __init__.py
+│   │   └── ...
+│   │
+│   └── templates/
+│       └── customer_signal/
+│           ├── base.html
+│           └── dashboard.html
+│
+├── templates/
+│   └── ...
+│
+├── static/
+│   ├── css/
+│   │   └── dashboard.css
+│   │
+│   ├── js/
+│   │   └── dashboard.js
+│   │
+│   └── images/
+│       └── ...
+│
+└── staticfiles/
+    ├── admin/
+    ├── css/
+    ├── js/
+    └── staticfiles.json

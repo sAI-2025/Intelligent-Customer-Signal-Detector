@@ -1,0 +1,16 @@
+Customer ID: 6865-JZNKO
+Topic: customer questions unexpected data consumption
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm seeing an unexpectedly high data usage on my bill this month. It's over 10GB more than usual. How can I troubleshoot this?
+Agent: We understand you're concerned about your data usage, and we want to help! Could you please tell us what devices you have connecting to the internet at the moment?
+Customer: Just my phone and laptop, usually.  I rarely stream video or play online games. 
+Agent: Hmm, that could be a factor. We do see some DSL users experience data spikes due to background activity like automatic updates from their devices.  Would you mind checking your device settings for any auto-update options you might have enabled? 
+Customer: I think I'll try that. Thanks!
+Agent: No problem at all. Let us know if anything changes and we can help further. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided useful troubleshooting advice, even though the cause of the high usage remains unclear.
+Sentiment: Positive

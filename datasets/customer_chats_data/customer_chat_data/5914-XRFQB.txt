@@ -1,0 +1,17 @@
+Customer ID: 5914-XRFQB
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I've been experiencing frequent internet disconnections for the past few days.  
+Agent: Hello! Thank you for contacting us today. Can you please provide your account details so I can assist you further? 
+Customer: Sure, my name is John Smith and my account number is XXX-XXXX-1234. My monthly bill is $115.8 and I've had Fiber internet service for two years now.  
+Agent: Thank you for that information, Mr. Smith. I apologize for the inconvenience caused by these disconnections. 
+Customer: I would appreciate it if you could look into this issue as soon as possible. It's very frustrating!   
+Agent: We'll investigate this matter further and get back to you with an update on the status.  I anticipate that we can resolve this within the day. 
+Customer: Thanks for your help.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for the quick response, I hope they solve this issue soon."
+Sentiment: Neutral

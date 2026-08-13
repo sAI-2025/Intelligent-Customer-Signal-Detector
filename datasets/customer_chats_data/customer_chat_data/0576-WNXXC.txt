@@ -1,0 +1,24 @@
+Customer ID: 0576-WNXXC
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It seems slow and unstable.  I just can't download things anymore. 
+
+Agent: We understand your frustration, and I apologize for any inconvenience this may cause. Could you please tell me your account number and last four digits of your phone number?
+
+Customer: Sure, my account number is 1234567890 and the last four digits are 1234.
+
+Agent: Thanks! I'm checking your connection status. We have a few reports of slow speeds in your area due to some temporary network congestion. 
+
+Customer: Is there anything you can do about this? My monthly bill is $95.55 and I expect better service than this.  
+
+Agent:  No problem, I'll escalate the issue to our engineers for prompt resolution. We're also happy to offer a $10 credit on your next bill as an apology for the inconvenience. 
+
+Customer:  That would be appreciated. Thank you! 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks, the credit was helpful and it seems like things are starting to work better now.
+Sentiment: Positive

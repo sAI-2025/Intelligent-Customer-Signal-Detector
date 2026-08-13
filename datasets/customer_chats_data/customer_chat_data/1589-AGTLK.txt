@@ -1,0 +1,28 @@
+Customer ID: 1589-AGTLK
+Topic: movie playback fails on specific devices
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, I'm having trouble playing movies on my smart TV.  It keeps saying "Error code 204".
+
+Agent:  I understand, let me get some more information to help you out. What device are you using? 
+
+
+Customer: It's a Samsung Smart TV, model [Model Number]
+
+Agent: Alright, thanks for providing that. Can you tell me your plan details? And which internet package do you have?
+
+Customer: I'm on the $45.35 monthly plan with DSL connection. 
+
+Agent: I see.  I'll need to run a diagnostic on your account and check your device compatibility. Just give me a moment.
+ 
+Customer: Okay, thanks for looking into it.
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient help session!  I'm glad the issue is getting resolved.
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 0772-GYEQQ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having frequent internet disconnections lately. 
+Agent:  I understand your frustration! Can you please provide your account number and email address so I can access your account details?
+Customer: Sure, my account number is [account number], and my email is [email address]. 
+Agent: Thank you.  Based on the information provided, we've detected a few potential issues with your Fiber optic connection. We're currently working on resolving them for you. 
+Customer: Okay, thanks. I hope it gets fixed soon! 
+Agent:  We'll do our best to restore your internet as quickly as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and hopefully, my internet will be back up and running soon.
+Sentiment: Neutral

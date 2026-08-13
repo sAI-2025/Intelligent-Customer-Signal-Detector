@@ -1,0 +1,20 @@
+Customer ID: 2817-LVCPP
+Topic: selected movie unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm trying to watch [Movie Name] but it says it's not available.  Is there an issue?
+
+Agent: Thank you for contacting us.  I see that the movie is currently unavailable in your region. 
+
+Customer: Oh, okay.  Any idea when it might be back?
+
+Agent: I don't have a definite timeline on that.  We'll update our listing as soon as possible.
+
+Customer: Thanks! 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate the quick response."
+Sentiment: Positive

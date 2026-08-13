@@ -1,0 +1,16 @@
+Customer ID: 4671-VJLCL
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I’m having trouble with my internet connection today. It’s slow and unstable. 
+Agent:  I understand your frustration. Could you please provide me with your account details so I can take a closer look at your service?
+Customer: Sure, my name is John Smith and my account number is 1234567890. 
+Agent: Thank you for that information, Mr. Smith.  I've seen some reports of recent DSL outages in your area. We are working to resolve the issue as quickly as possible.
+Customer: That's great news! Thanks for letting me know.
+Agent: You're welcome! I will keep you updated on the status. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for keeping me informed, John Smith.
+Sentiment: Neutral

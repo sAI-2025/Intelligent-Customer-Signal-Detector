@@ -1,0 +1,20 @@
+Customer ID: 6595-YGXIT
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am experiencing frequent internet disconnections today. 
+
+Agent:  Hello! Thank you for contacting us. May I have your account details so I can assist you further? 
+
+Customer: My name is George and my account number is [account number]. 
+
+Agent:  Thank you, George.  I see that you are on a month-to-month plan and this issue seems to be recurring.   
+ 
+Customer: This has been happening for weeks now. I've never had these problems before. 
+ 
+Agent: Let me check our records on your service. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the update, I hope this problem is addressed quickly as it's been ongoing for weeks."
+Sentiment: Negative

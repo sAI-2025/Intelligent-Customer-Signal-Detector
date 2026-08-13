@@ -1,0 +1,17 @@
+Customer ID: 4918-FYJNT
+Topic: price differs from advertised plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  I saw on your website the advertised price is $79.99 a month but my bill shows $90.45. 
+Agent:  I apologize for the discrepancy in pricing. Could you please provide me with your account number and the specific advertisement you're referencing?
+Customer:  My account number is #12345678, and it was advertised on your website when I subscribed to the Fiber optic plan 5 months ago.
+Agent:  I see that you are currently on a month-to-month contract with us for Fiber optic internet. Would you like me to check if there have been any rate changes or adjustments to your plan?
+Customer:  Yes, please.  And I just want to confirm my total usage of data and how much is left for the month.
+Agent:  Your current data usage is at 20% of your plan limit with 15GB remaining. 
+Customer:  Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining the discrepancy and providing my data usage, but I still feel frustrated by the higher than advertised price.
+Sentiment: Negative

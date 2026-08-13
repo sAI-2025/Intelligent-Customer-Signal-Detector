@@ -1,0 +1,21 @@
+Customer ID: 2320-JRSDE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my Wi-Fi signal in certain rooms of my apartment. It's really weak and inconsistent.
+
+Agent:  I understand your frustration. Could you please tell me more about the specific rooms where you are experiencing this issue? 
+
+Customer: Sure, it seems to be the bedrooms and living room. The rest of the house has a strong signal. 
+
+Agent: I see. Do you have any other details that might help troubleshoot this issue? For example, any recent changes in your home network or devices?
+
+Customer: No, haven't made any changes recently.
+
+Agent: Okay, thanks for letting me know. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It seems like the agent was helpful but I still hope to find a solution soon!"
+Sentiment: Positive

@@ -1,0 +1,25 @@
+Customer ID: 6618-RYATB
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is really slow today. It's barely usable during peak hours. 
+
+Agent:  I understand your frustration. Can you tell me your account information so I can take a look?
+
+Customer: Sure, my name is John Miller and my account number is 1234567. 
+
+Agent: Thank you, John. Let me check on the speed of your connection. 
+
+Customer:  My internet speeds are really slow today, even with Fiber optic. 
+
+Agent: I see that there's a high volume of users online right now, which is common during peak hours.   
+
+Customer:  Well, I hope it gets better soon! 
+
+Agent: Our technicians are working to manage the traffic and resolve any issues promptly.  We will try our best to improve your speed shortly. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly! It's good to know that things are being worked on to improve my internet speeds.
+Sentiment: Positive

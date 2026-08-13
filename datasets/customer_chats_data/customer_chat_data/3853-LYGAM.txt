@@ -1,0 +1,17 @@
+Customer ID: 3853-LYGAM
+Topic: customer cannot complete device setup
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble completing my device setup. 
+Agent:  Hello! Thank you for reaching out to support. What is the issue you're experiencing?
+Customer: When I try to follow the on-screen instructions, it just keeps giving me error messages and I can't connect the internet. 
+Agent: I understand your frustration. Can you please tell me which device you are trying to set up?  
+Customer: It is my smart home router (model number XYZ). 
+Agent: Okay, we have a known issue with the XYZ model at the moment and will be addressing it soon. Would you like me to schedule a call back for further assistance? 
+Customer: Yes, please!
+Agent: Absolutely. I'll arrange a callback within the next 15 minutes.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for the update on the issue with my router. Looking forward to getting it working!"
+Sentiment: Positive

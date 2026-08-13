@@ -1,0 +1,15 @@
+Customer ID: 2057-BOYKM
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is slower than expected. I was paying $96.6 per month for fiber optic internet and it's not living up to expectations. 
+Agent:  I understand your concern, Mr./Ms. [Last name]. To help me troubleshoot this issue, could you please provide your account number or the email address associated with your service?
+Customer: Sure, my account number is [Account Number] and my email is [Email Address].
+Agent: Thank you for providing that information.  I am looking into your upload speed now. Please allow a few minutes while I investigate this further. 
+Customer: Great! I look forward to hearing from you soon.  
+Agent: Just as an update, we're seeing some network congestion in your area at the moment but we are working on it immediately. We will get back to you shortly with the details and solution. Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation about the network congestion, I'm still hoping for a more concrete timeline for when my upload speed should be closer to what was promised for this price point.
+Sentiment: Negative

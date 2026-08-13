@@ -1,0 +1,15 @@
+Customer ID: 5136-KCKGI
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, I'm having really high latency/ping while gaming and streaming. It's been happening on and off for a few days now. 
+Agent:  I understand, I apologize for this frustrating experience. Can you tell me more about your issue? What device are you using and what specific games or applications are you experiencing lag with?
+Customer: Mostly, it's when I play online shooters. The ping is fluctuating between 200-300ms. Sometimes goes down to 150 but then spikes back up. It's really annoying during matches. 
+Agent:  I see. To troubleshoot this further, can you try restarting your router and modem? If that doesn’t help, could you run a network speed test on your computer or mobile device? 
+Customer: Tried that, no change. My internet is fiber optic, so I don't think it's the connection itself, but...  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the troubleshooting suggestions, unfortunately, the issue persists despite them.  I'm hoping for further assistance."
+Sentiment: Negative

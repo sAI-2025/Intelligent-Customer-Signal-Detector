@@ -1,0 +1,16 @@
+Customer ID: 1062-LHZOD
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is lower than expected. I was getting around 50 Mbps before but now it's down to 15. 
+Agent: I understand your concern, we want you to be able to connect at the speeds you expect!  Could you please provide your account information so I can take a closer look?
+Customer: My name is John and my account number is 1234567890. 
+Agent: Thank you, John. Based on what I see in our system, there might be an issue with the service at your location. I'm going to check it out for you now.  Let me know if you have any other questions. 
+Customer: Okay, thanks! 
+Agent: No problem. We'll get this sorted out. Thanks again for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, I appreciate your help getting my internet back up to speed!"
+Sentiment: Positive

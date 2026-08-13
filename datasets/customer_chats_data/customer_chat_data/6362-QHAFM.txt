@@ -1,0 +1,17 @@
+Customer ID: 6362-QHAFM
+Topic: price differs from advertised plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble understanding why my monthly bill is so high. 
+Agent:  I understand your concern. Can you please tell me which plan you are currently on? 
+Customer: I'm on the "Ultimate" plan. It seems like the advertised price of $79.99/month is different from what I am paying. 
+Agent:  Let me double-check your account details, and see if there was a recent change in pricing. 
+Customer: Thank you. I've been with you for four years now, and always paid on time.  
+Agent:  I understand that it can be frustrating to encounter discrepancies between advertised pricing and actual billing. 
+Customer: I just want to know what my bill is truly reflecting. 
+Agent: The current rate of $108.30 per month for the "Ultimate" plan is due to an upgrade in fiber optic connection costs, which has affected your monthly price. Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the explanation, and it's clear my bill reflects the recent changes.
+Sentiment: Positive

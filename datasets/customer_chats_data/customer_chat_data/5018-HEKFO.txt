@@ -1,0 +1,25 @@
+Customer ID: 5018-HEKFO
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is completely down. I can't connect to anything. 
+
+Agent: I understand your concern, and I apologize for this service interruption.  Please tell me your account number and the address where you are experiencing this issue. 
+
+Customer: 1234567890, my home address is [redacted]. 
+
+Agent: Thank you. I'm currently checking on the status of your connection. It may be a brief outage.  We'll keep you updated with our progress. 
+
+Customer: Okay, thanks. 
+
+Agent: Our engineers are working to resolve this issue as quickly as possible. We appreciate your patience and understanding. 
+
+Customer: Thank you for your help!
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick response and I appreciate the update on the status of my internet.
+Sentiment: Positive

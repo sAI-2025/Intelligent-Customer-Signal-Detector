@@ -1,0 +1,22 @@
+Customer ID: 3247-ZVOUO
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having a lot of internet disconnections lately. 
+Agent:  Hello, my name is Sarah. I understand you're experiencing frequent disconnections.  Can you please tell me your account details so I can look into this for you? 
+Customer: My account information is [redacted] 
+Agent: Thank you. I see that you have a month-to-month contract and are currently on our fiber optic plan. Let's troubleshoot this. 
+Customer: Please help!  It's very frustrating.
+Agent: How long has this been happening? Did any recent changes occur to your home environment like new devices or construction? 
+Customer: No, nothing new. My internet speeds have been fine for the last couple of months until recently.
+Agent: Ok. I'm going to run some tests on your account and will get back to you shortly.  
+Customer: Thank you! 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the help, though it's still frustrating that these disconnections keep happening despite no major changes in my environment.
+Sentiment: Neutral

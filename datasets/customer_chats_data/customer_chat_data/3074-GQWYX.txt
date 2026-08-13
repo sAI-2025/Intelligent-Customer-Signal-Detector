@@ -1,0 +1,17 @@
+Customer ID: 3074-GQWYX
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having terrible latency issues. My ping is constantly over 200ms and makes playing online games almost unplayable. 
+Agent: Hello! I understand you're experiencing high latency while using your internet service.  Could you please provide me with your account information so I can assist further?
+Customer: Sure, my name is John Smith, and my account number is 1234567890. 
+Agent: Thank you, John.  I'm checking on the network performance for your account. It looks like there might be an issue with high traffic at this moment. 
+Customer: Okay, thanks! When can I expect to see a resolution? 
+Agent:  We will work towards resolving this as soon as possible. You should experience faster speeds within the next few hours. 
+Customer: Great, thanks again for your help! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting things sorted out so quickly! Hopefully those high traffic issues will stay resolved."
+Sentiment: Positive

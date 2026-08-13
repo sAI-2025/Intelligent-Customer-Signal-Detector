@@ -1,0 +1,17 @@
+Customer ID: 6851-WEFYX
+Topic: songs stop unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet service today.  My songs on Spotify keep stopping unexpectedly. 
+Agent: Hi there! Thanks for reaching out. I understand this can be frustrating. Can you tell me what device and internet plan you have? 
+Customer: My phone is the only device, and I'm on the $100.8 monthly Fiber optic plan.  
+Agent: Okay, thanks for that. Let me check on your account and see if we can resolve this issue for you. 
+Customer: Thank you. 
+Agent: Please hold while I look into this. (After a short pause)  I've checked your account and found no recent service outages reported in your area. The cause of the sudden stop is most likely due to a temporary disruption or interference with your WiFi signal, and we have been working on fixing that for you.
+Customer: Well, thanks anyway! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation, it seems like a wifi issue was still the culprit."
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 2982-IHMFT
+Topic: referral program question
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I have a question about your referral program.  
+Agent:  Of course! I can help you with that. 
+Customer: Can I get referrals for other people or just my friends? 
+Agent: You are able to refer both friends and acquaintances. 
+Customer: Thank you.  I'd like to know more about how the program works. 
+Agent: We offer a $50 bonus when a referred customer signs up, as well as your regular monthly rate of $74.45 for your service. 
+Customer: Well, that is pretty good! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was very helpful and easy to understand! Thanks for the clear explanation of the referral program.
+Sentiment: Positive

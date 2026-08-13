@@ -1,0 +1,18 @@
+Customer ID: 2359-QWQUL
+Topic: payment method change request
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'd like to change my payment method from a credit card to PayPal. 
+Agent:  Certainly, I can assist you with that. What is your account name or customer ID? 
+Customer: My account is [Insert Account Number].
+Agent: Thanks for providing that information. 
+Customer: Is there a fee involved in changing my payment method? 
+Agent: No, it's free to change the payment method on your account.  
+Customer: Great!
+Agent: You will need to provide us with your PayPal login details and confirm you have authorized this change. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks! 😊
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 2884-GBPFB
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is very weak in the living room. I can barely stream movies.  
+
+Agent: Hello! Thanks for contacting us today. I'm happy to help with your Wi-Fi issue. 
+
+Customer: Yes, it's been happening for a few days now. It used to be fine.
+
+Agent: Could you tell me more about the specific location and devices you're using? 
+
+Customer:  It's in the living room - mainly my TV and laptop are affected. I get no signal at all on my phone.   
+
+Agent: Okay, thank you for that information. I will send a technician to check out your router and connection. 
+ 
+Customer: Great. Thank you!  
+ 
+Agent: You're welcome. We'll be in touch later today with an estimated time of arrival. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The customer service was helpful and efficient, and I appreciate the technician being sent out to resolve my issue."
+Sentiment: Positive

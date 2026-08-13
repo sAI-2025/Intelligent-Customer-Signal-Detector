@@ -1,0 +1,16 @@
+Customer ID: 0572-ZJKLT
+Topic: hardware configuration problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't connect to my network. I get error messages saying "Failed to configure hardware".
+Agent:  I understand your concern. Can you please provide your account number and the specific error message? 
+Customer: Here's my account number [account number], and the error is "DHCP Error: Server not found on IP address"
+Agent: Thank you for providing that information. We need to check your device configuration. Please let me know if you have any other questions.
+Customer:  I am currently using a desktop PC. I've just rebooted it. 
+Agent: Ok, I see the issue. It seems like there is an issue with your DNS settings. Let me verify that. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient resolution to my problem!  Thanks for getting this sorted out.
+Sentiment: Positive

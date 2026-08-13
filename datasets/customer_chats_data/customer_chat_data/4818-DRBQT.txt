@@ -1,0 +1,20 @@
+Customer ID: 4818-DRBQT
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! My upload speed is much slower than expected, it's only about 5 Mbps. I was paying for 20 Mbps and thought my speeds should be closer to that.
+
+Agent: Hello, thanks for reaching out.  I understand you're experiencing lower upload speeds than anticipated. Can you please provide your account number or a link to your order details?
+
+Customer: My account number is [redacted].
+
+Agent: Thank you! I see your account has a fiber optic connection and was recently upgraded to 20 Mbps for $80.15/month.  I'm going to take a look at the speed test results and see why it's so low. 
+ 
+Customer: Okay, thanks. 
+
+Agent: Let me check the details and let you know the cause of this issue shortly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and efficient to resolve! Thanks for getting back to me so quickly.
+Sentiment: Positive

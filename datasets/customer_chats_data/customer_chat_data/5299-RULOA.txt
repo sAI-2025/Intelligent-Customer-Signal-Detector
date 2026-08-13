@@ -1,0 +1,16 @@
+Customer ID: 5299-RULOA
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet speed has been really slow this evening. It feels like it's crawling during peak hours. 
+Agent:  I understand your concern. I can definitely look into this for you. Could you please provide me with your account information or the last four digits of your phone number?
+Customer: Of course! Here is my account number: 123456789
+Agent: Thanks for that, sir. Based on our network logs, there seems to be a high volume of users online during peak hours.  
+Customer: Well, that's just not acceptable when you're paying $100.25 a month!
+Agent: I apologize for the inconvenience. We appreciate your patience and understanding. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the explanation is somewhat helpful, it doesn't address the frustrating slow speeds that are impacting my ability to work/access online resources.
+Sentiment: Negative

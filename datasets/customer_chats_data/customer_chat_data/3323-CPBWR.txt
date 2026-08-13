@@ -1,0 +1,24 @@
+Customer ID: 3323-CPBWR
+Topic: router cannot connect to internet
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to connect to the internet on my router. 
+
+Agent:  Hello! Thank you for contacting us. What is the specific issue you are experiencing?
+
+Customer: My connection just won't load, and the light on my router stays solid white.   
+
+Agent:  I understand. Can you please verify your modem and router are both powered on and that the Ethernet cable is securely connected? 
+
+Customer: Yes, I've double-checked everything.
+
+Agent: Okay, let me check with the system to see if there are any reported outages in your area. 
+ 
+Customer:  Thanks! 
+
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but I appreciate the prompt and helpful explanation of the issue.
+Sentiment: Negative

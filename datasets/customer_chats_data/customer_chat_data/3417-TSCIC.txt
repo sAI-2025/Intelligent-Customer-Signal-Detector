@@ -1,0 +1,24 @@
+Customer ID: 3417-TSCIC
+Topic: customer believes unlimited data is restricted
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm not able to stream movies online and it's frustrating! My internet is always so slow. 
+
+Agent:  I understand your frustration, [Customer Name]. Could you please provide me with your account information? 
+
+Customer: Sure, my name is [Name], my account number is [Account Number] and I have a DSL connection. I've been with the company for two years now. 
+
+Agent: Thank you for that information. Based on our records, it appears you are currently under an unlimited data plan but you may be experiencing issues with your speed due to factors such as network congestion or other usage patterns.  
+
+
+Customer: Okay, that’s helpful. Thanks!
+
+
+Agent: I'd like to offer some troubleshooting steps. We can also take a look at what might be impacting your speeds. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and provided some useful information, which helped me understand the situation better."
+Sentiment: Positive

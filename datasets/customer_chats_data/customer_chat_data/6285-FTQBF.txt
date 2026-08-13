@@ -1,0 +1,20 @@
+Customer ID: 6285-FTQBF
+Topic: customer wants to cancel a service or add-on
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to cancel my service.  My contract is up in two months. 
+Agent: I understand you are looking to cancel your service. Can you confirm your account number?
+Customer: It's [account number]. 
+Agent: Thank you for providing that information. We can help you with the cancellation process.
+Customer: Alright.  And do you have any options for adding back-up internet once I cancel my current plan?
+Agent: To ensure you don't experience downtime, we offer a variety of add-on services like backup internet plans. 
+Customer: Okay, that would be great! 
+Agent: We will gladly activate this service at the best possible rate for your needs.
+Customer:  Thank you so much! 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and professional, making the cancellation process smooth and easy.
+Sentiment: Positive

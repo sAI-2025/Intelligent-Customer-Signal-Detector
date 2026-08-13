@@ -1,0 +1,24 @@
+Customer ID: 3009-JWMPU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am unable to access the internet at all. 
+
+Agent: Thank you for contacting us! My name is Alex, how can I help?
+
+Customer: I'm on fiber optic and haven't been able to connect all day. Can you look into this?  
+
+Agent:  I understand your frustration. Let me pull up your account information for a quick check. 
+
+Customer: It seems I have been without internet service since yesterday. 
+
+Agent:  I see some activity in the network logs indicating an issue with the connection to the fiber optic line.
+
+Customer: My plan is $96.75 per month and has been in use for over six years!
+
+Agent:  We will get this resolved for you today. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful for the prompt resolution and explanation! I appreciate the quick fix."
+Sentiment: Positive

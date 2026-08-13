@@ -1,0 +1,26 @@
+Customer ID: 1767-TGTKO
+Topic: device compatibility problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to my network. My router is compatible with the latest software update, but I can't seem to get online. 
+
+Agent:  I understand your frustration.  Can you please provide your device model and internet plan details?
+
+Customer: It's a desktop computer running Windows 10, and I have the standard DSL package.
+ 
+Agent: Okay, thank you. Let me check the details of your plan and see if we can find any potential issues with your connection.
+
+Customer:  Great! 
+
+Agent:  I believe there might be an issue with your device's settings. Please try resetting the network connection to default on your desktop.  
+
+Customer:  Hmm, I tried that. No luck. 
+
+Agent:  Let me escalate this further. Thank you for contacting us.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: **"I appreciate the help, but unfortunately it still seems unresolved." **
+Sentiment: Negative

@@ -1,0 +1,15 @@
+Customer ID: 3211-ILJTT
+Topic: customer asks how data usage is calculated
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I was wondering how my data usage is calculated? 
+Agent:  Hello!  To calculate your data usage, we review activity on your Fiber optic connection. We provide daily data reports for our customers via email and online dashboards. 
+Customer: Oh, that's helpful to know. Thanks!
+Agent: You're welcome! Please let me know if you have any further questions.
+Customer:  Great! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient answer that cleared up my question about data usage. 👍
+Sentiment: Positive

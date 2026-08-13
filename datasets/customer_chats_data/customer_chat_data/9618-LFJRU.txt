@@ -1,0 +1,15 @@
+Customer ID: 9618-LFJRU
+Topic: customer was charged after cancellation
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I was just charged $20.45 for this month despite canceling my service last week.
+Agent: Thank you for contacting us. Can you please provide your account number or name so we can assist with your cancellation inquiry? 
+Customer: My account number is 123456789, and I canceled on [date of cancellation] through the website. 
+Agent:  I'm seeing that your service was cancelled on [date], however, you were still charged for this month.  We apologize for any inconvenience this may have caused. 
+Customer:  Is there anything we can do to get this refunded? 
+Agent: Absolutely! We can initiate a refund for the amount of $20.45 and will process it within 2-3 business days. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was resolved quickly, thanks!  I appreciate the refund."
+Sentiment: Positive

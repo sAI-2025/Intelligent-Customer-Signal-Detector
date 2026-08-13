@@ -1,0 +1,19 @@
+Customer ID: 8066-POXGX
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having a really frustrating issue with my internet speed.  
+Agent: Hello! Can you tell me what kind of issues you are experiencing? 
+Customer: I keep getting super high latency and ping spikes during gameplay.
+Agent: I understand. What kind of games are you playing, and what are your speeds showing?
+Customer: Mostly FPS games; my speed is fluctuating between 50-80 Mbps.  I've been paying $35.1 per month for DSL, but this issue has been going on for the past week or so. 
+Agent: Thank you for letting me know. I can run a speed test to see if there are any issues with your connection. 
+Customer: Thanks! 
+Agent:  Let me know what the results say. 
+Customer: Okay, thanks again.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for taking the time to help, I'm hopeful the speed test will clear things up."
+Sentiment: Positive

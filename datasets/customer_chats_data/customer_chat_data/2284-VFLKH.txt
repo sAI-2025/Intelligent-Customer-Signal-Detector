@@ -1,0 +1,24 @@
+Customer ID: 2284-VFLKH
+Topic: damaged network equipment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have a problem with my internet service today. My router seems to be fried and isn't working at all!
+
+Agent: I understand your frustration.  Let me check on the status of your equipment order. Please provide your account number. 
+
+Customer: Here it is, [account number].
+
+Agent: Thank you. Let me pull up your details. Your router seems to be damaged due to a recent surge in the service area. 
+
+Customer: Oh no! That’s terrible. How long will that take to be replaced? 
+
+Agent:  We'll send a replacement router out to you within 24 hours, and we'll contact you to schedule a technician visit for your existing equipment. We apologize for the inconvenience. 
+
+Customer: Thank you so much. I appreciate it!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out quickly and efficiently!  I really appreciate the prompt response.
+Sentiment: Positive

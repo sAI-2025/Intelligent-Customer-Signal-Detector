@@ -1,0 +1,29 @@
+Customer ID: 2876-GZYZC
+Topic: customer wants to upgrade TV package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to upgrade my TV package.
+
+Agent:  I can certainly help with that! What kind of packages are you interested in? 
+
+Customer: I was thinking about going with the Premium Plus plan. 
+
+Agent:  Okay, and what is your current monthly contract? 
+
+Customer:  Month-to-month. And my service is Fiber Optic internet. 
+
+Agent:  I see, based on your tenure and internet package, you'd be eligible for a discount. Would you like me to explore that with you?
+
+Customer: Yes please!
+
+Agent:  Great! Let me run through the details of the upgrade and find the best offer for you.  
+ 
+Customer: I am ready. 
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick and helpful process, especially the discount information!"
+Sentiment: Positive

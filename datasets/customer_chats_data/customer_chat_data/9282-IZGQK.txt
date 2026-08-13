@@ -1,0 +1,18 @@
+Customer ID: 9282-IZGQK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my Wi-Fi. It's super slow during peak hours. 
+Agent:  I understand your frustration, and I want to help you get back online quickly. Can you please tell me more about the specific issues you're experiencing?
+Customer: My download speeds are barely a couple of megabytes per second. Everything is extremely laggy even for simple tasks.
+Agent: Thank you for that information.  I see your account details, and it appears you're using our Fiber Optic internet service. Could you please tell me what device you're trying to connect? 
+Customer: I'm using my laptop.
+Agent: Okay, I'll take a look at your network connection. Please allow me a few moments while I check on the status of your account.
+Customer: Thanks!
+Agent: Your internet speeds should be back up and running shortly.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting my wifi back online, it seems like they were just congested during peak hours.
+Sentiment: Neutral

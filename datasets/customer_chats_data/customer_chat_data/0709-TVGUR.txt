@@ -1,0 +1,20 @@
+Customer ID: 0709-TVGUR
+Topic: data service stops after plan change
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet service. It just stopped working completely after I changed my plan last week. 
+
+Agent: I understand your concern, Mrs. Smith. Let me check on your account.  What is the specific error message you see? 
+
+Customer:  Nothing but a blank screen.
+
+Agent:  I'm seeing that your service was switched to fiber optic. There are some minor technical issues with this new plan. We will have it back up and running in 15-20 minutes. 
+
+Customer:  Great, thanks!
+
+Agent:  You're welcome, Mrs. Smith. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The issue was resolved quickly and the agent kept me informed of what was happening.
+Sentiment: Positive

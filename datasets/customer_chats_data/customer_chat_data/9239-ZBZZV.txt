@@ -1,0 +1,19 @@
+Customer ID: 9239-ZBZZV
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having trouble with my Wi-Fi signal in certain rooms. 
+Agent:  I understand! Can you please provide me with your account details and the specific room(s) where you are experiencing slow or no internet connection?
+Customer: Sure, my account name is John Smith and it's month to month. I'm having trouble with my bedroom and the living room. 
+Agent:  I see, thanks for that information. We have a few things we can try to fix this for you. Would you like me to walk you through those steps?
+Customer: Yes please. 
+Agent:  First, let's check your router location. Is it close to the wall or in an open area?
+Customer: It is on a shelf by the living room, near some furniture. 
+Agent: Alright, thanks for that detail. We may need to adjust the signal strength with the router. Let me know when you’re ready and I will guide you through it. 
+Customer: Okay, sounds good!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and knowledgeable, and they were able to quickly solve my Wi-Fi issue."
+Sentiment: Positive

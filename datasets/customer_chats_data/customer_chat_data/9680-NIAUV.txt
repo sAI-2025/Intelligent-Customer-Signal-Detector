@@ -1,0 +1,20 @@
+Customer ID: 9680-NIAUV
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having frequent internet disconnections again.  I've been experiencing this for about a week now. 
+
+Agent: Thank you for contacting us! I understand you are experiencing intermittent internet connection issues. Could you please tell me your account number? 
+
+Customer: My account number is XXX-XXXXXXX.
+
+Agent: I have found your details. Can you tell me what type of device and location you are experiencing these disruptions from? 
+
+Customer:  I'm using my laptop at home, mostly in the living room.   It seems to happen most often during the evenings and late nights. 
+
+Agent:  Thank you for that information. I'll send a technician to your location to investigate further. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for sending out a technician, hope this solves the internet issue permanently."
+Sentiment: Positive

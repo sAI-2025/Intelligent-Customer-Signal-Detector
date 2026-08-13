@@ -1,0 +1,18 @@
+Customer ID: 2267-WTPYD
+Topic: customer wants to upgrade TV package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I would like to upgrade my TV package.
+Agent:  What plan are you currently on and what features are you interested in? 
+Customer:  I'm on the basic package; just want more channels!  
+Agent:  Okay, we have several different options available with additional channels. How many would you like to add on?  
+Customer:  I don't know exactly yet, maybe some sports and news channels?
+Agent:  We have sports packages and news channels starting at $15 per month extra for the Sports Bundle, or $20 for the News Package. Would you like to try either of those first? 
+Customer:  Thanks, can I pay more for the combo package?
+Agent:  The combo package has all the sports and news channels, and it's $25 per month extra. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the info, but unfortunately the price increase is still a bit steep."
+Sentiment: Negative

@@ -1,0 +1,21 @@
+Customer ID: 0818-OCPZO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need help with my Wi-Fi signal in my living room. It's very weak there. 
+Agent:  I understand your concern. Can you please tell me your account number and the address of your home? 
+Customer: Sure, it's X123456789, and my home is at 123 Main Street. 
+Agent: I've taken a look at your account and found some information about your service plan. 
+Customer: Oh, okay. 
+Agent:  Would you like me to walk through some troubleshooting steps or suggest an upgrade for better signal? 
+Customer:  I think a stronger Wi-Fi would be great!  How much does it cost to boost the signal in my living room?   
+Agent: It should only cost $10.99, which includes installation and a new router. 
+Customer: Hmm, that's pretty reasonable. Do you have any suggestions for routers?
+Agent: I can definitely help with that!  Would you prefer an indoor or outdoor antenna?
+Customer:   Indoor antenna sounds good.  Thank you so much. 
+Agent: Thank you
+
+----------------------------------------
+Feedback: The agent was very helpful and the price was reasonable, I'm looking forward to a stronger Wi-Fi signal in my living room!
+Sentiment: Positive

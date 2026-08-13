@@ -1,0 +1,15 @@
+Customer ID: 0618-XWMSS
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Thank you for reaching out!  I understand your concern. Can you tell me more about where exactly in your home the signal is weak?
+Customer: It's especially bad in the living room. My other devices have decent connectivity.
+Agent: I see, let me check on that. Could you provide your account details and any recent changes to your network setup? 
+Customer: Sure, my account number is XXXXXXXXXX.  I haven't made any changes recently.
+Agent: Thank you. I’m looking into the issue now. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for your prompt help!  My living room Wi-Fi is working much better now.
+Sentiment: Positive

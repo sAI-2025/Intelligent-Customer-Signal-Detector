@@ -1,0 +1,27 @@
+Customer ID: 2737-YNGYW
+Topic: installation appointment problem
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't seem to reschedule my appointment for installation. The date and time online are all booked up. 
+
+Agent:  I understand your frustration.  Could you please provide me with your account number or the name associated with the service?
+
+Customer: Here it is - [Account Number] 
+Agent: Thank you! I see that you have a month-to-month contract and are currently on our fiber optic plan for $80.55/month. We can take a look at your appointment availability and try to find a time that works best.
+
+Customer:  Thanks, we really need it done soon. 
+
+Agent: Absolutely! I'm going to check the available slots now. 
+ 
+Customer:  Okay, thanks again.  
+
+Agent:  I have found an opening on [date] at [time]. Would you like me to book that for you? 
+
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was a quick and helpful resolution! Thank you for your assistance."
+Sentiment: Positive

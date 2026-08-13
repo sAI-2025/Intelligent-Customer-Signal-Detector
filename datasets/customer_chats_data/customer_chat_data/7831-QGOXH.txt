@@ -1,0 +1,17 @@
+Customer ID: 7831-QGOXH
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having some serious issues with latency/ping while streaming. It's super laggy and frustrating.
+Agent:  I understand your frustration. Can you please tell me what device and game you are using when experiencing the lag? 
+Customer:  It's happening on my PS5, playing Apex Legends. I'm usually getting around 200-300 ping, sometimes it spikes to like 600+  
+Agent:  Okay, thanks for that information. I see you are subscribed to our fiber optic plan and have been with us for over 18 months. 
+Customer:  Yeah, I've had no issues before until recently. 
+Agent:  I will escalate this issue to the technical team and they will look into your account. We'll make sure to keep you updated on any progress. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for escalating the issue, I hope it gets resolved quickly!"
+Sentiment: Positive

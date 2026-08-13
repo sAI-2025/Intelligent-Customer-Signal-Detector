@@ -1,0 +1,17 @@
+Customer ID: 0621-JFHOL
+Topic: Wi-Fi equipment requires frequent restarting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My Wi-Fi is constantly restarting and I'm getting disconnected frequently. 
+Agent:  I understand your frustration. To troubleshoot this further, could you please provide your account details? 
+Customer: Here they are:  Account number [account number], Name [name] 
+Agent: Thank you. I've initiated a check on your account and noticed that there might be an issue with the router settings. 
+Customer: Okay, great! 
+Agent: We'll get this sorted out for you shortly. Just give us a few minutes, we will contact you as soon as possible to confirm the fix. 
+Customer: Thanks for your help!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quickly got to the bottom of my problem!
+Sentiment: Positive

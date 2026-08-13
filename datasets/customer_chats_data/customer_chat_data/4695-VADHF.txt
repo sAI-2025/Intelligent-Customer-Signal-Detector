@@ -1,0 +1,24 @@
+Customer ID: 4695-VADHF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is incredibly slow.  I expected more from my plan. 
+
+Agent: I understand your frustration with the low upload speeds. May I ask what your current download speed is?
+
+Customer: It's about 1 megabit.  My expectation was closer to 5 Mbps.
+
+Agent:  Let me look into this for you.  Your DSL service plan does come with a maximum upload speed of 5 Mbps, but it can vary based on network congestion and other factors. 
+
+Customer: Okay.  Do I need to contact someone else or just wait?
+ 
+Agent:  I'd be happy to look into this further for you, and if you'd like, we can discuss options for speed improvement. 
+
+Customer: Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for taking the time to help me understand what's going on with my internet speeds.
+Sentiment: Positive

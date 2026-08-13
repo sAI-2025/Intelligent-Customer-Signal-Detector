@@ -1,0 +1,24 @@
+Customer ID: 5708-EVONK
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having trouble with my upload speed today. It's significantly slower than expected.
+
+Agent: Hi there!  I understand you're experiencing a slow upload speed. Can you tell me what kind of device you're using and the upload speed test results? 
+
+Customer: I'm on my laptop, and I just ran a speedtest. The download is good, but upload is around 5 MB/s.  My plan is Fiber, and I think it should be faster.  
+
+Agent: I see your plan details and your speed test results. Based on our fiber network speeds, an upload of 5 MB/s shouldn't be a problem for your plan. 
+
+Customer: Oh, okay. How can I check my connection?
+
+Agent: You can check the status of your connection by logging into your account on our website and seeing if there are any reported outages in your area or issues with your network equipment. 
+
+Customer: Thanks!  I'll take a look.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided clear guidance, and I think the issue might be on my end despite their explanation of typical speeds.
+Sentiment: Positive

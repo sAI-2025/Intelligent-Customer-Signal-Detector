@@ -1,0 +1,15 @@
+Customer ID: 0458-HEUZG
+Topic: customer asks how data usage is calculated
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering how data usage is calculated on my bill? 
+Agent: Sure! Your data usage is based on the amount of data you use each month. We track your internet activity and calculate it using our billing system.  
+Customer: That sounds a bit complicated! Can you give me a rough idea of what I'm typically using?
+Agent:  We can look at your past bill to get an idea, but generally, DSL users average about 10-20 GB per month.
+Customer: Okay, that helps. Thanks for the explanation. 
+Agent: You’re welcome! Thank you for contacting us.
+
+----------------------------------------
+Feedback: The explanation was helpful, and it makes sense to track data usage like this.
+Sentiment: Positive

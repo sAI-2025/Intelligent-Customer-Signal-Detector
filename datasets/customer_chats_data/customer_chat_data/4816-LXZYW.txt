@@ -1,0 +1,17 @@
+Customer ID: 4816-LXZYW
+Topic: customer received a better competitor offer
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hello, I am calling to discuss a new offer from my competitor. They're offering significantly lower prices.
+Agent: I understand your frustration. Can you please tell me more about the competitor's offer? 
+Customer: The price is $59.99 per month for the same speed and service.
+Agent:  I apologize, however our pricing structure is designed to reflect our high-quality fiber optic internet connection and comprehensive customer support. We may not be able to match the specific pricing you've seen from another provider. 
+Customer: What about a discount on my current plan? I've been a loyal customer for over two years.
+Agent:  We appreciate your loyalty, but our pricing is set at $79.15 per month as it reflects the speed and reliability of our fiber optic service.   
+Customer: Okay. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I understand the reasoning behind the high price,  I do wish there was a way to find some kind of discount considering my long-standing loyalty.
+Sentiment: Negative

@@ -1,0 +1,15 @@
+Customer ID: 7398-SKNQZ
+Topic: customer wants to upgrade music service
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I'd like to upgrade my music service. 
+Agent:  Hi! I can definitely help you with that.  What are you looking to upgrade to? 
+Customer: Something a little more premium - do you have any plans that offer higher quality audio and add-ons? 
+Agent: Absolutely! We have the "Premium" plan which offers high-resolution audio, exclusive content, and extra features. It will be $129.9 per month.  
+Customer: That seems steep... I'm currently on the month-to-month option at $94.9. 
+Agent:  I understand your concern; however, we have a promotion running for new upgrades. We can adjust that price to a more comfortable rate. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and willing to work with me on pricing, which made the process more pleasant.
+Sentiment: Positive

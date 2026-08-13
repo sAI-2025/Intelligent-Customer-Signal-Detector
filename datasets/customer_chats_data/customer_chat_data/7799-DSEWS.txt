@@ -1,0 +1,18 @@
+Customer ID: 7799-DSEWS
+Topic: customer wants to downgrade service plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to downgrade my service plan. 
+Agent:  Sure! We can help with that.  What type of plan are you looking to switch to?
+Customer:  I want to go from the $68.35 plan down to a lower one.
+Agent:  Understood.  Do you have any specific speed requirements in mind? 
+Customer: Just something basic, maybe around 5mbps
+Agent:  Okay, we're able to downgrade your service to our 5Mbps package for $40.95 per month. 
+Customer:  That sounds good! Can I do that right now?
+Agent: Absolutely! We can process the change immediately. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, making the service downgrade process smooth and quick.
+Sentiment: Positive

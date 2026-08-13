@@ -1,0 +1,17 @@
+Customer ID: 4585-HETAI
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm having some trouble connecting to the internet. It keeps dropping out every 10-15 minutes. 
+Agent:  I understand your frustration. Can you please tell me your account details?
+Customer: Sure, my name is Emily and my account number is 12345678. My service type is Fiber Optic. I've had this issue for about a week now. 
+Agent: Thank you for providing that information, Emily.  I'll be looking into your account to find the cause of this issue. 
+Customer: Alright, thanks!
+Agent: Let me know if I can help you with anything else. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very professional and efficient in helping me solve my internet connection problem.
+Sentiment: Positive

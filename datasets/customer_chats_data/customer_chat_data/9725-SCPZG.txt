@@ -1,0 +1,24 @@
+Customer ID: 9725-SCPZG
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some serious lag issues while trying to use the internet.  My ping is really high, making it hard to play online games. 
+
+Agent: I understand your frustration.  Please tell me a little more about what you're experiencing. What kind of devices and software are you using? 
+
+Customer: My laptop, playing Destiny 2.  It's not just the game; browsing is slow too.   I haven't had these issues since I started with your service a month ago.
+ 
+Agent: Okay, thank you for that information.  We can definitely look into this further.  Could you please tell me your account details (name and email address) so I can access your connection history?
+
+Customer: My name is John Smith and my email is johnsmith@email.com. 
+
+Agent: Thank you, John.   I'll check your service status now. We have fiber optic connections that are highly reliable; however, there could be temporary issues on our end affecting your network speed. I will look into the issue now. 
+ 
+Customer: Great! Thanks for your help.  
+
+Agent: Thank you for contacting us
+
+----------------------------------------
+Feedback: I appreciate the agent's quick response and willingness to investigate the lag issues. Hopefully, they can get to the bottom of this soon!
+Sentiment: Positive

@@ -1,0 +1,21 @@
+Customer ID: 4603-JANFB
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi! My internet is completely down. I can’t access any websites or stream anything. 
+
+Agent:  I understand your concern, and I'd like to help you get back online.  Please tell me your account number and the address where you experience this issue. 
+
+Customer: Here it is. 1234567890
+Agent: Thanks for providing that information! Let me check on the status of your Fiber connection.  
+
+Customer: Okay, I hope we can get this fixed soon. 
+Agent: We're sorry to hear about the disruption and will do our best to restore your internet service. Just a moment while I investigate further. 
+
+Customer: Thanks for the update!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient resolution, thanks!  😊
+Sentiment: Positive

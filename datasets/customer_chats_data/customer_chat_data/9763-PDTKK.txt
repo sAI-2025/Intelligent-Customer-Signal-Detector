@@ -1,0 +1,17 @@
+Customer ID: 9763-PDTKK
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Hello! What seems to be the issue? 
+Customer: The signal is very weak and drops frequently.  I even have to stand by the router for a good connection.
+Agent: I understand your frustration. Could you tell me which device you're having trouble with?
+Customer: My laptop, and sometimes my phone.
+Agent: Thank you for providing that information. Would you mind giving me the exact address of your home so I can take a look at your router settings? 
+Customer: 123 Main Street
+Agent:  I'm going to check on your Wi-Fi signal now. We might need to adjust some settings to enhance the connection strength in that particular area. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick resolution and helpful troubleshooting steps. My connection should be much better now!"
+Sentiment: Positive

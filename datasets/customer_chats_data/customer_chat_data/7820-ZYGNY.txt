@@ -1,0 +1,16 @@
+Customer ID: 7820-ZYGNY
+Topic: downloaded music cannot play offline
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My downloaded music is not playing offline. I’ve tried restarting my device and checking my internet connection but it still won't work. 
+Agent: Hello!  I understand you are having trouble with your downloaded music playback. Can you please tell me the specific issue?  
+Customer: Yes, it says "Offline Mode Not Available" when I try to play. 
+Agent: I see that this is a common issue for some of our customers, and we're currently working on a fix. Would you like me to escalate this to our technical team?   
+Customer: Yes please
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was frustrating; I hope the fix comes soon!
+Sentiment: Negative

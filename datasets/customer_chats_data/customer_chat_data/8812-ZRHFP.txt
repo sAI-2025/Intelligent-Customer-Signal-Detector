@@ -1,0 +1,18 @@
+Customer ID: 8812-ZRHFP
+Topic: device unable to register on network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I am having trouble connecting my new device to your Wi-Fi network. 
+Agent:  Hi there! I understand you're having some issues connecting your new device? Could you please tell me what kind of device it is and what error messages you are seeing?
+Customer: It’s a smart TV, the message says "Network connection failed." 
+Agent: Okay, I'm going to check our network logs for any issues.  
+Customer: Thanks.
+Agent: We have some recent reports of intermittent connectivity in your area. Do you see a similar issue on other devices? 
+Customer: No, just the TV, it’s brand new. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and explained the situation clearly, but unfortunately I still haven't been able to connect my TV to Wi-Fi."
+Sentiment: Neutral

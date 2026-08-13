@@ -1,0 +1,17 @@
+Customer ID: 9300-AGZNL
+Topic: customer unhappy with service reliability
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having trouble connecting to my internet service. It’s been down multiple times today. 
+Agent: I understand your frustration, Mrs. Smith.  I apologize for any inconvenience this has caused. Can you please tell me more about the issue? When and where were these outages occurring?
+Customer: My service is spotty at best. My speed hasn't been consistent either.
+Agent:  Thank you for providing that information. I'll need to check your account details to see what might be causing this. 
+Customer: Can I get a discount or credit for the downtime?
+Agent: Based on your service plan and duration, we do not offer credits for intermittent outages. We would recommend contacting us if these issues persist. 
+Customer: Oh well.  Thanks anyway. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm disappointed that a discount wasn't offered considering the significant disruption to my service today.
+Sentiment: Negative

@@ -1,0 +1,24 @@
+Customer ID: 3858-VOBET
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed. It seems much slower than what I'm paying for.
+
+Agent:  I understand your concern, let me investigate this for you. Could you please provide your account details or the service address where you are experiencing slow speeds?
+
+Customer: My account number is 1234567890 and my location is [city, state]. 
+
+Agent: Thank you for providing that information. I'm seeing some activity on our network indicating a potential outage in your area. 
+
+Customer:  Really? Is there an estimated timeframe for when things will be fixed?
+
+Agent:  I am looking into the issue now and we aim to resolve this as soon as possible. We will keep you updated on the situation. 
+
+Customer:  Okay, thanks. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response, I appreciate the update about the outage!
+Sentiment: Positive

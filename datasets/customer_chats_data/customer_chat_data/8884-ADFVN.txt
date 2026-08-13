@@ -1,0 +1,19 @@
+Customer ID: 8884-ADFVN
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need to talk about my Wi-Fi signal in my living room. It's very weak and keeps dropping out. 
+Agent:  I understand your frustration with the inconsistent Wi-Fi signal in your living room.  Let me check on your account details.
+Customer: My name is Mary Smith, and I have a month-to-month contract for fiber internet service.  
+Agent: Thank you, Ms. Smith. I've reviewed your account and see that you're experiencing difficulties with the Wi-Fi in certain areas of your home.
+Customer:  That sounds like my issue!   Could you help me troubleshoot this? 
+Agent: Absolutely. We can check for any interference signals or potential issues with your router placement, let me know which room are you experiencing the issue most frequently and I will walk you through some troubleshooting steps. 
+Customer: Thanks, that would be helpful.  The problem seems to occur primarily in my living room. 
+Agent: No problem at all! We can start there.  Would you like me to explain how to check your router's signal strength?   
+Customer: Yes please. 
+Agent: Thank you for contacting
+
+----------------------------------------
+Feedback: "The agent was helpful and patient, and I appreciate their guidance on troubleshooting my Wi-Fi issue!"
+Sentiment: Positive

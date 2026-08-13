@@ -1,0 +1,24 @@
+Customer ID: 2520-SGTTA
+Topic: customer needs equipment replacement
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I need to replace my modem and router.  I believe it's faulty. 
+
+Agent: Absolutely! We can help with that. What is your account number, please?
+
+Customer: It’s 1234567890. 
+
+Agent: Thanks for providing that information. I see you are on a two-year contract and pay $20 per month for your No internet service.  
+ 
+Customer:  I haven't had any issues until now.   
+
+Agent:  Okay, and the issue is with the modem and router? We can get a replacement order started for you right away. 
+
+Customer: Great! Thanks. 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in getting my replacement ordered."
+Sentiment: Positive

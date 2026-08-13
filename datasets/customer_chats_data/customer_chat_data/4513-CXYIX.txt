@@ -1,0 +1,20 @@
+Customer ID: 4513-CXYIX
+Topic: network device overheating
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need some help with my router. It seems to be overheating and I'm concerned about it.
+Agent:  I understand you're experiencing an issue with your router.  Could you please tell me your account number? 
+Customer: Sure, it’s 1234567890.
+Agent: Thank you for that information. I will be able to access your details and help you further.
+Customer: Okay. My router has been running hot, even during normal use.
+Agent:  Let's check on the details of your plan and see if there are any adjustments we can make.
+Customer:  Thanks! I've been a loyal customer for 71 months!
+Agent: We appreciate your loyalty. It sounds like you’re experiencing a network device issue. Would you like me to walk through some troubleshooting steps? 
+Customer: Yes, please.
+Agent: Okay, there are a few things we can try first.  First, check if the router has adequate airflow and make sure it is not blocking any ventilation slots. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and friendly! I appreciate the quick troubleshooting steps."
+Sentiment: Positive

@@ -1,0 +1,23 @@
+Customer ID: 8229-MYEJZ
+Topic: music application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with your music app. It keeps crashing. 
+
+Agent:  I understand your frustration. Could you please tell me what device and OS version you are using? 
+
+Customer: I use an iPhone 13 running iOS 16. How can I get help with this? 
+
+Agent: We apologize for the inconvenience.  We're seeing a number of reports about a recent issue with the app.   
+ 
+Customer:  That's not helpful! It just crashes every time I try to play my music!
+
+Agent: Please check your internet connection and restart your device. If that doesn’t help, try reinstalling the app. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent provided some troubleshooting steps, it would have been more helpful to receive an estimated timeline for a potential fix or alternative solution.
+Sentiment: Neutral

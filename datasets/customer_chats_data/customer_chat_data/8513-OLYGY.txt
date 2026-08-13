@@ -1,0 +1,17 @@
+Customer ID: 8513-OLYGY
+Topic: movie playback fails on specific devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble playing movies on my smart TV.  It keeps saying "error code 123" and just freezes.
+Agent: I understand you're experiencing playback issues with your smart TV. Can you tell me what device model you have?
+Customer: It's a Samsung UN50J6400, the latest version.
+Agent: Thank you for that information. Could you please check if this issue is happening on any other devices (e.g., streaming sticks) as well? 
+Customer: Yeah, it happens on all the devices. I just get the same error code.  
+Agent: Alright, thanks for the details. I'm going to look into your account and see what we can do to help. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This issue is frustrating, but thanks for checking into it."
+Sentiment: Negative

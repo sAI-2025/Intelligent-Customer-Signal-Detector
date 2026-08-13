@@ -1,0 +1,17 @@
+Customer ID: 7267-FRMJW
+Topic: TV streaming buffering frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My TV streaming keeps buffering constantly. It's really frustrating. 
+Agent: I understand your frustration,  I'd like to look into this for you. Could you please provide me with your account number? 
+Customer: Sure, it's [Account Number]. 
+Agent: Thank you. Let me check on the service and see what options we can offer you. 
+Customer:  Appreciate that. 
+Agent: I found a few things in your profile. Your internet plan seems to be limited in speed. We'll try upgrading it to a faster plan, this will ensure smooth streaming for you. Let me know if you agree with the changes and we're ready to activate them for you. 
+Customer:  Sounds good. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for quickly resolving my buffering issue!  The upgrade seems like a great solution.
+Sentiment: Positive

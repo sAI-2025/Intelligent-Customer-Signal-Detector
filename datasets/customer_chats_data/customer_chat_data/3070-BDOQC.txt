@@ -1,0 +1,28 @@
+Customer ID: 3070-BDOQC
+Topic: customer cannot complete device setup
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble setting up my new device.  I can’t seem to complete the setup wizard. 
+
+Agent:  Hi there!  What specific issue are you encountering? We'll get that resolved for you.
+
+Customer: My Wi-Fi isn't connecting. The wizard is prompting me to enter a password, but I don't know my password or have access to it.
+
+Agent: No problem, let’s try and find your password.   Can you please tell me the name of the device you are setting up?  And what type of internet service provider you use? 
+
+Customer: It's a new Motorola router. I am using Xfinity for my internet.
+
+Agent:  Okay, that is helpful. We can help you through this. Can you try restarting your modem and router again? 
+ 
+Customer: Yes, that worked! 
+
+Agent:  Great to hear it worked!   Is there anything else I can assist you with today?
+ 
+Customer: No, thank you!  I appreciate your help! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quickly resolved my issue. Thanks again!
+Sentiment: Positive

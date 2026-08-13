@@ -1,0 +1,17 @@
+Customer ID: 3824-RHKVR
+Topic: previously resolved problem has returned
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having trouble connecting to the internet again. 
+Agent:  I see you were previously experiencing connectivity issues and we've already addressed them in your last service request. 
+Customer:  That was a week ago! It just started happening today. 
+Agent: Let me have a look at your account details and I’ll be able to find out the cause. 
+Customer: Thanks, that would be great. 
+Agent: I'm reviewing your service history and found something interesting. 
+Customer: Okay, let me know what you find.
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the follow-up, it seems like this issue needs to be addressed more quickly as I'm still experiencing connectivity problems."
+Sentiment: Negative

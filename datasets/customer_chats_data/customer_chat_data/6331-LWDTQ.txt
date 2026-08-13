@@ -1,0 +1,15 @@
+Customer ID: 6331-LWDTQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble connecting to the internet. Can you help? 
+Agent: Hi there!  I see your account is currently experiencing connectivity issues. Can you please provide your account number and any details about the problem, like what devices are affected or any error messages you're receiving? 
+Customer: Sure, it’s [account number]. I can’t get on my computer or phone. It just keeps saying “No internet connection.”
+Agent:  I apologize for this inconvenience. Let me check if there's an outage in your area. 
+Customer: Okay, thanks. 
+Agent: The issue seems to be a widespread outage affecting DSL customers in your region. We are working on it and will update you as soon as possible with any new information.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating that I couldn't connect for so long, but thank you for keeping me updated on the progress of the issue!
+Sentiment: Neutral

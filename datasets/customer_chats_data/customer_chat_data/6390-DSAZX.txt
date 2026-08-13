@@ -1,0 +1,19 @@
+Customer ID: 6390-DSAZX
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! My internet is completely down and I haven't been able to get any service since this morning. 
+Agent: Hello! I see your account is active, and we have a fiber optic connection.  Can you tell me the last time it was working?
+Customer: It’s been entirely offline all day, maybe since yesterday evening.
+Agent: Thank goodness I can see that there are no outages reported in your area. 
+Customer: Okay... how do I get my internet back up and running?
+Agent:  I'll need to check the status on your router.  Give me a moment. 
+Customer: Ok 
+Agent:  Your router seems to be fine, it appears there may have been an issue with the connection at our end. We're currently working on resolving this for you. 
+Customer: That sounds promising! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting my internet back up and running, much appreciated!"
+Sentiment: Positive

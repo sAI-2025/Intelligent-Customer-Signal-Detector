@@ -1,0 +1,22 @@
+Customer ID: 2024-BASKD
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my subscribed plan.  I'm getting around 5Mbps when I should have 100Mbps. How can this be fixed?
+
+Agent: Thank you for reaching out to us! We apologize for the slow internet connection. To help troubleshoot, could you please provide your account information and the router model?
+
+Customer: My name is Michael, my account number is 1234567890.  My router model is a TP-Link Archer C6. 
+
+Agent: Okay, Michael. Thank you! We are currently checking on the connection status of your account. 
+
+Customer: Is there an ETA for this issue to be resolved?
+
+Agent: We will escalate this case and it will be resolved by the end of the day. 
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Appreciate the quick response, thanks for taking care of this!"
+Sentiment: Positive

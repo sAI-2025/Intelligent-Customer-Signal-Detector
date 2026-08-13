@@ -1,0 +1,16 @@
+Customer ID: 1383-EZRWL
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm experiencing high latency when using your internet service. It's making it difficult to play online games.
+Agent:  I understand your frustration. To help me troubleshoot this issue, can you please provide me with your account information? 
+Customer: Sure, my username is John Smith and my contract number is 1234567890. 
+Agent: Thank you, John. I'm checking the network logs now.  Let me know if you need anything else.
+Customer: Thanks for your help. 
+Agent:  I'll be sure to update you on my findings.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, thanks!
+Sentiment: Positive

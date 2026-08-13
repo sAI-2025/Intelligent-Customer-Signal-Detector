@@ -1,0 +1,17 @@
+Customer ID: 2634-HCZGT
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet is very slow during peak hours. It’s been happening for about a week now. 
+Agent:  I understand your frustration. Can you tell me what device and location you're experiencing this issue on?
+Customer:  My laptop, at home. I live in the city.
+Agent:  Okay, thanks.  Let's take a look at your account details. 
+Customer: My DSL internet service is very reliable for the most part, but during peak hours it gets slow.   
+Agent: We appreciate your loyalty, and I'd like to check if there are any scheduled maintenance or outages in your area.
+Customer: Okay thanks.  I just want good speed, and a stable connection. 
+Agent: We understand your needs, and we will do our best to get you back on track. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and I'm hopeful for a resolution soon."
+Sentiment: Positive

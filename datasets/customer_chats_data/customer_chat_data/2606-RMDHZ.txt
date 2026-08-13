@@ -1,0 +1,24 @@
+Customer ID: 2606-RMDHZ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't seem to get online at all. My internet is completely down. 
+
+Agent:  I understand you're experiencing internet outage. Can you please provide your account information, including your name and the address associated with your service?
+
+Customer: Sure. My name is John Smith and my address is 123 Main Street.
+
+Agent: Thank you, John. I see that you are currently on a month-to-month contract for DSL internet at $30.5 per month. 
+
+Customer:  It's been like this all day. What can be done to fix it? 
+
+Agent: We're sorry for the inconvenience. Our technicians are working diligently to resolve the issue. There may be a temporary outage affecting some customers in your area.  
+
+Customer:  Okay, thanks anyway. Hope they can get this fixed soon! 
+ 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate their prompt response and hope the problem is resolved quickly for everyone affected!
+Sentiment: Positive

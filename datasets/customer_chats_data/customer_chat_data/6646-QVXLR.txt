@@ -1,0 +1,19 @@
+Customer ID: 6646-QVXLR
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I am having trouble connecting to the internet. It seems like my ping is really high lately.
+Agent: Hello! Thank you for reaching out to us. I understand your concern about high latency. 
+Customer: My connection speed and download speed has been slower than usual.  
+Agent: To investigate this further, could you please tell me your modem/router model?  
+Customer: It's a Netgear Nighthawk R6700
+Agent: Thanks. I’ll need to run some tests on our end. 
+Customer: Ok.   
+Agent:  We are currently working with our network team to address this issue. We will be in touch with an update by the end of the day. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick response and update on the status of my internet connection.
+Sentiment: Positive

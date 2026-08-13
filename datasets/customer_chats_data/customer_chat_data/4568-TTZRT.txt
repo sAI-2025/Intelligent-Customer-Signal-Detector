@@ -1,0 +1,21 @@
+Customer ID: 4568-TTZRT
+Topic: movie streaming consumes excessive data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having a bit of an issue with my data usage on my streaming plan. 
+Agent:  Hi! What seems to be the problem?
+Customer: My monthly data allowance just isn't enough anymore. I'm using quite a bit of data for movie streaming, especially since I've been watching movies on Netflix and Hulu lately. Is there any way to adjust my plan or get some additional data? 
+Agent:  I understand your frustration. Let me check the details on your account. 
+Customer: Thanks!
+Agent: Your current plan has a limit of 20GB of data per month, but you've already used over half that amount. 
+Customer: Oh, no!
+Agent: Would you like to upgrade to a higher data plan? We do have options with more data for just $5 extra per month. 
+Customer: Hmm... I'd rather not spend more money if possible. 
+Agent:  I see. Perhaps we can explore some alternatives like changing your streaming service or using data-saving features on your device. 
+Customer: Alright, maybe that would be better. 
+Agent: Thank you for contacting
+
+----------------------------------------
+Feedback: This was a helpful conversation and I appreciate the suggestions! I'll definitely look into those options.
+Sentiment: Positive

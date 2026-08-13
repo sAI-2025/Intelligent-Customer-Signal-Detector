@@ -1,0 +1,20 @@
+Customer ID: 0670-KDOMA
+Topic: poor TV picture quality
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My TV picture quality is terrible lately. Is there an issue on your end? 
+Agent: I understand your concern, ma'am.  Could you please tell me your account number and service address?
+Customer: Account #1234567890, my address is [Address]
+Agent: Thank you for providing that information. Let me check the signal status for your area. 
+Customer: I hope this issue gets resolved soon. It's frustrating to not have a good TV experience
+Agent: I am working on it and will update you with the details shortly.
+Customer: Okay, thanks
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, hopefully this issue gets resolved soon."
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 5294-CDGWY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. It's only about 4 Mbps when I usually get around 15 Mbps.  Is there a known issue?
+
+Agent: Hello! Thank you for contacting us. We understand you're experiencing slow upload speeds, and we want to help resolve this. 
+
+Customer:  I have been a customer for over five years now and am currently on the $59.3 plan with DSL internet. Is there anything that can be done?
+
+Agent: Let's take a closer look at your account details.  Can you please provide your account number or any other information to verify your identity? 
+
+Customer: Yes, my account number is 1234567890.  Thank you.
+ 
+Agent: I see the details and have opened an investigation. We're currently experiencing a network issue that may be impacting upload speeds in some areas. We will keep you updated on our progress and let you know when we have a resolution.
+
+Customer: Okay, thanks for your help.  I appreciate it. 
+
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was frustrating but I appreciate the update and will keep an eye out for further information.
+Sentiment: Neutral

@@ -1,0 +1,24 @@
+Customer ID: 1877-HKBQX
+Topic: TV streaming buffering frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble buffering on my TV stream. It keeps cutting out and I can't watch anything smoothly. 
+
+Agent:  I understand your frustration, let me look into this for you. Could you tell me your account information, like the last four digits of your social security number? 
+ 
+Customer: Sure, it's... [account details]
+
+Agent: Thank you. I can see that you have a DSL connection and are on your one-year contract.  I'm seeing some reports of slower speeds with older DSL connections.  Would you like to switch to fiber optic?
+
+Customer: Hmm, is there anything I could do to fix the buffering right now? 
+ 
+Agent: We can try troubleshooting steps. Let me reboot your modem and router, that often helps. Do you have any other issues going on with your service? 
+ 
+Customer: Just this stream problem. Thanks!
+
+Agent:  Okay, I've rebooted the connection, let me know if it helps. Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the troubleshooting steps, but the buffering still seems to be an ongoing issue despite your efforts.
+Sentiment: Negative

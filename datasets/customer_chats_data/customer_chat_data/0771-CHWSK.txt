@@ -1,0 +1,16 @@
+Customer ID: 0771-CHWSK
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my Wi-Fi signal is weak in the living room and dining area of my house. 
+Agent: I understand your concern. Can you please tell me what device are you using to connect to the internet? What's your modem model?
+Customer: My laptop and phone are both connected via Wi-Fi. It's a Netgear N600 router.
+Agent: Thank you for that information.  I see some areas experiencing signal drops. How long have these issues been occurring? 
+Customer: For about the past two weeks, I haven't had good internet connection in those rooms.
+Agent: I'm going to run a diagnostic test to check the signal strength and speeds. We should be able to resolve this soon. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quick to address the issue, hope it gets resolved quickly!"
+Sentiment: Positive

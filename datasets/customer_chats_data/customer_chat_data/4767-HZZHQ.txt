@@ -1,0 +1,17 @@
+Customer ID: 4767-HZZHQ
+Topic: customer dissatisfied with available TV content
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm really unhappy with the TV selection on my channel package. 
+Agent:  I understand your frustration. May I know what specific channels or genres are you finding lacking? 
+Customer: It's mostly reality shows and dramas. There just isn't much variety. 
+Agent:  We do offer a wide range of content, including many international titles and documentaries. Would you like me to check for any recommendations that might fit your preferences? 
+Customer: Well, I was hoping for more options in the crime drama category. 
+Agent:  We are always expanding our library based on viewer feedback. We do have some new crime dramas coming soon!
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful and informative, I still wish there were more variety in specific genres like crime drama.
+Sentiment: Neutral

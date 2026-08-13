@@ -1,0 +1,27 @@
+Customer ID: 3714-XPXBW
+Topic: TV service unavailable despite active subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble accessing my TV service today.  It just won't connect. 
+
+Agent: Hello! I understand you're experiencing issues with your TV service. Can you please tell me your account number?
+
+Customer: Here it is. 1234567890
+
+Agent: Thank you for providing that information. Let me take a look at your account details.
+
+Customer:  It's been frustrating, I've already called customer service last week and they said the issue was resolved, but now it's happening again. 
+
+Agent: I see there were some recent reported outages in your area. I apologize for any inconvenience this has caused. We are working to restore the service as quickly as possible.  
+
+
+Customer:  Is there an estimated time? 
+
+Agent: The technical team is currently working on resolving these issues and we expect it will be resolved within the next hour or two. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but I appreciate the prompt update regarding the outage and expected resolution timeline.
+Sentiment: Negative

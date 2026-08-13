@@ -1,0 +1,22 @@
+Customer ID: 3091-FYHKI
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is really slow. I was hoping to get my $35 a month plan faster speeds.
+Agent:  I understand your frustration with the current download speeds. Please provide your account information so we can take a closer look. 
+Customer: Here you go, my name is Richard and my account number is 1234567890. 
+Agent: Thank you, Richard. I've taken a look at your account, and it seems you are currently on our basic DSL plan. 
+Customer:  I thought this would be faster. My internet needs to work for my online banking and telehealth appointments. 
+Agent:  I apologize for any inconvenience caused, Richard. We do offer upgrades for our customers who need faster speeds. Would you like to explore those options?
+Customer: Yes, please. 
+Agent: I'd recommend the upgrade to Gigabit Fiber. It can provide much faster download and upload speeds. 
+Customer:  Okay, thank you. 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution! Thanks for offering me the Gigabit Fiber upgrade option.
+Sentiment: Positive

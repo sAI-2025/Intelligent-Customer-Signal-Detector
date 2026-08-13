@@ -1,0 +1,17 @@
+Customer ID: 5322-ZSMZY
+Topic: songs stop unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My music stopped playing unexpectedly earlier today.  It was a song I was really enjoying.
+Agent: Hi! I'm sorry to hear your music is not playing correctly. Can you please tell me your account number? 
+Customer: Sure, it's 1234567890. 
+Agent: Thank you. Let me look into that for you.  
+Customer: Thanks! 
+Agent: I have located the issue and confirmed your internet is working as expected. The unexpected disconnections are a result of server fluctuations. Please rest assured this issue should be resolved shortly.  
+Customer: Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting to the bottom of it quickly. It seems like I was experiencing some minor hiccups!"
+Sentiment: Positive

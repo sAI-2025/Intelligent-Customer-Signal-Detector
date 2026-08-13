@@ -1,0 +1,20 @@
+Customer ID: 9003-CPATH
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having frequent internet disconnections lately and it's really frustrating me. 
+Agent: Hi there!  I understand that you're experiencing connectivity issues.  Can you tell me a little more about what's happening?  
+
+Customer: My WiFi keeps dropping out every few minutes, even during work calls.   Is there an issue on your end?
+Agent:  Let's take a look. I have you logged into our system here. What's the address of your router and the device experiencing issues? 
+Customer: It's at [address] and my laptop is being impacted.
+Agent: Okay, let me check the network status for that address and we'll see what we can do to resolve this issue for you. 
+Customer: Thank you!  
+Agent: No problem at all. I'm going to take a look into it now. We'll get your service back up and running in no time.
+Customer: Great, thanks so much.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very responsive and helpful in resolving my WiFi issues. I appreciate their prompt attention!
+Sentiment: Positive

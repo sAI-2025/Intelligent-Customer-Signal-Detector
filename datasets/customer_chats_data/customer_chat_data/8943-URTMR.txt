@@ -1,0 +1,24 @@
+Customer ID: 8943-URTMR
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my download speed is much slower than what I'm paying for.  I've been getting around 10 Mbps when my plan says it's supposed to be at least 50 Mbps.
+
+Agent: I understand your concern about the slow download speeds. Could you please provide me with your account information so I can check your service details? 
+
+Customer: Sure, my name is John and my account number is 1234567.  I also use Fiber Optic internet.
+ 
+Agent: Thank you for providing your account information, John. I see that your current speed seems to be significantly lower than your subscribed plan. 
+
+Customer: Can you give me a solution? My connection has been unusable in the past two weeks.
+
+Agent: I'd like to help you get back up and running at optimal speeds. We can check for any network issues or maybe there's something we need to adjust in your connection settings. 
+
+Customer: Thank you, that would be great.  I hope it doesn't take too long.
+
+Agent: No worries, John. I'm doing my best to resolve this issue right away. I will get
+
+----------------------------------------
+Feedback: Feedback: The agent was very helpful and proactive in finding a solution for the slow download speeds.
+Sentiment: Positive

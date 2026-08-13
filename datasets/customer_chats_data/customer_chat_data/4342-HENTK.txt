@@ -1,0 +1,20 @@
+Customer ID: 4342-HENTK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I’m having trouble with my internet speed today. It seems really slow during peak hours. 
+
+Agent:  I understand your concern, let me take a look into that for you. Could you please tell me what device and the exact time you experienced this slow internet?
+
+Customer: My computer and phone are both showing slow speeds around 6pm to 8pm. I started seeing issues at about 5:30 pm today. 
+   
+Agent:  Okay, thank you for that information. We’ll look into what might be causing the slow speed during those hours, especially with a fiber connection and it's typically a good speed for peak times.
+
+Customer: Oh, I see, thanks!
+
+Agent: I appreciate your patience while we investigate this further. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into the issue, hopefully it gets resolved quickly!"
+Sentiment: Positive

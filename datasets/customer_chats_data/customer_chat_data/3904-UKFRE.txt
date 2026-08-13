@@ -1,0 +1,17 @@
+Customer ID: 3904-UKFRE
+Topic: TV application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! My TV application keeps crashing and I can’t watch my shows.  
+Agent: Hello, thanks for reaching out to support. What specifically is happening when your app crashes? 
+Customer: Well, it just closes abruptly after a few minutes of viewing. The last message says “Application error”
+Agent: I understand. May you please provide me with your device type and operating system?  
+Customer: It's an Android TV box running on Google TV 
+Agent: Thank you. We are aware of some recent issues with the application, and our engineers are working to resolve them as quickly as possible. Please keep checking for updates. 
+Customer: Okay, thanks!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the issue. Hopefully the update will fix it soon."
+Sentiment: Neutral

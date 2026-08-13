@@ -1,0 +1,18 @@
+Customer ID: 2645-QTLMB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I keep getting disconnected from my internet and it's really frustrating.
+Agent: Hello! My name is Sarah, how can I help you today? 
+Customer: I've been experiencing frequent disconnections for the past week or so. It's been happening during work calls and streaming movies.
+Agent:  I apologize for the inconvenience, let me take a look into your account to see if there are any issues. 
+Customer: Thank you!  My contract is month-to-month and I pay $94.25 per month for Fiber optic internet. I've been using it for 7 months now.
+Agent:  I understand, let me check on your connection speeds and see if there are any known outages in your area.
+Customer: Great! Let me know what you find out. 
+Agent:  Looking into the issue, we have a few reports of internet slowdowns due to recent heavy traffic. We will get this resolved shortly.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into it and letting me know about the ongoing issues! Hopefully, they'll be fixed soon so I can enjoy my streaming again.
+Sentiment: Positive

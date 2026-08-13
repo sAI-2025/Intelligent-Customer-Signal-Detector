@@ -1,0 +1,17 @@
+Customer ID: 0603-TPMIB
+Topic: customer cannot find expected self-service option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to find the option for self-service on your website. 
+Agent: Hello!  I understand you're having trouble accessing the self-service options. Can you please tell me what issue you're experiencing?
+Customer:  I'm trying to change my billing details, but I can't find that option on the site. It says I need to contact customer service. 
+Agent: Let me see if I can help you with that. Please give me your account number, and I'll guide you through the steps.
+Customer:  Here it is, 1234567890. 
+Agent: Thank you! I see that this should be easily accessible on the site. It appears there may have been a recent update to our website layout. We do apologize for any inconvenience. 
+Customer:  Okay. 
+Agent:  I'm going to escalate your query, and it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and patient in finding the solution for me despite the website update. Thanks!
+Sentiment: Positive

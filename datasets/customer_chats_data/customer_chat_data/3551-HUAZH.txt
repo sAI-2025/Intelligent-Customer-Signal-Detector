@@ -1,0 +1,24 @@
+Customer ID: 3551-HUAZH
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed today. It's very slow during peak hours. 
+
+Agent:  I understand your frustration, and apologies for the inconvenience. What is your account name and service address?
+
+Customer: John Smith, 123 Main Street, Anytown, CA. 
+
+Agent: Thank you, Mr. Smith. Let me check on the status of your connection.
+
+Customer: I'm paying $74.4 a month for Fiber optic internet. This is my first month with your company, and it seems like there's an issue.  
+
+Agent:  I see that you have been experiencing slow speeds during peak hours. We will investigate the issue to address the performance problem. 
+
+Customer: Thank you, I hope this gets sorted out soon.   
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and update, hope my internet speeds return to normal soon."
+Sentiment: Positive

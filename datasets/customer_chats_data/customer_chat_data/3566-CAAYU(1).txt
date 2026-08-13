@@ -1,0 +1,17 @@
+Customer ID: 3566-CAAYU
+Topic: multiple-line pricing is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm confused about the pricing for multiple-line discounts. 
+Agent:  Sure! Can you tell me which lines you have, and what your current plan looks like?
+Customer: There's a new promo for getting DSL internet and phone bundled, but the website doesn't explain how it works in detail. 
+Agent: I understand. The promotion usually comes with discounted rates on both phone and internet services.  Would you like to clarify which lines you have, and perhaps we can discuss your current plan?
+Customer: My main line is my only line. I just got a new number for the second line recently. 
+Agent: Ah, that makes sense! The promo usually has different pricing tiers based on the number of lines. We need to look at your existing plan details.  
+Customer: Thanks!
+Agent: You're welcome. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Overall, I appreciate the agent's help in clarifying the pricing for the promotion."
+Sentiment: Positive

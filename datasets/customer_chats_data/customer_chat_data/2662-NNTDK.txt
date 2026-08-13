@@ -1,0 +1,27 @@
+Customer ID: 2662-NNTDK
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection is incredibly slow. It feels like I'm stuck in the stone age! 
+
+Agent:  I understand your frustration. To troubleshoot this issue, can you please provide me with your account information or the exact problem you are experiencing?
+
+Customer: Here it is - Account Number: XXXXXXXXXX, email: XXX@email.com
+ 
+Agent: Thank you for providing that information! We're having technical difficulties in certain areas, and we're working on resolving the issue as quickly as possible.  We'll keep you updated with any progress.
+
+Customer:   Okay. What should I do until it gets fixed?
+
+Agent: To help me understand, what specifically is causing the slowness or latency? For instance, are you experiencing difficulty connecting to specific websites, apps, or streaming services? 
+
+Customer: It's all lagging. Like a snail in molasses. 
+ 
+Agent:  I apologize for the inconvenience caused by this delay.  Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your quick response, I appreciate the update and hopefully, it'll be resolved soon."
+Sentiment: Positive

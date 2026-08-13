@@ -1,0 +1,15 @@
+Customer ID: 9169-BSVIN
+Topic: customer cannot access support history
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't seem to access my support history on your website.  Can you help?
+Agent: Absolutely!  I can certainly assist you with that. What email address are you using for your account? 
+Customer: My email is [email address].  
+Agent: Let me check on that for you.  Okay, I see your support history is available at [link to website]. 
+Customer: Thanks so much!   
+Agent: You're welcome!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was incredibly fast and helpful, thank you!"
+Sentiment: Positive

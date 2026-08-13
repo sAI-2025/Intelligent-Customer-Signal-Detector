@@ -1,0 +1,17 @@
+Customer ID: 5597-GLBUC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I just wanted to see if there's anything going on with my connection. It seems like ping is really high and it's making things frustratingly slow. 
+Agent:  I understand your frustration! Let me take a look at your account details. 
+Customer: Thanks, yeah.  Just started using the service recently but so far I have been pretty happy with everything else. 
+Agent:  Our fiber optic connection is known for its speed and reliability. Can you tell me what device you're connecting to? 
+Customer: I use a laptop and my smart TV. 
+Agent: Ok, let me check on the network status of your devices.  We might have some temporary issues in the area that we can address. 
+Customer: Thanks for looking into this! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and I appreciate them investigating the issue!"
+Sentiment: Positive

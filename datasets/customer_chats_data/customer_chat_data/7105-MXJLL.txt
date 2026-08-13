@@ -1,0 +1,17 @@
+Customer ID: 7105-MXJLL
+Topic: data usage overage charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have an overage charge on my bill for June. 
+Agent:  Hello! Thank you for contacting us. Could you please provide your account number and the month in question? 
+Customer: My account number is XXXXXXXXXX-2345, and it was June. 
+Agent:  I see that you're currently on a one-year contract with $60.7 monthly payment for DSL internet service. Did you exceed your data limit this month? 
+Customer: I did. I'm not sure how I got overage. My usage is usually quite low. 
+Agent:  We understand, and our support team will be able to review your account details to help determine the cause of your overage charge. 
+Customer: Thank you for your help. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for getting this sorted out - it's frustrating to incur unexpected overages, especially when usage is typically low."
+Sentiment: Positive

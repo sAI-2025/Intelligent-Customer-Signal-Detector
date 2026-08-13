@@ -1,0 +1,23 @@
+Customer ID: 0093-XWZFY
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some pretty severe lag/latency issues. It's making it difficult to play online games and work from home. 
+
+Agent:  I understand your frustration, Mr./Ms. [Last Name].  Could you please tell me your account details and the specific device(s) experiencing these issues?
+
+Customer: Account number is 1234567890. The lag seems to happen on all devices, but my laptop is most affected during online gaming.
+
+Agent:  Thank you for providing that information. I'm checking your connection speeds and latency levels now.  
+ 
+Customer: That would be great, thanks!
+
+Agent:  I have a report from our network team and it looks like there may be a temporary issue with the fiber optic lines impacting your area. We are working on getting this resolved as soon as possible.   
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating to deal with lag, but I appreciate that you're looking into it and trying to fix things!
+Sentiment: Neutral

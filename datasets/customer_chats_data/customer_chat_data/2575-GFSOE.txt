@@ -1,0 +1,17 @@
+Customer ID: 2575-GFSOE
+Topic: customer reports incorrect account details
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I just noticed my account details seem incorrect on your website. It shows my billing address as [Address], but it should be [Correct Address]. 
+Agent:  I understand you're seeing an error in your account information. 
+Customer: Yes, and the internet speed is slower than advertised. Can this be fixed?  
+Agent: I can certainly look into that for you right away. 
+Customer: Thanks!
+Agent: Your billing address has been updated. We will be able to check on the internet speed issue now.  
+Customer: Great.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quickly resolved both issues I had with my account.
+Sentiment: Positive

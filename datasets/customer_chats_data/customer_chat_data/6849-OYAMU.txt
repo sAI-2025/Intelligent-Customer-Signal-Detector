@@ -1,0 +1,17 @@
+Customer ID: 6849-OYAMU
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. It seems like it's running very slow, especially during peak hours. 
+Agent:  I understand your frustration. I’d be happy to help troubleshoot this for you.  What's the exact issue you're experiencing? 
+Customer: The speed is way down. Like I can barely load a webpage! It feels like the internet connection is struggling, especially when there are many people online at once. 
+Agent: Okay, thank you for providing that detail. We often experience higher network traffic during peak hours. Do you have any other details about your location or time of day?  
+Customer: My house is in a residential neighborhood, and it seems to be happening around 6 PM when everyone's home from work. I’ve checked my router settings and there are no issues with my modem.
+Agent: Thank you for the information. Let me check our network status. 
+Customer:  Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would be good to know about potential solutions beyond just checking the network status."
+Sentiment: Neutral

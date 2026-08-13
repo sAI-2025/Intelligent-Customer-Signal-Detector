@@ -1,0 +1,17 @@
+Customer ID: 1245-HARPS
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speeds are really slow. I'm getting a lot of lag and my games are unplayable.
+Agent:  I understand your frustration, what is your current location? 
+Customer:  Living in a rural area.
+Agent:  Our service can be impacted by distance from the network tower. Have you tried restarting your modem or router? 
+Customer: I did that already and it didn't help.
+Agent: We'll check your account for any potential issues. Do you have an internet speed plan in place? 
+Customer: Yes, $20.4/month No internet service. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It would be helpful if there were more proactive solutions offered to address rural internet challenges beyond just restarting devices.
+Sentiment: Positive

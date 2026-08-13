@@ -1,0 +1,17 @@
+Customer ID: 1502-XFCVR
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't connect to any websites or emails. 
+Agent:  I understand your concern. Can you please provide me with your account number?
+Customer:  Yes, it’s [account number].  What should I do next? 
+Agent: Thank you for providing that information. I am checking the system now. 
+Customer: Okay, thanks.
+Agent: There seems to be a network outage in your area. We are working on resolving the issue and will keep you updated. Please stay patient as we resolve this issue. 
+Customer:  Alright, thank you for letting me know.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and informative, I appreciate the update! Thanks for keeping me in the loop.
+Sentiment: Positive

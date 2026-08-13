@@ -1,0 +1,19 @@
+Customer ID: 4443-EMBNA
+Topic: secondary device cannot connect
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting my secondary device to our internet service. 
+Agent: Hi there!  Can you tell me what kind of problem you're experiencing? 
+Customer: My tablet isn't able to connect to the network. It keeps saying "No Internet connection." 
+Agent: Let me take a look into that for you. Can you please confirm your account details?
+Customer: Sure, my name is [redacted], and my account number is [redacted].  I have a two-year contract.
+Agent: Alright, thank you! I see there are no outstanding issues on our end. 
+Customer: So what can I do to fix this? It's been frustrating!
+Agent:  Make sure your tablet's Wi-Fi is turned on and that the network name (SSID) on your device matches the one we have at your residence.  If you can confirm those steps, please let me know. 
+Customer: Ok, I think I've done everything. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help! It seems to be working now."
+Sentiment: Positive

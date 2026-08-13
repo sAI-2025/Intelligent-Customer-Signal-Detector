@@ -1,0 +1,24 @@
+Customer ID: 6924-TDGMT
+Topic: customer requests package pricing clarification
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I have a question about the pricing of my package. 
+
+Agent: Certainly!  Can you please provide me with your account number or service plan name?
+
+Customer: My account number is 1234567890 and I'm on the standard internet package.
+
+Agent: Thank you for that information. The standard internet package currently costs $29.99 per month, including taxes.
+
+Customer: So my rate is actually higher than what I thought? 
+
+Agent: Yes, it looks like there was a change in pricing on your plan.  We can explore options for adjusting the price if needed. 
+ 
+Customer: Thanks for looking into this!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the agent's help in clarifying the higher-than-expected rate.
+Sentiment: Positive

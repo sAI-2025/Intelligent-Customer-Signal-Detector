@@ -1,0 +1,22 @@
+Customer ID: 3519-ZKXGG
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. It seems very slow, especially during peak hours.
+
+Agent:  I understand your frustration. Can you please tell me your account details and what device you are using? 
+
+Customer: Sure, my account name is John Smith, and I am currently using my laptop.
+
+Agent: Thank you for the information, John. We've had some reports of network slowness during peak hours today.  
+
+Customer: That makes sense, as it was really congested this evening. 
+ 
+Agent: I apologize for the inconvenience. We are working on optimizing our network and we will be able to resolve any issues by the end of the day.  
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent's response was helpful, and it's reassuring to know they are actively working on the issue.
+Sentiment: Positive

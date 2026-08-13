@@ -1,0 +1,18 @@
+Customer ID: 0020-JDNXP
+Topic: customer cannot complete device setup
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble setting up my new modem/router. 
+Agent: Hello! What is the problem?  
+Customer: The setup wizard keeps prompting me to connect a specific line but it's not working.  
+Agent: Let's take a look at that. Could you please provide your account number or name and we can troubleshoot this together?  
+Customer: My account is [insert account number]. I also use DSL internet. 
+Agent: Thank you, I see the issue now. It looks like there might be an error with the configuration on our end. 
+Customer: That sounds good! 
+Agent: We're working to resolve this for you. Please stay connected and we'll update you when it’s fixed. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick resolution, I appreciate your help!"
+Sentiment: Positive

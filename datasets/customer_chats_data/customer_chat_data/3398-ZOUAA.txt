@@ -1,0 +1,17 @@
+Customer ID: 3398-ZOUAA
+Topic: customer questions promotional offer terms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I want to know more about the promotion you have for new subscribers. 
+Agent:  Certainly!  What specific promotion are you inquiring about? 
+Customer: The one advertised on your website with the free streaming device. 
+Agent:  That's our "Fiber Optic All-Access Bundle" promotion. It includes a free streaming device and reduced data limits for $75 per month. 
+Customer: How long do I have to sign up before it expires? 
+Agent: The offer is available for the next two months. 
+Customer:  That's helpful, thank you!
+Agent: No problem at all! We will ensure your new plan is set up promptly. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and clear in explaining the promotion details!
+Sentiment: Positive

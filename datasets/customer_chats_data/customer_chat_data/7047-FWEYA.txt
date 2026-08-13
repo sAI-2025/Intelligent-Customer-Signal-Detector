@@ -1,0 +1,24 @@
+Customer ID: 7047-FWEYA
+Topic: activation completed but service unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet service hasn't been activated yet. I've completed the activation process but it still says my connection is not available. 
+
+Agent: We understand your frustration. Could you please provide your account number and address so we can check on the status?  
+
+Customer:  My account number is 1234567890, and I live at 123 Main Street. 
+ 
+Agent: Thank you! I see that everything seems to be in order with the activation process. We are working on getting your service up and running as soon as possible.
+
+Customer:  Is there an estimated time frame for when my internet will be active?
+
+Agent: Your connection should be live within the hour. 
+
+Customer:  Okay, thanks. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the quick resolution and confirmation! My internet is already active, which is a relief. 😊
+Sentiment: Positive

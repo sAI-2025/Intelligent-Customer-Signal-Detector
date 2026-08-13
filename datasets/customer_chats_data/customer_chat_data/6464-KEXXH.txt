@@ -1,0 +1,15 @@
+Customer ID: 6464-KEXXH
+Topic: customer reports poor overall service experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to speak to someone about my internet service. It feels like it’s been going down constantly and I just can't get online for work. 
+Agent:  Hi there! I understand your frustration with the connection. Can you tell me a little more about what's been happening?
+Customer:  My speeds are terrible, and I've lost internet access multiple times in the past week. 
+Agent:  I apologize for this inconvenience. To get started, could you please provide your account information so I can take a look at your service history? 
+Customer:   Sure, here it is...[account details entered]
+Agent:  Thank you. I'm seeing some trends in your usage and the recent outages. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the update on a resolution, I hope this ongoing issue with internet connectivity doesn't become a regular occurrence."
+Sentiment: Neutral

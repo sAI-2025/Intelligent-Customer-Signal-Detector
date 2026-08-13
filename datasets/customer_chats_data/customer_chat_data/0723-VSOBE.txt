@@ -1,0 +1,15 @@
+Customer ID: 0723-VSOBE
+Topic: customer cannot receive verification calls
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to receive verification calls from your company. 
+Agent: I understand your concern, Mr./Ms. [Last Name].  I would be happy to look into this for you. 
+Customer: My DSL internet is working fine, and I have been a loyal customer for over four years.
+Agent: I've checked your account details and it looks like there might be an issue with the verification number being blocked on our system.  Could you please confirm your phone number?
+Customer: (inputted phone number) 
+Agent: Thank you, Mr./Ms. [Last Name]. We have updated your account and should be able to receive verification calls now.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The problem was resolved quickly and efficiently, thanks!"
+Sentiment: Positive

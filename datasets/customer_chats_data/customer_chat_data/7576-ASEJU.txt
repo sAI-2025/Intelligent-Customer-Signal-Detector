@@ -1,0 +1,26 @@
+Customer ID: 7576-ASEJU
+Topic: customer unhappy with service reliability
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi, I'm having trouble connecting to the internet again. My speed has been down constantly this week. 
+
+Agent:  I understand your frustration, I'll do my best to help! Could you please provide me with your account details or the customer ID number?
+
+Customer:  My name is Sarah, and my account number is 12345678.
+ 
+Agent:  Thank you, Sarah. I see there have been a few reported outages in your area recently. 
+
+Customer:   I've been paying for this unreliable service for over a year now.  
+
+Agent:  I apologize for the inconvenience, Sarah. We are actively working on improving our network infrastructure to minimize these disruptions. 
+
+Customer:  Really? Because my bills keep going up and the connection is terrible. 
+
+Agent:  I understand your concern about the price increase, Sarah. I'd be happy to review your account and explore alternative options for you. Thank you for contacting us. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent did offer some reassurance, it feels like the underlying problems haven't been addressed and the financial burden continues.
+Sentiment: Negative

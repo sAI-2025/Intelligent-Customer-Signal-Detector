@@ -1,0 +1,19 @@
+Customer ID: 2978-XXSOG
+Topic: new device cannot connect to Wi-Fi
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! I'm having trouble connecting my new device to Wi-Fi. 
+Agent:  Hi there! What's the issue? Please tell me your account name and the device model you are trying to connect.
+Customer: My account name is [account name]. It's a new iPhone, and it won't connect to any network. 
+Agent: I see, let's troubleshoot that. Could you try restarting your router and then your device?  
+Customer: Okay, I did that already. Still no luck. 
+Agent: Alright, is there any error message on the screen? 
+Customer: It just says "No Internet Connection" 
+Agent: Thanks for letting me know! I'll look into it for you. Is your device currently connected to a cellular network? 
+Customer: No, not at all.  
+Agent: Okay, I'm going to check if the DSL service is working properly. Let me check on that for a moment... Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but the agent quickly and efficiently started troubleshooting.
+Sentiment: Negative

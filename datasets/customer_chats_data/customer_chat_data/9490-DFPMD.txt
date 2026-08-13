@@ -1,0 +1,18 @@
+Customer ID: 9490-DFPMD
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble with high latency while using the internet. 
+Agent:  Hi there! Thank you for reaching out to us. Could you please tell me what device and software you're using when experiencing this issue?
+Customer: On my computer. It's running Windows 10, and I use Google Chrome as my browser. 
+Agent: Okay, I understand. Can you also provide your account information, such as the username or email address associated with your service?
+Customer: My username is (redacted).  
+Agent: Thank you. We're checking our system for any potential issues on your account. 
+Customer: Okay. 
+Agent: We will keep you updated if we find anything relevant. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and I appreciate the update, hopefully this issue gets resolved soon."
+Sentiment: Positive

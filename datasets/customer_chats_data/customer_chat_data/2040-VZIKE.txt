@@ -1,0 +1,17 @@
+Customer ID: 2040-VZIKE
+Topic: customer needs equipment replacement
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to request equipment replacement for my modem and router. 
+Agent:  I understand you're experiencing issues with your internet connection. Can you please tell me your account information so I can assist you further?
+Customer: Sure, my account number is XXX-XXXX-XXXXXXX. My name is John Smith and I live at [Address].
+Agent: Thank you for providing that information, Mr. Smith.  I've noted your request for equipment replacement. 
+Customer: Okay, thanks! 
+Agent: Let me check the status of your account and process your equipment replacement request. This should be completed within a few business days. 
+Customer: Alright, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The process was quick and easy. Thanks for resolving my internet issue so quickly."
+Sentiment: Positive

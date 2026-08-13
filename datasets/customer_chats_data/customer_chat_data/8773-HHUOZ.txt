@@ -1,0 +1,24 @@
+Customer ID: 8773-HHUOZ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't seem to connect to the internet. It's not working at all. 
+
+Agent: Hello! I apologize for the inconvenience.  Could you please tell me your account number and location?
+
+Customer: My account number is [account number] and I live in [city].
+
+Agent: Thank you for that information. Let me check on the connection status. 
+
+Customer: Thanks, looking forward to a fix! 
+
+Agent: I've run a diagnostic test and it seems there might be an issue with your DSL line. We're sending a technician out to troubleshoot right away. 
+
+Customer: Great, thanks for the update!
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the prompt response and quick resolution - much appreciated! 👍
+Sentiment: Positive

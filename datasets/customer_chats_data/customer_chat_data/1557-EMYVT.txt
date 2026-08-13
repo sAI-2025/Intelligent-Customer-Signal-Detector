@@ -1,0 +1,18 @@
+Customer ID: 1557-EMYVT
+Topic: customer wants cheaper service options
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was hoping to find some cheaper service options. My contract is expiring soon and my bill is a bit high. 
+Agent: Hello!  I understand you're looking to reduce your monthly cost. What specific service plans are you interested in?
+Customer:  Well, I mainly use the internet for work and occasional streaming, so maybe something with faster speeds and less data would be helpful. I have fiber optic internet currently. 
+Agent: Definitely, we offer several tiers of Fiber Optic internet, with varying data caps and speeds available. Would you like to explore those options?  
+Customer: Yes, that would be great!
+Agent: Let me pull up your current plan and see what we can recommend.
+Agent: ... Okay, I'm seeing you have a two-year contract on the $115 plan with fiber optic internet. We do offer a comparable plan for $79 per month with slightly lower speeds.  We have options for faster data caps as well. 
+Customer: Wow, that's amazing! Thanks for your help!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm so glad I switched to [company name] - their service and pricing are great!
+Sentiment: Positive

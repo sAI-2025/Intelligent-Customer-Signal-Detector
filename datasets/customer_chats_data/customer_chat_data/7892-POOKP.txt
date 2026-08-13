@@ -1,0 +1,22 @@
+Customer ID: 7892-POOKP
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet speed seems really slow today, especially during peak hours. 
+
+Agent: I understand your concern.  Can you please tell me what specific devices and activities are experiencing slowdowns?  
+
+Customer: It’s all of them! Browsing, streaming, downloading – everything is lagging. 
+
+Agent: Thank you for providing more details. Let's check our network status. My apologies for the inconvenience. 
+
+Customer: No problem, thanks! 
+
+Agent: Based on current usage patterns, we are currently experiencing some congestion due to a surge in traffic during peak hours. We can offer temporary solutions to help improve your speed.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the explanation and helpful suggestions! I appreciate the quick response.
+Sentiment: Positive

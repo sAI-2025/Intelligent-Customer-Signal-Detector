@@ -1,0 +1,27 @@
+Customer ID: 8200-KLNYW
+Topic: unexpected data charges
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having a problem with my recent data charges.  My bill was unexpectedly high. 
+
+Agent: I understand your concern, [customer name].  I can look into this for you.  Can you please tell me your account number?
+
+Customer: 1234567890
+
+Agent: Thank you.  It looks like your usage is over your monthly limit.  Is there anything else I can assist you with today?
+
+Customer: Just to clarify, my plan is a $80.9/month DSL plan. 
+
+Agent: Correct. Your contract outlines the data limits for our DSL plans. Would you like me to explain the details further?
+
+Customer: Yes please.
+
+Agent: I'm happy to provide information on your current plan and any potential adjustments we could make.  
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the explanation about my data limits, but it would be helpful if there was more transparency on how much overage costs are before I get charged.
+Sentiment: Neutral

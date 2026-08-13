@@ -1,0 +1,15 @@
+Customer ID: 5567-WSELE
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's extremely slow and there's a lot of lag. 
+Agent: I understand that you're experiencing high latency during your online activity. Can you please provide me with your account details or a screenshot of the error message?
+Customer: Sure, my username is John Smith. Here's the error message: [screenshot attached]
+Agent: Thank you for providing the screenshot. Let me investigate this issue further and get back to you soon. 
+Customer: Thanks. 
+Agent: I have checked your account and it appears there may be an issue with the fiber optic connection in your area. We're currently working on it.  We appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me quickly,  I appreciate that they are fixing the problem."
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 8329-UTMVM
+Topic: movie streaming consumes excessive data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble streaming movies lately. My internet seems slow, and it's consuming a lot of data. 
+Agent:  I understand your concern about the movie streaming speeds. Can you please tell me what specific issues you're experiencing?
+Customer: The streaming just lags, and sometimes it stops completely. I have Fiber optic internet. 
+Agent: Thanks for the details. I'd like to check the usage data on your account to see if there are any unusual spikes. Please allow me a moment. 
+Customer: Ok
+Agent:  The data usage is significantly high for the past few days, let me check with you about your streaming preferences and usage habits. 
+Customer:  I don't know why it has been so bad! I thought we had the service set up to use the least amount of data possible.  
+Agent: Thanks for letting me know. We can definitely improve the situation for you. Would you like to discuss your streaming preferences or the most efficient plan? 
+Customer: Yes, please.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's help and look forward to a smoother streaming experience with a more data-efficient plan!
+Sentiment: Positive

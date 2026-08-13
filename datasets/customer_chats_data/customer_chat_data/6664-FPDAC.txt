@@ -1,0 +1,17 @@
+Customer ID: 6664-FPDAC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having some trouble connecting to the internet today. It seems incredibly slow. 
+Agent:  I understand, I'm sorry to hear you're experiencing issues with your connection. Can you tell me a bit more about what kind of issues are you seeing? 
+Customer: The ping is really high and it takes forever to load anything.
+Agent:  I apologize for the inconvenience. We've had some reports of increased latency recently. What device are you using to connect? 
+Customer:  I'm connected via my laptop.
+Agent:  Let me check the status of your connection, I'll do a diagnostic check and then we can see what we can do to get things back up and running smoothly for you.
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The issue seems resolved now, thanks for the assistance."
+Sentiment: Positive

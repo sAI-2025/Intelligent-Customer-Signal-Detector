@@ -1,0 +1,17 @@
+Customer ID: 8887-IPQNC
+Topic: customer dissatisfied with music catalog
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there, I'm having some trouble finding music on your platform. The catalog seems to be much smaller than when I signed up 7 months ago. 
+Agent:  I understand your frustration, and apologize for the limited selection. Would you mind providing me with your account information so I can take a look? 
+Customer:  Sure, my username is JohnSmith123 and my password is 45678.
+Agent:  Thanks JohnSmith123. It appears your plan hasn't changed and your internet service is DSL.
+Customer:  Really? My account says otherwise! I don't understand what's going on. 
+Agent:  I see your concern, JohnSmith123.  Would you like me to look into this further for you?
+Customer:  Yes please!  
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, and I hope they can resolve the issue with my account soon.
+Sentiment: Negative

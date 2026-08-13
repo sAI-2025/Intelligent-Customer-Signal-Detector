@@ -1,0 +1,20 @@
+Customer ID: 5627-TVBPP
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  My download speed is incredibly slow and it's frustrating me. My plan says I should have 10 Mbps but I'm getting less than 2.  Is there an issue on your end?
+
+Agent:  Thank you for contacting us! I understand your concern, we're here to help. Could you please provide your account number and the city you reside in?
+
+Customer: Sure. Account number is [redacted]. I live in San Francisco. 
+
+Agent:  Okay, let me check on that. Thank you. We have identified a potential issue with service in your area today.
+
+Customer:  Ok. Thanks for the update. 
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful to hear it's being addressed, hope I can get back to my normal speed soon."
+Sentiment: Positive

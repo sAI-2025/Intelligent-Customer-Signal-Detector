@@ -1,0 +1,17 @@
+Customer ID: 7321-PKUYW
+Topic: service upgrade option missing
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi! I was looking to upgrade my internet service and see about some deals. 
+Agent: Hello! I can definitely help with that.  Could you tell me a little more about your current plan?
+Customer: I'm currently on the $90.15/month Fiber Optic plan. 
+Agent:  We do have some options for upgrades, however, we don’t offer a specific upgrade path in this instance. 
+Customer:  So it's not possible to upgrade to something more expensive or faster?
+Agent: I apologize for the confusion, but your current plan is our highest tier. 
+Customer: Okay, thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I understand the $90 Fiber plan is their top tier, it would be helpful to have more insight into potential upgrades beyond just the fastest speeds.
+Sentiment: Neutral

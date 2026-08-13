@@ -1,0 +1,18 @@
+Customer ID: 6419-ZTTLE
+Topic: promotional discount missing from bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm calling about my bill.  I ordered a promotional discount on my contract renewal, but it's not reflected in the final amount. 
+Agent: I understand your concern, [Customer Name]. Can you please provide your account number?
+Customer: 1234567890
+Agent: Let me double-check that information for you. I see that your contract was indeed renewed with the promotional discount. 
+Customer:  Okay, but why isn't it reflected on my final bill?
+Agent: The discount is typically applied automatically to the monthly payment after billing cycles.
+Customer: Thank goodness!
+Agent: No problem at all, [Customer Name]. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, thanks for your assistance!
+Sentiment: Positive

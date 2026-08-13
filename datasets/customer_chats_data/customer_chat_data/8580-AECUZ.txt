@@ -1,0 +1,17 @@
+Customer ID: 8580-AECUZ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having internet problems. My connection has completely dropped and I can’t get online. 
+Agent:  I understand. What's your account number? 
+Customer:  It's 123456789.  
+Agent: Thank you! We're looking into this for you now. 
+Customer: Can you give me an estimated time of when I will be back online? 
+Agent:  I’m sorry about the disruption, but we are working on it as fast as we can. You should have connection restored within the next hour. 
+Customer: Thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this fixed so quickly, appreciate the update and help!"
+Sentiment: Positive

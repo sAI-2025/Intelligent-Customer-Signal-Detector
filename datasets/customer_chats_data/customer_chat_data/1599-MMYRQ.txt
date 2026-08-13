@@ -1,0 +1,24 @@
+Customer ID: 1599-MMYRQ
+Topic: unexpected increase in monthly bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello! I just got my bill and it’s way higher than usual. My monthly payment is $81.45 but this month's bill was $120!  How can that be?
+
+Agent: Thank you for contacting us, I understand your concern. Can you provide me with your account number so I can take a closer look? 
+
+Customer: Sure, it’s [Account Number]. 
+ 
+Agent: I see the recent increase in your bill is due to an unexpected adjustment in service pricing.  We have a detailed explanation of this on our website.
+
+Customer: I haven't seen anything about a price change.
+
+Agent:  A year-long contract automatically renews at the current monthly rate, but we will be happy to provide you with any necessary details regarding your services.  
+
+Customer: Thank you! 
+
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation, it would be helpful if there was a notification about the price change beforehand."
+Sentiment: Neutral

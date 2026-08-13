@@ -1,0 +1,15 @@
+Customer ID: 3068-OMWZA
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been really slow this evening, especially during peak hours.
+Agent: I understand your concern.  Could you please provide me with your account number and the specific timeframes you've experienced slow speeds? 
+Customer: Sure, my account number is 1234567890 and it started slowing down around 6 pm PST.
+Agent: Thank you for providing that information. We are currently experiencing high network traffic at this time.  
+Customer: Oh, I understand!
+Agent: Don't worry, we will work to resolve the issue by the end of the day. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: It seems like they acknowledged the slow speeds and promised a fix, which is good news.
+Sentiment: Neutral

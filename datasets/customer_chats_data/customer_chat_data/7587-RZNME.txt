@@ -1,0 +1,18 @@
+Customer ID: 7587-RZNME
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having trouble with my internet connection.  It's super slow and keeps dropping out. 
+Agent:  I understand your frustration. Could you please provide your account information so I can look into the issue?
+Customer: Sure, it’s [account number] 
+Agent: Thanks for that. Let me check on your DSL service plan. 
+Customer: Thanks! 
+Agent: We've seen recent reports of some slowdowns with DSL services during peak hours.  It seems you might be affected.
+Customer: I know, it’s been happening lately. What should I do? 
+Agent: A network reset and a check for any potential issues on your end may help. Let me walk you through the steps. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining the issue and providing solutions, thanks for the assistance!
+Sentiment: Positive

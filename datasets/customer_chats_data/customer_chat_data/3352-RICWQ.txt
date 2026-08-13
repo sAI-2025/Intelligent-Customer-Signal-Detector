@@ -1,0 +1,23 @@
+Customer ID: 3352-RICWQ
+Topic: additional line missing from account
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't seem to get a third line added to my account. It says it's not available. 
+
+Agent:  I understand your frustration. We can definitely add another line for you. 
+
+Customer:  Okay. Could you tell me what we need to do?
+
+Agent: To add another line, please provide your desired phone number and contact information. 
+
+Customer: I have everything here.
+
+Agent:  Thank you!  I'll process your request. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a smooth process, thanks! 👍
+Sentiment: Positive

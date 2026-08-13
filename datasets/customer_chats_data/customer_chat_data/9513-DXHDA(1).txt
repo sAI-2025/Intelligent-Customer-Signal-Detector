@@ -1,0 +1,26 @@
+Customer ID: 9513-DXHDA
+Topic: selected movie unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm trying to select a movie but it says it's unavailable.
+
+Agent:  Hello!  I understand your frustration. Can you tell me what title you were looking for? 
+
+Customer: "The Martian" is the title, and I've been searching for it all week.
+
+Agent:  Let me check on that for you. There may be a temporary delay or a service outage in your area. 
+
+Customer: Hmm, okay.
+
+Agent:  My apologies for any inconvenience this has caused. Just to confirm, are you located in the US?  
+
+Customer: Yes.
+
+Agent:  Okay, I'm looking into it now. We should be able to get that movie available for you shortly. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly! Hopefully the issue is resolved soon.
+Sentiment: Positive

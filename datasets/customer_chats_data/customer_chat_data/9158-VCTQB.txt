@@ -1,0 +1,26 @@
+Customer ID: 9158-VCTQB
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet connection has been very slow lately, especially during peak hours.  I'm experiencing lag when streaming and having trouble with video calls.
+
+Agent: I understand your frustration.  Can you please tell me your account details? 
+
+Customer: Sure, my name is [customer name] and my account number is [account number].
+
+Agent: Thank you, [customer name].  I've reviewed your account and I see no reported outages in our system. Can you give me a bit more information on the specific times you're experiencing slow internet? 
+
+Customer: It seems to be between 7pm-10pm, especially during game night with my family.
+
+Agent: Thank you for that detail, [customer name].  It sounds like this might be a network congestion issue. We are currently working on improving bandwidth capacity during peak hours. 
+
+Customer: Okay, thanks. 
+
+Agent:  I'll send you an update as soon as there's any news. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and explained the situation clearly. I appreciate their efforts to address network congestion.
+Sentiment: Positive

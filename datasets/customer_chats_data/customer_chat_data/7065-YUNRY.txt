@@ -1,0 +1,17 @@
+Customer ID: 7065-YUNRY
+Topic: customer asks how data usage is calculated
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm trying to figure out how my data usage is calculated? 
+Agent: Of course!  Our plans use a simple system. For DSL internet at $45.3/month, you get unlimited data for basic browsing and streaming.
+Customer: Great thanks! But what if I exceed the limit on my monthly plan?  
+Agent: You're welcome! We do charge extra per GB after the initial limit. 
+Customer: Ok. What is the cost of going over the limit? 
+Agent: It will be around $0.25 per GB after your plan's allowance is used up.  
+Customer: Thanks for that information.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and informative, but I wish there were more details about the actual data usage limit on my DSL plan.
+Sentiment: Neutral

@@ -1,0 +1,24 @@
+Customer ID: 7255-SSFBC
+Topic: connection drops when multiple devices connect
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet.  My devices are dropping in and out frequently lately.
+
+Agent: We understand your frustration with intermittent connectivity. Can you please tell me a bit more about what's happening? 
+
+Customer:  It happens especially when we use multiple devices at once. Even just streaming video on one device causes it to drop.
+
+Agent:  We'd like to look into this further for you. Could you provide your account number and the names of all devices connected to the network?
+ 
+Customer:  Sure, my account number is [account number], and these are the devices: MacBook, iPhone, Smart TV.
+
+Agent: Thank you. We can take a closer look at your connection using those details.  
+
+Customer:  Thanks! 
+
+Agent:  We'll investigate this further to get your internet back up and running smoothly.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was a quick and helpful resolution, thanks!"
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 6261-RCVNS
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey! My internet is super slow right now. Like impossible to work through emails and load websites. Is anyone experiencing this? 
+
+Agent:  I see some reports of slower speeds during peak hours. What's your service address and what are you trying to do online right now?
+
+Customer: I live at [address]. Trying to check emails, but everything is taking ages! 
+
+Agent: Alright, let me check on the connection for you.  It looks like a few other customers are experiencing some slowdowns too. 
+
+Customer: Thanks! 
+
+Agent: No problem. We're working on resolving these issues.  Should be back to normal shortly.
+
+Customer: Ok, thanks! 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update - it seems like the slow internet issue is finally being resolved."
+Sentiment: Positive

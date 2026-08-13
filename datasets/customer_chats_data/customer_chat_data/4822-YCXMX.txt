@@ -1,0 +1,25 @@
+Customer ID: 4822-YCXMX
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been significantly slower than my subscribed plan lately.  I'm concerned about this impacting my work and video calls. 
+
+Agent: I understand your concern, Mr./Ms. [Last Name]. We want to ensure your internet experience is smooth and reliable. Could you please provide the following information?
+    * Your account number
+    * The specific dates and times when the slow speeds occurred
+    * The type of device and internet connection (e.g., computer, smartphone)
+
+Customer: Here's my account number [account number] .  Slow speeds have been consistent for the last two days. It happens mostly during evening hours. 
+
+Agent: Thank you for providing that information. I've checked your network settings and fiber connection status. We noticed a slight fluctuation in signal strength in the evening, which may be contributing to the slower download speed.  
+
+Customer: Thanks for looking into this! 
+
+Agent: No problem at all. We'll look into further troubleshooting. It is likely temporary and should improve soon. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick resolution, my download speed seems back to normal now!
+Sentiment: Positive

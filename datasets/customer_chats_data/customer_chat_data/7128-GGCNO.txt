@@ -1,0 +1,19 @@
+Customer ID: 7128-GGCNO
+Topic: customer cannot find expected self-service option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't find the self-service option for changing my payment plan. 
+Agent:  I understand you're looking to change your monthly payment plan. Can you tell me a little more about what you're hoping to achieve?
+Customer:  I want to adjust my payment amount, but when I try to use the self-service feature on the website, it doesn't work. 
+Agent:  Let's troubleshoot that. May I ask for your account details, please?
+Customer: Sure, here are my username and password.
+Agent: I have access to your account information now, thanks for providing that. 
+Customer: What can you do about this problem?
+Agent:  I should be able to help you with this issue. Just give me a moment while I check what's going on. 
+Customer: Thanks!
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and quick, I appreciate their assistance getting my payment plan adjusted!
+Sentiment: Positive

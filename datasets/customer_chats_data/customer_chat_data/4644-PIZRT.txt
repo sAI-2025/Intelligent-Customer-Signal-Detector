@@ -1,0 +1,17 @@
+Customer ID: 4644-PIZRT
+Topic: router lights showing unexpected status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My router lights are flashing an orange and red pattern, is there a problem?
+Agent:  I understand you're experiencing some issues with your router.  Let me check on that for you. 
+Customer: I've been having intermittent connection problems lately too. Is it just the lights? 
+Agent:  I see that your DSL light is currently flashing and your internet is not active at the moment. 
+Customer: Thanks, can you tell me what to do about this? It’s impacting my work from home.
+Agent: We'll need to troubleshoot the connection first. Please try restarting your modem/router by unplugging it for a few seconds then plugging it back in.  If that doesn't help, let me know and I can walk you through other troubleshooting steps. 
+Customer: Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and walked me through the troubleshooting steps, which seems to have fixed the issue.
+Sentiment: Positive

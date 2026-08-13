@@ -1,0 +1,22 @@
+Customer ID: 2141-RRYGO
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed today. It's really slow during peak hours. 
+
+Agent:  I understand your concern, we’ll be happy to help troubleshoot this for you. Can you tell me what time of day you are experiencing the slowness?
+
+Customer: Mostly between 6pm and 9pm. 
+
+Agent: Thank you! I've checked our network traffic and it seems like several users in your area are experiencing similar issues during peak hours.  Is there anything else I can help with?
+
+Customer: No, that's all. Thanks for looking into it. 
+
+Agent: We’re working on a solution to improve the speed. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for your help! I appreciate you letting me know about the slow speeds and that you're working on a solution.
+Sentiment: Positive

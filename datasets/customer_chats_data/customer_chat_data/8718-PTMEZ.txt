@@ -1,0 +1,20 @@
+Customer ID: 8718-PTMEZ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Thank you for contacting us.  Can you please tell me your account number?
+Customer: 1234567890
+Agent: I see your account is currently on a month-to-month plan and your monthly payment is $31.05. What specific issue are you experiencing with the Wi-Fi signal strength in the living room?
+Customer: It's very weak, barely any connection at all. 
+Agent:  I understand. Let me check for potential interference or other possible issues affecting your signal.
+Customer: Thank you. 
+Agent: I've checked the router and found no signs of interference. There are some recommendations to improve the Wi-Fi strength in certain areas, such as using a powerline adapter. Would you like me to explain further?
+Customer: Yes please.
+Agent: We can also run a speed test to ensure your internet service is functioning at its best.  Do you have any questions about the process? 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and patient, explaining the potential solutions clearly. Thanks!
+Sentiment: Positive

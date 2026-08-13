@@ -1,0 +1,15 @@
+Customer ID: 5318-IXUZF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my upload speed. It’s significantly lower than what I expected for a 1 gig plan.  
+Agent: Thank you for contacting us!  I understand your concern about the upload speed. Can you please tell me your account details and the specific speeds you’re experiencing?
+Customer: Sure, it's [account number] and my upload speed is around 50 Mbps right now, while I am paying $87.15 per month for fiber optic internet with a 1 gig plan.  I have been using it for two months. 
+Agent: Thanks for the information. We’ll look into this further. I'm going to check your account configuration and service area to see what might be causing the issue. 
+Customer: Great, thanks! 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "It seems like a slow resolution was expected given my low upload speed for the price. Hopefully I'll see improvements soon."
+Sentiment: Neutral

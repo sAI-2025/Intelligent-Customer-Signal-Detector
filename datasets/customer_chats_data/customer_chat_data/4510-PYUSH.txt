@@ -1,0 +1,16 @@
+Customer ID: 4510-PYUSH
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing frequent internet disconnections. 
+Agent: Thank you for contacting us! I understand your concern about intermittent connectivity. Could you please provide me with your account information?
+Customer: Sure, my name is Susan Johnson and my account number is 12345678. My payment method is a credit card.
+Agent:  Okay, Susan. I'm looking into your account now. It seems like there may be an issue with the DSL line. We are investigating to help get you back online as soon as possible. 
+Customer: Thank you for your help.
+Agent: Please understand that this is a priority and we will ensure it gets resolved by the end of the day.  
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank goodness, I appreciate the quick response and update! 😊 Hopefully, the issue is fixed soon."
+Sentiment: Positive

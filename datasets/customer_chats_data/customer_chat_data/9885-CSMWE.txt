@@ -1,0 +1,19 @@
+Customer ID: 9885-CSMWE
+Topic: movie playback fails on specific devices
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having trouble playing movies on my Roku TV. It keeps saying there's an error and to check my connection. 
+Agent: Hello!  What is your account number or the name of the device you are using?
+Customer:  My account number is XXXXXXXXXX, and it’s my Roku TV.
+Agent: Thank you for providing that information. Can you please tell me what type of error message you're seeing?
+Customer: It says "connection failed" but I am connected to the internet. 
+Agent: Okay, I can see your Fiber connection is active. Are there any other details about the error or how often it happens?  
+Customer: Mostly when I try to watch a movie on demand after watching something else. 
+Agent: Hmm, that could indicate an issue with the streaming app. Could you please check for system updates on your Roku? 
+Customer: I'll do that. Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me troubleshoot this! Hopefully the update will fix it."
+Sentiment: Neutral

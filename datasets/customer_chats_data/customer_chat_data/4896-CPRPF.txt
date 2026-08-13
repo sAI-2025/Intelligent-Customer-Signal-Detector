@@ -1,0 +1,19 @@
+Customer ID: 4896-CPRPF
+Topic: playlist fails to load
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble loading my playlist on my app. It just keeps spinning and won't load anything. 
+Agent:  I understand that you're experiencing difficulties with your playlist loading. Let me ask a few questions to help troubleshoot. What kind of device are you using? 
+Customer:  It's an iPhone, running the latest iOS. I haven't changed my internet settings.
+Agent: Thank you for that information. Have you tried restarting your phone?
+Customer: Yes, but nothing helps! 
+Agent: Ok, let me check what our system has to say about this. 
+Customer: Thanks.  
+Agent:  I see a known issue with playlist loading on iOS devices at the moment. We apologize for the inconvenience. 
+Customer:  Ok, well is there an estimated time of when it will be fixed?
+Agent:  We're working to resolve it as quickly as possible. We appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating that a known issue isn't resolved faster. Thanks for the update, though."
+Sentiment: Negative

@@ -1,0 +1,27 @@
+Customer ID: 4785-QRJHC
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is really slow today, especially during peak hours.
+
+Agent: I understand your concern, Mr./Ms. [Last Name].  I'd be happy to help. 
+
+Customer: Thank you. I'm a senior citizen and rely on the internet for calls, videos, and emails.  It's important.
+
+Agent:  Can you tell me more about the specific issues you’re facing?
+
+Customer: It's hard to load pages, videos are buffering, and I can't even send photos. 
+
+Agent: Thank you. We have seen some slowdowns during peak hours recently. Do you experience this in all areas of your home or just certain rooms/devices?
+ 
+Customer: All my devices.  It's been like this for the last two days. 
+
+Agent: I’ve checked your account, and it appears your DSL service is currently within acceptable bandwidth limits.  We are also experiencing network congestion at peak times today.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation, it's still frustrating to have such poor connectivity, especially considering its impact on my daily life."
+Sentiment: Negative

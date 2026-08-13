@@ -1,0 +1,20 @@
+Customer ID: 6807-SIWJI
+Topic: new device cannot connect to Wi-Fi
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my new device to Wi-Fi. 
+Agent: Hello!  I understand you are experiencing difficulties setting up your new device. Please tell me what kind of device you're trying to connect and any error messages you've received.
+Customer: It's a laptop, but the router lights are flashing red. It's just not connecting. 
+Agent: I see!  Let's try some troubleshooting steps first. Can you please tell me your account number? 
+Customer: 1234567890
+Agent: Thank you.  I'm restarting the network configuration now. 
+Customer: Okay, I appreciate that
+Agent: We'll get this sorted out shortly!
+Customer: Thanks
+Agent: The device should be able to connect now. If not, please let me know and I can help further. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The issue is resolved, thank you for your help!"
+Sentiment: Positive

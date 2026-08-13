@@ -1,0 +1,17 @@
+Customer ID: 2592-SEIFQ
+Topic: customer disputes a data usage charge
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm disputing my recent data usage charge. My bill was $24.75 a month, but it seems like I used almost double that amount. Can you help me with this?
+Agent: Hello!  I understand your concern about the billing discrepancy. Please provide your account number and the specific dates for which you're disputing the charges. 
+Customer: Sure, my account number is XXXXXXX-XXXXXXX. The data usage on my bill was a little over 50GB. I was only using DSL internet with my usual browsing habits!
+Agent: Thank you for providing that information.  I can look into this for you. It seems like there might be an issue with the billing records. 
+Customer: Okay, thank you. 
+Agent: I apologize for any inconvenience caused by this error. Please let me know if you have any other questions.
+Customer: Thank you!   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and professional in resolving my billing issue.  It's reassuring to know the problem is being looked into."
+Sentiment: Positive

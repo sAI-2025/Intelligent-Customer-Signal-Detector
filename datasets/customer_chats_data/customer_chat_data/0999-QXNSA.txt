@@ -1,0 +1,17 @@
+Customer ID: 0999-QXNSA
+Topic: unlimited data feature not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need help with my unlimited data plan. It keeps cutting out and I can’t use it properly. 
+Agent: I understand your frustration,  I'm happy to look into this for you. Could you please provide me with your account number?
+Customer: Sure, it's [account number]. 
+Agent: Thank you. Based on my investigation, it seems there might be a temporary issue with the DSL connection in your area. We're working on resolving it as quickly as possible.  
+Customer: Okay, thanks for letting me know.   
+Agent: No problem at all! I will update you once we have an estimated time of resolution. 
+Customer: Great. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent's explanation was helpful and reassuring, even though the issue is still ongoing.
+Sentiment: Positive

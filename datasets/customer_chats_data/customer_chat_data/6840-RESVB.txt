@@ -1,0 +1,19 @@
+Customer ID: 6840-RESVB
+Topic: customer wants cheaper service options
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm calling about switching to a cheaper plan. 
+Agent:  Certainly! What specific features are you looking for in a new plan? 
+Customer:  I just want something with faster speeds and less data throttling.
+Agent:  I understand. Our plans start at $59.99 per month, which includes our standard high-speed internet connection and unlimited data.
+Customer:  That's still too expensive for me, I'm on a tight budget. 
+Agent: We do have promotional offers for loyal customers sometimes, would you like to hear about them?
+Customer:  Please tell me more!
+Agent: Okay, we can offer you a $10 discount off your new plan if you switch today.
+Customer: Awesome, I'll take that!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and helpful promotion!  Getting started was easy."
+Sentiment: Positive

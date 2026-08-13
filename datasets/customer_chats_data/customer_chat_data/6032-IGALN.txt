@@ -1,0 +1,18 @@
+Customer ID: 6032-IGALN
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I’m having trouble connecting to Wi-Fi in the living room and bedrooms. 
+Agent:  I understand your frustration. Can you tell me what type of router you have? 
+Customer:  It's a standard Netgear WNR2000v3.
+Agent:  Okay, and how did you set up the Wi-Fi network? 
+Customer: I followed the instructions on the box. 
+Agent: Do you happen to use any other devices connected via Ethernet or Bluetooth? 
+Customer: No, just my laptop and phone. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the prompt response, the solution provided wasn't helpful as it didn't address the actual problem."
+Sentiment: Negative

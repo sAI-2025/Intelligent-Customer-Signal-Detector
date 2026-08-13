@@ -1,0 +1,17 @@
+Customer ID: 2234-EOFPT
+Topic: certain TV channels unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to access certain TV channels on my plan. 
+Agent:  I understand your concern. Could you please tell me which channels are unavailable? 
+Customer: My main complaint is the lack of [channel name] and [channel name].  
+Agent:  I apologize for the inconvenience.  Let's take a look at your account details.  What's your subscriber ID?
+Customer: 1234567890
+Agent:  Thank you. I see that you are currently on our premium plan. We do offer channels like [channel name] and [channel name] through additional packages, but the basic package doesn't include them. 
+Customer: Thanks for explaining that, it seems clear now! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining why I can't access some channels and provided clear information about alternative options.
+Sentiment: Positive

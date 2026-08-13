@@ -1,0 +1,26 @@
+Customer ID: 7249-WBIYX
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I'm paying $85.6 per month and just started my service 10 months ago.  My contract is month-to-month.
+
+Agent: I understand your concern, I'd be happy to help troubleshoot this for you. Could you please provide your account number?
+
+Customer:  789456321
+ 
+Agent: Thank you, and let me check the details from here. 
+
+Customer: It’s frustrating, it's slowing down my work. 
+
+Agent: I can see that you're experiencing slower upload speeds than expected. Can you tell me what task you are trying to do?
+
+Customer: I am trying to upload large files, like my project documents.  It's taking forever!
+
+Agent: Alright. Let’s take a look at your connection and speed test results. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** Thankful for the help, feeling much more optimistic now that I understand what's happening with my upload speed!
+Sentiment: Positive

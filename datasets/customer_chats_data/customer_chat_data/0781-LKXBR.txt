@@ -1,0 +1,17 @@
+Customer ID: 0781-LKXBR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. The signal is very weak there. 
+Agent:  I understand your concern, Mrs. Johnson. To help me troubleshoot, could you please tell me what type of device you are using for your internet connection?
+Customer: My laptop and phone are connected through the router. I'm paying $100.5 per month for fiber optic internet. 
+Agent:  Thank you, Mrs. Johnson. The signal issues in certain rooms can be caused by various factors. Can you please check if any of your devices are placed too far from the router? 
+Customer: I think they're a bit further than usual, but it's difficult to say exactly.
+Agent:  I understand. Would you like me to walk through some troubleshooting steps or can we schedule a technician visit? 
+Customer: I'd prefer a technician visit. 
+Agent: Great. We'll get that scheduled for you ASAP. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick response and getting a technician out!  It was nice to feel like someone genuinely wanted to help me fix this issue.
+Sentiment: Positive

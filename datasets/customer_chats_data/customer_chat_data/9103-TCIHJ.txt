@@ -1,0 +1,15 @@
+Customer ID: 9103-TCIHJ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet today. It's very slow during peak hours. 
+Agent: I understand your frustration. Can you tell me a little bit more about what kind of slowness you're experiencing? 
+Customer: The loading speeds for websites and apps are significantly slower than usual. 
+Agent:  Thank you for that information. We do see a spike in traffic during peak hours. Is there anything else I can help with today?
+Customer: No, thank you.
+Agent:  I'm happy to assist if there's anything else.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would have been nice to get a more concrete solution or timeframe for when things might improve."
+Sentiment: Neutral

@@ -1,0 +1,18 @@
+Customer ID: 2058-DCJBE
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't connect to anything.
+Agent:  I understand you're having trouble accessing the internet.  Can you please provide your account information? 
+Customer: Account number [account number]
+Agent: Thank you for that information.  Let me check on the status of your service. 
+Customer: I'm just hoping it's a quick fix, as this is my main work connection!
+Agent: We are experiencing an outage in your area. Technicians are currently working to resolve the issue. We apologize for the inconvenience. 
+Customer:  Okay, thanks. When can I expect internet back online? 
+Agent: I will provide you with an estimated timeframe of resolution as soon as it is available. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the outage.  It would be helpful to have a more specific time frame."
+Sentiment: Neutral

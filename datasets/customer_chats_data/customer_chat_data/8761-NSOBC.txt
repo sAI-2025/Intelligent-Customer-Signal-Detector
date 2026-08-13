@@ -1,0 +1,23 @@
+Customer ID: 8761-NSOBC
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my download speed is significantly slower than what I'm subscribed to.  My plan says 100Mbps and it's only showing around 30-40Mbps right now.
+
+Agent: Hello! Thank you for contacting us. Could you please provide your account name or customer ID so we can look into this issue?
+
+Customer: My name is Sarah Jones, my customer ID is 123456789. 
+
+Agent:  I see your plan details and the current download speed. We are looking into potential issues with your connection. I'll be updating you shortly on the status of the investigation. 
+
+Customer: Okay, thank you. 
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response.  I appreciate the effort to diagnose the issue.
+Sentiment: Positive

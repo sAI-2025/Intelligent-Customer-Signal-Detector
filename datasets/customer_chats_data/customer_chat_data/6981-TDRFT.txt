@@ -1,0 +1,17 @@
+Customer ID: 6981-TDRFT
+Topic: customer cannot access account information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't access my account information online and I need to update my payment details.
+Agent: Thank you for reaching out.  I understand you are experiencing difficulties accessing your account information. 
+Customer: Yes, I've tried logging in but it keeps saying "Invalid username or password."  
+Agent: Please confirm your username and email address, so we can verify your account. 
+Customer: My username is JohnSmith and my email is johnsmith@email.com
+Agent:  John, this should help us quickly resolve the issue. We'll have you back up and running in a few moments. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient! I appreciate their quick resolution to my issue.
+Sentiment: Positive

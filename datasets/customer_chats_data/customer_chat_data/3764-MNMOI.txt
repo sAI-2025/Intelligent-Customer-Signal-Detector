@@ -1,0 +1,15 @@
+Customer ID: 3764-MNMOI
+Topic: music playback buffering
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't seem to play music properly, it keeps buffering. 
+Agent:  I understand your frustration, let me take a look into this for you. 
+Customer: It’s been happening all day! No internet issues here either.
+Agent:  Could you tell me your account number and the specific song or playlist that's having trouble? 
+Customer: My account number is 1234567890, it’s just the latest jazz playlist I downloaded.  
+Agent: Thank you. I will check into this for you now. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful the issue seems to be getting looked at. Fingers crossed for a quick resolution!"
+Sentiment: Positive

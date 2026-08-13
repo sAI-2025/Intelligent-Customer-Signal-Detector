@@ -1,0 +1,16 @@
+Customer ID: 2197-OMWGI
+Topic: customer unhappy with service reliability
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am very unhappy with my internet service lately.  My connection has been down for days and I can't work from home! 
+Agent: I understand your frustration, we apologize for the inconvenience.  Can you tell me your account details so I can look into this further? 
+Customer: Sure, it's [account number] 
+Agent: Thank you. We'll get that checked out right away. 
+Customer: Okay, but what is going to be done about my slow internet speeds?  I can barely work! 
+Agent: We are working on a solution for your connection issues and we will keep you updated on our progress. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it's still frustrating that I haven't had reliable internet service for days.  Hoping to see some real improvements soon!
+Sentiment: Negative

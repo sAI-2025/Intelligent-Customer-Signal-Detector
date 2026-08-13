@@ -1,0 +1,23 @@
+Customer ID: 6599-GZWCM
+Topic: internet service interruption after payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet has been down for hours. I haven't received any updates on my billing issue from last week either. I just paid my bill today, but still no service.
+
+Agent: We apologize for the inconvenience. Can you please provide your account number and service address? 
+
+Customer:  Here it is, [account number] and my address is [address].
+
+Agent: Thank you for providing that information. Please allow me a few moments to check on the status of your connection.
+
+Customer: Alright, thanks
+
+Agent: We've identified a potential issue with the billing process. Your service should be restored shortly. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Finally got my internet back! Thanks for getting that sorted out."
+Sentiment: Positive

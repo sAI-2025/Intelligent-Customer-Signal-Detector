@@ -1,0 +1,20 @@
+Customer ID: 9541-PWTWO
+Topic: TV device cannot connect to network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My TV device keeps saying it can't connect to the network. I've tried restarting everything but no luck. 
+
+Agent:  I understand your frustration, let me check on your account. Please tell me what kind of device you have and your router name. 
+
+Customer: It's a Roku streaming stick, Model ROKU TV ST301. My router is called "Home Router" by the manufacturer.
+
+Agent: Alright, I see there was an issue with your network settings. Let me check that for you now.  
+
+Customer: Thanks!
+
+Agent: We have resolved the issue. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent's quick resolution and clear communication helped resolve my issue quickly!
+Sentiment: Positive

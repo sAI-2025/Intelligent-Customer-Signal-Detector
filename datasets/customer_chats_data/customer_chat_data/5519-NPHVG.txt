@@ -1,0 +1,25 @@
+Customer ID: 5519-NPHVG
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having trouble connecting to my Wi-Fi in the living room. 
+
+Agent:  I understand your concern. Can you please tell me your account number and what device you are using?
+
+Customer: My account number is #1234567890. It's a laptop connected via ethernet.
+
+Agent: I see that you're on a month-to-month plan with Fiber internet service.  How long have you been experiencing this issue? 
+
+Customer: About an hour now. Only the living room seems to be affected.
+
+Agent: Okay, I can check for any potential network outages or issues in your area. Let me just confirm…
+ 
+Customer: Sure! Thanks.
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in finding a solution to my Wi-Fi problem."
+Sentiment: Positive

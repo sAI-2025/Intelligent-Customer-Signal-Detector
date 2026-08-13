@@ -1,0 +1,24 @@
+Customer ID: 5940-NFXKV
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having really high latency when I use my internet. It's making it nearly impossible to play online games and stream movies. 
+
+Agent:  I understand your frustration, I apologize for this issue you're experiencing with the latency. Could you please provide me with your account information like your username or email address?
+
+Customer: Sure, my username is John Smith, and my email is johnsmith@email.com. My phone number is 555-123-4567. 
+
+Agent:  Thank you, John. I'm looking into this now. I will check the network status for you and see what’s causing the issue. 
+
+Customer:  Okay. Thanks!
+
+Agent:  I just wanted to inform you that there might be a temporary outage on the fiber network right now due to maintenance. We are working to resolve it as soon as possible. 
+
+Customer: Ok, thanks for letting me know.
+ 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is frustrating, but I appreciate that you're addressing the issue and keeping me updated on the outage.
+Sentiment: Neutral

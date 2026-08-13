@@ -1,0 +1,17 @@
+Customer ID: 9863-JZAIC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet at high latency. 
+Agent:  I understand you are experiencing higher-than-usual ping during your online activities. Can you please tell me a little more about what you were doing when the latency occurred?
+Customer:  I was trying to connect to a video conference with my colleagues, and it kept dropping out.
+Agent: Thank you for that information. Let's take a look at your account details. 
+Customer: I have been a customer for 35 months and pay $55 per month for DSL internet. 
+Agent:  I see. It looks like there might be an issue with your network connection.  Could you try restarting your modem and router? 
+Customer: Ok, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my problem! I appreciate the prompt response.
+Sentiment: Positive

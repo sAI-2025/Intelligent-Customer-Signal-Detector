@@ -1,0 +1,19 @@
+Customer ID: 6959-GQEGV
+Topic: customer wants to upgrade music service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to upgrade my music service. 
+Agent: Hello! Thanks for reaching out.  May I ask what plan you are currently on?
+Customer: I'm on the standard plan, and it's $75.95 per month. My internet is DSL. 
+Agent: Alright, understand. It seems like there are some options that could potentially suit your needs better.  
+Customer: I'd like to know more about what's available for a higher-tier experience. 
+Agent: Definitely! We have several plans with features like unlimited streaming and high sound quality, with different price points. Would you like me to walk you through the details?
+Customer: Yes please.  
+Agent: Absolutely. I can explain how our Premium plan offers more storage and music variety for just $10 more a month. 
+Customer: That sounds good! Thanks. 
+Agent: No problem, I'll go ahead and process your upgrade request. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was very helpful! The agent clearly explained the options and made the upgrade process smooth.
+Sentiment: Positive

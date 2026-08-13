@@ -1,0 +1,23 @@
+Customer ID: 0601-WZHJF
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is extremely slow and unstable today. It's difficult to even stream a movie.  I've checked my modem and router, but that didn't seem to help. 
+
+Agent: I understand your frustration, and we want to get this resolved for you as soon as possible.  Can you please provide your account number? 
+
+Customer:  Sure, it's [account number].
+
+Agent: Thank you.  I see a DSL connection with an average speed of 2 Mbps. Let me check on any outages in your area. 
+
+Customer: Okay. 
+
+Agent: There are no reported outages at this time. However, I would suggest restarting your modem and router to clear out any temporary issues.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent's troubleshooting steps were helpful,  I still haven't experienced a significant improvement in my internet speed after restarting my equipment.
+Sentiment: Neutral

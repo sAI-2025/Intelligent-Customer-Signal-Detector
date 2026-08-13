@@ -1,0 +1,17 @@
+Customer ID: 3097-FQTVJ
+Topic: customer cannot access support history
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't seem to access my past support history on your website. 
+Agent:  I understand your concern. To assist you better, could you please provide your account email and last few support requests?
+Customer:  My email is [email protected] and here are the last three tickets. 
+Agent: Thanks for that information! Let me take a look. 
+Customer:  You're fast! 
+Agent: I was able to locate your history. You can access it from your account dashboard at [link]. 
+Customer: Perfect, thank you so much! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks again, the quick response and easy access to my past support history were very helpful."
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 8859-YSTWS
+Topic: movie playback stops unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My movie playback just stopped unexpectedly! I was watching a great film.
+
+Agent:  I understand your frustration, and I'm sorry to hear about this issue. 
+
+Customer: Can you help me with this? Is there a known problem right now with the service?
+
+Agent: Let's check on that for you. Please provide your account details so I can look into this further. 
+
+Customer: My name is Michael, and my account number is 1234567890.
+
+Agent:  Thank you, Michael. I'm looking into the issue now.  
+
+Customer: Thanks for checking!  I'll wait to hear back. 
+ 
+Agent: No problem at all. We are investigating this issue and will get back to you with an update soon. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly, I appreciate the prompt attention."
+Sentiment: Positive

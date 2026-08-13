@@ -1,0 +1,21 @@
+Customer ID: 5307-DZCVC
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't get online!
+
+Agent:  I understand this is frustrating, I’m sorry to hear your internet service is down. Can you please confirm your account information, so I can run a diagnostic for you? 
+
+Customer: Yes, my account number is XXXXXXX-XXXXXXX, and my name is John Smith.
+
+Agent: Thank you John,  I've initiated a network check; let me know if you have any other questions or concerns.
+ 
+Customer: Okay.  Thanks!  
+
+
+Agent: I’ll keep you updated on the status of your service.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and I'm glad to be getting my internet back up!"
+Sentiment: Positive

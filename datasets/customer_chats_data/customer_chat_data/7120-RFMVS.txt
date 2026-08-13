@@ -1,0 +1,16 @@
+Customer ID: 7120-RFMVS
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my office. The signal is very weak.
+Agent: Hello! I understand that your Wi-Fi connection isn't strong enough. Can you please tell me the exact room and a little more about your setup? 
+Customer: Office in the back of the house, on the second floor.  I have a router in the living room. 
+Agent: Thanks! Is there anything else I need to know about your setup?
+Customer: It's a new place, so it wasn't set up before we moved in. 
+Agent: Okay, I understand. We can look into this for you and see if there is anything we can do to improve the signal strength in that room. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quickly addressed my issue.  A quick fix would be ideal!"
+Sentiment: Positive

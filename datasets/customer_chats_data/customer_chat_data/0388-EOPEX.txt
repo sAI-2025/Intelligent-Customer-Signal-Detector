@@ -1,0 +1,17 @@
+Customer ID: 0388-EOPEX
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm experiencing very high latency on my game today. Ping is consistently above 100ms.
+Agent:  I understand your frustration, let's investigate this further. Can you please provide me with your account details and the specific device/platform you are using? 
+Customer: Sure, my account name is [account name], and I'm using a wired connection to my PC.
+Agent: Thank you for that information. Let me check your network performance.  I can see your latency levels in the area but it seems like there might be an issue on our end. 
+Customer: Alright, thanks! 
+Agent: We have some temporary network issues affecting a small portion of our users.  We'll continue to work on resolving this as soon as possible. I apologize for any inconvenience this may cause.
+Customer: Thanks for letting me know!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was great to hear about the network issues and appreciate the update on when it might be resolved.
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 6296-DDOOR
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, my internet is super slow right now, especially during peak hours. 
+
+Agent: I understand your frustration, I'm happy to help.  Can you tell me which device and location are experiencing this issue?
+
+Customer: It’s happening on my laptop at home. The slowness started a couple of hours ago.
+
+Agent: Ok, thank you for that information. Let's check our network status. 
+
+Customer: I can confirm it seems pretty bad.  
+
+Agent: No problem.  I'm seeing some reports of congestion this time of day.  Would you like me to escalate this further? 
+ 
+Customer: Yes, please. Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the issue is being escalated, I appreciate your help!"
+Sentiment: Positive

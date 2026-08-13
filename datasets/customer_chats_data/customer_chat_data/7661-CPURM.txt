@@ -1,0 +1,28 @@
+Customer ID: 7661-CPURM
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't seem to connect to the internet at all.  
+
+Agent: I understand your concern, let me check on your account status. 
+
+Customer: It's been a few hours now, and I haven't been able to do any work or anything online.
+
+Agent:  I see no outages reported for your area. Could you please confirm your account information?
+
+Customer: My name is John Smith. My account number is 1234567890.
+
+Agent: Thank you, John. I'm checking the connection right now. 
+
+Customer: How long will this take?
+ 
+Agent:  The issue should be resolved within the next 15 minutes. We'll keep you updated. 
+
+Customer:  Ok. Thanks 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the update, and thanks for getting things sorted out so quickly!"
+Sentiment: Positive

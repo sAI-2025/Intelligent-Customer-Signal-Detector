@@ -1,0 +1,19 @@
+Customer ID: 6791-YBNAK
+Topic: device unable to register on network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble registering my device to the network. 
+Agent: Hello!  I understand you're experiencing connectivity issues. Can you please tell me your device name and model? 
+Customer: It's a Motorola Moto G Power.
+Agent:  Okay, thanks. Is it showing as connected or are you getting an error message?
+Customer: It shows as connected but I can't get online on the internet.
+Agent: Alright, let's try some troubleshooting steps. Can you hold on for a moment while I look into this? 
+Customer: Sure. 
+Agent:  Alright!  I see that your DSL modem might need to be reset. 
+Customer: Okay, I can do that. 
+Agent: You're all set.  Enjoy online! Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me get my internet back up and running! It's great having a clear explanation of the steps."
+Sentiment: Positive

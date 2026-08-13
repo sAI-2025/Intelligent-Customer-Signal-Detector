@@ -1,0 +1,19 @@
+Customer ID: 4952-YSOGZ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. The signal is very weak. 
+Agent: Hello! Thank you for reaching out.  May I have your account details? 
+Customer: Sure, it's [account number]
+Agent: Let me pull up your account information, and I can see what’s going on with the network connection in your living room. 
+Customer: Thanks.
+Agent: We might need to check some routing parameters.  Just a few seconds while we check... 
+Customer: Okay, thanks.
+Agent: All set.  The signal seems to be strong now! It appears that there's no issue with the router itself and your internet connection is working fine. 
+Customer: Awesome! Thanks for helping me out! 
+Agent: No problem at all! Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick resolution, thanks again for your help! 😊
+Sentiment: Positive

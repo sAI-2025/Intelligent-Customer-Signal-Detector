@@ -1,0 +1,19 @@
+Customer ID: 4433-JCGCG
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need help with my Wi-Fi signal. It’s weak in certain rooms of my home. 
+Agent:  I understand your frustration. May I ask what kind of device you're using to connect? 
+Customer: My laptop and tablet. 
+Agent: Thank you for that information. We can check if there are any known issues with the network.  
+Customer: Okay, thanks. 
+Agent: Let me initiate a system check now. 
+Customer: Alright.
+Agent:  I have confirmed some signal strength issues in your area. I will connect you to our technical team for further troubleshooting.  
+Customer: Wonderful. Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient, and I appreciate the quick resolution of my Wi-Fi issue!
+Sentiment: Positive

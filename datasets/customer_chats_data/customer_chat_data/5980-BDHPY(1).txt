@@ -1,0 +1,16 @@
+Customer ID: 5980-BDHPY
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is significantly slower than expected. I was expecting around 10Mbps but it’s only averaging 3Mbps.  Is there something wrong with my connection?
+Agent: I'm sorry to hear about the slow upload speeds, [Customer Name]. Let me check on your account details.
+Customer: My contract is for DSL internet and is two years old now. It cost $87.1 per month, and I’ve been a loyal customer since year one. 
+Agent: Thank you for letting me know that information. We can definitely take a look at your account speeds and troubleshoot any issues with your connection.  I'd like to run some diagnostics on your modem/router. Would it be helpful if we scheduled a quick call to discuss this further?
+Customer: Yes, please! 
+Agent: Sure thing! Let me just open up a few tools...
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the prompt response and willingness to help! Looking forward to hearing what can be done."
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 7854-EDSSA
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having a real hard time getting online lately. My ping is through the roof!
+Agent:  I understand your frustration, I apologize for the lag you're experiencing. 
+Customer:  It's been constant for the past week.  I even tried restarting my modem and router but it didn't help.
+Agent: Can you please tell me what device(s) you are using, along with their operating system? 
+Customer:  My desktop computer is running Windows 10 and I use a wireless connection. 
+Agent: We have noticed some recent outages in your area. Are you experiencing slow speeds during the day or just late at night?
+Customer: It seems to be worst after 8 PM. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Still having terrible ping after multiple attempts to troubleshoot. Hopefully, the outage gets resolved soon."
+Sentiment: Negative

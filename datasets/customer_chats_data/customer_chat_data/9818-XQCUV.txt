@@ -1,0 +1,15 @@
+Customer ID: 9818-XQCUV
+Topic: movie application crashes
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi! My movie app keeps crashing and I can't watch my movies. 
+Agent: Thank you for contacting us. We understand your frustration. Could you please provide your account information? 
+Customer: Sure, it's [account number].  My name is [customer name] and I have a month-to-month contract.
+Agent: I see your profile.  We apologize for the inconvenience.  
+Customer: Thanks. Is there a way to fix this issue? 
+Agent: We are actively investigating the problem, and we'll be sure to notify you when it is resolved. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the update about the investigation and hope to be able to watch my movies soon!
+Sentiment: Positive

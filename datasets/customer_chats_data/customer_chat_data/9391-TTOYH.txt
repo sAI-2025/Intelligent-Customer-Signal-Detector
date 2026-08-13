@@ -1,0 +1,17 @@
+Customer ID: 9391-TTOYH
+Topic: TV audio and video out of sync
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My TV audio and video are out of sync. I can hear the dialogue but the picture isn't in sync with it. 
+Agent: Hello!  I understand you’re experiencing some audio-video sync issues on your TV. Can you tell me what device and model you have?  
+Customer: It's a Samsung Smart TV, model number UE40J6300A. 
+Agent: Thank you for that information.  Could you please try restarting your TV? If the issue persists, I can escalate this to our technical support team to assist further. 
+Customer: Ok, tried that already. No luck
+Agent: Alright, let me connect you with them. Please hold while I do so. 
+Customer: Thanks for your help!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it's frustrating to have audio-video sync issues persist after a restart."
+Sentiment: Negative

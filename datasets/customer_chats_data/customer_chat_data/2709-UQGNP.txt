@@ -1,0 +1,15 @@
+Customer ID: 2709-UQGNP
+Topic: phone network connection disappearing intermittently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I've been experiencing intermittent internet connection issues with my DSL. It drops in and out every few hours. 
+Agent:  I understand your frustration.  Please provide your account number and the specific location of your service outage?
+Customer: My account number is XXX-XXXX, and it happens most often when I'm streaming video or using online gaming platforms. It's located in [city]
+Agent: Thank you for that information. I have reviewed your account and see some recent activity in the DSL network area. 
+Customer: Oh, thank goodness! 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks so much for quickly addressing my issue, it was really frustrating to deal with!"
+Sentiment: Positive

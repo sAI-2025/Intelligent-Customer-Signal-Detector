@@ -1,0 +1,28 @@
+Customer ID: 6214-EDAKZ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is terrible! It's barely half of what I pay for each month.
+
+Agent:  I understand your frustration, and I'd be happy to look into this for you. Can you please provide me with your account number? 
+
+Customer: Sure, it's [account number]
+
+Agent: Thank you for providing that information. Let me check on the DSL connection for you. 
+
+Customer:  Great! Thanks so much.
+ 
+Agent: We just want to confirm, are you experiencing problems with download speeds even though your plan is currently active?
+
+Customer: Yes, I'm having consistent slow downloads. 
+
+Agent:  I can see that there's a service issue affecting DSL users in your area right now. We will have it resolved soon. 
+
+Customer: Okay, thanks for letting me know!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Feedback: The agent was very helpful and provided clear information about the slow speeds I'm experiencing.
+Sentiment: Positive

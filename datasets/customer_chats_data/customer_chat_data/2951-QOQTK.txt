@@ -1,0 +1,17 @@
+Customer ID: 2951-QOQTK
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It seems much lower than expected. 
+Agent:  I understand.  Can you please provide your account details and the specific upload speed issue?
+Customer: Sure, my account information is [account number]. The upload speed is barely a tenth of what I normally get.
+Agent: Thank you for providing that information. Let me check on your connection status. 
+Customer: Thanks.
+Agent:  I've looked into the details and it seems our fiber line might have a temporary issue in your area. We will be able to upgrade speeds within the next hour or two.
+Customer: Okay, thanks for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the quick update! Thanks for getting this resolved so quickly."
+Sentiment: Positive

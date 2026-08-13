@@ -1,0 +1,27 @@
+Customer ID: 5947-SGKCL
+Topic: online support tools not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My online tools are not working at all! I can't access my Netflix account or anything else.  It says "connection error" and I have tried restarting everything.
+
+Agent: Thank you for contacting us, I understand your frustration. To troubleshoot this issue, can you please provide the specific error message on your screen? 
+
+Customer: Yeah sure, its saying there's a network issue. 
+
+Agent:  Is the internet working normally? What is the speed of your connection? 
+
+Customer: Yes, it's working fine and the speeds are good.  
+
+Agent: Okay.  We can take a look at our servers to see if there's a general outage.   
+    
+Customer: Thanks for looking into this! 
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and persistent in troubleshooting, which helped ease my frustration."
+Sentiment: Positive

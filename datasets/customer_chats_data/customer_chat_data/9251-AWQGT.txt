@@ -1,0 +1,15 @@
+Customer ID: 9251-AWQGT
+Topic: TV audio and video out of sync
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having an issue with my TV audio and video being out of sync. It's been happening for the past few hours.
+Agent:  I understand your concern! Could you please provide me with your account information so we can check on the issue? 
+Customer: My name is [name] and my account number is [account number]. I am also under a two-year contract, paid $20 per month.
+Agent: Thank you for providing that information, [name]. We'll look into this right away.  
+Customer: Thanks! 
+Agent: I appreciate your patience, [name]. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and I appreciate them quickly addressing my issue."
+Sentiment: Positive

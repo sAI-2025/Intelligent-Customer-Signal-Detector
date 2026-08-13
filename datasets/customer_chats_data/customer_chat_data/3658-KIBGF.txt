@@ -1,0 +1,16 @@
+Customer ID: 3658-KIBGF
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my download speed. It's significantly slower than my subscribed plan. 
+Agent:  I understand. Can you tell me your account details, including your name and the service address?
+Customer: Sure, my name is Emily and my service address is [address]. 
+Agent: Thank you, Emily. I've checked your account and it seems there's a DSL line issue with a potential signal interference.
+Customer: Oh no! How can I fix this?  
+Agent: We will send our technician to check the line later today. You should be able to have better download speeds by then. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into my issue so quickly!  I appreciate the prompt action and hope things improve soon.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 4683-WYDOU
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm calling because my internet isn't connecting.  I've been trying to call in and get this figured out but I keep getting disconnected. 
+Agent: Thank you for contacting us. What is your account name and phone number? 
+Customer: My account is [redacted], my phone number is [redacted]
+Agent:  I understand you are experiencing issues connecting to the internet. We're currently working on a solution, can I get your last four digits of your social security number so we can verify your account?
+Customer:  [redacted] 
+Agent: Thank you for providing that information.   We will have this resolved shortly. 
+Customer: Okay.
+Agent:  We appreciate your patience and understanding, please let us know if you experience any other issues. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was patient and helpful, even though I encountered some frustrating technical difficulties.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 0859-YGKFW
+Topic: customer wants to remove unlimited data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I would like to remove my unlimited data plan. 
+Agent:  Hello! Thank you for contacting us. What's your account name?
+Customer: My account name is Smith John. 
+Agent: Thank you, Mr. Smith. We do have a policy in place for changing data plans. Do you remember what your original plan was?
+Customer: I think it was unlimited data.
+Agent:  I can see that on our system. Please confirm the exact reason why you'd like to remove the unlimited data. 
+Customer: Well, my internet usage is very low. 
+Agent: Thank you for letting me know, Mr. Smith.  We will have a plan available for your current needs. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for helping me switch to a more appropriate data plan. I appreciate your efficiency and communication."
+Sentiment: Positive

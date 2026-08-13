@@ -1,0 +1,18 @@
+Customer ID: 2223-KAGMX
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is really slow this afternoon during peak hours. It’s almost unusable. 
+Agent: I understand your frustration. Can you please provide me with your account information so I can take a closer look?
+Customer: Sure, my name is (Customer Name) and my account number is (Account Number).
+Agent: Thank you, (Customer Name).  I've noted the slow speed during peak hours on your account. 
+Customer: Is there anything I should do in the meantime to improve things?
+Agent: Let me check if there are any known issues or outages impacting your area.   
+Customer: Thanks, I appreciate it!
+Agent: No problem at all.  I'll let you know as soon as I have an update on the network status. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and kept me updated throughout the process.  Hopefully, the slow speed will be resolved soon."
+Sentiment: Positive

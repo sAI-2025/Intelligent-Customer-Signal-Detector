@@ -1,0 +1,15 @@
+Customer ID: 5049-GLYVG
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow! Ping spikes all the time. I can barely play online games. 
+Agent:  I understand you're experiencing high latency. What kind of connection are you currently using? 
+Customer: No wired or WiFi. Just mobile data.
+Agent: Let me check on your connection. It sounds like there might be a temporary issue with the service. 
+Customer: Thanks! 
+Agent:  We'll have it resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and letting me know it should be fixed soon! 😊
+Sentiment: Positive

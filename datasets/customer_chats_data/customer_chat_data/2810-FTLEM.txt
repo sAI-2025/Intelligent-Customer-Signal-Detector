@@ -1,0 +1,17 @@
+Customer ID: 2810-FTLEM
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet is completely down and I can't access anything online. 
+Agent:  I understand your concern, I'm sorry to hear that your internet isn't working. Could you please tell me your account number? 
+Customer: Yes, it's [Account Number]. 
+Agent: Thank you for providing your account number. Let me check on the status of your DSL connection. 
+Customer:  I've been having trouble with this for a few days now. 
+Agent: I see that your DSL is currently experiencing some outages in your area. We are working to resolve it as quickly as possible, but estimated restoration time is around [time]. 
+Customer: Okay, thanks for letting me know.   
+Agent:  We apologize again for the inconvenience and appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update - I'll keep an eye out for when it comes back online."
+Sentiment: Neutral

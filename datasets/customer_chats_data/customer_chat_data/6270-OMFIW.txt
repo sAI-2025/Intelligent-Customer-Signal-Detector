@@ -1,0 +1,18 @@
+Customer ID: 6270-OMFIW
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I've been experiencing frequent internet disconnections lately. 
+Agent:  Hello!  I'd be happy to help with that. What's your account name? 
+Customer: It's Michael Smith, Account #1234567. 
+Agent: Thank you, Mr. Smith. I have a few questions about your service. When does the disconnection usually occur?  
+Customer: Mostly during evening hours and when multiple devices are online at once. 
+Agent:  I see. Could you please try restarting your modem/router? 
+Customer: Already done that, but no luck. 
+Agent: I understand. Let me check for any technical issues on our end and get back to you shortly.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Still experiencing disconnections even after trying the suggested fix. Hoping to find a more permanent solution soon."
+Sentiment: Negative

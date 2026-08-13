@@ -1,0 +1,18 @@
+Customer ID: 1725-IQNIY
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I keep experiencing frequent internet disconnections today.  My speed is really slow too. 
+Agent: Hello! I understand you're having trouble with your internet connection. I can definitely help with that. 
+Customer: Thanks, could you tell me what might be causing the problem? My contract is two years old now.
+Agent: Sure, let's look into that.  Could you please provide your account number?
+Customer: My Account Number is [Account Number] and I’ve been a loyal customer for 54 months.  I pay $109.75 per month, and am using Fiber Optic internet. 
+Agent: Thank you!  Let me take a look at your service history. We might have some updates that could help.   
+Customer: That would be fantastic.
+Agent:  We will review your service and make any necessary adjustments. Let's see if we can improve your connection quality right away. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quick to address my issue, I hope the adjustments they made resolve it!
+Sentiment: Positive

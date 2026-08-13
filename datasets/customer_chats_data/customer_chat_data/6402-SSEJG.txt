@@ -1,0 +1,17 @@
+Customer ID: 6402-SSEJG
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I’m having some trouble with my internet connection. It's been slow and unstable for the past couple hours.
+Agent: Thank you for contacting us!  I understand your concern about the slow and unstable internet connection. 
+Customer: My DSL is usually fine, but now it's like a snail's pace. 
+Agent: I can definitely help with that. Could you please tell me your account number and what area you’re experiencing these issues in? 
+Customer: Here it is…1234567890; I'm in the South Bay, California.  
+Agent: Thank you for providing that information. We will look into this issue.   
+Customer: Great!  Any idea how long it might take to get fixed? 
+Agent: I’ll be sure to update you on our progress and let you know when we have a resolution. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for your quick response and letting me know about the fix!  I appreciate the heads-up on getting things sorted out.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 6982-UQZLY
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been really slow lately, especially during peak hours.
+Agent: I understand your frustration. Can you please tell me which device and service plan you have? 
+Customer: It's my computer, and the plan is a Month-to-month option.  
+Agent: Thank you for that information.  Let me check on the status of your connection. 
+Customer: My internet speed is really slow. 
+Agent: I am currently looking into it. Please hold while I do some troubleshooting. 
+Customer: Ok, thank you
+Agent: The issue has been resolved. Your speed should be back to normal. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and got my internet problem fixed quickly! Thanks for the support.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 6211-WWLTF
+Topic: customer is dissatisfied with contract terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I’m extremely dissatisfied with my current contract terms.  They’re not what I agreed to! 
+Agent:  I understand your frustration. Can you please tell me a bit more about what's causing this issue?
+Customer: My internet speed has been slower than promised, and the price has gone up twice in the last two years. 
+Agent: Let me take a look at your account information to see what we can do.  
+Customer: I want out of my contract.
+Agent: We understand you're looking for an alternative solution. I am happy to help explore options with you. 
+Customer: I was promised faster speeds, but I’m getting less for more now. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent seemed helpful, it still feels like they're not addressing my concerns about the contract terms and lack of service quality after all these years.
+Sentiment: Negative

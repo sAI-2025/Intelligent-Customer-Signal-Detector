@@ -1,0 +1,18 @@
+Customer ID: 3566-CAAYU
+Topic: customer considers cancelling service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I want to cancel my service.  
+Agent:  I understand you'd like to cancel your DSL internet service. What is your account number? 
+Customer: 1234567890
+Agent: Thank you. We have a two-year contract with your current plan costing $49.85 per month. Are there any specific reasons for wanting to cancel?  
+Customer: Yeah, I'm just not using it as much anymore. 
+Agent:  I see. We can help you with the cancellation process. What date would you like us to complete this?
+Customer: Let's get it done today.
+Agent: Absolutely, we will be able to cancel your service by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The cancellation process was straightforward and quick!  Thank you for your help.
+Sentiment: Positive

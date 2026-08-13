@@ -1,0 +1,15 @@
+Customer ID: 2868-MZAGQ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed. My upload speed is much lower than what I expected. 
+Agent:  I understand your frustration. What is your current upload speed and what are you expecting?
+Customer: It's currently only 5 Mbps. I was expecting around 15-20 Mbps based on the advertised speeds of my plan.
+Agent: Let me look into this for you. Could you please provide your account information? 
+Customer:  Sure, here it is. 
+Agent: Thank you. I see you're on a month-to-month contract and have been with us for one month. We are running a fiber optic service and the plan you have is the one advertised at 15 Mbps upload speed.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate your explanation, it would be helpful to know why my actual speeds are so much lower than advertised.
+Sentiment: Negative

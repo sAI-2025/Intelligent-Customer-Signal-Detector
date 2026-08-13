@@ -1,0 +1,15 @@
+Customer ID: 2018-QKYGT
+Topic: installation or activation fee dispute
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I believe I was charged an activation fee even though my monthly service cost is only $81.05 and I signed a month-to-month contract.  
+Agent:  I understand your concern.  Please provide your account number so we can take a closer look at the details of your billing history. 
+Customer: My account number is [redacted]. Thank you!
+Agent: I've found that activation fees are not typically applied for month-to-month plans. It seems there may be an error with the payment processing.
+Customer: That's great, thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for resolving this quickly and efficiently. Much appreciated!"
+Sentiment: Positive

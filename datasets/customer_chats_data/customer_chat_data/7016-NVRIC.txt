@@ -1,0 +1,17 @@
+Customer ID: 7016-NVRIC
+Topic: unexpected increase in monthly bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I just received my bill and it looks like it’s almost double what it normally is. What happened? 
+Agent:  I understand your concern, Mrs./Mr. [Last Name].  Can you please provide your account number or the last few billing cycles to check on this? 
+Customer: Sure, Account #[account number] 
+Agent: Let me take a look at your account history. Thank you. It seems like there was an unexpected increase in data usage and charges. We offer a free speed test if you'd like to compare the current speeds with the contracted plan. 
+Customer: Ok.  Do I have to do anything? 
+Agent: No, we are happy to help you sort out this change. 
+Customer: Thank you so much! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in explaining the increase and offering solutions, which I appreciate."
+Sentiment: Positive

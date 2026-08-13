@@ -1,0 +1,17 @@
+Customer ID: 7014-ZZXAW
+Topic: data usage overage charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I got a data overage charge on my bill. How do I get it waived? 
+Agent:  Hi there! I understand your frustration with the recent data overage. Can you please tell me your account number and phone number so I can look into this for you?
+Customer: Yes, here's my account number [Account Number] and phone number [Phone Number].
+Agent: Thank you for that information. It looks like your bill is currently set up to charge a $25 overage fee because it exceeded the limit in your data plan.
+Customer: I only use the internet for basic emails, so how can this be? 
+Agent:  You have been using data since 2017 and we do not offer unlimited data plans on our no-internet packages. We do offer a few different options, including a $50 unlimited plan. Would you like to explore those?
+Customer: No thanks, I'm good with my current setup. 
+Agent: Okay, I can see that the overage charge has been applied to your bill.  Would you like me to explain how we calculate the overages and how the final amount is determined?
+
+----------------------------------------
+Feedback: While I understand data plans are not unlimited, it would be helpful to have a clearer explanation of *why* my usage was considered overage despite basic email use.
+Sentiment: Negative

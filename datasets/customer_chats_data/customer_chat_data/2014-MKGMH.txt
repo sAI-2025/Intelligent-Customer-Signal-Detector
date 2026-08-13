@@ -1,0 +1,18 @@
+Customer ID: 2014-MKGMH
+Topic: customer wants to update payment information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to update my payment information on my account.
+Agent: Absolutely, I can help you with that.  What's your account number? 
+Customer: It's [Account Number]
+Agent:  Okay, I see your details here. Would you like to change your billing address or the payment method?
+Customer: My card expires next month, I want to update my payment information for the new card.
+Agent:  No problem, can you please tell me the new credit card number and expiration date for your new card? 
+Customer: [New Card Information]
+Agent: Thank you! Your payment method has been updated successfully. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a smooth and efficient process, thanks for helping with my payment information update! 😊
+Sentiment: Positive

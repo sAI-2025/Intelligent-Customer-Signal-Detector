@@ -1,0 +1,20 @@
+Customer ID: 7242-EDTYC
+Topic: service cancellation option difficult to find
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm trying to cancel my service online but can't find the option. 
+Agent: Hello!  I understand you're having trouble canceling your service online.  What is your account number?  
+Customer: 1234567890
+Agent: Thank you for providing your account number. I see you have a two-year contract that you are currently paying $19.55 per month for No internet services. 
+Customer:  I just want to cancel, the service is no longer needed 
+Agent: I understand. Please select "Cancel Service" under the Account Summary tab on our website. You will then be able to choose your reason for cancellation and proceed with the process.
+Customer: Thank you! 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful, though I wish the process of canceling my service online had been clearer.
+Sentiment: Neutral

@@ -1,0 +1,22 @@
+Customer ID: 7426-GSWPO
+Topic: TV streaming buffering frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having a lot of buffering issues on my TV streaming services lately.  
+
+Agent: Hello! I understand that you're experiencing buffering difficulties with your streaming services. Can you tell me more about what's happening? 
+
+Customer: Well, it seems to happen frequently. My internet speed is good, so I don't think the problem lies there.   
+ 
+Agent: Okay, thanks for clarifying.  Could you please provide your account number and the specific services you are experiencing issues with? 
+
+Customer: Sure! It's [account number] , and it's mostly Netflix and Amazon Prime Video.  
+
+Agent: Thank you for that information. I will investigate this further and get back to you shortly.   
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help, the issue seems resolved now!  It was definitely a frustrating problem."
+Sentiment: Positive

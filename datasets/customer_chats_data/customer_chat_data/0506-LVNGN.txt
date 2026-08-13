@@ -1,0 +1,18 @@
+Customer ID: 0506-LVNGN
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having trouble connecting to the internet. It's completely down. 
+Agent: I understand your concern.  Can you please provide me with your account information so I can look into it?
+Customer: Sure, my name is Mary Smith. My account number is 1234567890. 
+Agent: Thank you, Ms. Smith.  I'm looking at your Fiber optic connection and see there appears to be a service outage in your area.
+Customer: Oh no! That explains why I haven't been able to watch my favorite show!
+Agent: We apologize for the inconvenience, and we're working on getting things back up and running as quickly as possible.  
+Customer: Thank you! 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly about the outage; it's frustrating when our plans don't work out!"
+Sentiment: Neutral

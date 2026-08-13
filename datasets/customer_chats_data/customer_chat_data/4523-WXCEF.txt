@@ -1,0 +1,18 @@
+Customer ID: 4523-WXCEF
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having some really bad lag issues lately! My ping is spiking up and it's making it hard to play online games.
+Agent:  I understand your frustration, we want everyone to have a smooth experience. Can you tell me what device(s) you're using, and what kind of games you're playing? 
+Customer: I use my laptop for gaming, mostly Valorant and League of Legends. 
+Agent: Okay, thanks for the info.  Our Fiber optic network is known for its speed and low latency. Have you checked your internet connection settings? You might need to change your router's DNS settings. 
+Customer: I have been having a hard time figuring out how to do that, can you help me with that?  
+Agent: Absolutely. We can guide you through the steps. Just tell me what kind of device you use and we'll get it done. 
+Customer: My laptop uses Windows. 
+Agent: Alright. Here are the steps for changing your DNS settings on a Windows PC: [insert steps here] 
+Customer: Thanks! I'm going to try that right now. Hopefully, this will fix the
+
+----------------------------------------
+Feedback: The agent was very helpful and provided clear instructions, hopefully this will solve my lag issues!
+Sentiment: Positive

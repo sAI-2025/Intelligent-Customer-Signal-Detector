@@ -1,0 +1,17 @@
+Customer ID: 0991-BRRFB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It keeps dropping in and out. 
+Agent:  I understand your frustration. Can you tell me what device you are using to connect? 
+Customer: My laptop, using DSL connection
+Agent: Okay, let me check our records for any outages in your area. 
+Customer: Nothing on the website shows a problem 
+Agent: I'm looking into it now.  We should have an update within the next hour or so. 
+Customer: Thanks, I hope I don’t miss any calls 
+Agent: No worries! We'll keep you updated. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your help, and for keeping me informed!  I appreciate your prompt response.
+Sentiment: Positive

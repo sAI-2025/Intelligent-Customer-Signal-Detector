@@ -1,0 +1,17 @@
+Customer ID: 8087-LGYHQ
+Topic: customer wants to dispute a previous payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm disputing a payment on my account that was charged on [date]. 
+Agent: Thank you for contacting us. Can you please provide your account number and the date of the charge? 
+Customer:  Sure, it's [account number] and the charge was for $108.25 on [date]. 
+Agent: I see that you were charged $108.25 on [date] for your service.  
+Customer: That doesn't seem right - my monthly payment is only $94.05, can you please explain?
+Agent:  I apologize for any confusion, however your bill was higher because of a recent increase in pricing. 
+Customer: Oh, I see, thanks for clarifying. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent's explanation and clarity helped me understand the situation better.
+Sentiment: Positive

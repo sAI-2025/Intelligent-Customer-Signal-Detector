@@ -1,0 +1,24 @@
+Customer ID: 3327-YBAKM
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't connect to the internet at all and it's been like this for hours. 
+
+Agent:  I apologize for the inconvenience, I'll look into this for you right away. Could you please provide your account information so I can expedite the process?
+
+Customer: Sure, my name is [Name] and my account number is 1234567890. I also have a one-year contract and am paying $96.9 per month for Fiber optic internet.
+
+Agent:  Thank you for providing your information, [Name].  Let me check on your connection status. We're currently experiencing a widespread outage in your area. 
+
+Customer: Okay, thanks. 
+
+Agent: I understand this is frustrating and I'll keep you updated as soon as I have more information. 
+
+Customer: Thanks! 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update; hopefully it gets resolved soon!
+Sentiment: Positive

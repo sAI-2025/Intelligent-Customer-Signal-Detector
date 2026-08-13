@@ -1,0 +1,24 @@
+Customer ID: 5028-HTLJB
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been slower than expected. I subscribed to a plan with 50 Mbps and it feels like it's only getting about 10 Mbps.
+
+Agent:  I understand you're experiencing slow download speeds. We'd like to help get this resolved for you. Can you please provide your account number or the email address associated with your subscription?
+
+Customer: Sure, my account number is 12345678. I signed up on October 20th. 
+
+Agent: Thanks for providing that information.  I'll look into your speed and billing history now to see if there's anything we can do about it.
+
+Customer: Can you give me an estimated time frame?
+
+Agent: We are looking into the situation.  We will get back to you as soon as possible with a solution. 
+ 
+Customer: Thank you. I hope so.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully, this issue gets resolved quickly! It would be nice if there was a more specific timeframe."
+Sentiment: Positive

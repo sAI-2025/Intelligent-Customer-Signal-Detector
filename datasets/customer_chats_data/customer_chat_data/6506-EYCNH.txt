@@ -1,0 +1,16 @@
+Customer ID: 6506-EYCNH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my Wi-Fi signal in the bedrooms of my apartment. 
+Agent:  I understand your concern about the weak Wi-Fi signal in certain rooms. Could you please tell me more about the specific area and any troubleshooting steps you've already taken? 
+Customer: The signal is very weak in both bedrooms, especially when streaming Netflix or downloading files. I've tried restarting my router but it hasn't helped much.
+Agent: Okay, thank you for that information.  We can check our network settings to see if there are any issues with the signal strength. 
+Customer: Great!
+Agent: Let me take a look into this now. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm relieved that we're going to look into this further.  Fingers crossed it gets fixed soon!
+Sentiment: Positive

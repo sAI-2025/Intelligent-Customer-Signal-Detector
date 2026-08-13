@@ -1,0 +1,21 @@
+Customer ID: 4622-YNKIJ
+Topic: customer wants to upgrade service plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I would like to upgrade my service plan. 
+Agent:  I understand. What type of plan are you looking to upgrade to?
+Customer: I'm interested in their higher speed plan. It seems faster than the one I have now. 
+Agent:  Let me check your current plan details and options for upgrades. 
+Customer: Okay, thanks.
+Agent: Your current plan is a $88.95 Fiber optic plan with three years remaining on your contract. We do offer a higher speed option starting at $104.95/month.  
+Customer: What are the differences between these plans?
+Agent: The higher-speed plan offers faster download and upload speeds and includes features like priority network access and increased data limits.
+Customer: Thank you. 
+Agent: Would you like to proceed with upgrading your service now?  
+Customer: Yes, please. 
+Agent: I can definitely do that for you. Your new plan will be effective starting on [date]. You'll be charged $104.95 per month and have three years remaining on your contract. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining the different plan options and making the upgrade process smooth.
+Sentiment: Positive

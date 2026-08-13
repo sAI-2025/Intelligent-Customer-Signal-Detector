@@ -1,0 +1,24 @@
+Customer ID: 8901-HJXTF
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet connection. It's slow and dropping frequently. 
+
+Agent:  I understand your frustration. Could you please tell me what device(s) you are using to connect? And when did you start experiencing these issues? 
+
+Customer:  I'm on my desktop, it started this morning. 
+
+Agent: Thanks for providing that information. I can take a look at your account and see if there's anything wrong with the DSL line. 
+ 
+Customer:  Thanks!
+
+Agent:  Let me check your internet connection status and run some diagnostics, and we'll be able to resolve this quickly. 
+ 
+Customer: Ok 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive, and I appreciate how they took the time to diagnose and fix my internet issue.
+Sentiment: Positive

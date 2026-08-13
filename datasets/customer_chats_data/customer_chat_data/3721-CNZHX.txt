@@ -1,0 +1,18 @@
+Customer ID: 3721-CNZHX
+Topic: new device cannot connect to Wi-Fi
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my new device to Wi-Fi. 
+Agent: Hello! Can you please provide me with your account number or name? 
+Customer: My account number is [account number]. It’s for a new one year contract.
+Agent: Thank you.  I see that your account shows a new device was recently added. Do you have a router on the same network as the device?
+Customer: Yes. It's a T-Mobile router, but I can't connect to the Wi-Fi. 
+Agent:  Let me check for any potential issues with your connection. 
+Customer: Okay, thank you. 
+Agent: Your Wi-Fi should be active now. If not, please try restarting both your device and router. Thank you for contacting us! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The issue was resolved quickly and the agent's steps helped me get back online."
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 5712-VBOXD
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't seem to connect to the internet at all. 
+Agent:  I understand. I apologize for the inconvenience. Can you please tell me your account details and what device you're using?
+Customer: My account name is John Smith, and I'm using my laptop. 
+Agent: Thank you, John. Please be advised that there may be an outage in your area currently. We are working to resolve it as soon as possible. 
+Customer: Okay, thanks for letting me know.  Do you have an estimated time of resolution?
+Agent: I'm checking on the status and will update you as soon as I receive more information. It is important to note that our team is working diligently to restore service. 
+Customer: Thank you for your help. 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, it's good to know they're working on fixing it."
+Sentiment: Neutral

@@ -1,0 +1,16 @@
+Customer ID: 8938-UMKPI
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is significantly slower than my subscribed plan. It's averaging just 10 Mbps when I should be getting at least 250.
+Agent:  I understand your concern. To investigate this further, could you please provide me with your account information and the specific time frame where these slow speeds were observed?
+Customer: Sure, my account number is [redacted]. The issue started around 1 pm today. 
+Agent: Thank you for providing that information. I'm looking into the technical details right now.  
+Customer: Ok, thanks!
+Agent: It looks like there might be a temporary network congestion impacting your speed. We are currently working on resolving this.  I apologize for any inconvenience this may cause. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update - I appreciate you acknowledging the issue and letting me know you're working to resolve it."
+Sentiment: Positive

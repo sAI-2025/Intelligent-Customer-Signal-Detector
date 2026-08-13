@@ -1,0 +1,20 @@
+Customer ID: 3992-YWPKO
+Topic: phone service unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My phone service is down and I haven’t been able to reach anyone by phone.
+Agent:  I understand your frustration, [Customer Name]. Let me look into this for you. Can you please confirm your account number and the last time you were able to make a call? 
+Customer: My account number is 1234567890. I haven't been able to make a phone call since yesterday afternoon.
+Agent: Thank you, [Customer Name].  I see that there seems to be an outage in your area, but your fiber internet connection appears to be working. It looks like we have some temporary service interruptions across the region. 
+Customer: Okay. How long is this going to last?
+Agent: We are working on resolving the issue. A technician should be dispatched as soon as possible to take a look at it.  We’re aiming for resolution by [Time]. 
+Customer: Thanks for letting me know, I will keep an eye out for updates. 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update and for looking into it!  I'll be sure to check in later for any further information.
+Sentiment: Positive

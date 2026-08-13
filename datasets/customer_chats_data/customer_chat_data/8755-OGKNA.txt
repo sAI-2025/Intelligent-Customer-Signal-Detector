@@ -1,0 +1,17 @@
+Customer ID: 8755-OGKNA
+Topic: online support tools not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My online support tools aren't working properly again. I can't access my maintenance schedule or submit requests. 
+Agent: Hi there! We understand this is frustrating.  Can you please tell me your account number and a bit more about the issue? 
+Customer:  Account number: [redacted] It says "Unable to complete request" on the software when I try to use it.
+Agent:  Thanks, I'm looking into that now. We may need to check some system settings for you. 
+Customer: Okay, thanks! 
+Agent: Just a moment while I look into this further.  I will let you know once I have an update. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the prompt response and updates; hopefully this issue gets resolved soon."
+Sentiment: Neutral

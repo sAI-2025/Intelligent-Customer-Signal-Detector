@@ -1,0 +1,20 @@
+Customer ID: 2930-UOTMB
+Topic: service upgrade option missing
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm trying to upgrade my internet plan and I can't find the option for DSL. 
+Agent: We understand your need for a better connection! Can you tell me what specific upgrade you are looking for?
+Customer:  I'm interested in getting fiber optic, but I'm only seeing the speed tiers available for cable. 
+Agent:  Absolutely! Please provide your current account details so we can check which plans are available in your area.  
+Customer: My account number is XXXXXXX and my email address is [email protected]  
+Agent:  Thank you for providing that information! We'll have a look at your current plan and options. 
+Customer: Ok, thanks.
+Agent: I've reviewed your account, and fiber optic internet is currently available in your area. Would you like to upgrade? 
+Customer: Yes please. Let me know the details for a speed tier upgrade with DSL included.  
+Agent: We can definitely get that done! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very efficient and helpful experience, thanks for getting my fiber optic setup sorted out!
+Sentiment: Positive

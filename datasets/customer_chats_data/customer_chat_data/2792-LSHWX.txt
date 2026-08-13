@@ -1,0 +1,17 @@
+Customer ID: 2792-LSHWX
+Topic: internet connection slow or unstable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My internet is slow and keeps dropping out.
+Agent: I understand your frustration. May I have your account information so I can take a closer look?
+Customer: Sure, my account number is 1234567890, my name is John Smith, and I've been experiencing this issue since yesterday afternoon.  
+Agent: Thank you, John. I see there is an issue with your Fiber Optic connection today. Let me check what we can do to resolve it for you. 
+Customer: That would be great!  Any estimate on when the problem might be fixed?
+Agent: We're actively working to restore service as quickly as possible. It should be back up and running within the hour, but I'll keep an eye on your connection. 
+Customer: Thanks for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, seems like things are getting fixed!  Fingers crossed it stays stable."
+Sentiment: Positive

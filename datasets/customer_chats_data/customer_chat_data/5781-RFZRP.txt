@@ -1,0 +1,18 @@
+Customer ID: 5781-RFZRP
+Topic: router lights showing unexpected status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My router lights are flashing weird and I can't connect to the internet. 
+Agent:  I understand you're having trouble connecting. Can you please tell me your account number and the model of your router?  
+Customer: Sure, my account number is 1234567890 and it's a Netgear Nighthawk R7000. 
+Agent: Thank you for that information. We'll need to look into this further. Let me check the status of your router connection.  
+Customer: Okay, thanks! 
+Agent: I see there may be a temporary outage in your area. We apologize for any inconvenience and will have it fixed soon. 
+Customer: Ok, that makes sense - Thanks anyway! 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quick to explain the situation, I appreciate their prompt response.
+Sentiment: Positive

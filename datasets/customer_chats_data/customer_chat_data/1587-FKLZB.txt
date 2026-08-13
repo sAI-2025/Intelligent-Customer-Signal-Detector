@@ -1,0 +1,18 @@
+Customer ID: 1587-FKLZB
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet.  It’s completely down. 
+Agent:  I understand your concern, sir.  May I have your account information so I can look into this? 
+Customer: Sure, my name is John Doe and my account number is 1234567890. 
+Agent: Thank you, Mr. Doe. I’m seeing that your fiber connection seems to be down at the moment.  
+Customer: Oh well! 
+Agent: We're currently investigating this issue. We will get your internet back up and running as soon as possible. 
+Customer: I appreciate it. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update, John Doe.  I hope they can resolve this issue quickly!
+Sentiment: Positive

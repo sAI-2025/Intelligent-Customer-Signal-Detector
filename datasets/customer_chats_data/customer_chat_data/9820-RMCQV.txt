@@ -1,0 +1,21 @@
+Customer ID: 9820-RMCQV
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to Wi-Fi in my living room. 
+
+Agent:  I understand you're having trouble with your Wi-Fi signal strength in the living room. Can you please tell me more about your setup and any recent changes? 
+
+Customer: My router is on the first floor, but it seems like the signal only reaches certain parts of the house.
+
+Agent: Thanks for letting me know! Let's see if we can pinpoint the issue. What model of router do you have?  
+
+Customer: It's a Netgear Nighthawk. 
+
+Agent:  Okay, I'm going to look into this further and find some solutions. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and patient, and I feel like the issue will be resolved quickly.
+Sentiment: Positive

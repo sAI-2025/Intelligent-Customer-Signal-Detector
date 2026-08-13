@@ -1,0 +1,24 @@
+Customer ID: 8919-FYFQZ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet today. It's really slow during peak hours.
+
+Agent:  I understand your frustration, Ms. Smith. Let's figure out what's going on. Can you tell me a little about when these slowdowns occur? 
+
+Customer: Mostly between 6pm and 10pm.
+
+Agent: Okay, thank you. I can check the network status right now. 
+
+Customer:  Thanks
+
+Agent:  I see no reported issues in our system regarding your DSL connection. The speeds are within acceptable range during normal times. However, there may be some congestion due to high usage at peak hours. 
+
+Customer: Ok thanks
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the explanation!  I appreciate that you were able to quickly check and offer insights."
+Sentiment: Positive

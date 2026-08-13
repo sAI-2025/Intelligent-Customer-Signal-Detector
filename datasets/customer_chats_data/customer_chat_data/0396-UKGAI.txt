@@ -1,0 +1,18 @@
+Customer ID: 0396-UKGAI
+Topic: music streaming uses unexpected data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I noticed a spike in my data usage this month and it seems unusually high. 
+Agent: Hello! Thank you for reaching out to us.  Could you please tell me what kind of devices you're using and their usual activity levels? 
+Customer: It's been consistent, mostly streaming music on my phone. My internet is DSL and speeds are normal. 
+Agent: I see. What app or service do you primarily use for streaming?
+Customer: Spotify. 
+Agent:  Alright, thank you. We often see high usage when users are subscribed to a premium plan or streaming a lot of music. Can you tell me about your subscription plan?
+Customer: Month-to-month $55.30.  I've been with the company for 23 months now.
+Agent: Thank you! It sounds like you may be using Spotify Premium, which has higher data usage than their standard version. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for clarifying!  It seems I was unaware of the increased data consumption with premium."
+Sentiment: Positive

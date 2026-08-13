@@ -1,0 +1,20 @@
+Customer ID: 1567-DSCIC
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet speed has been really slow and unstable lately, especially during peak hours. 
+
+Agent:  I understand your frustration. Let's take a look into this for you. Please provide me with your account details or the customer ID so I can access your account information.
+
+Customer: Sure, my name is John Smith and my account number is 12345678.
+
+Agent:  Thank you for that, Mr. Smith. I've opened a ticket to investigate the issue. We'll do our best to ensure your connection is back to normal in no time. 
+
+Customer: That's great! Thanks.
+
+Agent:  You're welcome. Please let me know if you have any other questions or concerns. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient resolution, I appreciate your help getting my internet working again.
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 7083-MIOPC
+Topic: customer wants to update personal information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to update my personal information on my account. 
+Agent: Hello!  I can help with that. To get started, could you please tell me your name and email address? 
+Customer:  My name is John Smith and my email address is johnsmith@email.com.
+Agent: Thank you, Mr. Smith. 
+Customer: I'd also like to update my phone number from (old number) to (new number). 
+Agent: Absolutely! Please provide the new phone number you would like us to update your account with. 
+Customer:  (New number)
+Agent: Great, thank you.  You are currently on a two-year contract and pay $20.25 per month.   We will make the changes accordingly. 
+Customer:  Ok.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was efficient and friendly, making updating my information a smooth process.
+Sentiment: Positive

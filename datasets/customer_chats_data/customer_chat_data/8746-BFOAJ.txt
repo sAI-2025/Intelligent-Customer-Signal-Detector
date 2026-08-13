@@ -1,0 +1,27 @@
+Customer ID: 8746-BFOAJ
+Topic: customer dissatisfied with movie selection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm very disappointed with the movie selection today.  The options are so limited! 
+
+Agent: I understand your frustration, Mr./Ms. [Last Name].  We appreciate you bringing this to our attention.  
+
+Customer:  I've been a loyal customer for over two years now. Can't believe the selections have become so poor.
+
+Agent: We strive to offer a diverse selection of movies and shows, but it can be difficult with limited options due to licensing agreements. 
+
+Customer: I think I need more variety! This is ridiculous.  
+
+Agent: Would you like me to look at some other options for your viewing?
+    
+Customer: Yes please!  
+
+Agent: We have a few new releases that might interest you, sir/madam.  Would you like to see them? 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, I still hope to see more variety in future movie selections.
+Sentiment: Neutral

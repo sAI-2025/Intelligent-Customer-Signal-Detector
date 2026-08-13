@@ -1,0 +1,17 @@
+Customer ID: 8183-ONMXC
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my download speed is really slow. I'm having trouble streaming movies and downloading large files. 
+Agent: Hello!  I understand your concern about your internet speeds. Can you please provide me with your account details, including your account number and the last few days of your usage data?
+Customer: Sure, here's my account info. My name is [name] and I'm on a month-to-month contract. 
+Agent: Thank you for providing that information, [name]. Based on your plan details, it looks like there might be an issue with the connection.  We can look into this further. 
+Customer:  It feels slow all of the time! I'm paying $80.75 and am expecting speeds closer to my plans. 
+Agent: We understand the frustration. Let me check your speed test results and see if there is any technical issue causing the slow connection. 
+Customer: Thanks!  Please let me know what you find. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm hopeful this will be resolved quickly as I'm paying a good amount for promised speeds.
+Sentiment: Positive

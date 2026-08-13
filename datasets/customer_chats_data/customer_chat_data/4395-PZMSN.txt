@@ -1,0 +1,16 @@
+Customer ID: 4395-PZMSN
+Topic: customer questions unexpected data consumption
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble understanding my recent data usage report.  It seems way higher than usual! 
+Agent: We understand your concern. Can you please provide me with your account details and timeframe for the reported high usage?
+Customer: My account is [account number], and it was a bit over 10GB last month, but I thought that was pretty normal.  I’m on a month-to-month contract and am paying $85.55/month for Fiberoptic internet.
+Agent: Thank you for providing the details. We've noticed some recent updates to our data network infrastructure may have contributed to your increased usage. Would you like me to offer any solutions or would you like to discuss it further? 
+Customer: I would appreciate a detailed explanation of what might be causing this and if there are any adjustments that can be made.  
+Agent: The changes in data network are mainly happening in our [specific city] area, and we've been working on optimizing the bandwidth allocation for better performance.  Would you like to proceed with adjusting your plan or would you prefer I send a detailed report? 
+Customer:  I’m happy to adjust my
+
+----------------------------------------
+Feedback: The agent was very helpful and provided clear explanations about the data network changes. Thank you!
+Sentiment: Positive

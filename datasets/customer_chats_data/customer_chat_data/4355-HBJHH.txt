@@ -1,0 +1,17 @@
+Customer ID: 4355-HBJHH
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet.  My speeds are very slow and it keeps dropping out.
+Agent: Hello! I understand you're experiencing intermittent connectivity issues. 
+Customer: Yes, it's been going on all day. My connection is just unusable.
+Agent: Let me look into this for you. Can you please tell me your account number? 
+Customer:  45678901
+Agent:  Thank you. I'm verifying the details now and will try to troubleshoot this issue.
+Customer: Okay, thanks
+Agent: Just so you know, we appreciate your patience as we work through this! Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It took a while to get connected but the agent was helpful and professional."
+Sentiment: Neutral

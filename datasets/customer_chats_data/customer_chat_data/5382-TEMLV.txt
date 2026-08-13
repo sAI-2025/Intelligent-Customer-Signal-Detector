@@ -1,0 +1,17 @@
+Customer ID: 5382-TEMLV
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm experiencing frequent internet disconnections lately and it's really frustrating. 
+Agent:  I understand your frustration. Can you please tell me more about this issue? What kind of devices are you using and what happens when the connection drops?
+Customer:  My laptop, my phone, everything seems to be affected. It's happening every 30 minutes or so, then comes back for a few seconds, but then it just drops again. 
+Agent: I'm sorry to hear that. Can you please check your modem and router settings? Make sure the connections are secure and nothing is blocking the signal. 
+Customer:  I have checked everything and it seems fine. It's been happening even with the cable unplugged from my router. 
+Agent: Okay, we will look into this further. I've also noticed you mentioned DSL internet. Is there any chance of interference from other electronic devices nearby? 
+Customer:  We live in a small apartment and only have a couple of electronics. It seems unrelated to the electrical equipment in my home. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This is a frustrating issue that hasn't been resolved, I hope it gets sorted out soon!
+Sentiment: Negative

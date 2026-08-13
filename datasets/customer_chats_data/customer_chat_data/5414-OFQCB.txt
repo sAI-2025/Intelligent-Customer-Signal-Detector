@@ -1,0 +1,17 @@
+Customer ID: 5414-OFQCB
+Topic: device compatibility problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting my new smart TV to my WiFi network. 
+Agent:  I understand your frustration.  To help me troubleshoot this issue, could you please tell me what brand and model of TV you have?
+Customer: It's a Samsung 75" QN90A with the latest firmware update. 
+Agent:  Perfect.  We do occasionally have compatibility issues with older Samsung models like yours due to the router's speed limitations.  
+Customer: I thought my internet is Fiber optic, it should work fine.
+Agent: You are correct.  I'll need you to check your router's settings and make sure that Wi-Fi mode is set to "WPA2/WPA3". 
+Customer: Okay, thanks for the help!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for walking me through it!  The problem was solved quickly.
+Sentiment: Positive

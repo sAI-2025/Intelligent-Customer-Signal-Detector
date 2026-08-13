@@ -1,0 +1,18 @@
+Customer ID: 9272-LSVYH
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there!  I'm having trouble staying connected to the internet. 
+Agent: Hi there! I understand you're experiencing frequent disconnections. Can you tell me what kind of device you're using and what area code you're in?
+Customer: My laptop is running Windows 10, and I live in [City Name], CA 91234.  
+Agent: Thank you for that information. We've recently had some reports of intermittent service issues in your area. 
+Customer: Okay. Is there any way to fix this?
+Agent:  I can definitely look into it further for you. I will need a few more details about the specific disconnections, such as timeframes and error messages. 
+Customer: Sure! 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and explained the situation well.  Hopefully, this issue will be resolved soon."
+Sentiment: Positive

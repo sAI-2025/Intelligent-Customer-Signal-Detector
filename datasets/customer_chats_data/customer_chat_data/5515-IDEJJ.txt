@@ -1,0 +1,17 @@
+Customer ID: 5515-IDEJJ
+Topic: movie streaming consumes excessive data
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my data usage on my streaming plans.  
+Agent: Hello!  I understand you're experiencing issues with your data usage. Can you tell me a bit more about what's happening? 
+Customer: My monthly limit is getting quickly filled up and I am now using over half the allocated amount for just streaming movies.
+Agent:  We often see that with movie streaming. Is there a specific title or genre you watch frequently? 
+Customer: Most of it is action, thriller and sci-fi movies, especially on weekends when I binge-watch. 
+Agent:  Hmm, those can be data hungry! We offer some data saver options or maybe consider a higher speed plan if that's something you're interested in.
+Customer: Thanks for the info.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help, I appreciate the suggestions and will definitely look into upgrading my plan."
+Sentiment: Positive

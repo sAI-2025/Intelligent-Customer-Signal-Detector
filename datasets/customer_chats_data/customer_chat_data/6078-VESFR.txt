@@ -1,0 +1,19 @@
+Customer ID: 6078-VESFR
+Topic: movie application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I just wanted to report that my movie app crashed again today.  It started happening a few weeks ago. 
+Agent: Hello, thank you for reaching out! I’m sorry to hear about the issue with your movie app. Could you please tell me which movie application you're using?
+Customer: It’s the “Flicker” app.  I’ve been having issues with it since mid-September. 
+Agent: Thank you for that information.  Let's take a look at the details of your account. Do you mind if I just pull up your contract and billing info? 
+Customer: Absolutely, please do so.
+Agent: Okay, here is your recent activity, it looks like you’re on a month-to-month plan with no prepay or special promotions. Is that correct?  
+Customer: Yes, that's right.  
+Agent: Great, I can see the movie app crashing issue started appearing as of mid-September.  I will escalate this to our developers for review. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the agent escalated the issue and hopefully it gets resolved soon!"
+Sentiment: Positive

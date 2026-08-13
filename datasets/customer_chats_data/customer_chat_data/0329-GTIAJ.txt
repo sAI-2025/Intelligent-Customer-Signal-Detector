@@ -1,0 +1,15 @@
+Customer ID: 0329-GTIAJ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I'm having issues with my download speed, it's slower than expected.  I have a 100 Mbps plan and am paying $97.9/month for Fiber optic internet.  
+Agent: Thank you for contacting us, we understand you’re experiencing slow download speeds.  Please provide your account details so we can check the status of your service.
+Customer: Sure, my account information is attached. 
+Agent: I've reviewed your account and noticed that you're currently on a temporary high-speed plan until the end of this month. 
+Customer: Okay, but shouldn’t it be a 100 Mbps plan? Why am I only getting 45 Mbps?
+Agent:  You are correct! There was a mix-up with your plan details and we will fix that immediately. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the quick resolution to my issue, thanks for the clarification about the plan!
+Sentiment: Positive

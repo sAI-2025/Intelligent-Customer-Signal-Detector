@@ -1,0 +1,17 @@
+Customer ID: 1209-VFFOC
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed has been slower than my subscribed plan speed lately. I’m getting around 2 Mbps when I should be getting at least 5.  
+Agent: Hello there! I understand you're experiencing slow internet speeds. To help us investigate this further, could you please provide your account details? 
+Customer: Sure, my name is John Smith and my account number is 1234567890. 
+Agent: Thank you, John.  I’ve checked your account and found that there may be a temporary connection issue. I will have this looked into for you. 
+Customer: Great! Thanks.  
+Agent: We apologize for the inconvenience. It should be resolved within a few hours.
+Customer: Okay, thanks again. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the issue seems to be temporary and I'll look forward to getting back my usual speeds."
+Sentiment: Positive

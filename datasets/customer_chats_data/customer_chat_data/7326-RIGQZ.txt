@@ -1,0 +1,19 @@
+Customer ID: 7326-RIGQZ
+Topic: customer is dissatisfied with contract terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm unhappy with my contract terms lately. My bill keeps going up and it doesn't seem to make sense! 
+Agent:  I understand your frustration. Could you tell me a little more about what concerns you specifically?
+Customer: The monthly price has increased from $64.9 to $69.8, and I also feel like my data caps are too low for the amount I'm paying.
+Agent:  Let me check on those details for you and see if there have been any changes to our plans. 
+Customer:  Thanks!
+Agent:  Based on your current plan, you do have a standard data cap, but we can explore other options with you that might be more suitable.
+Customer: What are my options?
+Agent: We have several tiers of service with varying bandwidth and data caps. I'd be happy to help you compare them. 
+Customer: Thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the agent's helpfulness, hopefully finding a plan that fits my needs will make this monthly price increase less frustrating."
+Sentiment: Neutral

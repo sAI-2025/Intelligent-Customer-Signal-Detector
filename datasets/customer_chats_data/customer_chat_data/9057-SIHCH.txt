@@ -1,0 +1,16 @@
+Customer ID: 9057-SIHCH
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been really slow and unstable lately. It feels like I'm stuck in dial-up! 
+Agent:  I understand your frustration. Can you please provide me with your account information? 
+Customer: Sure, it’s [customer name], account number [account number]
+Agent:  Thank you, [customer name]. I've taken a look at your account and found some issues that may be contributing to the slow connection.
+Customer: How long will this take to fix?
+Agent: We are working on resolving it right away! Our technicians should be able to get it fixed by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and I appreciate you prioritizing my issue!  Hopefully, that's all it was!
+Sentiment: Positive

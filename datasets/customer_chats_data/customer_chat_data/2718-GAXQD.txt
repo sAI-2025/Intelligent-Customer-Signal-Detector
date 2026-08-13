@@ -1,0 +1,16 @@
+Customer ID: 2718-GAXQD
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble uploading files at my usual speed. It's slower than expected. 
+Agent: Hello! My name is Michael.  I understand you're experiencing lower upload speeds than expected. Could you please tell me your connection type? 
+Customer: DSL internet
+Agent: Okay, thanks for that information.  Are you seeing any error messages or unusual behavior on your computer?
+Customer: No, it just seems like the files are uploading way slower than usual.
+Agent:  I'd be happy to take a closer look at your account.  Let me check your speed history and see if there are any recent network issues. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this, Michael!  It seems like the speed issue is resolved now.
+Sentiment: Positive

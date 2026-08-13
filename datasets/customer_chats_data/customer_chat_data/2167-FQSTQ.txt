@@ -1,0 +1,24 @@
+Customer ID: 2167-FQSTQ
+Topic: customer cannot find expected self-service option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't find the option to change my internet plan online. 
+
+Agent:  I understand your frustration, Sarah. Can you please tell me what specific self-service option you're looking for?
+
+Customer: The one that allows me to upgrade or downgrade my data speed, like from 200 Mbps to something faster...
+
+Agent: I see. Let me check our system on your account. 
+ 
+Customer: Thanks! That would be great!
+
+Agent: I can find the option for you under "Manage Your Plan." You can select a different plan based on your needs and budget. 
+
+Customer: Oh, awesome! Thanks so much.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you, Sarah was very helpful and made this process easy to understand.
+Sentiment: Positive

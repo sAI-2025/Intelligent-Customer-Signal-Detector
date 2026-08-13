@@ -1,0 +1,24 @@
+Customer ID: 1241-EZFMJ
+Topic: video streaming becomes extremely slow
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My video stream has become incredibly slow! It's been like this for 2 hours. 
+
+Agent: I understand you're experiencing a slow streaming speed. May I ask what device and plan you're using?  
+
+Customer: I'm on my laptop, running the basic internet package (No). I've had this issue for over two hours now. 
+
+Agent: Please tell me your account number so I can run a diagnostic check for you.
+
+Customer: It's [account number].  
+   
+Agent: Alright, thanks. I'll look into it. The speed test shows something might be going on with the server. 
+    
+Customer: Thank you! 
+    
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful for your quick response and update, I hope my stream works smoothly after."
+Sentiment: Positive

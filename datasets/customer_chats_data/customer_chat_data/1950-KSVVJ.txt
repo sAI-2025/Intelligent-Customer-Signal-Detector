@@ -1,0 +1,18 @@
+Customer ID: 1950-KSVVJ
+Topic: phone service unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I haven't been able to make calls all day. My phone service is completely down. 
+Agent:  I understand your concern. Can you please provide your account number and last four digits of your phone number?
+Customer: Sure, my account number is 1234567890. My phone number is 555-123-4567. 
+Agent: Thank you for that information. I see that your service area seems to be experiencing a temporary outage. 
+Customer: Okay, that's frustrating! When will the service be back online?  
+Agent: We're working on getting your service back online as quickly as possible. The estimated time of restoration is between 3 and 4 PM PST. 
+Customer: Thank you for the information. I appreciate it. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me informed, appreciate the update on the service outage!"
+Sentiment: Positive

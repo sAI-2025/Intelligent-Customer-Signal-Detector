@@ -1,0 +1,17 @@
+Customer ID: 0322-CHQRU
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been very slow today. It feels like it's taking forever to load anything. 
+Agent:  I understand your frustration with the slow speeds, I apologize for any inconvenience. Can you please tell me your account details?
+Customer: Sure, my name is [Name] and my account number is 1234567890. My contract type is month-to-month and my monthly cost is $45.35.
+Agent: Thank you for providing that information.  I'm checking your connection now.
+Customer: I hope it gets fixed soon. It’s difficult to work from home with this delay. 
+Agent: Let me check the status of your connection, and I should have an update in a few moments.
+Customer: Thank you!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's nice to know they're looking into it, hopefully things will be back to normal soon."
+Sentiment: Neutral

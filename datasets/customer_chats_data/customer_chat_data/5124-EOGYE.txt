@@ -1,0 +1,17 @@
+Customer ID: 5124-EOGYE
+Topic: internet stops working after restart
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, my internet has stopped working after restarting my computer.
+Agent: I understand you're experiencing a disruption to your internet service.  Can you please provide me with your account number or any details that could help identify your connection? 
+Customer: It’s [Account Number]. I haven’t used the internet since I restarted my computer this morning.
+Agent: Thank you. I’m checking on your account and will be right back with an update.  
+Customer: Okay.
+Agent: The issue seems to be resolved. Your internet should now be active. 
+Customer: Thanks! I appreciate it. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the problem was solved quickly and efficiently!"
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 9036-CSKBW
+Topic: billing dispute or unexpected charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm calling about a charge on my bill.  I was expecting a $107.45 payment this month, but there's an unexpected amount listed. 
+
+Agent: Thank you for contacting us. Can you please provide your account number? 
+
+Customer: Sure, it's [account number] 
+
+Agent: I see the account.  The charge is from a recent service upgrade. Are you looking to have this removed from your bill? 
+
+Customer: Yes, actually.  Is there anything I can do to avoid these unexpected charges in the future? 
+
+Agent: We offer a variety of plans and options for our customers. Do you want me to explain some of the features available or would you prefer to discuss this further?
+
+Customer: Okay, that sounds good. 
+
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and knowledgeable in explaining my options, even if I don't like the unexpected charges on my bill.
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 3230-WYKIR
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my download speed is very slow and I'm concerned it's below what I'm paying for. 
+
+Agent:  I understand you're experiencing slower than expected speeds, what's your current download speed?
+
+Customer: It's around 10 Mbps, when I should be getting at least 50 Mbps.
+ 
+Agent: Have you tried restarting your modem and router? Sometimes a simple reboot can resolve connectivity issues. 
+
+Customer: Yes, I did that, still slow.
+
+Agent:  It sounds like you might have an issue with the DSL line itself. We'll need to take a closer look at your account and investigate further. 
+ 
+Customer: Okay thanks.
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was frustratingly slow, but I appreciate you looking into this issue!
+Sentiment: Negative

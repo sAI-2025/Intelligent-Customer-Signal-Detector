@@ -1,0 +1,17 @@
+Customer ID: 6029-WTIPC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet and it feels very slow. 
+Agent:  I understand your concern, can you please provide your account details or last four digits of your phone number? 
+Customer: Sure, my name is Richard Miller. My phone number is 555-1234. Thank goodness I haven't missed any important calls lately. 
+Agent: Thank you, Mr. Miller. Let me check the network status for your account. 
+Customer:  I appreciate that!
+Agent: Based on my current assessment, there seems to be a high latency issue with your connection right now. We are working on resolving it as quickly as possible. We're aiming to have your internet back up and running within an hour.
+Customer: Okay, I hope so.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, hoping my internet is fixed soon."
+Sentiment: Neutral

@@ -1,0 +1,18 @@
+Customer ID: 5133-VRSAB
+Topic: customer cannot use data-intensive applications
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My data-intensive apps are extremely slow and I can't use them. 
+Agent:  I understand you're having trouble with data-intensive applications. May I ask what specific apps are experiencing issues?
+Customer: Mainly streaming services like Netflix and Amazon Prime Video, as well as online gaming. 
+Agent: Let me check your account to see if there are any potential service interruptions impacting your connectivity.
+Customer:  It's been happening for weeks now. 
+Agent: I see that your current plan is a DSL connection with data limits. Could you tell me more about the specific issues you're experiencing?
+Customer: The streaming services are constantly buffering and lagging, and online gaming keeps freezing up.
+Agent: I see. We will have a team member take a closer look at your network activity to identify any potential bottlenecks. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the update and quick response, it's been frustratingly slow for weeks. Hopefully this new investigation actually resolves the issues."
+Sentiment: Negative

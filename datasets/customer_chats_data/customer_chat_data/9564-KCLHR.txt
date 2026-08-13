@@ -1,0 +1,17 @@
+Customer ID: 9564-KCLHR
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I've noticed my internet connection is very slow and unstable lately. 
+Agent:  I understand your concern.  Can you please provide me with your account number or name?
+Customer:  My account number is 1234567890. My name is John Smith.
+Agent: I'm looking into the issue now, John. We may have a temporary outage in your area due to weather conditions. 
+Customer:  I hope it's not the cause. Is there any way to fix this?
+Agent: I can check if there are any available solutions for you. 
+Customer:  Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quickly gave me hope that a solution might be found.
+Sentiment: Positive

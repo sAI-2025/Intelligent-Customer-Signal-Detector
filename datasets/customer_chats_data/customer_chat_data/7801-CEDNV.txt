@@ -1,0 +1,18 @@
+Customer ID: 7801-CEDNV
+Topic: poor TV picture quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I just wanted to report that my TV picture quality has been awful lately. 
+Agent:  I understand your frustration, and I'm happy to help. Can you please provide me with your account details? 
+Customer: My name is [redacted], my account number is [redacted], and the area code for my location is [redacted]. 
+Agent: Thank you for providing that information. Let's take a look at your service history and see if we can identify the issue.  
+Customer: I just started this year's contract.
+Agent:  Okay, let me check on your DSL plan and connectivity speeds.  
+Customer: The picture quality is still terrible! 
+Agent:   I apologize for any inconvenience this may cause you. We'll investigate further to resolve the issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the agent's willingness to help, the TV picture quality issue remains unresolved despite several attempts to troubleshoot.
+Sentiment: Negative

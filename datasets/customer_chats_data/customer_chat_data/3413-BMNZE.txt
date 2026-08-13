@@ -1,0 +1,15 @@
+Customer ID: 3413-BMNZE
+Topic: customer asks about contract expiration
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I wanted to know when my contract expires?
+Agent: Hello!  I can certainly help you with that. Your month-to-month contract will expire on [Date]. 
+Customer: Thank goodness it's not a long time from now. 
+Agent: No problem at all. Let me know if you have any other questions about your account!
+Customer: Thanks for the information.
+Agent: You're welcome!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for clarifying the expiration date and being so helpful! 😊
+Sentiment: Positive

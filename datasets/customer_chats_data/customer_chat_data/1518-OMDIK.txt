@@ -1,0 +1,18 @@
+Customer ID: 1518-OMDIK
+Topic: customer wants to upgrade internet speed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I was wondering if it's possible to upgrade my internet speed?
+Agent: Certainly!  I can certainly help with that. What speeds are you interested in? 
+Customer:  Something a bit faster would be great - maybe at least 50 Mbps.
+Agent:  Okay, we offer up to 100 Mbps plan, which is usually around $64.99 per month. Would that work for you?
+Customer:  Yes, I'd like to try it out. 
+Agent: Alright! We'll need to check your account details. Let me just pull those up... 
+Customer:  Okay. Thanks!
+Agent:  I’ve checked your account, and we can definitely upgrade you to 50 Mbps for $64.99 per month. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very smooth process, thanks for the quick and helpful service! 👍
+Sentiment: Positive

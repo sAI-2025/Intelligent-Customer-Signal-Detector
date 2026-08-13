@@ -1,0 +1,18 @@
+Customer ID: 4343-EJVQB
+Topic: unexpected increase in monthly bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my monthly bill just went up significantly. I was paying $74.35, but now it's over $100!
+Agent: Thank you for contacting us.  Can you please provide your account number? 
+Customer: Sure, it's [account number]
+Agent:  I've checked your account and it looks like your service price is changing due to a new rate plan. You are now on the 'Standard Fiber' plan with a price of $99.95 per month. We have recently implemented a new pricing structure for our high-speed plans.
+Customer:  Oh, I thought my contract was good for this pricing. 
+Agent: It is! Your initial contract had an introductory rate, but the price is now reflected in your updated plan details. 
+Customer: Okay, thank you so much. How can I go about adjusting to the new rate? 
+Agent:  We'd recommend changing your payment method and updating your account information through our website or by calling our support line at [phone number]. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation, it would be helpful to have a clear understanding of how these new pricing plans differ from my original contract."
+Sentiment: Neutral

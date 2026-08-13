@@ -1,0 +1,21 @@
+Customer ID: 9961-JBNMK
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I’m having trouble connecting to my Wi-Fi in certain rooms of my home. 
+
+Agent:  I understand your concern, thank you for reaching out. Could you please tell me more about which rooms are experiencing the weak signal?  
+
+Customer: The living room and dining room seem to have a very weak signal. 
+Agent: I see. Have you checked any other devices connected to your network? Is there anything that has changed recently, like new furniture or appliances?
+
+Customer: No, nothing new.  I just had a technician at my home last month for an issue with the internet speed. 
+Agent: Okay, let me take a look into this. I'll be able to check our records and see if there are any potential issues affecting the signal strength in those rooms.
+
+Customer: Thank you so much.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful - hopefully they can solve this signal issue!
+Sentiment: Positive

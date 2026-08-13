@@ -1,0 +1,18 @@
+Customer ID: 2225-ZRGSG
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the Wi-Fi in my office room. 
+Agent: Hi there!  I understand you're experiencing weak Wi-Fi connectivity in your office. Can you please let me know which device you are using? 
+Customer: My laptop. I can get a good signal at other parts of the house.
+Agent: Okay, thank you for that information. We have a few troubleshooting steps we could try.  Would you like to go through those now?
+Customer: Sure, please let me know what you need me to do.
+Agent:  Let's start by checking the router's location and signal strength. 
+Customer: Okay, I can take a look at that for you. 
+Agent:  Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and walked me through troubleshooting steps effectively."
+Sentiment: Positive

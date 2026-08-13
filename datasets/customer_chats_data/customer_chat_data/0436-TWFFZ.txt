@@ -1,0 +1,15 @@
+Customer ID: 0436-TWFFZ
+Topic: online support tools not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, I can’t access my online tools. Is there an issue?
+Agent: Hi [Customer Name], thanks for contacting us.  What kind of online tools are you having trouble with?
+Customer: The ones for billing and account management. Everything’s down. 
+Agent: I understand, let me check the status of those tools.  I'll look into it now. 
+Customer: Thanks!
+Agent: Let me know if you have any other questions.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It would be helpful to have an estimated time of resolution."
+Sentiment: Neutral

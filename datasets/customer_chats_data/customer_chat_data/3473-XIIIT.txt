@@ -1,0 +1,19 @@
+Customer ID: 3473-XIIIT
+Topic: TV channels not loading
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble loading TV channels on my Smart TV.  It just shows a blank screen. 
+Agent: I understand your frustration. What kind of smart TV are you using?
+Customer: It's a Samsung TV, model number UE55KS9000. 
+Agent:  I can definitely look into that for you. Let me check the connection between your internet and TV. 
+Customer: Okay. 
+Agent: I see there might be an issue with the channel streaming service. Can you please confirm your contract information?
+Customer: Yes, it's a month-to-month contract, $100/month for fiber optic internet.
+Agent: Thank you for that information.  I will have someone look into this immediately and get back to you shortly with an update. 
+Customer: Okay, thank you. 
+Agent: Thanks for calling us today. I’m confident we can resolve this issue quickly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and knowledgeable in resolving my TV channel issues.  I'm hopeful the problem will be fixed quickly!
+Sentiment: Positive

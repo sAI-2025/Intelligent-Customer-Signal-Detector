@@ -1,0 +1,17 @@
+Customer ID: 6877-LGWXO
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down! I can't even load a basic webpage. 
+Agent:  I understand your concern, I'm sorry to hear that your internet isn't working.  Could you tell me your account number and the address where you are experiencing this issue? 
+Customer:  My account number is 1234567890 and my address is 123 Main Street.
+Agent:   I see that you have a fiber optic plan and we do have some outages happening in your area right now. We're working to get it fixed as quickly as possible, but I can't provide an exact time frame. 
+Customer: Okay, thanks.  Hopefully it won't be too long.
+Agent:   We appreciate your patience, and once we know more about when service will be restored, we'll reach out via email or text.
+Customer:  Great, thank you. 
+Agent:   Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I hope they can fix it quickly!"
+Sentiment: Positive

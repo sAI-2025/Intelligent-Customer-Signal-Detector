@@ -1,0 +1,18 @@
+Customer ID: 1810-BOHSY
+Topic: customer cannot access subscribed TV channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't access my subscribed TV channels.  I'm getting an error message.
+Agent: Hello! I understand you are having trouble accessing your TV channels. 
+Customer: Yes, it's been happening for the last two days. My service is Fiber optic internet.
+Agent: Thank you for clarifying that. Please tell me your account number and the specific error message you are receiving.
+Customer:  My account number is XXXXXXX-XXXXXXX and the error message says "No signal". 
+Agent: I'm investigating this issue now. It appears you might have a temporary network problem, we'll check on that soon. 
+Customer: Okay. 
+Agent: Thanks for your patience. We're on it!
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me quickly and I appreciate the update. Hopefully this gets resolved soon!"
+Sentiment: Positive

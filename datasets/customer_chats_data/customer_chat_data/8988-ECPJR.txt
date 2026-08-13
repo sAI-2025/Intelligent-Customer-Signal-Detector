@@ -1,0 +1,17 @@
+Customer ID: 8988-ECPJR
+Topic: customer requests package pricing clarification
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I just received my bill and was wondering about a change in pricing?
+Agent:  Hello! Thank you for reaching out. Can you please tell me your account number and what specific concerns you have about your bill? 
+Customer: Yes, it's [account number]. The monthly cost seems to be much higher than usual. I'm on the Fiber Optic plan with a $79.60 per month charge.  
+Agent:  I see that you've been a loyal customer for three and a half years, with a current contract that matches your current rate. 
+Customer: Thank you, but could you tell me what that change is?
+Agent:  Your monthly price has been adjusted, however, the pricing structure hasn't changed since your initial contract.
+Customer: I see... Okay. Thanks for clarifying that. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the clarification, it would be helpful to know what specifically led to the price increase."
+Sentiment: Neutral

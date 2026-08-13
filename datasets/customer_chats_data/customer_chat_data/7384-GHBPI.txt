@@ -1,0 +1,24 @@
+Customer ID: 7384-GHBPI
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. It keeps dropping out frequently. 
+
+Agent:  I understand your concern. Can you tell me a bit more about when these disconnections occur? Is it during specific times or activities?
+
+Customer: Mostly at night. Streaming shows and video calls seem to trigger the drops. 
+
+Agent: Thank you for providing that information. I'll need to take a look into your account settings and DSL connection. Let me just check some things and get back with you shortly.
+
+Customer:  Thanks, I appreciate your help!
+
+Agent:  I've checked your account and found that there might be some issues with the speed of your service at night. We can look into upgrading to a faster plan if you are interested. 
+ 
+Customer: Alright, thanks. 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and I'm feeling much more confident about my internet connection now!
+Sentiment: Positive

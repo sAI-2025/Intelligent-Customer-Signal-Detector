@@ -1,0 +1,17 @@
+Customer ID: 1837-YQUCE
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is much slower than I expected. It's only 1 Mbps. 
+Agent: Thank you for reaching out!  I understand your frustration with the slow upload speeds. Could you please tell me your account number and what specific area you are experiencing these issues in? 
+Customer:  My account number is 1234567890 and I'm in Seattle. 
+Agent:  Okay, thank you.  I see there have been some recent outages in the Seattle area with DSL speeds.  We're working on resolving those issues for you.   
+Customer:  That's helpful to know, what can I do to speed up my upload?
+Agent:  In the meantime, you could try restarting your modem or router.  If you continue to have trouble after that, we might be able to run some diagnostics and offer further solutions. 
+Customer:  Thanks for your help!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the agent was upfront about the outage issue and provided potential fixes. Hopefully I'll see a faster upload soon!"
+Sentiment: Positive

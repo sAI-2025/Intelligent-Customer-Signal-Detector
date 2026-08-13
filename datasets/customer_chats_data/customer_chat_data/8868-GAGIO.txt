@@ -1,0 +1,17 @@
+Customer ID: 8868-GAGIO
+Topic: internet service interruption after payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet service has been down all day. I haven't had a response to my payment last night!  Is there any way to get this issue resolved?
+Agent: Hi there! We understand that you're experiencing an outage and it's frustrating. 
+Customer: Thank goodness, because my work is dependent on good internet connection. The payment went through but the service has been down all day.
+Agent:  I see your payment was processed successfully, so I can confirm that your account isn't showing any unpaid balances. 
+Customer: Okay. So what now? How long will it take to get my service back online?
+Agent: A technician is currently working on your issue. Please allow up to 30 minutes for the service restoration process. We apologize for the inconvenience. 
+Customer: Thanks, I appreciate that. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the prompt response and update, appreciate it!"
+Sentiment: Positive

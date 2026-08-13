@@ -1,0 +1,18 @@
+Customer ID: 8685-WHQPW
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet speed has been really slow lately. It’s taking forever to load websites and watch videos.
+Agent: I'm sorry to hear about your experience with latency.  Can you please tell me more about what's happening? 
+Customer:  I think it started after the last update. Ping spikes every few minutes. 
+Agent: I understand, thanks for the details.  Could you let me know your account name and service address, so we can look at your connection logs?
+Customer: My account name is Jane Doe and my address is [address].
+Agent: Okay, Jane, thank you. Let's check our records and see if there are any service outages in your area. 
+Customer: Thank you.
+Agent:  We've located a known issue with fiber optic connections in the last few days affecting some users. We will have it resolved soon. Please allow me a couple of minutes to update your account status, and let me know if there are any other issues. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly!  I appreciate the update on the outage.
+Sentiment: Positive

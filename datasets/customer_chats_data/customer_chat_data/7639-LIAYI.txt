@@ -1,0 +1,18 @@
+Customer ID: 7639-LIAYI
+Topic: equipment-related charge dispute
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm disputing a charge on my bill.  It seems like I was charged $49.99 extra last month? 
+Agent: I understand your concern, can you please provide your account number or the date range of the disputed charges?
+Customer: Sure, it was for DSL equipment rental on [date]. My contract is with Xfinity and I've been with them for two years.
+Agent: Thank you for providing that information.  I see there is a $49.99 charge for an equipment rental fee. This is standard for DSL customers who rent out the modem/router. 
+Customer:  Okay, I think that was a mistake. My plan includes free equipment. 
+Agent: I apologize for any confusion, and thank you for bringing this to our attention. We can certainly investigate this further. Is there anything else I can help you with today?
+Customer: No, that's all. Thank you
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was a quick and helpful process to get the issue resolved.
+Sentiment: Positive

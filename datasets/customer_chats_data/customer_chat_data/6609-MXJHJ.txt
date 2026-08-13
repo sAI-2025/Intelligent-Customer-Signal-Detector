@@ -1,0 +1,20 @@
+Customer ID: 6609-MXJHJ
+Topic: customer cannot access subscribed TV channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can’t access my subscribed TV channels.  It says it's not working. 
+Agent:  I understand your concern. We’re happy to help troubleshoot this issue for you. 
+Customer:  My account is under contract and I’m paying $25.1/month.  No internet is the plan
+Agent:  Thank you for that information, let's take a look at your account settings. 
+Customer:  I have been having this problem for two weeks now!  
+Agent:  Okay, please hold while I check your account for any errors or outages in the system. We'll resolve this as soon as possible.   
+Customer: My TV channels are still not working.  
+Agent:  Let me verify that everything is connected to your device properly. Are you using a smart TV? 
+Customer:  Yes, it’s a Samsung TV.  
+Agent:  Okay, we will have the technical team take a look at your account and help resolve this issue for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the team's efforts, but I still haven't been able to access my channels after two weeks of issues.
+Sentiment: Negative

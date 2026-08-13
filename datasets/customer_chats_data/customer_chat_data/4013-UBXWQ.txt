@@ -1,0 +1,16 @@
+Customer ID: 4013-UBXWQ
+Topic: connection drops when multiple devices connect
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet keeps dropping out, even when only one device is on.  
+Agent: I understand your frustration, we want to make sure your connection stays stable. Could you please tell me what devices are having issues and which part of the day this occurs? 
+Customer: It happens around 8 PM every night. My laptop, TV, and phone all seem to be affected. 
+Agent:  I see some reports about DSL experiencing drops around that time. Are any of these devices connected through a network hub or extender?
+Customer: Just the laptop and TV are directly connected.  
+Agent: Okay, I'll check your connection details for anomalies and see if there is anything we can do to help. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this! Hopefully, a fix will resolve the evening outages."
+Sentiment: Neutral

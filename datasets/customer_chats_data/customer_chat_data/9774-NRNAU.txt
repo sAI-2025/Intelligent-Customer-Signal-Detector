@@ -1,0 +1,19 @@
+Customer ID: 9774-NRNAU
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I keep having internet disconnections throughout the day.  My DSL connection is unreliable.
+Agent: Hi there! My name is Alex, how can I help you today? 
+Customer: It's been happening for weeks now.   I call in and they say "it's a technical issue" but nothing's fixed.
+Agent: I understand your frustration.  May I have your account number please? 
+Customer: 1234567890
+Agent: Thanks, let me take a look.  There seems to be some issues with the DSL line in your area.
+Customer: Really?  I just want a reliable internet connection!
+Agent: I can help you see if we have any options for you, like upgrading your plan or changing your service provider. 
+Customer: Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it seems my issues with unreliable DSL haven't been addressed after multiple calls and attempts to resolve.
+Sentiment: Neutral

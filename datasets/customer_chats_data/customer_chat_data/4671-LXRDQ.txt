@@ -1,0 +1,24 @@
+Customer ID: 4671-LXRDQ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It seems much slower than expected. 
+
+Agent:  I understand your concern, please tell me what device and internet plan you have. 
+
+Customer: I have a DSL connection. My name is Michael, and I signed up for the $45/month plan just two months ago. 
+ 
+Agent: Thanks for providing that information, Michael. Have you tried restarting your modem or router? 
+
+Customer: I did that already but didn't seem to help.  
+ 
+Agent: Okay, let me look into this further. I can check our network status and make sure everything is working as it should be. 
+
+Customer: Thanks. 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating that the issue persisted even after restarting my equipment; hopefully, a deeper investigation will provide a solution.
+Sentiment: Negative

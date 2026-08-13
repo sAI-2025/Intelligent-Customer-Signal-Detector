@@ -1,0 +1,17 @@
+Customer ID: 1977-STDKI
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble streaming my shows tonight. The internet is really slow. 
+Agent:  I understand your concern! Can you please confirm your account details and the specific device/app you are using? 
+Customer: My name is Bob Smith. My account number is XXXXXXXXXXXX.  It’s happening on my TV, but also when I try to do a work task online. 
+Agent:  Thank you, Bob. Let's take a look at your connection speed.  I can see that it's slower during peak hours. 
+Customer: Okay, that makes sense. Thank you for helping me with this.  
+Agent:  Of course, Bob! We’re here to help. We are working on improving network speed throughout the day and week. Would you like to know about our current peak hours? 
+Customer: No, I think I'll just wait and see if it gets better.  Thank you for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your quick response and explanation! Hopefully the speed improves soon."
+Sentiment: Positive

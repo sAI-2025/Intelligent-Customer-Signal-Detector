@@ -1,0 +1,19 @@
+Customer ID: 1897-RCFUM
+Topic: customer wants to remove an existing line
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to cancel my landline service. 
+Agent: Certainly!  I can certainly help you with that. What is your account number? 
+Customer: 12345678
+Agent: Alright, thanks for providing that information. Let me just check some things about your account... 
+Customer: Thanks
+Agent:  To confirm, are you requesting to cancel all services associated with the line? 
+Customer: Yes.
+Agent: I understand. Your service will be deactivated on [Date]. We'll ensure there are no further charges incurred. Is there anything else I can help you with today? 
+Customer: No, that’s all. Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The process was quick and easy, thanks for the smooth cancellation!
+Sentiment: Positive

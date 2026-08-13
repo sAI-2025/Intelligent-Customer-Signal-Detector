@@ -1,0 +1,15 @@
+Customer ID: 0345-HKJVM
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. The signal is very weak and keeps dropping out. 
+Agent:  I understand your frustration. Can you please tell me what modem/router model you have?
+Customer: It's a Netgear Nighthawk R8000, firmware version is 1.4.2. 
+Agent: Thank you for providing that information. I can look into this issue further.  
+Customer:  I appreciate it. 
+Agent:  Let me check your account and see if there are any known issues or potential interference in the area.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and I feel like they're taking steps to fix the problem."
+Sentiment: Positive

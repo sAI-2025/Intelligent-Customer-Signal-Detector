@@ -1,0 +1,17 @@
+Customer ID: 8317-BVKSO
+Topic: customer requests compensation for poor service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I’m incredibly dissatisfied with my service.  It’s been spotty and slow for weeks, impacting my work.
+Agent: Hi there!  I'm sorry to hear you've had this issue. Can you tell me your account details so I can take a closer look?
+Customer: My name is John, and my account number is 12345678. 
+Agent: Thank you, John.  We offer compensation for slow service issues. Would you like to discuss options for reimbursement?
+Customer: Yes, please. 
+Agent: I'm happy to help with that. Please provide me with your email address so we can get started. 
+Customer: john_smith@email.com
+Agent: Thanks, John. I just want to assure you that our team is committed to improving our service quality.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in resolving the issue, it still took too long to address the slow service problems and offer reimbursement.
+Sentiment: Neutral

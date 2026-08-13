@@ -1,0 +1,17 @@
+Customer ID: 5827-MWCZK
+Topic: router cannot connect to internet
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet.  I can't access any websites or online services. 
+Agent: Hello! I understand your concern. To get started, could you tell me your full name and account number?
+Customer: My name is John Smith, and my account number is 1234567890.
+Agent: Thanks for that information, Mr. Smith.  Have you checked your modem/router lights to see if there are any error indicators?
+Customer: Yes, but they're all green.
+Agent: Okay, well I'd recommend resetting the router by unplugging it from the outlet for 30 seconds and plugging it back in. If that doesn't work, let's try some other troubleshooting steps. 
+Customer:  Okay, thanks for your help. 
+Agent: You're welcome! Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided clear instructions, which helped me resolve the issue quickly.
+Sentiment: Positive

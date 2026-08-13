@@ -1,0 +1,27 @@
+Customer ID: 7684-XSZIY
+Topic: movie playback fails on specific devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't get my movies to play on my Roku. It keeps saying something about a connection problem. 
+
+Agent: We apologize for the inconvenience. Could you please tell me your device model and operating system? 
+
+Customer: It's a TCL Roku TV and the OS is Roku OS 9.7. 
+
+Agent: I see, let's check your network settings.  
+  
+Customer: My connection is pretty strong; it never drops.  
+
+Agent: Okay, I'll look into that. Would you like me to escalate this issue for further assistance? 
+
+Customer: Yes, please.  
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your help! It was resolved quickly and efficiently.
+Sentiment: Positive

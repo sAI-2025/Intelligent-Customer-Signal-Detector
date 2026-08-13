@@ -1,0 +1,19 @@
+Customer ID: 9795-VOWON
+Topic: device unable to register on network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet won't connect to your network. It keeps saying "Unable to register on network".  What do I do?
+Agent:  I understand this is frustrating. Can you please confirm your account number and the service address for your DSL connection? 
+Customer: Sure, my account number is [Account Number], and my service address is [Address]. 
+Agent: Thank you. Let me check on that...
+Customer: I've been with your company for about a year now. 
+Agent:  I see that you are currently on our one-year contract plan at $24.35 per month. What specific issue are you facing? 
+Customer: The DSL connection isn't working. It keeps saying "Unable to register on network". 
+Agent:  I understand. I'm going to run diagnostics on your account. Please wait a moment while I do that... 
+Customer: Okay.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was resolved quickly, thanks! The agent was helpful and efficient.
+Sentiment: Positive

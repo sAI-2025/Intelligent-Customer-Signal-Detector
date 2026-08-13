@@ -1,0 +1,20 @@
+Customer ID: 4803-AXVYP
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is very slow today. It keeps dropping and buffering.
+
+Agent: I understand your frustration, Ms. Peterson.  We'll take a look at your account to see what we can do. 
+
+Customer: Thanks, Agent.  I've been with the company for years, and this is unusual.  Is there a problem on my end?
+
+Agent: I ran diagnostics on your connection, and everything seems to be functioning normally. There are no reports of outages in our system. 
+ 
+Customer: Okay, well thanks anyway.
+
+Agent: No problem at all! We'll also check for any network issues impacting fiber users. If you continue to experience problems, please let us know. Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent did offer some helpful information, it would be nice if they could address specific solutions beyond "checking for potential issues" since my internet has been consistently slow for days now.
+Sentiment: Negative

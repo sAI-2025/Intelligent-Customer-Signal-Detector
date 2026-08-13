@@ -1,0 +1,17 @@
+Customer ID: 4132-KALRO
+Topic: customer received a better competitor offer
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm canceling my service.  I just received a much better offer from competitor X. 
+Agent: I understand your decision. We value our customers and want to ensure you have the best internet experience possible.  Would you like to discuss some options for staying with us?  
+Customer: No thanks, they're offering fiber at $75 per month!
+Agent: That is a great deal! We offer a similar plan starting at $89.99.  
+Customer: Thanks but I'm sticking with competitor X. 
+Agent: I understand. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: They were quite helpful in trying to keep me, but ultimately the price difference was too significant.
+Sentiment: Neutral

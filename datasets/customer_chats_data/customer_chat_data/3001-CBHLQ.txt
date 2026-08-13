@@ -1,0 +1,22 @@
+Customer ID: 3001-CBHLQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down. I can't even load this simple webpage! 
+
+Agent: Hello there!  I understand your concern. Please tell me, what is your account number? Also, what part of the world are you in and are you using a desktop or mobile device to check the internet connection?
+
+Customer: My account number is 123456789. I'm in New York City, using my laptop. 
+
+Agent: Alright.  I see that you have fiber optic service, and your contract has been with us for 32 months.  Let's check the status of your connection. Can you try restarting your modem/router?
+
+Customer: Okay, I will try that...
+
+Agent: Please let me know if that resolves the issue or if you encounter further problems. Thank you for contacting us.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and got right to troubleshooting. Hopefully my internet connection will be back up soon!
+Sentiment: Positive

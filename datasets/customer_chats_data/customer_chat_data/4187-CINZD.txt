@@ -1,0 +1,20 @@
+Customer ID: 4187-CINZD
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I need help with my internet speed.  I'm getting really high latency and ping while using it. 
+
+Agent: Thank you for contacting us! Can you please tell me your account number and the device(s) experiencing this issue? 
+
+Customer: Sure, my account number is 1234567890. It's happening on both my laptop and gaming console. 
+
+Agent:  I understand. I can see your Fiber connection details are all up-to-date. Let me check on the latency levels for you. 
+
+Customer: That would be great. Thanks.
+
+Agent:  The ping has been fluctuating, but it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: **Feedback:** "Thanks for the update! Hopefully this resolves the issue soon."
+Sentiment: Positive

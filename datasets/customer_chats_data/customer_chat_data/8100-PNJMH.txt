@@ -1,0 +1,20 @@
+Customer ID: 8100-PNJMH
+Topic: internet speed differs across devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed is really slow on my laptop, but fine on my phone and TV. Is there a problem with my DSL connection? 
+Agent: I understand your concern.  Could you please tell me what devices you're having the issue with?
+Customer: It's mostly happening on my laptop.
+Agent: Could you try restarting your router? Sometimes this can help resolve temporary internet issues. 
+Customer: Thanks, but no luck. 
+Agent: Okay, I'd be happy to take a look at your account to see if there are any other factors contributing to the slow speeds.  
+Customer: That sounds good!
+Agent: Let me check that for you.  It looks like you might have some bandwidth allocation issues going on.
+Customer: Really? How do I fix it?
+Agent: We can adjust your settings to ensure a more balanced distribution of data across all devices. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the help getting my internet speeds sorted out, finally!"
+Sentiment: Positive

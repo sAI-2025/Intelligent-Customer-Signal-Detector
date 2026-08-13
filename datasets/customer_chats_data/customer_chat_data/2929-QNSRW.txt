@@ -1,0 +1,17 @@
+Customer ID: 2929-QNSRW
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is incredibly slow, it feels like I can barely stream a video. 
+Agent:  I understand you're experiencing slow speeds. Can you please tell me your location and the exact issue details?
+Customer: My address is [location]. The download speed is around 10 Mbps. My plan is for 500Mbps.
+Agent: I apologize for this inconvenience, but we can investigate it further. 
+Customer: Thank you, maybe there's an outage in my area?
+Agent: We don’t have any known outages reported at your location. Let me check the status of your connection now. 
+Customer:  Okay, thanks. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While I appreciate the update, it would be helpful to know what's causing the slow speeds and when they might improve.
+Sentiment: Neutral

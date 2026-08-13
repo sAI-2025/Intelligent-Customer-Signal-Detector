@@ -1,0 +1,18 @@
+Customer ID: 2277-AXSDC
+Topic: customer is dissatisfied with contract terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm really unhappy with my contract terms.  
+Agent:  I understand your frustration, and I'd be happy to help. Could you tell me more about what specifically concerns you? 
+Customer: The price doesn't reflect the services I'm receiving.
+Agent: Let me double check your plan details. It looks like you're on a no-internet plan for $19.75 per month with tenure of 32 months. 
+Customer: That's still not okay - my internet needs have changed, and the price doesn't seem fair.
+Agent:  I can certainly see your point. We offer various plans that might better suit your needs. Would you like to explore some options? 
+Customer: Yes, please.  
+Agent: I am ready to help you find the right plan. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and willing to look for alternatives, which made the experience less frustrating.
+Sentiment: Positive

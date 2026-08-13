@@ -1,0 +1,24 @@
+Customer ID: 7242-QZLXF
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey! My internet is completely down and I can't connect to anything. 
+
+Agent: I understand your concern.  What's your account name or number?
+
+Customer: [customer account details] 
+
+Agent: Let me check on the status of your DSL line. Please hold for a moment while I look into it.
+
+Customer: Thanks!
+
+Agent:   I see there might be an issue with your connection. Our technicians are currently working to resolve it, and we anticipate restoring service within [estimated timeframe]. 
+
+Customer: Okay, thanks.  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! Hopefully this resolves quickly."
+Sentiment: Positive

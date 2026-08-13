@@ -1,0 +1,24 @@
+Customer ID: 6016-NXBNJ
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is completely down. Can you please help?
+
+Agent: I understand you’re experiencing a loss of internet service. Please give me your account number and address so I can check on the issue. 
+
+Customer:  Account number is [account number], and my address is [address]. 
+
+Agent: Thank you for providing that information. Let's see if we can get this resolved.
+
+Customer:  Thanks! 
+
+Agent: We’ll have a technician checking your line soon. I’ll update you on the status of the service once it’s resolved. 
+
+Customer: Ok, thanks. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was quick and efficient in getting my internet issue addressed."
+Sentiment: Positive

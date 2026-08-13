@@ -1,0 +1,17 @@
+Customer ID: 3933-DQPWX
+Topic: movie catalog does not match subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having a problem with my movie catalog not matching what I'm paying for. 
+Agent: Hello!  I understand you're concerned about your movie selection. Could you please provide me with your account details?
+Customer: Sure, my account number is 1234567890 and it's a two-year contract with the $39.7 monthly payment. I use DSL internet.  
+Agent: Thank you for providing that information. We have noticed some discrepancies between your subscription plan and what you're currently seeing in the catalog. Let me check on this. 
+Customer: Okay, thanks. 
+Agent:  I've looked into your account, and it appears we've had a recent update to our movie catalog. Your current selection may reflect that change. We are working to ensure accuracy across all plans. 
+Customer: Thanks for looking into this!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and I appreciate the explanation about the recent catalog updates.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 2876-VBBBL
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having constant internet disconnections since signing up last month. Is there a problem on your end? 
+Agent: I understand that you're experiencing frequent disconnects, and I apologize for the inconvenience. 
+Customer: It's frustrating! My monthly bill is $20.25, but it feels like I'm paying for nothing.  
+Agent:  Could you please provide your account information so I can look into this? 
+Customer: Sure, my account number is [account number].
+Agent: Thank you for providing that information! Let me check on the details of your account.
+Customer: Alright. Thanks for looking into it. 
+Agent: I've reviewed your account and found some issues related to your connection speed. We can get this resolved for you within the next hour.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate that they are addressing the issue, it seems like a frustrating amount of time to wait for service at this price point."
+Sentiment: Negative

@@ -1,0 +1,17 @@
+Customer ID: 7861-UVUFT
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is significantly slower than expected. I just finished a large file transfer and it took almost an hour!  Is there something wrong with my connection? 
+Agent: Hi there, thanks for reaching out to us. We're sorry to hear about the slow upload speeds. Could you please provide your account number and the address where you are experiencing this issue? 
+Customer: My account number is [account number]. I am in apartment 1B at [address].  
+Agent: Thank you, I see what's going on. Let me check on that for you... 
+Customer: Is there a delay expected during peak hours?
+Agent: We do experience some fluctuations in speeds during peak times, but we are always working to improve our network performance. We'll investigate this issue further.  
+Customer: Ok, thanks!
+Agent: No problem at all, we will get your upload speed resolved for you. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it still took a while to get a resolution and I hope there are long-term solutions to prevent this in the future."
+Sentiment: Neutral

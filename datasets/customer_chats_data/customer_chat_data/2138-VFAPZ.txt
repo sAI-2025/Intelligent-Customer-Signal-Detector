@@ -1,0 +1,17 @@
+Customer ID: 2138-VFAPZ
+Topic: hardware configuration problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I am having trouble configuring my new router.  I can't seem to get it online.
+Agent: Hello! I understand your issue with setting up your router. Could you please tell me which specific problem you're facing?
+Customer: It just won't connect. The Wi-Fi light on the router is blinking yellow and red. 
+Agent:  I see, thanks for that information. Let me check what might be causing this.   Please confirm your account details and order number.
+Customer: Sure, my name is [customer name], and I have order number [order number]. 
+Agent: Thank you! I'm looking into the configuration now.  We will get this sorted out for you. 
+Customer: Great, thanks so much!   
+Agent: Let me know if you need anything else. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help! The connection is working now."
+Sentiment: Positive

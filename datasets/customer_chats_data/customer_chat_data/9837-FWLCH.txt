@@ -1,0 +1,17 @@
+Customer ID: 9837-FWLCH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in certain rooms of my house. 
+Agent: Hello!  I understand that your Wi-Fi signal is not consistent across your home.  Could you please tell me which rooms are affected and what kind of devices you're using? 
+Customer: It seems like the living room and bedroom areas have very weak signals, while the kitchen area is fine. 
+Agent: Thanks for that info! I will need to check on our network configurations to understand why this might be happening.  Could you please provide your account number or email address so we can access your profile?
+Customer: My Account Number is: 1234567890
+Agent: Thank you for providing the account number, I'll be able to check on that now.
+Customer: Thanks! 
+Agent:  I've checked and it looks like there might be a blockage in the signal path in your living room and bedroom areas. We will run tests to address this issue and send you an update by email later today. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive, and I appreciate them working to resolve the Wi-Fi issues.
+Sentiment: Positive

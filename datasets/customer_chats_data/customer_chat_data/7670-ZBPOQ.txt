@@ -1,0 +1,17 @@
+Customer ID: 7670-ZBPOQ
+Topic: live TV freezes during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My live TV is freezing up during playback.  I’ve been experiencing this issue for about the last hour.
+Agent: I understand your frustration. Can you please provide your account number and your current service plan? 
+Customer: Sure, it's [account number] and I have a basic plan.
+Agent: Thank you. I'm pulling up your account information now.  
+Customer: Just had another freeze! This is so frustrating.
+Agent: Okay, let me look into this further. It looks like there might be an issue with your internet service. 
+Customer: Well that’s no good. You guys need to fix it. I just want my TV working properly! 
+Agent: We'll get this resolved for you.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While I appreciate the update, it's frustrating that the issue still hasn't been fully resolved after all this time."
+Sentiment: Negative

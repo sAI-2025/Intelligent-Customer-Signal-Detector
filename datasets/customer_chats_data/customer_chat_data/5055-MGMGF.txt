@@ -1,0 +1,17 @@
+Customer ID: 5055-MGMGF
+Topic: connection drops when multiple devices connect
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My connection keeps dropping when I have multiple devices connected, it's been happening for days now.
+Agent: I understand your frustration with intermittent connectivity.  To best assist you, could you please provide your account number or the name on the account? 
+Customer:  My account number is 1234567890. My name is John Smith. 
+Agent: Thank you for providing that information, John. Based on your service plan and duration, I'm seeing no reported issues.
+Customer: Really? It's been happening constantly!
+Agent: There may be a few possibilities causing this; we need to investigate further.  Let me run a quick test on your connection... 
+Customer: Great, thanks for the help.
+Agent:  We're about to start with a diagnostic check. We should have an update shortly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the help, it seems like my connection issue isn't resolved yet despite being told there are no reported issues.
+Sentiment: Negative

@@ -1,0 +1,17 @@
+Customer ID: 6917-YACBP
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble connecting to the internet, it keeps dropping in and out. 
+Agent:  I understand, ma’am.  Can you tell me your account number and what device are you using?
+Customer: Sure, my account number is 1234567890, I'm having trouble with this laptop.
+Agent: Thank you for that information. We can check the service status in your area. 
+Customer: Well, there seems to be no outage reported by the internet providers.
+Agent:  I see some potential issues on your connection. It looks like the fiber optic line might have a slight blockage.   
+Customer: Oh, thank you! I appreciate that. 
+Agent:  No problem at all. We’ll have someone take care of it. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank goodness, thanks for helping me solve this issue!"
+Sentiment: Positive

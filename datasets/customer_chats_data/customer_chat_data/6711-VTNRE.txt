@@ -1,0 +1,20 @@
+Customer ID: 6711-VTNRE
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having frequent internet disconnections lately and it's really disrupting my work. 
+Agent:  I understand your frustration. Can you tell me a bit more about this issue? What kind of devices are you using to connect?
+Customer: Yes, mostly just my laptop, desktop, and smart TV.  It seems to happen most often when I use streaming services like Netflix or YouTube. 
+Agent: Ok, thank you for that information. Could you please confirm your account details so I can check the service logs?
+Customer: Sure, here's my name, account number, and email address. 
+Agent: Thanks! Alright, I have everything I need to look into this further.
+Customer:  Thank you! 
+Agent:  I apologize for any inconvenience caused. We are looking at your Fiber connection and will be in touch soon with an update. 
+Customer: Thank you! 
+Agent:  Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and patient, even though the issue is frustrating! Hopefully the service problem gets resolved quickly."
+Sentiment: Positive

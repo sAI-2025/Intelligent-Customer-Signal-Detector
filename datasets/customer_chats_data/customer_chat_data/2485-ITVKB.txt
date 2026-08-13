@@ -1,0 +1,17 @@
+Customer ID: 2485-ITVKB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm experiencing frequent internet disconnections lately. 
+Agent:  Hi there! I understand your frustration. Can you please tell me a little more about when these disconnections occur and what kind of devices you are using?
+Customer: Mostly during peak hours in the evening. On my laptop and phone. 
+Agent: Thank you for that information. I'm going to check our network logs to see if we have any outages or congestion issues.
+Customer:  Okay, thanks. 
+Agent: We should be able to clear this up within a few minutes. 
+Customer: Great! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for quickly looking into the issue and hopefully solving it soon!"
+Sentiment: Positive

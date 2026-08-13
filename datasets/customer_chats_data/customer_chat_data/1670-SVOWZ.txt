@@ -1,0 +1,17 @@
+Customer ID: 1670-SVOWZ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm experiencing frequent internet disconnections throughout the day. 
+Agent: Hello!  I understand you're having trouble with connectivity, could you please tell me your account number and what device you are experiencing this on? 
+Customer: My account number is XXXXXXXXXX. The issue seems to be happening mainly on my laptop. 
+Agent: I see that the account is a month-to-month contract with fiber optic internet for $89.65 per month.  We'll take a look at your service history to diagnose the problem. 
+Customer: This has been an issue since I moved into this house last year. 
+Agent: Thank you for clarifying that. We will take care of it. 
+Customer: Great, thanks! 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out! Hopefully, the frequent disconnections are a thing of the past."
+Sentiment: Positive

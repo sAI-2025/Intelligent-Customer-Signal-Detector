@@ -1,0 +1,17 @@
+Customer ID: 2519-ERQOJ
+Topic: customer wants to upgrade service plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I would like to upgrade my service plan. 
+Agent:  I understand. Can you tell me a little about what type of plan you're interested in?
+Customer: I want more data and faster speeds, something around that $70 range. 
+Agent: Based on your current contract and DSL service, we offer the "Premium" plan for $69.99 per month. Would that work for you?
+Customer: That seems alright, thanks.  
+Agent: Absolutely! I'll be happy to upgrade your account. Just a moment while I process this. 
+Customer: Thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and easy! Thanks for the help with upgrading my plan. 😊
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 3791-LGQCY
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having some issues with high latency on my Fiber connection. 
+Agent: I understand you're experiencing high ping during your online activity.  Could you please tell me more about what activities are causing this issue?
+Customer: Usually when gaming or streaming videos on Netflix.
+Agent: Thank you for the information. Let me check your account details.
+Customer: My name is Mary, and I have a month-to-month contract with an internet plan costing $100.65/month. 
+Agent: I see your account, Mary. We are checking your fiber speeds and latency now.  
+Customer: Thank you. 
+Agent: The problem seems to be caused by high traffic on the network. We're working to resolve it for you as soon as possible. 
+Customer: Okay, thank you for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me figure out this latency issue!  Hopefully it'll be resolved quickly."
+Sentiment: Positive

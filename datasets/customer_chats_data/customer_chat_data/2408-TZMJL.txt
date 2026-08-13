@@ -1,0 +1,17 @@
+Customer ID: 2408-TZMJL
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble with my download speeds today. My internet speed is significantly lower than what my plan offers and it's been happening for several hours. 
+Agent: Thank you for contacting us. Can you please provide your account information and the specific issue you are facing?
+Customer: Sure. My account details are [insert account info here] and I am experiencing speeds below 10 Mbps despite subscribing to a plan with 100 Mbps download speed.
+Agent: I see that you're on a one-year contract, and your service type is Fiber Optic.  It may be related to congestion in the network during peak hours. 
+Customer: Hmm, I have never experienced this issue before. How can I report this?
+Agent: You can raise a ticket or call us directly. We'll look into it and get back with you within 24 hours.
+Customer: Okay, thanks for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick response, but I still hope this issue is resolved soon as my current speeds are unacceptable.
+Sentiment: Negative

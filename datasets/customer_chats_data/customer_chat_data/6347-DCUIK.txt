@@ -1,0 +1,24 @@
+Customer ID: 6347-DCUIK
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble downloading content, my speeds are much slower than what I've subscribed to. 
+
+Agent:  I understand your concern. Can you please provide your account details and a screenshot of the speed test results? 
+
+Customer: Sure, here’s my account information; I just tested my speed on [website name]. My download speeds are around 8MB/s. 
+
+Agent:  Thanks for providing that information. Based on your monthly plan, you should be expecting speeds closer to [average download speed from the website]. 
+
+Customer: Hmm, that seems slow. Is there anything I can do about this?
+
+Agent:  We're running diagnostics now and will investigate further. We’ll update you within 24 hours on our findings. 
+
+Customer: Thanks for looking into it, appreciate the help! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for taking my concern seriously and for providing updates!  I look forward to hearing about your investigation.
+Sentiment: Positive

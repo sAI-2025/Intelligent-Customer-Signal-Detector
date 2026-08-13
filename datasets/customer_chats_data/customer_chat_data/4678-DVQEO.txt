@@ -1,0 +1,17 @@
+Customer ID: 4678-DVQEO
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi, I'm having trouble connecting to the internet. There is high latency or ping during usage. 
+Agent:  I understand your concern about the high latency. Can you please tell me more about what specifically happens?
+Customer: When I try to load a website or watch a video, it takes forever and there are constant buffering issues.
+Agent:  I see that you're on DSL internet and have been using us for one month now. Are you experiencing this issue with all websites and applications, or just specific ones? 
+Customer: It seems to be happening across the board, even simple sites load extremely slow.
+Agent:  We apologize for this inconvenience. Let me check your line speed and connection quality. 
+Customer: Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my issue. Thanks for the prompt assistance!
+Sentiment: Positive

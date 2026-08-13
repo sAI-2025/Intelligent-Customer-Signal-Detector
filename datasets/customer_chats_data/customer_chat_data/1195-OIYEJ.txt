@@ -1,0 +1,17 @@
+Customer ID: 1195-OIYEJ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is weak in the bedrooms of my house. It's been a problem for several weeks now.
+Agent: I understand your frustration. Please provide me with your account information and the specific room(s) experiencing poor connectivity. 
+Customer: Sure, here it is. My name is Jane Doe. Account number [redacted].  The bedrooms are on the second floor of my house.
+Agent: Thank you for providing that information, Jane. We'll look into potential causes for the weak signal in those rooms and offer possible solutions.
+Customer: Thanks. 
+Agent: I've checked your account history and plan. It appears you have a Fiber Optic connection.  We are currently unable to troubleshoot the issue remotely. Perhaps a technician visit is needed. We will schedule one shortly.
+Customer:  Ok, thanks!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and I appreciate them scheduling a technician for my wifi issue.
+Sentiment: Positive

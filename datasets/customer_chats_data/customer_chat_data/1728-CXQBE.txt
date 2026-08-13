@@ -1,0 +1,18 @@
+Customer ID: 1728-CXQBE
+Topic: customer is considering switching providers
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm thinking about switching internet providers. Is there a possibility of getting a better rate? 
+Agent:  Of course!  I can help you with that. Could you tell me what other plans you are considering? 
+Customer: My contract is month-to-month and it costs $94.25 per month for fiber optic internet. I've had service for 64 months. 
+Agent:  Let me take a look at your account, we can definitely make some adjustments to your current plan.
+Customer:  Sounds good. 
+Agent: Thanks! We offer competitive rates and additional features. Do you want to discuss options?
+Customer: I appreciate that! Thank you.
+Agent:  Of course! Let me know when you're ready. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and made the process of exploring options easy."
+Sentiment: Positive

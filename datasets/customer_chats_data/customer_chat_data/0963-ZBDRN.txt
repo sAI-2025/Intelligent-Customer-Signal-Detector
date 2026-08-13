@@ -1,0 +1,18 @@
+Customer ID: 0963-ZBDRN
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room and dining area. 
+Agent: Hello!  I understand you're experiencing a weak Wi-Fi signal in specific areas of your home. Could you please tell me what kind of devices are being used for the connection? 
+Customer: Just using my laptop and smart tv. 
+Agent:  Alright, I can check our network map for potential interference or congestion issues that might be causing this issue. 
+Customer: Thanks!
+Agent: Let's investigate further.  I'll need to verify your account details and the router location to look into this. Do you have your account number handy? 
+Customer: Yes, it's [account number]. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was efficient and helpful in finding solutions to my Wi-Fi problem."
+Sentiment: Positive

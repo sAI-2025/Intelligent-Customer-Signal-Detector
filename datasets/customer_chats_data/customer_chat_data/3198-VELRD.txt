@@ -1,0 +1,16 @@
+Customer ID: 3198-VELRD
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been really slow this past hour, especially during peak hours.  Is there any outage going on?
+Agent: I understand your concern. I'd be happy to help you troubleshoot. Can you tell me what device and plan you have? 
+Customer: I'm using a desktop computer with my Fiber Optic internet. My plan is the $84.75/month option. It's been slow for past couple of hours.
+Agent:  I see your account details. Let me check our network logs. 
+Customer: Thanks!
+Agent: There doesn't seem to be a widespread outage, but we may be experiencing some high volume traffic during peak hours. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick explanation.  I appreciate your help!"
+Sentiment: Positive

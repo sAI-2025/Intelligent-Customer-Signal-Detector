@@ -1,0 +1,18 @@
+Customer ID: 2640-PMGFL
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble with my internet connection. It keeps disconnecting frequently.
+Agent:  I understand your frustration. I'd be happy to help. Could you please provide your account details so I can take a look?
+Customer: Sure, my name is [Name] and my customer ID is [ID]. 
+Agent: Thanks, [Name].  Let's have a quick look at the connection speeds. Have you experienced any unusual disconnections, like during specific times of day or after using certain applications?
+Customer: Yes, mostly in the evenings. It seems to be happening around 7pm every night.
+Agent: I see some spikes in usage during that hour.  It could be related to your neighbors' internet activity or something else impacting your connection. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into my issue! It seems like the evening hours are causing the disconnections.
+Sentiment: Positive

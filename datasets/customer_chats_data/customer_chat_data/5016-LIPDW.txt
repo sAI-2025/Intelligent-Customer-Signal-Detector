@@ -1,0 +1,20 @@
+Customer ID: 5016-LIPDW
+Topic: unlimited data feature missing from account
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble accessing my unlimited data option on my account. 
+Agent: Thank you for contacting us! Can you please confirm your account number?
+Customer: 1234567890
+Agent:  I see your account is currently under a one-year contract at $19.4 per month. Do you have an issue with the data limit not being unlimited as advertised? 
+Customer: Yes, the online information mentions unlimited data but I'm only getting limited speeds on my No internet device.
+Agent:  I understand your concern and will investigate this further for you. Please allow me a few moments while I check your account details. 
+Customer: Thanks!
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but the agent did seem committed to resolving my issue.
+Sentiment: Negative

@@ -1,0 +1,17 @@
+Customer ID: 0810-DHDBD
+Topic: music streaming uses unexpected data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there! I noticed my data usage has been unusually high lately on my subscription plan. 
+Agent:  Hello! Thank you for contacting us, I'm happy to help with your unusual data usage. Please provide me with your account number and the time period you are referring to.
+Customer: My account is [account number]. It seems like over the past month I've used around double my usual average. 
+Agent:  I see that you have been using significantly more data than usual, thank you for providing that information. We can check your connection speed and network settings if needed. 
+Customer: Do you think there might be an issue with my internet connection or something with the streaming service?
+Agent: Let me look into this a bit. I'll investigate the possibility of any underlying issues. 
+Customer: Thanks! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the quick response and investigation, hope to get this resolved soon."
+Sentiment: Positive

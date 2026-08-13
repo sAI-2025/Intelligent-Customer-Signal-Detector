@@ -1,0 +1,17 @@
+Customer ID: 0637-YLETY
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with high latency while streaming online games.  It's been really bad lately and unplayable. 
+Agent: I understand your frustration. We want to make sure you have a smooth experience. May I ask for your account details? 
+Customer: Sure, my username is [username]. 
+Agent: Thank you. Based on your usage history, it seems like you might be encountering network congestion during peak hours.
+Customer: Hmm... that makes sense.  Is there anything I can do about this in the meantime?
+Agent: We'll send you a speed boost as an immediate fix. We will also investigate further to see if we can optimize your connection. 
+Customer: Thanks!  I appreciate the help.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and proactive in addressing my problem. I appreciate the quick response and potential solutions being offered.
+Sentiment: Positive

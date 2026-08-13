@@ -1,0 +1,17 @@
+Customer ID: 3148-AOIQT
+Topic: existing secondary line not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need help connecting my secondary phone line. It keeps saying “call failed.” 
+Agent:  I understand your frustration, what's your account number?
+Customer: 45678901
+Agent:  Let me check the status of your secondary line. A moment please... 
+Customer: Ok, thanks! 
+Agent: I see there is a temporary service interruption on your secondary line. We're working to get it back up and running as soon as possible.  
+Customer: Thanks for letting me know. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update, I appreciate you keeping me informed about the issue!
+Sentiment: Positive

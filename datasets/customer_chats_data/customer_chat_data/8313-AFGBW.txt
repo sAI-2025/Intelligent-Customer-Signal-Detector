@@ -1,0 +1,24 @@
+Customer ID: 8313-AFGBW
+Topic: customer wants to add another line
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'd like to add a new line to my account. 
+
+Agent: Certainly!  May I have your account number and the desired service type?
+
+Customer: Yes, it's 1234567890. And I'd like an additional phone line for home internet services.
+
+Agent: Thank you.  I understand. We can certainly discuss adding a new line. Let me check on your current plan. 
+
+Customer: It is a two-year contract, paying $73.6 per month with DSL internet and my tenure is 47 months. 
+
+Agent: I see that. Please hold while I review the details.
+
+Customer: Great! 
+ 
+Agent:  We'll be able to add another line for you. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful for the quick and easy process, appreciate the prompt resolution!"
+Sentiment: Positive

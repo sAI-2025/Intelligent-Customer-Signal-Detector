@@ -1,0 +1,17 @@
+Customer ID: 5555-RNPGT
+Topic: customer asks about upgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about upgrading to your higher speed package. How much would that cost? 
+Agent:  To get started with a higher speed plan, we offer options from $54.99/month. Would you like me to help you find the best fit for your needs?
+Customer: Okay,  I'm currently on the basic plan. I only use it for emails and browsing, but would be interested in something faster for streaming. 
+Agent: We recommend our 100Mbps plan for a smoother experience with streaming. 
+Customer: $54.99 is a bit steep.
+Agent:  Yes, that's the standard price for the 100 Mbps plan. Do you want to consider switching to a lower-tier speed?
+Customer:  No, I think I'll stick with the 25Mbps then. 
+Agent: Alright, no problem! To confirm, your monthly cost will remain at $24.80 for your current plan. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in guiding me to a plan that fits my needs.
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 9828-AOQLM
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my subscribed plan. I'm paying $45.7 a month and have DSL internet.  It's been like this all week! 
+
+Agent: I understand your concern. We can investigate this further. Could you please provide your account number and the exact speeds you are experiencing?
+ 
+Customer: My account number is XXXXXXXXXX, and my download speed has been around 1Mbps when it should be 50Mbps according to my plan.
+
+Agent: Thank you for providing that information. I'll take a closer look at your line and troubleshoot any potential issues.  
+ 
+Customer: Okay, thank you! 
+ 
+Agent: We will see if there is anything we can do on our end to speed up the download. We apologize for the inconvenience this has caused. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this, I appreciate your help in getting my internet back up to speed!
+Sentiment: Positive

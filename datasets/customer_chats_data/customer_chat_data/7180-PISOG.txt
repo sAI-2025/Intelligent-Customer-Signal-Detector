@@ -1,0 +1,20 @@
+Customer ID: 7180-PISOG
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is extremely slow today.  Is there an outage? 
+Agent: I understand your concern about the slow connection. Let's investigate further. Can you please confirm your account number and the exact address where you are experiencing this issue?
+Customer: It's [Account Number], at [Address].   It seems to be happening on all devices.  
+Agent: Thank you for providing that information. I am checking the status of your service right now. 
+Customer: Okay, thanks.   I hope it gets fixed soon!
+Agent: I will update you shortly with any progress. 
+Customer: Great. Thanks! 
+Agent: We're working on resolving this issue as quickly as possible. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into it, hopefully my internet speeds will be back to normal soon!
+Sentiment: Positive

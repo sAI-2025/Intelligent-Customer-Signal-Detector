@@ -1,0 +1,23 @@
+Customer ID: 8203-XJZRC
+Topic: selected movie unavailable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I was trying to watch a movie and it says it's unavailable.
+
+Agent:  I apologize for this inconvenience, can you please tell me which movie you were trying to watch? 
+
+Customer: "The Avengers" 
+
+Agent: I see that the movie is currently not available on our platform, due to licensing agreements. We are working with our partners to get more content added regularly. 
+
+Customer:  Is there a reason why it's unavailable? Can I find out when it might be back? 
+
+Agent: There isn't a specific date yet for the availability of "The Avengers" but we can keep you updated on our website and social media channels. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I understand the licensing issues, it would be helpful to have a more concrete timeline for when "The Avengers" might be back in stock.
+Sentiment: Neutral

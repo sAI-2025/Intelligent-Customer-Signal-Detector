@@ -1,0 +1,29 @@
+Customer ID: 5038-ETMLM
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about your service plans.  I'm currently on a 2-year contract and my bill is $113.65 per month for fiber optic internet. 
+
+Agent: Hello! Thanks for reaching out.  Can you tell me a little more about what you're looking to change?  Are you interested in upgrading your plan or are you trying to find something new?
+
+Customer: I was hoping to switch to a different plan and see if there are any options with better speeds. 
+ 
+Agent:  Absolutely! We have several plans available with varying data speeds, so we can definitely find one that fits your needs.  
+
+Customer: That would be great. What kind of speeds do you offer?
+
+Agent: We offer speeds ranging from 100 Mbps to 1 Gbps.  
+
+Customer:  Wow, thanks! 
+
+Agent:  What is the typical monthly cost for a plan with 500 Mbps or higher?
+
+Customer: I'm on a $113.65 plan right now so that would be helpful if you have something like that within budget.
+
+
+Agent:  We do offer plans at that
+
+----------------------------------------
+Feedback: This was a smooth and helpful interaction! I appreciate the promptness and willingness to explore options for better internet speeds.
+Sentiment: Positive

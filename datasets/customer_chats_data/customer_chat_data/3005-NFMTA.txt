@@ -1,0 +1,24 @@
+Customer ID: 3005-NFMTA
+Topic: phone signal weak or unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my phone signal has been weak lately and I can't make calls. 
+
+Agent:  I understand your frustration with the poor signal quality. Can you please provide your account number and location? 
+
+Customer: Yes, it is [account number].  My area is [location]. 
+
+Agent: Thanks for that information, let me check the service records. 
+
+Customer: I have been a loyal customer for 55 months, paying $98.8 per month. Is there a solution? 
+
+Agent: We've sent some technical teams to your location to investigate the problem.  We will be checking for any potential signal issues and resolving them as soon as possible.
+
+Customer: Thank you so much! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the prompt response and quick action to resolve my signal issue!
+Sentiment: Positive

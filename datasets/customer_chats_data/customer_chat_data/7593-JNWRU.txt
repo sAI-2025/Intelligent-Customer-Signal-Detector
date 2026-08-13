@@ -1,0 +1,17 @@
+Customer ID: 7593-JNWRU
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet has been disconnecting frequently lately, and it's very frustrating!
+Agent: I understand your frustration.  I can certainly help with that. Could you please tell me what kind of device you are using and your modem model?
+Customer: It's a desktop computer, connected to the modem via Ethernet cable. The modem is a Motorola SB6120. 
+Agent: Alright, thank you for that information.  Let me see if I can find anything in our system about this issue.
+Customer: Thanks!
+Agent: Based on your internet plan and modem model, I suggest restarting both the modem and router to clear any temporary glitches. Have you tried this already? 
+Customer: No, I haven't yet.  I thought it was just me, but now I see others are experiencing the same problem.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help! Restarting did seem to fix the issue."
+Sentiment: Positive

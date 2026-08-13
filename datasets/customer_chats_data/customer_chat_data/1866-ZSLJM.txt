@@ -1,0 +1,24 @@
+Customer ID: 1866-ZSLJM
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, I'm having a slow connection right now and it's been happening all day. It's pretty frustrating. 
+
+Agent:  I understand your frustration. Can you please tell me more about what device you're using and which specific website/app are you experiencing trouble with?
+
+Customer:  It's affecting my work, I can barely load email or browse websites. My phone is also slow.  
+
+Agent:  Thank you for providing that information. Have you tried restarting your router or modem? 
+
+Customer:  Yes, but the problem remains.
+
+Agent: We are seeing reports of a network congestion issue during peak hours and we're currently working on a solution to address this. 
+
+Customer: Okay, I hope it gets resolved soon! 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully the network congestion issue gets resolved quickly so I can get back to my work."
+Sentiment: Neutral

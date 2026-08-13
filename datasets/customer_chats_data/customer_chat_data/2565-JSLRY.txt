@@ -1,0 +1,15 @@
+Customer ID: 2565-JSLRY
+Topic: modem or router unable to establish connection
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! My internet isn't working and I can't connect to my devices. 
+Agent: Hello, thanks for reaching out!  I understand you're having trouble connecting to the internet. Can you tell me your account details?
+Customer: Sure, my name is [Name] and my account number is [Account Number]. 
+Agent: Let me take a look at that. I see your month-to-month contract is active for $24.05.  
+Customer: Thank you! Is there anything else I need to do to help diagnose this? 
+Agent: I'm going to check the connection on our end. We may have some temporary issues in the area. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly, it was helpful to know what's happening."
+Sentiment: Positive

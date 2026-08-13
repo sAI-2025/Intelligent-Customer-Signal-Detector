@@ -1,0 +1,15 @@
+Customer ID: 2621-UDNLU
+Topic: unexpected data charges
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I have a question about my recent data charges. My bill is saying I used 5GB more than what was allowed on my plan. 
+Agent: Hi there!  I can definitely help you understand your billing. Could you please provide your account number? 
+Customer: 1234567890
+Agent: Thank you, [customer name]. Let me check our records and see why the charges are higher than expected.
+Customer: I'm on a month-to-month contract and my plan is $20.85 per month with no internet service. 
+Agent:  Ah, that makes sense. We do have an error in your billing history for data usage. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out! I appreciate your quick response and help resolving the issue.
+Sentiment: Positive

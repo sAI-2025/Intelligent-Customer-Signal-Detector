@@ -1,0 +1,26 @@
+Customer ID: 6135-OZQVA
+Topic: live TV freezes during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my live TV service has been freezing up during playback lately. 
+
+Agent: I understand your frustration.  Can you tell me what device and model you're using to watch?
+
+Customer: It happens on both my Smart TV and the Roku box.  It's been happening for about a week now. 
+
+Agent: Thanks for that information. Can you also let me know if you've experienced any other issues like dropped connection or slow loading speeds?
+
+Customer: No, just the freezing during playback. 
+
+Agent: Okay, I'm going to need you to verify your account details so I can look into this further.  Can you please provide your subscriber ID number and email address?
+
+Customer: Sure, my subscriber ID is [redacted] and my email is [redacted].
+
+Agent: Thank you for providing those details. I see that your contract has been set up as month-to-month with a monthly payment of $53.65 for DSL internet connection. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's help, but hope this issue can be resolved quickly since the freezing is impacting my viewing experience.
+Sentiment: Neutral

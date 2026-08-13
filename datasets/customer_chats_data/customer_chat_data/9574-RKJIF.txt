@@ -1,0 +1,17 @@
+Customer ID: 9574-RKJIF
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's slow and keeps dropping in and out.
+Agent:  I understand your concern. Can you tell me what device you are using and your location?
+Customer: Using my laptop, at home in [City]. My IP address is 192.168.1.100
+Agent: I apologize for the inconvenience. We're currently experiencing a slight network outage in your area. We'll have it resolved soon.  
+Customer: Okay, thanks! When will it be back to normal?
+Agent: I expect service to be restored within the hour. 
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and informative, and I appreciate them letting me know what's causing the slow connection.
+Sentiment: Positive

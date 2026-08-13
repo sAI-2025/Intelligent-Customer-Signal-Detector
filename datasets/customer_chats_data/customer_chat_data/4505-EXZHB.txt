@@ -1,0 +1,17 @@
+Customer ID: 4505-EXZHB
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is so slow! It takes forever to load anything. 
+Agent: I understand your concern, Mr. Smith. Can you please tell me more about what's happening? 
+Customer: Websites are taking ages to load and even downloading a file takes a long time.  
+Agent: Thank you for that information. Let me check your service status now. 
+Customer: Okay. 
+Agent: We have detected an issue with the connection on your end of the line. We're working to resolve it right away. 
+Customer: Oh good!  
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for quickly addressing my internet issues, they seem much better now!
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 5879-HMFFH
+Topic: additional line missing from account
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I just checked my account and it seems like I don't have a third line added. 
+Agent:  I understand your concern. To investigate this further, can you please provide your account number and the name of the service plan? 
+Customer: My account number is XXXXXXX-XXXX-XXXX
+Agent: Thank you. Looking at your details, it seems your account is currently only set up for one line. 
+Customer: Oh no, I thought I added a third line to my plan.  It's been over two years!
+Agent: We apologize for the inconvenience. Would you like me to add the additional line or would you prefer we review your billing history?
+Customer: Let's just add it, please! 
+Agent: Please allow a few minutes and I'll update your account with an additional line. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a bit frustrating to troubleshoot, but the agent quickly resolved the issue and got my third line added - thanks!
+Sentiment: Positive

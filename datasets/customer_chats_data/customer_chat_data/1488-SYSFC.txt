@@ -1,0 +1,29 @@
+Customer ID: 1488-SYSFC
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection has been really slow and unstable lately.  It's been dropping out frequently. 
+
+Agent: I understand your frustration, [Customer Name].  I can help with that.  Could you please provide me with your account number?
+
+Customer: It is [account number]
+
+Agent: Thank you for providing your account information.   We'll take a look into this for you. 
+
+Customer:  Thank you!
+
+
+Agent:  Our team has identified an issue on your end and we are currently working on resolving it. We anticipate a resolution within the hour. 
+    
+Customer: Thanks so much, that's great news
+
+Agent: I appreciate your patience.  Thank you for contacting us. 
+
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks to the agent for quickly addressing my internet issues and providing updates on their resolution!
+Sentiment: Positive

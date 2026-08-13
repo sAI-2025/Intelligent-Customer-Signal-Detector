@@ -1,0 +1,19 @@
+Customer ID: 1699-HPSBG
+Topic: customer questions monthly service price
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I was looking at my monthly bill and noticed a big increase in pricing. How come?
+Agent: Thank you for contacting us.  Could you tell me what service plan you're on? 
+Customer: I'm on the basic DSL plan.  I've been paying $59.8 per month since last year. 
+Agent: I see, with your one-year contract and DSL internet, your monthly price has always remained at $59.8.
+Customer: Right, but it seems so much higher lately! Is there a reason for this?
+Agent:  There are no changes to our pricing plans that would affect your monthly cost. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm still confused about the increase and wish I had more information on what might be causing it. 
+
+
+**Explanation:** The customer expresses confusion and a desire for clarification, even though they were told there weren't changes in pricing plans.
+Sentiment: Negative

@@ -1,0 +1,23 @@
+Customer ID: 0376-YMCJC
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is really slow and I can barely load any pages.  It's been going on all day.
+
+Agent: I understand your frustration, [Customer Name].  I want to help get this issue resolved for you as quickly as possible. 
+
+Customer: Thanks! Can you check my signal strength? My internet feels like dial-up. 
+ 
+Agent: Let's do that, please allow me a moment while checking on your connection.
+
+Customer: Okay thanks, I appreciate the help.
+
+Agent: Based on our records, you're currently experiencing a slight latency issue. We just have a few updates we want to run for you. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out!  It seems much better now.
+Sentiment: Positive

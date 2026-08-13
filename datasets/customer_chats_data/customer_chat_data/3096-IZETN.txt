@@ -1,0 +1,18 @@
+Customer ID: 3096-IZETN
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, my internet speed has been really slow this evening. It seems like everyone is using it at the same time. 
+Agent: I understand your frustration. Can you tell me what kind of speeds you're experiencing? 
+Customer: My download speed has been stuck at around 20 Mbps. Upload is pretty much unusable. 
+Agent: Let's take a closer look. Could you please run our diagnostic tool and let me know the results? 
+Customer: Done, here are the results: [diagnostic tool results]
+Agent: Thank you for providing that information. I'm going to escalate this issue to our network engineers.  
+Customer: Thanks, any idea how long it might take? 
+Agent: We'll work on resolving this as quickly as possible. I expect your speed to return to normal within the next hour. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this!  Fingers crossed my internet will be back to normal soon.
+Sentiment: Positive

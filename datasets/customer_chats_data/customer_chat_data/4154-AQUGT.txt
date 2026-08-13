@@ -1,0 +1,17 @@
+Customer ID: 4154-AQUGT
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is very slow. I can barely watch videos or play games. 
+Agent:  I understand your frustration, Mr./Ms. [Last Name], and I apologize for the inconvenience. Please tell me a little more about what you're experiencing? 
+Customer: The ping during online gaming is over 200 ms. This never happened before.
+Agent:  Ok, I see that you’ve been on a month-to-month plan and have been a customer for 13 months. Have you noticed any changes in your area recently?
+Customer: No changes at all in my house or neighborhood.
+Agent: Let me check the system and I'll be right back with you.  We will investigate this issue as soon as possible.
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While grateful for the prompt response, it seems the problem still persists after checking the system."
+Sentiment: Neutral

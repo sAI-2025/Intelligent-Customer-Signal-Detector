@@ -1,0 +1,16 @@
+Customer ID: 0060-FUALY
+Topic: phone signal weak or unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble making calls on my phone today.  Is there any way to speed up the resolution process? 
+Agent: Hi there!  I'm sorry to hear you're experiencing problems with your phone signal. Can you please tell me what device and location you are in? 
+Customer: I am using my iPhone, and I'm in [City, State].  I also have a strong internet connection, but the signal is very weak.  
+Agent: Thanks for that information. I see there's a reported outage in your area.  Would you like to be escalated to our technical team? 
+Customer: Please. It would be great if we can get this resolved today. 
+Agent: Absolutely! We'll have our team work on getting your signal back up and running by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a quick resolution and I appreciate being kept updated throughout the process.
+Sentiment: Positive

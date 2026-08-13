@@ -1,0 +1,24 @@
+Customer ID: 3082-WQRVY
+Topic: movies buffering during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble buffering while watching movies on my streaming service. 
+
+Agent:  Hi there!  I understand you're having some issues with buffering during movie playback.  Can you tell me a little more about the issue? 
+
+Customer: Yes, it's very slow and interrupts my viewing quite often. I just started this plan a year ago.
+
+Agent:  I see you have a one-year contract and are on the $19.65/month plan.  Do you use a wired connection or wireless for your internet? 
+
+Customer: My internet is No, it's only Wi-Fi. I’ve tried changing settings but still get buffering. 
+
+Agent: Thank you for providing that information! I can definitely help with this. What are the specific movies/shows you're having trouble with? 
+  
+Customer:  Mostly action and comedy. It seems to be happening more during these genres. 
+
+Agent: Okay, thanks! I will check into this for you.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for your help, it seems like the buffering issue has been resolved!"
+Sentiment: Positive

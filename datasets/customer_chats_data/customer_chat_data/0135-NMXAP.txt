@@ -1,0 +1,17 @@
+Customer ID: 0135-NMXAP
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with the internet connection lately. The latency is just way too high, making it really slow to load websites and play online games. 
+Agent:  I understand your frustration, let me check on what might be causing this issue. Can you please tell me your full name and account number?
+Customer: My name is John Smith, and my account number is XXX-XXX-XXXX.
+Agent: Thank you for that information, John. I'm seeing some reports of a temporary network outage affecting our Fiber optic customers in your area. 
+Customer: Oh no, that sounds terrible! Is there any estimate on when it might be resolved? 
+Agent: We are working to fix the issue as quickly as possible. We expect it should be resolved within an hour or two.
+Customer:  Okay, thanks for letting me know.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for keeping me updated on the outage! Hopefully things will return to normal soon.
+Sentiment: Neutral

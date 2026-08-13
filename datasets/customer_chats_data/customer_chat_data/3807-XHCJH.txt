@@ -1,0 +1,15 @@
+Customer ID: 3807-XHCJH
+Topic: selected movie unavailable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I can't seem to find my selected movie on your platform. 
+Agent:  I understand you're having trouble finding your selected movie. May I please know what the movie title is?
+Customer: It was "Spider-Man: No Way Home". 
+Agent:  "Spider-Man: No Way Home" is currently unavailable for streaming on our platform. We apologize for the inconvenience. 
+Customer: That's fine, thanks for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the quick response and explanation.
+Sentiment: Positive

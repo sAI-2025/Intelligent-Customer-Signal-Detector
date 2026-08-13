@@ -1,0 +1,24 @@
+Customer ID: 9305-CDSKC
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! I'm experiencing some serious slowdowns on my internet connection today, especially during peak hours. 
+
+Agent:  I understand your frustration. Can you please tell me more about what kind of slowdown you're seeing? 
+
+Customer: My speeds are dropping drastically down to like 10-15 Mbps when everyone else is streaming.
+
+Agent: We have a few things going on, but I can check our system status for any major outages.
+
+Customer:  Thanks! Let me know if there's anything I need to do from my end. 
+
+Agent: No worries at all. Just give us a moment and we’ll get back to you with updates.
+
+Customer: Thanks! 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The update was quick, but I'm still hoping for some faster speeds soon."
+Sentiment: Neutral

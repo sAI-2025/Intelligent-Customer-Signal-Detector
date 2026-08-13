@@ -1,0 +1,27 @@
+Customer ID: 1755-FZQEC
+Topic: promotional pricing is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble understanding the promotional pricing for your new plans. 
+
+Agent:  Of course!  Can you please tell me which specific plan you are referring to?
+
+Customer: The one with the free streaming service for a year. 
+
+Agent:  I see that. You mentioned the "free streaming" offer is part of the promotion.  Could you clarify what you've been reading or how the pricing works in the details? 
+
+Customer: I saw it online, but I can't figure out exactly which plan has free streaming.
+
+Agent:  You are correct! Our promotional offers often change and vary by location. Please confirm your city/state for me so we can look into this together.
+ 
+Customer: [City]
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the help, it would be helpful to have a clear breakdown of the plans and their promotions with specific pricing details."
+Sentiment: Neutral

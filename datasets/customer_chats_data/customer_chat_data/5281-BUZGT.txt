@@ -1,0 +1,17 @@
+Customer ID: 5281-BUZGT
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet has been extremely slow lately, especially during peak hours. Is there a known issue?
+Agent: I understand your concern!  Let's investigate this further. Can you provide your account information so we can look at your usage and speed test results? 
+Customer: Sure, my account number is 1234567890 and my name is John Smith.
+Agent: Alright John, thank you for that information. Based on our records, there doesn't seem to be any widespread network issues.  We can run a speed test anyway just to be sure. 
+Customer: That sounds good.
+Agent: The result of the speed test shows your internet is running at peak speeds. We might need to adjust some settings on your end!  We're checking for potential configuration errors. 
+Customer: Thank you, that's very helpful! I appreciate your time and help with this! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your thorough investigation and helpful advice!  Definitely feels like my internet is back to normal now."
+Sentiment: Positive

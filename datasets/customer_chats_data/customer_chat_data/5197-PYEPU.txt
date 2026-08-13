@@ -1,0 +1,15 @@
+Customer ID: 5197-PYEPU
+Topic: streaming stops while changing channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble changing channels on my streaming service. It keeps pausing and buffering. 
+Agent:  I understand your frustration. To troubleshoot this issue, could you please tell me what device you're using to stream? 
+Customer: My Roku TV, I just switched from ABC to ESPN 
+Agent:  Okay, thank you for that information. We'll investigate further to resolve the issue.
+Customer:   Thanks!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for your help, I appreciate it! Glad I didn't have to wait forever for a solution."
+Sentiment: Positive

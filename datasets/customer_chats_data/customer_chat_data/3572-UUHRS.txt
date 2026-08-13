@@ -1,0 +1,19 @@
+Customer ID: 3572-UUHRS
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my internet is really slow lately and I'm getting high ping when playing online games. 
+Agent:  I understand your frustration with the slow connection. Can you please provide me with your account number or email address so I can check on your service details?
+Customer: My account number is [account number].
+Agent: Thank you for providing that information.  I'm going to take a look at your connection now and see if we can pinpoint the issue. 
+Customer: Great, thanks! 
+Agent: We will be able to resolve this for you. 
+Customer:  Thank you. 
+Agent:  We have already started troubleshooting your latency issues. Please wait for further updates. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick response and help!  I'll update this chat to let you know what happens after I check my connection.
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 0516-WJVXC
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need some help troubleshooting my internet speed. It's way slower than expected.
+
+Agent: Hi there!  I understand you're experiencing slow speeds and would like to see what can be done about it. 
+
+Customer: My usual speed is around 15 mbps, but now it's barely over 2 mbps. 
+
+Agent: I'll check the logs for any service disruptions or issues in your area. 
+
+Customer: Thanks! Hopefully this gets resolved quickly.  
+ 
+Agent: No problem at all. We can get this sorted out. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly, it's already better than before!
+Sentiment: Positive

@@ -1,0 +1,25 @@
+Customer ID: 2676-OXPPQ
+Topic: customer dissatisfied with music catalog
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My music catalog is just a bunch of junk!  I mean, where are all the new artists and genres I was promised? 
+
+Agent:  I understand your frustration.  May I have your account number so I can take a closer look at your subscription details?
+
+Customer: Sure, it's [Account Number]. 
+
+Agent: Thank you for providing that information. Your subscription has been active for six months and includes over 150 million songs. Do you have any specific genres or artists in mind that you are looking for? 
+
+Customer:  Yeah, I am looking for more hip-hop and indie music. 
+
+Agent: I can certainly help with that! We offer a curated selection of music from emerging and established artists within those genres. Would you like me to show you some examples? 
+
+Customer: Yeah, please.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is much better than I expected!  The agent really took the time to understand my needs and provide helpful suggestions.
+Sentiment: Positive

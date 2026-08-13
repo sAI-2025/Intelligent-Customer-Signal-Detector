@@ -1,0 +1,17 @@
+Customer ID: 6867-ACCZI
+Topic: live TV freezes during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble with my live TV service. It keeps freezing during playback. 
+Agent:  I understand that you're experiencing issues with your live TV service, and we'll do everything we can to help you get it back working! 
+Customer: My internet speed is good, and the issue began after a recent software update.
+Agent: Thank you for letting me know about the recent software update.  I have accessed your account information and found no known issues with our service. 
+Customer: I'm concerned that this could be a signal of a larger problem. My contract is two years, and I'm paying $52.5 per month. 
+Agent: I understand your concern, but the issue may arise due to the recent update. I suggest you try restarting your TV or router. Thank you for contacting us. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, I'm still concerned about this recurring issue and would like to see a solution beyond simple troubleshooting steps.
+Sentiment: Neutral

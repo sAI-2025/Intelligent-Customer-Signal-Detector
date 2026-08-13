@@ -1,0 +1,18 @@
+Customer ID: 2133-TSRRM
+Topic: customer needs equipment replacement
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to replace my modem and router. My old equipment isn’t working properly anymore. 
+Agent: Hello! I understand you'd like to replace your modem and router.  Can you please provide me with your account number?
+Customer: Sure, it's 1234567890.
+Agent: Thank you. Based on your account details, I see you have a month-to-month contract for $105.35 per month and fiber optic internet.  
+Customer: Is there a specific replacement model you recommend?
+Agent: We offer several options based on your needs. Which speeds do you prefer? 
+Customer: Something around 200 Mbps download would be good, thanks.
+Agent: Great! I can provide some recommendations for modem and router combinations with that speed level.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and provided clear options based on my needs.
+Sentiment: Positive

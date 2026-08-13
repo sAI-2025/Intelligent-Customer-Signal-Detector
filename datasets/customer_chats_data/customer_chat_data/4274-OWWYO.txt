@@ -1,0 +1,19 @@
+Customer ID: 4274-OWWYO
+Topic: hardware configuration problem
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble configuring my new router. It’s not connecting to the Wi-Fi and showing a "Connection failed" error message. 
+Agent:  I understand you're having trouble connecting your Wi-Fi. Can you please tell me what model of router you have?
+Customer: It’s the [Router Model Name] with the fiber optic connection.
+Agent: Okay, I can help with that. Please give me a moment to review your account and then we'll walk through some troubleshooting steps. 
+Customer: Okay.
+Agent:  Let's start by ensuring your router is placed correctly in your home and near the device you want to connect to Wi-Fi. 
+Customer: Done, it's on a flat surface. 
+Agent:  Okay, sometimes restarting the router can resolve connection issues. Let me guide you through that process.
+Customer:  Thanks for the help!
+Agent:  Please follow these steps, and let me know if anything else comes up. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and patient in troubleshooting my router issue!
+Sentiment: Positive

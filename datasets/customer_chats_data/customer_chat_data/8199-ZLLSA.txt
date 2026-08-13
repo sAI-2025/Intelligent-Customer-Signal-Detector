@@ -1,0 +1,18 @@
+Customer ID: 8199-ZLLSA
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet speeds today.  It seems very slow during peak hours. 
+Agent: I understand your frustration, and thanks for reaching out! Can you please tell me which device you are experiencing this issue on?
+Customer: It's happening on my laptop and my gaming console, too.
+Agent: Alright, I see the recent activity around peak hours.  I can definitely help with that. Would you like to confirm your account details for verification? 
+Customer: Sure, my name is [Name] and my account number is 1234567. 
+Agent: Thank you.  I'm going to check the network status now.  
+Customer: Okay. Thanks!
+Agent: I can confirm that we have some service interruptions during peak hours today. We are working on it right away and will provide updates as soon as possible.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the issue, and the update is appreciated."
+Sentiment: Positive

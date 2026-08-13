@@ -1,0 +1,21 @@
+Customer ID: 0378-TOVMS
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having frequent internet disconnections and they are really frustrating. 
+Agent: Hello!  I understand how frustrating that must be. May I ask what device you're experiencing this issue with?
+Customer: It happens on all my devices, laptops, phones, etc.
+Agent:  Okay, can you tell me your account number?
+Customer: It's [Account Number]
+Agent: Thank you. I’m looking into the details of your Fiber Optic connection now. 
+Customer: Thanks!
+Agent: We're able to resolve this for you. 
+Customer: Okay! 
+Agent:  We will need a short troubleshooting session to get everything back to normal. The disconnections seem related to network congestion in the area, we'll work on that for you.
+Customer: Sounds good.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting my internet back up and running! I appreciate your help with this issue.
+Sentiment: Positive

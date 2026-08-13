@@ -1,0 +1,25 @@
+Customer ID: 6559-ILWKJ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is extremely slow and keeps dropping out. It's been happening for the past couple of days. 
+
+Agent: I understand your frustration, let me take a look into this for you.  Could you please provide your account number?
+
+Customer: Yes, my account number is XXX-XXXXXXX.
+
+Agent: Thank you. Let me check the status of your connection. 
+
+Customer: I've also been experiencing issues with download speeds being extremely slow even when doing simple tasks like checking emails. 
+    
+Agent:  I see there are some recent outages reported in your area. We are currently working to resolve this issue and minimize any disruption to your service.
+
+Customer: Okay, thank you for letting me know. 
+
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining the situation and I appreciate their update on the outage.
+Sentiment: Positive

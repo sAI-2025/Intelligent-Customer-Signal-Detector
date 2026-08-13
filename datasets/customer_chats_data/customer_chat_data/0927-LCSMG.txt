@@ -1,0 +1,18 @@
+Customer ID: 0927-LCSMG
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is extremely weak in my bedroom, even though I'm right next to the router. 
+Agent:  I understand your concern. Could you please provide me with your account information and the specific room where you are experiencing issues? 
+Customer: Account number: 1234567890, room is on the second floor in the back of the house
+Agent: Thank you for providing that information. We have a few resources available to help troubleshoot this issue.  Would you like me to walk you through them or would you prefer we schedule an engineer visit? 
+Customer:  Please help me with troubleshooting first, thank you!
+Agent: Sure thing, let's check your modem settings and router placement. 
+Customer: I have checked my router placement. It's the optimal spot as per the instructions. 
+Agent: Okay, thanks for checking that. Let me just run some tests and I will get back to you in a moment.   
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quickly helped me troubleshoot the issue. Hopefully this resolves the weak Wi-Fi problem!
+Sentiment: Positive

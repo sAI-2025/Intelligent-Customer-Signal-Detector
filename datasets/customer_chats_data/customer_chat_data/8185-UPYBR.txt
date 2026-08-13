@@ -1,0 +1,17 @@
+Customer ID: 8185-UPYBR
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet at my home. 
+Agent:  I understand. Can you please tell me your account name and the last time you experienced an issue?
+Customer: My name is John Doe and the last time it was slow was around 5:00 pm yesterday. 
+Agent: Thank you for that information, Mr. Doe. Could you describe what kind of problem you're experiencing? Is it speed or connection dropping often?
+Customer: Speed seems to be fluctuating a lot; sometimes super fast, then just laggy and slow. It's been happening on and off all day today. 
+Agent:  I'm sorry for the inconvenience. I can take a look at your account details and see what we can do to get this resolved. 
+Customer: Okay thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and hopefully my internet connection will be back to normal soon."
+Sentiment: Positive

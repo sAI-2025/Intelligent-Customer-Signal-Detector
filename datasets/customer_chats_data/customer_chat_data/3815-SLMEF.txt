@@ -1,0 +1,19 @@
+Customer ID: 3815-SLMEF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My upload speed is much slower than expected. I just finished a speed test and it's at 3Mbps when my plan says it should be 10Mbps.
+Agent: Thank you for reaching out to us, I understand your concern. Can you please provide me with your account number and the exact address where you are currently located?
+Customer: Sure, here’s my account number [account number] and I'm in San Francisco. 
+Agent:  Okay, I've logged into your account and I've checked on the recent speeds reported from your area. It seems there could be a service issue at the moment.
+Customer: Oh, great!
+Agent: We are working to resolve it as quickly as possible. Would you like to proceed with a speed test again once things are back up? 
+Customer: Yes please.  
+Agent: Alright, I’ll initiate a new speed test for you right now. Let me know if you need anything else in the meantime. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a much better experience than I expected!  I appreciate your quick response and updates.
+Sentiment: Positive

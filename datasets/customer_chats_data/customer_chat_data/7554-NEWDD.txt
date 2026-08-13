@@ -1,0 +1,17 @@
+Customer ID: 7554-NEWDD
+Topic: website login not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My website login isn't working and I can't access my account. 
+Agent: Hello! Thank you for reaching out to our support team.  Can you please tell me your username and password? 
+Customer: It's JohnSmith1234. 
+Agent: Let's try resetting your password, then we can check if the login issue is still there. 
+Customer: Ok 
+Agent: We will initiate a password reset for you now. Please keep an eye on your email. 
+Customer: Thanks 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and efficient, thanks! I appreciate the help resolving my login issue.
+Sentiment: Positive

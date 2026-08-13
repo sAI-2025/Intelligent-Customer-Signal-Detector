@@ -1,0 +1,17 @@
+Customer ID: 3617-XLSGQ
+Topic: customer wants cancellation fee clarification
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was calling to clarify the cancellation fee on my service.  I have a two-year contract with your company and need help understanding how much it will cost me to cancel. 
+Agent: Hello! Let's figure this out for you. Could you please provide your account number? 
+Customer: Sure, it's [account number].
+Agent: Thank you. Your monthly rate is $109.25 and your contract term is 66 months.  How would you like to proceed with the cancellation? 
+Customer: I am ready to cancel the service and just want to understand how much the fee will be for early termination. 
+Agent: We do charge a cancellation fee based on the remaining balance of your contract, which in this case is $109.25. 
+Customer: Okay, that makes sense. Thanks for clearing that up.
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in explaining the cancellation process!
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 6979-ZNSFF
+Topic: customer unable to update account information
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need help updating my account information. It seems like it’s not working. 
+Agent: I understand,  can you please provide your full name and the email address associated with your account?
+Customer: My name is John Smith and the email is johnsmith@email.com.
+Agent: Thank you, John. We're just checking for any updates in your profile. 
+Customer: It’s been a while since I last changed my address on the website. 
+Agent:  I see, and we can help with that. Could you please provide us with your new address? 
+Customer: My new address is 123 Main Street, Anytown, CA 91234. 
+Agent: Thank you for providing that information, John. We'll update your account as soon as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in getting my account updated!
+Sentiment: Positive

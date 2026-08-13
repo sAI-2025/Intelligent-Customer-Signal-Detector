@@ -1,0 +1,17 @@
+Customer ID: 8058-INTPH
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't connect to the internet at all right now. 
+Agent:  I understand your concern. Can you please provide me with your account number and address? 
+Customer: Here it is, #1234567890, my address is 123 Main Street.
+Agent: Thank you. I'm looking into the issue now. Please stay on the line with me while we investigate further.  
+Customer: Okay, thanks.
+Agent: We have detected a technical outage affecting your service in the area. It should be resolved within the hour at the latest. 
+Customer: Great, thank you for letting me know.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for keeping me updated and resolving the issue!  😊
+Sentiment: Positive

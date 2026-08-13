@@ -1,0 +1,17 @@
+Customer ID: 0877-SDMBN
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is really slow, can't even load websites or play games! 
+Agent: I understand your frustration.  Can you please tell me your account number and what device you are using?
+Customer: Here it is, 1234567890, I'm on my laptop.
+Agent: Thank you. We're having some intermittent service issues with our Fiber network.  We'll look into this right away. 
+Customer: Okay. How long will this take to fix?
+Agent:  I'm going to escalate your case now and we'll keep you updated on the progress of the troubleshooting process.  
+Customer: Thanks, I appreciate it!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly! Hopefully they can fix this soon."
+Sentiment: Positive

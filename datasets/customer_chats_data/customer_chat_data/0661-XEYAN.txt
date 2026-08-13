@@ -1,0 +1,18 @@
+Customer ID: 0661-XEYAN
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Hello! What's your account number and the name of the address where you are experiencing this issue?
+Customer: It's 1234567890. The house is at 42 Oak Street. I am having trouble connecting to Wi-Fi, especially in the living room.  
+Agent: Okay, thank you for that information. Let me just pull up your account details here. 
+Customer: Thank you!
+Agent: Based on my review of your account and signal strength data, we are experiencing a fluctuation in the signal.  It might be due to location or interference from other devices.  Would you like to try resetting your router?
+Customer:  Yes please! Thanks for the help. 
+Agent: Of course! Just follow these steps. I'm here if you need anything else.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quickly resolved my Wi-Fi issue. Thank you!
+Sentiment: Positive

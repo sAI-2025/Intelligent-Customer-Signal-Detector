@@ -1,0 +1,22 @@
+Customer ID: 6338-AVWCY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. It's only averaging 1 Mbps, while I'm paying $40.15 a month for DSL with peak speeds of 5 Mbps advertised.  Is there something wrong with my connection?
+
+Agent: I understand your frustration. Let's take a closer look at your account. What is your current address and service plan details?
+
+Customer: My address is [address] and my service plan is a month-to-month DSL agreement. 
+
+Agent: Thank you. We can check the upload speed limitations for your area.  Did you experience any recent changes in your network setup or equipment? 
+
+Customer: No, everything seems normal on my end. 
+
+Agent: I've reviewed your account and it appears that there may be an issue with the DSL line at your location. We will send out a technician to check for interference.  Would you like me to escalate this case further?
+   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this resolved so quickly! Hopefully, the technician finds and fixes the issue with my DSL line."
+Sentiment: Positive

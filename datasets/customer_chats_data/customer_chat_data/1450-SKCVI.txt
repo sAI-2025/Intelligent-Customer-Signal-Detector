@@ -1,0 +1,27 @@
+Customer ID: 1450-SKCVI
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet speed is really slow and keeps dropping out lately. 
+
+Agent: I understand your frustration. May I ask what device and plan you have?
+
+Customer: I'm using a laptop, with the $73.85/month fiber optic package. 
+
+Agent:  Let me check on your account.  *[Checks account]*. 
+
+Customer: Okay, thanks! 
+
+Agent: There are no reports of outages in your area.  I see you're currently using a data cap plan and might be over the limit.  
+
+Customer: Oh, how can I check my actual usage?
+
+Agent: You can view your current usage by logging into your account online or through our app. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful in figuring out why my internet is slow. Thanks!
+Sentiment: Positive

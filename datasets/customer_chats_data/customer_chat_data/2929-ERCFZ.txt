@@ -1,0 +1,17 @@
+Customer ID: 2929-ERCFZ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet has been really slow today, especially during peak hours. It's barely working at all.
+Agent: I understand your concern, [customer name].  Can you please confirm your modem and router are properly configured? 
+Customer: Yeah, everything seems alright with the setup. 
+Agent: Let me check our network logs for any potential congestion issues during peak hours. 
+Customer: Okay, thanks.
+Agent: I've found a few instances of high traffic on the network. We may need to adjust your bandwidth allocation based on usage patterns.  
+Customer: That sounds good. Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for your help resolving my slow internet! It seems like things are running smoothly now.
+Sentiment: Positive

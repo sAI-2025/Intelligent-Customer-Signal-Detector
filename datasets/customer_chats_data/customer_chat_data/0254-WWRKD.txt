@@ -1,0 +1,24 @@
+Customer ID: 0254-WWRKD
+Topic: inconsistent internet connection quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping in and out. 
+
+Agent:  I apologize for the inconvenience, what is your account number?
+
+Customer: 1234567890
+
+Agent: Okay, I see you have a DSL connection. Can you please tell me what specifically is happening? Is there any specific website or activity that causes the problem?
+
+Customer:  It's all over the place, especially when I stream videos. It’s frustrating! 
+
+Agent: Thank you for providing that information. We will look into this issue and resolve it as soon as possible. 
+
+Customer: Great, thanks.
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly, I appreciate your help!
+Sentiment: Positive

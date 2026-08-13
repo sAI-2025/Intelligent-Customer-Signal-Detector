@@ -1,0 +1,27 @@
+Customer ID: 6339-RZCBJ
+Topic: customer cannot access subscribed TV channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble accessing some of my subscribed TV channels. 
+
+Agent:  I understand, let's figure this out together. Can you please tell me what specific channels are you unable to access?
+
+Customer: It seems like I can’t get the local news channel and a couple of popular sports networks.
+
+Agent: I see. Have you tried restarting your TV box or router? 
+
+Customer:  I did but it didn't help. 
+
+Agent: Okay, let me check on your account and see if there are any reported issues from our end.
+
+Customer: Thanks!
+ 
+Agent: We’re looking into this now. I'll update you as soon as we have a resolution. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was frustrating, but I appreciate the prompt response and updates!
+Sentiment: Negative

@@ -1,0 +1,17 @@
+Customer ID: 2474-BRUCM
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble getting a download speed of over 5Mbps on my Fiber optic plan.  I haven't had this issue before.
+Agent: Thank you for contacting us. Can you please tell me your account information so we can look into this further?
+Customer: My account number is 1234567890.  My name is John Smith, and I pay $101.85 monthly on a month-to-month contract.
+Agent: We have you down as having Fiber Optic internet with a plan for 50Mbps download speed. 
+Customer:  I'm sure something must be wrong. It just started this week! I paid extra for it in case of slow speeds. 
+Agent:  Let me check the details and then we can go from there. 
+Customer:  Thank you, John Smith
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's help, but I still need clarification on why my speed is dropping despite paying extra for it.
+Sentiment: Neutral

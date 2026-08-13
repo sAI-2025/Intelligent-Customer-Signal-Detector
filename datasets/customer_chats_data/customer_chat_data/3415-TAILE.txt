@@ -1,0 +1,22 @@
+Customer ID: 3415-TAILE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting a strong Wi-Fi signal in my living room. 
+
+Agent:  I understand! It's frustrating when your connection is weak.  Can you tell me more about the issue?  
+
+Customer:  The signal barely works there. Sometimes it drops completely. I've moved my router around, but nothing seems to help. 
+
+Agent:  Okay.  Could you please confirm your address and account number so I can access your plan information? 
+
+Customer: My address is [insert address], and my account number is [insert account number].
+
+Agent: Thank you for providing that information.   I've checked your account and it looks like a signal upgrade may be necessary in the living room area.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this!  Hopefully, a signal upgrade will resolve my connectivity issues."
+Sentiment: Positive

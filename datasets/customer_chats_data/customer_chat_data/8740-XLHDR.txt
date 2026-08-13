@@ -1,0 +1,24 @@
+Customer ID: 8740-XLHDR
+Topic: new service activation delayed
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I wanted to check on the status of my new service activation, it’s been over two days. 
+
+Agent:  I understand your concern, customer. May I have your account number and address for verification? 
+
+Customer: Sure, account number is [account number], address is [address].
+ 
+Agent: Thank you for providing that information, let me double-check the status. There may be a slight delay due to some recent network maintenance in your area.  
+ 
+Customer: Oh, alright, thanks for letting me know. 
+ 
+Agent:  I'll provide an estimated time of completion shortly.
+
+Customer: Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and transparent about the delay in service activation.
+Sentiment: Positive

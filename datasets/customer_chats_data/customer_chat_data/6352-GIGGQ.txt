@@ -1,0 +1,22 @@
+Customer ID: 6352-GIGGQ
+Topic: customer wants to downgrade internet plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to downgrade my internet plan.
+Agent:  Certainly, I can help with that. What is your current plan? 
+Customer: I have the DSL plan.  It's been a year since I signed up, and it costs $88.8 per month.
+Agent:  I see. We offer several plans for different needs and budgets. Would you like to explore some options with us?
+Customer: Yes please. 
+Agent: Alright, I can run through the details of our available plans. What is your budget range?
+Customer: Under $70 per month. 
+Agent:  Great! We have a few plans that fit that criteria. Would you like me to explain them further? 
+Customer: Yes please. 
+Agent:  Absolutely, here are the details of the available plans: [plan information and description] 
+Customer: Thank you!
+Agent:  No problem at all. Thank you for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and knowledgeable in explaining the different options, and I appreciate their assistance finding a plan that fits my budget.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1154-HYWWO
+Topic: mobile data disconnects frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having frequent disconnects on my mobile data. It's been happening for about a week now. 
+Agent: I understand you're experiencing frequent mobile data disconnections.  What device are you using and what is your plan details?
+Customer: My phone is an iPhone 13,  I'm on the $70.6 per month plan with unlimited talk and text, and have a DSL internet connection.
+Agent:  Thank you for providing that information.  We will look into this issue. 
+Customer:  Could you tell me what to do while it's being looked at?
+Agent: Yes, I recommend checking your data usage and restarting your phone. 
+Customer: Okay, thanks.   I hope you can fix this soon!
+Agent: We'll have that resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for your quick response and timeline.  Hopefully this gets sorted out soon!"
+Sentiment: Positive

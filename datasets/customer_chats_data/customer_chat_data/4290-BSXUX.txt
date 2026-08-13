@@ -1,0 +1,24 @@
+Customer ID: 4290-BSXUX
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I'm having trouble getting a strong Wi-Fi signal in some of my rooms. 
+
+Agent: Hi there! I understand you're experiencing weak internet connection in certain areas of your home.  Can you please tell me more about the specific rooms and what devices you're using?
+
+Customer:  It seems to be mostly in the back bedroom and living room, where the router is located. 
+ 
+Agent: Thank you for providing that information. I can look into that.  Do you have any other details or concerns?
+
+Customer: My speed is okay, but speeds are slow when streaming videos on Netflix.  Is there a setting to improve the signal strength?
+
+Agent: We definitely want to help with that!  Based on your Fiber optic connection and router location, we may need to adjust your Wi-Fi settings or check for any interference from other devices. 
+
+Customer: Thanks! 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and professional, and I'm hopeful the adjustments will improve my signal strength.
+Sentiment: Positive

@@ -1,0 +1,28 @@
+Customer ID: 5451-YHYPW
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need help understanding my service plan options.
+
+Agent:  Hello!  I understand you want to explore your service plans. 
+
+Customer: My current plan is the $115.75 Fiber plan with a two-year contract. It's been 72 months, and I'm not sure what else is available.
+
+Agent: You are currently on our Premium Fiber plan.  We do have options to upgrade to faster speeds or switch to different features. Would you like me to go over those?
+
+Customer: Yes, please. 
+
+Agent:  Of course! Our plans start at $129.99/month for an increase in speed and data allowance. We also offer additional services such as bundled TV and home phone packages. 
+
+Customer: That's helpful. But I would like to stay on the same basic plan, if possible.
+
+Agent:  Understanding! Would you still like me to go over any of those options? 
+
+Customer: Yes. 
+
+Agent:  Okay. We offer various plans with different speeds and data allowances at a variety of prices.  I'm here to answer your questions about those plans. What would
+
+----------------------------------------
+Feedback: Feedback: "The agent was helpful in explaining the upgrade options, but I ultimately just wanted to stay on my current plan."
+Sentiment: Neutral

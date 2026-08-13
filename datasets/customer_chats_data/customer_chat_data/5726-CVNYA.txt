@@ -1,0 +1,17 @@
+Customer ID: 5726-CVNYA
+Topic: customer reports poor overall service experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I've been having a terrible experience with your service lately. 
+Agent:  I understand you are experiencing difficulties. Can you please tell me a little more about what has been happening?
+Customer: The internet speed is incredibly slow, and customer service representatives have been unhelpful. 
+Agent:  I apologize for the inconvenience. I'd like to take a look into your account to see if there's anything we can do to improve it.  Would you mind giving me your account number? 
+Customer: Here it is, [Account Number]. 
+Agent: Thank you for providing that information. We'll get this sorted out for you as quickly as possible. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the agent's willingness to help, it feels like a small fix won't solve the long-term problem with service."
+Sentiment: Negative

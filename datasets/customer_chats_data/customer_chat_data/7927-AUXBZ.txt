@@ -1,0 +1,17 @@
+Customer ID: 7927-AUXBZ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't connect to the internet at all. 
+Agent:  I understand your concern, let me check on your service status.
+Customer: My speed is down and my connection keeps dropping out. 
+Agent: Thank you for providing more details. I see no reported outages in your area currently.
+Customer: Still no internet? That's strange, especially since it's a fiber optic line. 
+Agent:  I apologize for the inconvenience, I will be checking your account and network connection settings to troubleshoot this.
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this! Hopefully we can get my internet back up and running smoothly soon.
+Sentiment: Positive

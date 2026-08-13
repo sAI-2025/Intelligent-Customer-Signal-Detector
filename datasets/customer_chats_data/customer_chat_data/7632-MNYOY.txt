@@ -1,0 +1,22 @@
+Customer ID: 7632-MNYOY
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet.  It’s completely down. 
+
+Agent: I understand your concern, sir. May I have your account information?
+
+Customer: Sure, it's [customer name] and my account number is [account number].
+
+Agent: Thank you for providing that. Let me check on the status of your service connection. 
+
+Customer:  It’s been like this for over an hour now.
+
+Agent: I apologize for the inconvenience.  I see the issue has been reported, and it should be resolved within the next hour. I will send you updates via email as soon as we have more information. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent acknowledged the problem and promised updates, an hour is too long to wait for internet service to be restored.
+Sentiment: Negative

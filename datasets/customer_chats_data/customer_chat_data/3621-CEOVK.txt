@@ -1,0 +1,23 @@
+Customer ID: 3621-CEOVK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't seem to get online at all. My internet is completely down. 
+
+Agent:  I understand there might be an issue with your connection, I'm sorry for the inconvenience. Please tell me your account name and address so I can check on this matter.
+
+Customer: My name is James Smith, and my address is 123 Main Street, Anytown, USA.
+
+Agent: James, thank you. Let me get started with a technical check on your account.
+
+Customer: Okay. Thanks!
+
+Agent:  I'm looking into the issue now. A fiber optic technician will be dispatched to resolve this for you in the next 2 hours. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this resolved so quickly! Much appreciated."
+Sentiment: Positive

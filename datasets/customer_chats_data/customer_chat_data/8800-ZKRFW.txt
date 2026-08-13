@@ -1,0 +1,24 @@
+Customer ID: 8800-ZKRFW
+Topic: customer has contacted support multiple times
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I wanted to report a problem with my internet speeds. They've been really slow for the past few days. 
+
+Agent:  I understand your frustration, and I apologize for the inconvenience this is causing you. Can you please provide me with your account details so I can look into it?
+
+Customer: My name is John Smith, and my account number is 1234567890. 
+
+Agent:  Thank you, John.  I've checked your account and confirmed that your internet speed has been dropping in recent days.  We can resolve this for you. 
+
+Customer:  That would be great, thank you.  How long will it take to fix?
+ 
+Agent:   Our technicians are actively working on resolving the issue, and we should be able to get your speeds back up within 24 hours. I've also proactively added a temporary speed boost to your account right now.
+
+Customer: Thank you. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this resolved so quickly, much appreciated!"
+Sentiment: Positive

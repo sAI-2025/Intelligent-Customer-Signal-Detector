@@ -1,0 +1,26 @@
+Customer ID: 6734-JDTTV
+Topic: calls dropping unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need help with my calls dropping out unexpectedly. It's been happening for about a week now. 
+
+Agent: I understand your concern. Can you please provide your account number and the last date the issue started?
+
+Customer: Sure, my account number is 1234567890 and it began on October 2nd. 
+
+Agent: Thank you for that information. While we investigate this further, may I ask what device you're using to make calls?  
+
+Customer: I use my mobile phone, a Samsung Galaxy S22.
+ 
+Agent: We will look into the issue with your account and get back to you within 24 hours.
+
+Customer: Thank you.
+
+Agent: Thank you for contacting us. 
+   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and hope they can resolve this call drop problem quickly.
+Sentiment: Positive

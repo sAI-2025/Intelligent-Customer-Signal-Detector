@@ -1,0 +1,27 @@
+Customer ID: 9647-ERGBE
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is significantly slower than expected. I just ran a speed test and it shows only 10 Mbps down from my usual 250 Mbps.  Is there anything you can do about it?
+
+Agent: Hello! Thanks for contacting us. I understand your concern, let me have a look at your account information. 
+
+Customer: I've been with the company for 30 months and pay $100.05 per month for fiber optic internet.  
+
+Agent: No issue with that, sir/ma'am. Your speed test results do raise concerns. We may have a temporary network congestion or an issue on your line. 
+
+Customer: Well, I can't remember the last time my upload speeds were this bad.
+
+Agent: Let me check it out for you now.  Thanks! 
+ 
+Customer: ...I appreciate it.
+  
+Agent: Ok, I see a possible connection problem in your area. We'll get that sorted out for you right away.  Thank you for contacting us.  
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was quick and helpful in resolving the issue. Hopefully this resolves my slow upload speeds permanently."
+Sentiment: Positive

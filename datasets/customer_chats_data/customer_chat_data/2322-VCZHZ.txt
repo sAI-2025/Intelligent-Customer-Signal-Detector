@@ -1,0 +1,17 @@
+Customer ID: 2322-VCZHZ
+Topic: password reset fails
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble resetting my password on your website. 
+Agent:  I understand, how can I help you? Can you please provide me with your email address?
+Customer: My email is [email protected] 
+Agent: Thank you for providing that information. We have verified your account and should be able to reset your password. Please try logging in again.
+Customer: Still no luck! What am I supposed to do now?  
+Agent: If you continue to experience problems, please contact us again through our website support page or call one of our customer service lines for assistance. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in verifying my account, I'm still unable to reset my password and would appreciate some more guidance on next steps.
+Sentiment: Neutral

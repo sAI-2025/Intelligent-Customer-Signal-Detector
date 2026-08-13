@@ -1,0 +1,15 @@
+Customer ID: 0603-OLQDC
+Topic: customer asks how data usage is calculated
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering how my data usage is calculated. 
+Agent:  Sure!  Your data usage is based on your monthly plan and speeds.  Do you have a DSL plan? 
+Customer: Yes, the $69.85/month plan.
+Agent:  Great. Based on our records and your current plan, your data usage is calculated in 100MB increments. 
+Customer:  Thanks!
+Agent:  You're welcome! Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The information was helpful and easy to understand. Thanks!"
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 5228-EXCET
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. It seems slow during peak hours. 
+Agent: We're sorry to hear about your slow connection. Can you please tell us more about what time this is happening? What device are you using and what speed plan do you have?
+Customer:  It’s just been super sluggish, like a dial-up connection at times. My internet speeds test around 100Mbps down. I'm on the 100 Mbps Fiber plan.   
+Agent: We understand, we see some network congestion happening during peak hours. Please check your device's settings and ensure you are using the latest firmware for your router. 
+Customer:  I’ve already restarted the modem and router. It still feels slow. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While restarting my devices helped a bit, I'm still experiencing inconsistent speeds."
+Sentiment: Negative

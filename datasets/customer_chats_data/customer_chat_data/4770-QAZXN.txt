@@ -1,0 +1,15 @@
+Customer ID: 4770-QAZXN
+Topic: customer asks about contract expiration
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I wanted to know when my contract is up?  I have a month-to-month plan and pay $19.45 per month. 
+Agent: Hello! Thank you for reaching out to us. Your current month-to-month plan will be expiring after 13 months on [Date]. 
+Customer: Okay, thanks.  What happens if I don't renew?
+Agent:  If you choose not to renew your contract after it expires, you’ll be able to continue using our service with a new monthly rate based on the current market price for internet.
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and I appreciate the explanation of what happens after my contract ends.
+Sentiment: Positive

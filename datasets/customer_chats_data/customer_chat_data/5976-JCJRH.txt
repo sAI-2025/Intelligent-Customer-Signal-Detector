@@ -1,0 +1,18 @@
+Customer ID: 5976-JCJRH
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some issues with really high latency when streaming online games. 
+Agent: Hello!  I understand you're experiencing some lag during your internet usage.  Can you tell me a bit more about what you've been experiencing?
+Customer: It's unplayable at times, especially on Twitch. My ping is fluctuating between 100 and 300ms. 
+Agent: I see!  What type of connection are you using (Fiber optic)? Have you tried restarting your router or modem?
+Customer: Yes, that hasn't resolved the issue. It's been going on for a couple of weeks now. 
+Agent: Thanks for letting me know.  I can run some diagnostics to see if there are any network problems with your account. Please allow a few minutes while I check the connection.
+Customer: Okay, thanks. 
+Agent: ...There doesn't seem to be a problem on our end.  However, it looks like you might have too many devices connected to your router at once. Let me know if that helps!
+Customer: Thanks for looking into this!  Hopefully the issue gets resolved after some clean-up
+
+----------------------------------------
+Feedback: The agent was helpful and thorough, even though they couldn't pinpoint the source of the problem.  Fingers crossed the cleaning up resolves it!
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 4139-SUGLD
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is way slower than it should be. I'm only getting 1Mbps when my plan says 5Mbps. 
+Agent: We understand your concern about your internet speeds. Can you please provide your account information so we can take a closer look?
+Customer: Sure, it's [account number] and my name is [name]. 
+Agent:  Thanks for providing that. I've taken a look at your account, and it seems there might be some interference with the DSL line. We're currently working on resolving it for you.
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It was good to hear they were looking into things and will try to fix the issue."
+Sentiment: Neutral

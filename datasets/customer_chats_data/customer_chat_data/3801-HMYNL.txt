@@ -1,0 +1,19 @@
+Customer ID: 3801-HMYNL
+Topic: calling service stopped after configuration change
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I just realized my internet service has stopped working. It was working fine earlier today. 
+Agent:  I understand that your internet is down and we're here to help get it back up for you. Can you please provide your account number and the last time you had a successful connection? 
+Customer: My account number is [account number]. The last successful connection was about an hour ago, I made some changes to my router configuration just before that. 
+Agent:  Thank you. Have you tried restarting your modem and router? 
+Customer: That didn't help. It seems to be a problem with the recent configuration change.
+Agent: We understand.  Let me take a look at your account and see what I can do. 
+Customer: Thank you.
+Agent:  I'm checking into this now. Please wait while I investigate further. 
+Customer: Okay, thanks for that. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Frustrating that my internet issue persists after trying a restart, hope it gets resolved quickly."
+Sentiment: Negative

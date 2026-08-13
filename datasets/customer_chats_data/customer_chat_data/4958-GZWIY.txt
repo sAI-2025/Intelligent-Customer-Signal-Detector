@@ -1,0 +1,24 @@
+Customer ID: 4958-GZWIY
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is so slow right now. It’s like trying to watch a video in 3G speeds.  I can barely load basic websites.
+
+Agent: I'm sorry to hear that, [Customer name]. We do experience some congestion during peak hours. 
+
+Customer: Yeah, it happens every time everyone starts using the internet for their work and school! Is there anything you can do about it? 
+
+Agent:  We offer a high-speed upgrade if you are interested, which might help with your speeds. Please let me know if you'd like to discuss that option.
+
+Customer: What would that cost?
+
+Agent: It depends on the speed plan you choose. The base price for our standard speeds starts at $59/month, but we can tailor a plan based on your needs. 
+
+Customer:  Okay. I’ll have to look at my options. Thanks anyway.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the information!  I'll definitely check out upgrading my plan.
+Sentiment: Positive

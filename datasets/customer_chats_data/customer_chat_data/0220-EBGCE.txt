@@ -1,0 +1,22 @@
+Customer ID: 0220-EBGCE
+Topic: outgoing calls failing
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting my calls to go through.  They keep dropping. 
+Agent: Hello! I understand you're experiencing issues with outgoing calls. Could you please tell me your account details? 
+Customer: Sure, it's [account name] and the phone number is [phone number].
+Agent: Thank you for providing that information. Let me look into the issue. 
+Customer:  I just started using fiber optic internet two months ago. Is there a known problem with calls right now?
+Agent: I am going to check on any service outages or known issues affecting your area and will get back to you shortly.
+Customer: Okay, thanks!
+Agent: My apologies for the inconvenience. We have confirmed that there is an outage in your area impacting outgoing calls. The issue should be resolved within the next hour, but I'll update you if anything changes. 
+Customer: Great, thank you. 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a great help! Thanks for letting me know about the outage and giving an estimated resolution time.
+Sentiment: Positive

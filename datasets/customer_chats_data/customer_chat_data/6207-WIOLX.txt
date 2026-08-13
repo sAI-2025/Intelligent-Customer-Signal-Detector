@@ -1,0 +1,27 @@
+Customer ID: 6207-WIOLX
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble staying connected to the internet. It keeps disconnecting frequently. 
+
+Agent:  I understand your frustration. Could you please tell me a little more about what is happening? When do you typically experience these disconnections? 
+
+Customer:  Mostly when I'm streaming or downloading large files. It seems like it happens every hour or so. 
+
+Agent:  Okay, thank you for that information. I want to make sure we get this resolved quickly. 
+
+Customer:  Thanks!
+
+Agent:  I can check your connection and see if there are any issues on our end. Please give me a few minutes. 
+
+Customer: Ok, thanks!
+ 
+Agent:  I'm looking into it now. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient resolution to my issue. Thanks again for your help!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 5797-APWZC
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm having a lot of trouble with my internet connection - it keeps dropping out. 
+Agent: Hello! I'm sorry to hear about your ongoing connectivity issues. May I please have your account details for verification? 
+Customer: Sure, it's [Account Number].  What could be causing this? 
+Agent: Let me look into that for you. It sounds like the fiber optic line may need some troubleshooting. 
+Customer: Thanks! I hope it's something simple to fix. 
+Agent: No problem at all. We'll investigate further and get back to you as soon as possible with an update. 
+Customer: Okay, thanks again. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the agent's quick response and willingness to help!  I hope the issue is resolved quickly.
+Sentiment: Positive

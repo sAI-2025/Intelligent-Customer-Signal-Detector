@@ -1,0 +1,17 @@
+Customer ID: 2957-JIRMN
+Topic: unexpected increase in monthly bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm calling about my recent bill.  I noticed it's gone up significantly! My usual rate was $84.45, but now it's $109.99. 
+Agent: Hello! Thank you for contacting us. Can you please provide your account number so I can pull up your details? 
+Customer: Sure, it's [Account Number].
+Agent:  I see your account and have confirmed a recent increase in your monthly rate.  It appears there might be a service change that impacted the price of your plan.  We will review this further to ensure you're being charged accurately for your services. 
+Customer: Thank you. I was hoping we could discuss adjusting this amount since it's so much higher than my original contract and payment. 
+Agent: We understand your concern, sir. Our team is happy to look into options for you. Please hold while we check on our available plans. 
+Customer:  Okay, thank you. 
+Agent: I've reviewed your account and found a few adjustments that can help. We are offering you the option to upgrade to a fiber internet plan with a monthly rate
+
+----------------------------------------
+Feedback: I appreciate the agent's efforts to find solutions but unfortunately still feel like the cost increase is unjustified given the contract terms.
+Sentiment: Negative

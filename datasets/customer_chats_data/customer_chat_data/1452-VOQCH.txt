@@ -1,0 +1,18 @@
+Customer ID: 1452-VOQCH
+Topic: TV application crashes
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with the TV application crashing every few minutes. 
+Agent:  I understand. Can you tell me what device you are using and which TV application crashes? 
+Customer: It happens on my Roku TV. When I try to access the channels, it just freezes up.
+Agent: Okay, thanks for that information.  Please let me know your account number so I can check for any possible billing issues.
+Customer:  Here it is: [account number]
+Agent: Thank you. Alright, I'm looking into this now and will update you within the hour. 
+Customer: Thanks!
+Agent: Please let me know if you have any other questions. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was a quick and efficient process, thank you!"
+Sentiment: Positive

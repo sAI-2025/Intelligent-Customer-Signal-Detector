@@ -1,0 +1,16 @@
+Customer ID: 8705-WZCYL
+Topic: selected movie unavailable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm trying to watch the new Spider-Man movie but it says it's unavailable.
+Agent:  I understand your frustration, we apologize for the inconvenience! 
+Customer: Is there a reason why? My contract is month-to-month.
+Agent: It might be due to licensing agreements, and our library varies by region.
+Customer: Oh ok. Can you tell me what kind of movies are available now on demand?
+Agent:  Yes, we have many popular titles currently available! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining the availability issues and provided a decent list of current options.
+Sentiment: Neutral

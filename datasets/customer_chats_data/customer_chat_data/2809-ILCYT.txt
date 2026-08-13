@@ -1,0 +1,24 @@
+Customer ID: 2809-ILCYT
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed has been extremely slow lately. It's much slower than my plan is supposed to offer.
+
+Agent: I understand your concern.  Can you please provide your account information so we can investigate further? 
+
+Customer: Sure, it's [account number]. 
+
+Agent: Thank you for that information. Let me look into the details of your account and see what might be causing this issue.
+
+Customer: Thanks.
+
+Agent: I have determined that there may be a problem with your connection.  I've initiated some troubleshooting steps, and we should be back online shortly. 
+
+Customer: Okay.  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and prompt action! Hopefully this resolves the slow download issue."
+Sentiment: Positive

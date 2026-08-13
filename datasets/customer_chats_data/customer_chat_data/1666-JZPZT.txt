@@ -1,0 +1,18 @@
+Customer ID: 1666-JZPZT
+Topic: customer wants to downgrade internet plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to downgrade my internet plan. 
+Agent:  I understand. Can you tell me your current plan and service speed?
+Customer:  It's DSL at $49/month for 10Mbps download speed. 
+Agent: Okay, thanks. We do have plans with speeds up to 50Mbps.  Would that work for you?
+Customer: Maybe, I don't need that much speed.  
+Agent: Well, our slowest plan is $39/month for 25Mbps. Would that be a better fit?
+Customer: Yes, that would be perfect.  
+Agent: Awesome! We can adjust your account to the new plan. Just let me know if you have any other questions. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and efficient in finding a plan that fit my needs."
+Sentiment: Positive

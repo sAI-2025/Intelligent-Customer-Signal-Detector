@@ -1,0 +1,19 @@
+Customer ID: 2790-XUYMV
+Topic: customer questions unlimited data pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I wanted to understand your unlimited data plan better. Can it be used for streaming and downloading? 
+Agent:  Absolutely! Our Unlimited Data plan allows for a wide range of activities like streaming and downloads without any restrictions.
+Customer:  Great, does that apply to all devices?
+Agent: Yes, the Unlimited Data plan applies to all your connected devices, including smartphones, tablets, laptops, etc.
+Customer:  How about international roaming? 
+Agent:  Our Unlimited Data plan includes a limited amount of international roaming data allowance.
+Customer:  What's that allowance? 
+Agent: You can find the details on our website or contact us directly for specific information regarding your plan and roaming.
+Customer:  Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and clear in explaining the plan's features.
+Sentiment: Positive

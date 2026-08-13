@@ -1,0 +1,17 @@
+Customer ID: 6173-ITPWD
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I can't connect to the internet at all.  Everything just says "connection failed".
+Agent: Hello!  I understand you're experiencing internet connectivity issues. My name is Sarah. 
+Customer: Yeah, it's been down for about an hour now.  It seems like everyone else in my building is too.
+Agent: Thank you for letting me know. I can definitely look into this for you. Please provide your account details so we can check on the status of your Fiber connection. 
+Customer: Sure, here's my name and address. Account number is [redacted]
+Agent:  I have everything here and will get this checked out for you. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this issue sorted out, I appreciate your help!
+Sentiment: Positive

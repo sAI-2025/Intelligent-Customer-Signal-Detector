@@ -1,0 +1,17 @@
+Customer ID: 3450-WXOAT
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my bedroom. The signal is very weak there.
+Agent:  I understand your concern. Could you please tell me your account number or address? 
+Customer: My account number is #123456789 and I live at 123 Main Street, Anytown, USA.
+Agent: Thank you for providing that information. We've had some reports of signal strength issues in this area lately.  
+Customer: So what can be done about it? 
+Agent: I recommend checking your router placement, or if possible, using a different device to test the signal strength. Let me know if you have any other questions!
+Customer: Thank you for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your helpful troubleshooting advice, I'll try moving my router around and see if that helps.
+Sentiment: Positive

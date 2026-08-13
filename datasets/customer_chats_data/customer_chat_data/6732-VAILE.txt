@@ -1,0 +1,17 @@
+Customer ID: 6732-VAILE
+Topic: installation or activation fee dispute
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my installation fee. It seems incorrect on my bill. 
+Agent:  I understand your concern, [Customer name]. Can you please provide me with your account number and a brief description of the issue?
+Customer: Sure, it's [customer account number]. The fee was higher than expected for the activation process. My contract is two years old and I don't recall any additional charges. 
+Agent:  I see your account details and confirm that you're on a two-year contract with us. Could you please tell me more about the specific charge? 
+Customer: It's $75 for installation, yet my bill shows it as $120. This is for DSL internet. 
+Agent:  I apologize for any confusion.  Let me double-check that information and get back to you soon. We'll look into the discrepancy and rectify it.  
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, it was resolved quickly and efficiently."
+Sentiment: Positive

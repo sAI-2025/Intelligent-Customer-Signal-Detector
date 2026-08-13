@@ -1,0 +1,19 @@
+Customer ID: 0356-OBMAC
+Topic: customer asks about upgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'd like to upgrade my internet plan. Can you tell me how much it will cost?
+Agent: Of course! To check upgrade pricing, could you please provide your account details or service number? 
+Customer: Sure, my account number is [account number].  My monthly payment is $99.9 and I've had two-year contract for the last 56 months.
+Agent: Thank you for providing that information! Your current plan starts at $129.9 per month. We offer a higher speed option with additional benefits.
+Customer: Hmm, alright. Can I get a breakdown of that? 
+Agent:  Of course.  The new plan would be a faster fiber optic speed and include other perks like streaming services. It will cost $149.9 a month.
+Customer: Okay, sounds good. What about the upgrade fee? 
+Agent: There's no upgrade fee, just the difference in price for your chosen package.
+Customer: That’s great!  Thank you so much for helping me.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and clear in explaining the upgrade options and costs.
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 5135-RDDQL
+Topic: customer wants to upgrade internet speed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to upgrade my internet speed.  My current plan is DSL and it's just not fast enough. 
+Agent:  I understand!  To help me suggest the best option for you, can you tell me what speeds you are looking for? 
+Customer: Ideally around 100 Mbps, but I also need something reliable.
+Agent:  Great, we have plans with speeds up to 100Mbps. Our highest plan is $75.95 per month, but it does come with a bonus! 
+Customer: Hmm, that's a bit steep for me right now. Can you offer something else?
+Agent: We do! Let me check our other options.  
+Customer: Thanks! 
+Agent:  Okay. It looks like we have a plan at $65.95/month with speeds up to 100 Mbps and a great bonus! 
+Customer: Perfect, I'm going with that one! 
+Agent:  Excellent choice!  To finalize your upgrade, would you like me to set this up for you?  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and patient in finding a plan that fit my needs, even when I wasn't entirely sure about the price initially.
+Sentiment: Positive

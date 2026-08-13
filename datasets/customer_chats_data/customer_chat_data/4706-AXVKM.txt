@@ -1,0 +1,19 @@
+Customer ID: 4706-AXVKM
+Topic: network device overheating
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet speed and it seems like my modem is getting really hot. 
+Agent: Hello!  I understand your concern about your modem overheating. What model is your device? 
+Customer: It's a Motorola MB7600.
+Agent: Thank you for that information. I can take a look at the system to see what's going on. 
+Customer: Okay, thanks.
+Agent:  I have located some potential problems with the network settings causing your modem to work harder than usual. 
+Customer:  Well, that explains it! 
+Agent: Just make sure to keep your modem in a well-ventilated area and away from direct sunlight or heat sources. 
+Customer: Thanks, I will. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quickly resolved the issue.  Thanks for the prompt response!
+Sentiment: Positive

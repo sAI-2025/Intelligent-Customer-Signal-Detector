@@ -1,0 +1,25 @@
+Customer ID: 5012-YSPJJ
+Topic: customer wants to dispute a previous payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I want to dispute a charge on my last bill.  It seems like it might be incorrect. 
+
+Agent: Hello! Thank you for reaching out to us. I understand you have a concern about your recent billing. Can you please provide me with your account number? 
+
+Customer: Sure, it's 1234567890.  
+
+Agent: Okay, thank you. I will pull up your account and get this resolved for you.
+Customer: Thank you!
+
+Agent: Based on our records, your internet service is currently set to $54.35 per month, and there hasn't been any changes in your contract or plan. 
+   
+Customer: No, I didn't authorize that charge.  I have DSL with no additional charges. 
+
+Agent: Thank you for contacting us. 
+  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was frustrating to deal with as it should be clear what my service plan is and why a change in price would occur.
+Sentiment: Negative

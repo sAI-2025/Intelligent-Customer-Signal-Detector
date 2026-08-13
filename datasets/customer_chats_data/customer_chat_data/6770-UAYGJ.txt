@@ -1,0 +1,20 @@
+Customer ID: 6770-UAYGJ
+Topic: specific songs unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm trying to play a song and it's not showing up in my library.
+
+Agent:  I understand your frustration. Can you please tell me the name of the song? 
+
+Customer: It's "Bohemian Rhapsody" by Queen. 
+
+Agent:  Sorry to hear that! That song isn't available on our platform at this time. 
+
+Customer: Okay, thanks. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While it was helpful to know the song wasn't available, I wish there had been a suggestion of alternative platforms where I could find "Bohemian Rhapsody" instead.
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 4855-SNKMY
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, my internet is completely down and I can't connect to anything. 
+Agent: I understand you're experiencing internet service issues.  Can you please provide your account details? 
+Customer: Sure, it's [customer name] and the account number is [account number]. My contract is month-to-month and I pay $44.1 per month for DSL.
+Agent: Thank you. I have flagged this as a technical issue on our end and an engineer will be dispatched to your location shortly. 
+Customer: Okay, thank you. 
+Agent:  We are working diligently to resolve the issue. We appreciate your patience. 
+Customer:  No problem. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and kept me informed throughout the process. Thanks!
+Sentiment: Positive

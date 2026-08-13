@@ -1,0 +1,22 @@
+Customer ID: 4312-GVYNH
+Topic: TV streaming performance worsens during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My streaming performance is terrible!  It's lagging constantly during peak hours. 
+
+Agent: I understand your frustration. What device and content are you experiencing issues with?
+
+Customer:  I'm using my Roku TV and trying to watch Netflix. It's super slow even for simple videos. 
+
+Agent: We have been seeing increased traffic on our network during peak hours. Can you tell me your approximate location? 
+
+Customer: I live in Phoenix, AZ.
+
+Agent: Thank you for providing that information.  I will document your issue and submit it to our engineers for further investigation. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, hopefully they can fix the network issues soon!"
+Sentiment: Positive

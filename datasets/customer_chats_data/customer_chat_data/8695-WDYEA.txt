@@ -1,0 +1,17 @@
+Customer ID: 8695-WDYEA
+Topic: additional service charge is unclear
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble understanding my service charge on my bill. It says there's an additional $15.00 on top of my monthly payment? 
+Agent: Of course! Can you please provide your account number and the billing cycle for the month in question?
+Customer: Sure, it's [account number] and I was billed from [date].  
+Agent: Thank you! We noticed a $15 service charge is associated with this new DSL plan. 
+Customer: Why would there be an additional charge for DSL? Is this something that’s not included in my monthly fee of $51.25? 
+Agent: With the DSL service, you are subject to a separate service charge in addition to your monthly subscription fee. It's standard practice in most cases. 
+Customer: Thanks! 
+Agent: No problem.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was helpful to understand the charges better, thanks for clearing it up.
+Sentiment: Positive

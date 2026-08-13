@@ -1,0 +1,18 @@
+Customer ID: 8118-LSUEL
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need help with my internet speed. It's been extremely slow during peak hours lately. 
+Agent: Thank you for reaching out to us!  I understand your concern about slow speeds during peak hours. 
+Customer: My fiber optic plan is $106.4 per month and I’ve had this service for 23 months. 
+Agent:  I can definitely look into that for you. Could you please provide me with your account information, like your name or your address? 
+Customer: Sure, my name is John Smith. 
+Agent: Thank you, Mr. Smith. I’m looking at your recent usage and activity reports now. 
+Customer:  Is there anything I can do to fix the problem myself? 
+Agent: I'll provide some troubleshooting tips once I have more information, but generally, peak hours experience a higher volume of network traffic. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would be nice to know if there are any ongoing solutions or preventative measures to avoid slow speeds during peak times."
+Sentiment: Neutral

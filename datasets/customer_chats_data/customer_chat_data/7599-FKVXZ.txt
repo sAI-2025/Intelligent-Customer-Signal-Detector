@@ -1,0 +1,22 @@
+Customer ID: 7599-FKVXZ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is ridiculously slow, and it's significantly lower than what I pay for. I just checked, I'm only getting about 5 Mbps when my plan says I should be at least 100 Mbps.
+
+Agent:  I understand your frustration. Can you please confirm your account details and the service address?
+
+Customer: Sure, it's [account name] under the Fiber Optic plan. My address is [address]. I've had this for years, by the way, almost four decades! 
+
+Agent: Thank you for providing that information. We can look into this further. 
+
+Customer:  I appreciate your help. 
+
+Agent: Let me check on your account and see what's going on with the download speed. We'll get this resolved by the end of the day. 
+ 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for getting back to me so quickly, I appreciate it!"
+Sentiment: Positive

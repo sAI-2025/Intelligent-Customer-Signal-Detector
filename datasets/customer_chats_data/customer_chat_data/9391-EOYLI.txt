@@ -1,0 +1,17 @@
+Customer ID: 9391-EOYLI
+Topic: customer needs equipment replacement
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need to request equipment replacement. My router seems faulty and I can't connect properly. 
+Agent: I understand your concern! Let me gather some information to help you further. What is your account number?
+Customer: It's...  256789. 
+Agent: Thank you, 256789, we have a record of a contract for $80.45 per month with fiber internet service since last year and 12 months of tenure. 
+Customer: I believe the device is faulty.  My connection has been slow and unreliable lately.
+Agent: Let me check on your account. Please allow me a few moments to investigate this further. 
+Customer: Thank you.
+Agent: Alright, looks like we have an available replacement router for you. We can arrange delivery within 2 business days.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in getting my equipment replacement sorted out."
+Sentiment: Positive

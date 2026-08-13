@@ -1,0 +1,17 @@
+Customer ID: 1891-UAWWU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there!  My internet is completely down and I can’t connect to anything. 
+Agent:  I understand your concern, sir.  Can you please provide your account details or a confirmation number so we can investigate further?  
+Customer: Sure! My name is Robert Smith, account #12345678.   
+Agent: Thank you, Mr. Smith. I’ve located your account and can see there are no reported outages in your area currently. 
+Customer: Well, that just doesn't seem possible.  I have fiber optic internet at home. 
+Agent: I apologize for the inconvenience, sir.   I’m going to check on our network status now. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful in looking into the issue, it's still frustrating that internet is down despite fiber optic being readily available."
+Sentiment: Neutral

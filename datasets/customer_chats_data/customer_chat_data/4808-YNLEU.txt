@@ -1,0 +1,16 @@
+Customer ID: 4808-YNLEU
+Topic: music playback buffering
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with music playback buffering on my device. 
+Agent:  I understand your frustration. Can you tell me a bit more about what you're experiencing? 
+Customer:  The song constantly cuts out and then comes back in, like it's buffering every few seconds. 
+Agent: Have you checked your internet connection speed? It might be helpful to run a speed test. 
+Customer: I did just now, it's about 8mbps download.
+Agent: Alright, thanks for checking that. It looks like your internet speeds are within the acceptable range for streaming. Let me check on some other factors... 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this!  I appreciate the help."
+Sentiment: Positive

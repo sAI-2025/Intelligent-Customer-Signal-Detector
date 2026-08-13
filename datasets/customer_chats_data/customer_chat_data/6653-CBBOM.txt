@@ -1,0 +1,17 @@
+Customer ID: 6653-CBBOM
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet speed today. It's really slow during peak hours. 
+Agent:  I understand your concern.  Can you please tell me your account details? 
+Customer: My name is [Name], and my account number is [Account Number].
+Agent: Thank you, [Name]. Let me have a look at your network traffic now. 
+Customer: It's really slow right now, I can barely load anything. 
+Agent: I see the congestion in your network during peak hours. We are working on improving our infrastructure to address this issue.
+Customer:  Thanks for your help! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This is much appreciated, thank you for walking me through this."
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 6855-VLGOS
+Topic: customer unable to update account information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need help updating my account information online.
+Agent:  I understand your concern, can you please provide me with some details about what needs to be updated? 
+Customer: My phone number has changed. It's now [new phone number].
+Agent: Thank you for that, I can certainly update your profile with the new information.
+Customer: Great, thanks!
+Agent:  No problem, and remember, you can always reach us via our website or app if you need help in the future. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was friendly and efficient, making the process of updating my account information a breeze.
+Sentiment: Positive

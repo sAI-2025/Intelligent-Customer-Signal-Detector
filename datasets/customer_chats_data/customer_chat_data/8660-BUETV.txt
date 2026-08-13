@@ -1,0 +1,24 @@
+Customer ID: 8660-BUETV
+Topic: repeated playback errors during movies
+Customer Status: Joined         
+----------------------------------------
+
+Customer:  Hi there, I keep getting error messages when trying to watch movies on my streaming service. It’s a repeating issue.
+
+Agent:  I understand you're experiencing playback issues, thanks for letting me know! Can you tell me what kind of error message you're seeing? 
+
+Customer:  It says "Network Error" and that I should check my internet connection. My DSL light is green though.
+
+Agent:   Okay, let's check your connection further. Could you try restarting your modem and router?
+
+Customer:  Done that. Still the same problem. 
+
+Agent:  Thank you for trying that.  I would recommend calling our technical support line to get a more in-depth diagnosis of your issue. 
+
+Customer:  Okay, great. I'll do that. 
+
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While I appreciate the help and advice, it seems like this problem is persistent and might need more immediate attention.
+Sentiment: Neutral

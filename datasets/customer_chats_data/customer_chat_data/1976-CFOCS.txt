@@ -1,0 +1,17 @@
+Customer ID: 1976-CFOCS
+Topic: customer wants to remove an existing line
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I’d like to cancel my DSL line. 
+Agent:  I understand you'd like to cancel your service. Can you provide me with your account number or name on file?
+Customer: My account is [Account Number]. 
+Agent: Thank you for providing that information. We need to confirm this cancellation and review your account balance for the remaining month. 
+Customer: Okay,  I'm not sure if I have anything else in my account, but I expect a refund.
+Agent: Your final bill will be $0, as your contract is ending this month. 
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The cancellation process was smooth and the agent clearly explained everything. Thanks!"
+Sentiment: Positive

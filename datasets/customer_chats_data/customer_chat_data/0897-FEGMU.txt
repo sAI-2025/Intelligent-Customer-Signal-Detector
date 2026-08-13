@@ -1,0 +1,19 @@
+Customer ID: 0897-FEGMU
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble with my internet connection. It keeps dropping out frequently. 
+Agent:  Hello!  I understand your frustration. May I have your account number and the specific issue you're experiencing?
+Customer: Sure, my account number is XXXXXXX. The internet seems to disconnect every half hour or so. 
+Agent:  Thank you for providing that information. We’ll run a diagnostics check to see what might be causing this issue. 
+Customer:  Okay, appreciate it! 
+Agent:  I have run the diagnostic check and there appears to be no signal disruption at our end. 
+Customer: Hmm, well I'm still having problems. Can you help me troubleshoot? 
+Agent:  We could try restarting your modem and router. It might resolve the issue. 
+Customer: Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The troubleshooting steps didn't seem to resolve the issue fully, but I appreciate the prompt response and assistance.
+Sentiment: Neutral

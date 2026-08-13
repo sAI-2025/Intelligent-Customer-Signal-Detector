@@ -1,0 +1,20 @@
+Customer ID: 5590-BYNII
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is so slow! I can barely load websites.  I just moved to a new apartment and it seems like my connection was never even tested properly. 
+
+Agent: Thank you for contacting us about your internet speed. I understand how frustrating that can be. Could you please provide your account details or the address of your new apartment?
+
+Customer: Sure,  My name is John Smith, my account number is 1234567 and my new address is 123 Elm Street. 
+
+Agent: Thank you, John. I've pulled up your account information now. We use fiber optic connections and there shouldn't be any issues with speeds at that level. Let me check for any outages in the area. 
+
+Customer:  Thanks!  I will continue to be patient but if I don't see improvement soon, I may have to consider another internet provider.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, I still haven't seen a noticeable speed improvement and am starting to question the reliability of this service.
+Sentiment: Negative

@@ -1,0 +1,18 @@
+Customer ID: 1576-PFZIW
+Topic: refund inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to request a refund for my service.  
+Agent: Hello! Thanks for reaching out to us today. What's your name and account number?
+Customer: My name is John Smith, and my account number is 1234567890.
+Agent: I understand. Can you tell me why you are requesting a refund?  
+Customer:  I cancelled my service due to moving out of state.  It was a two-year contract, and I've been paying $105.35 per month. 
+Agent: Thank you for clarifying that. We can process your refund request, but there is a fee for early termination of the contract. 
+Customer:  I am prepared to pay. How long will it take? 
+Agent: The refund should be processed within five business days. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I understand the fee, the process was straightforward and efficient.
+Sentiment: Neutral

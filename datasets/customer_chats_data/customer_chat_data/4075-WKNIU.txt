@@ -1,0 +1,17 @@
+Customer ID: 4075-WKNIU
+Topic: customer has not received required equipment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I haven't received my router and modem yet! My contract states they should be delivered within 2 weeks.
+Agent:  I understand your frustration. Can you please provide your account number or name? 
+Customer:  My account number is [account number] and my name is John Smith.
+Agent: Thank you, John.  I'm looking into this for you now. I have a case open to expedite delivery. 
+Customer: Thanks!
+Agent:  You should receive the equipment within the next 24 hours. 
+Customer: Okay, thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for getting this sorted out quickly, I appreciate your help!"
+Sentiment: Positive

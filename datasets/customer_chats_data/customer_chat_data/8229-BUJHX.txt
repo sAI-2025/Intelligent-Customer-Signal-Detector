@@ -1,0 +1,17 @@
+Customer ID: 8229-BUJHX
+Topic: refund inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to request a refund for my service, it seems there was an error in billing. 
+Agent: Thank you for reaching out!  Can you please provide your account number and the specific reason for your request? 
+Customer: Sure, my account number is 1234567890 and I believe they charged me for internet services when I do not have it. 
+Agent: We understand your concern. Can you tell us which month you are referring to?  
+Customer: It was the last billing cycle. 
+Agent: Thank you, let me take a look at your account. 
+Customer: My contract is two years old and has been paid for continuously for the past seven years. 
+Agent: I see that you have a long tenure with our company and we appreciate your loyalty.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in resolving my issue, thank you."
+Sentiment: Positive

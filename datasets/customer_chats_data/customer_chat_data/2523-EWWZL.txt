@@ -1,0 +1,18 @@
+Customer ID: 2523-EWWZL
+Topic: customer questions promotional offer terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have a question about the promotion offer for new customers on your website. 
+Agent: Absolutely!  Please tell me what you'd like to know about the promotion details. 
+Customer: I saw it advertised as "Free Streaming Device" but wasn't sure what that entailed.
+Agent: You're referring to the promotional bundle with our Fiber Optic internet service?  
+Customer: Yes, that's the one. 
+Agent: To be eligible for the free streaming device, you must sign up for a new Fiber Optic plan with us and choose the "Entertainment Bundle" option during signup. 
+Customer: Okay, great!  
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was very helpful! The agent clearly explained everything I needed to know about the promotion, which made it easy to understand and decide.
+Sentiment: Positive

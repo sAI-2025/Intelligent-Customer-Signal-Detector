@@ -1,0 +1,17 @@
+Customer ID: 1618-CFHME
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet.  It keeps dropping in and out frequently.
+Agent: Hello! I understand you're experiencing intermittent connectivity issues. Could you please provide your account information, such as your name and address, so I can check the status? 
+Customer: Sure, my name is John Smith and my address is [redacted]
+Agent: Thank you, John. I see there have been a few recent reports of similar issues in your area. We are currently investigating.  
+Customer: Ok, thanks for looking into it. 
+Agent: No problem at all! We're working on resolving the issue and should be able to restore full connectivity shortly. 
+Customer: Great, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick update, I appreciate your help getting this resolved!"
+Sentiment: Positive

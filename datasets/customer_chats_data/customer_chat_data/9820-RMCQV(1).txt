@@ -1,0 +1,27 @@
+Customer ID: 9820-RMCQV
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my upload speeds on my DSL internet plan. It's significantly slower than what I was promised during sign-up.
+
+Agent:  I understand your frustration. Could you please provide your account number and any details about the specific issues you're experiencing with upload speeds?
+
+Customer: Sure, my account number is [account number]. My download speed has been fine but upload speeds are sluggish.
+
+Agent: Thank you for that information. I'll have a look into the issue now.
+
+Customer: Great! 
+ 
+Agent:  I’ve checked your network and it seems there may be an external connection issue impacting your upload speed. We will need to escalate this further.
+
+
+Customer: Okay, thanks for checking that out. 
+
+Agent:  We'll look into the next steps with our engineering team. I apologize for the inconvenience this has caused.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into the issue!  I appreciate your quick response and willingness to resolve it.
+Sentiment: Positive

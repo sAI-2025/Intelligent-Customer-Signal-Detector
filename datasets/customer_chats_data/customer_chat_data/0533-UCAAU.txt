@@ -1,0 +1,18 @@
+Customer ID: 0533-UCAAU
+Topic: network device overheating
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet connection because my network device is overheating. 
+Agent: Hi there!  I understand you're experiencing an issue with your device overheating. Can you tell me a little more about the specific model and where you see the heat coming from? 
+Customer: It's a wireless router, model number WTR-100S, it seems to be coming from the top. 
+Agent:  I see, thanks for that information.  Have you tried restarting your router yet?
+Customer: Yes, I did but no change.   My internet speed has been slow and my phone is getting very hot too. 
+Agent: Let me check on that for you.  Just a moment while I run some diagnostics.  
+Customer: Thank you. 
+Agent: I've located the issue and have initiated an engineer dispatch to your location. We will reach out to you with an estimated timeframe soon. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out, appreciate the prompt and helpful support!"
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1073-XXCZD
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble downloading files at speeds lower than my subscribed plan. 
+Agent: Hi there!  I understand you're experiencing slower download speeds than usual. What is your address and account number?
+Customer: My address is [REDACTED] and my account number is [REDACTED]. 
+Agent: Thank you for providing that information. I'm checking your service history now. 
+Customer: The speed has been slow all day. 
+Agent:  I've run a network diagnostic and see there may be some interference in your area. We will address this as soon as possible. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and kept me updated throughout the process, which I appreciate."
+Sentiment: Positive

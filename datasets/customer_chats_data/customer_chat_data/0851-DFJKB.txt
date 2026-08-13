@@ -1,0 +1,24 @@
+Customer ID: 0851-DFJKB
+Topic: TV streaming performance worsens during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed has been terrible all day today, especially during peak hours. 
+
+Agent: I understand your frustration with slow speeds.  Could you please provide me with your account information so I can look into this further? 
+
+Customer: Sure, my name is [customer name], and my account number is #1234567890.
+
+Agent: Thank you for that. I see a few users are also experiencing issues today.  We're working to address the issue as quickly as possible.
+
+Customer: How long will it take to resolve this? 
+
+Agent: We expect the speeds to return to normal within the next hour or two.   
+
+Customer: Thank goodness, because my kids were about to lose their minds! 
+
+Agent:  You're very welcome.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a big relief! Thanks for getting things sorted out so quickly. 😊
+Sentiment: Positive

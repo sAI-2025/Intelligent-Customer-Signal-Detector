@@ -1,0 +1,17 @@
+Customer ID: 7613-LLQFO
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, my internet is completely down. I can't access anything online. 
+Agent:  I understand your concern. May I have your account information, please?
+Customer: Sure, it's [Account number] and my name is [Your Name]. 
+Agent: Thank you for providing that information. Let me check on the service outage with our systems.
+Customer: Thanks for checking. When can I expect things to be back up?  
+Agent: We are currently working to resolve this issue. Estimated restoration time is approximately 30 minutes.  
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for the update! I appreciate your help getting my internet back up."
+Sentiment: Positive

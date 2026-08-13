@@ -1,0 +1,15 @@
+Customer ID: 8128-YVJRG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having internet problems.  It seems completely unavailable. 
+Agent: Hi there! I see your account is active and Fiber optic service is enabled. Can you please tell me what specific issue you are experiencing?
+Customer: My computer can't connect to the internet at all. The Wi-Fi light isn't even on, and my router shows no activity. 
+Agent:  I understand. Let's check your modem and router connection first. I'm going to get a technician on the line to help you out as soon as possible. 
+Customer: Okay thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, so much appreciated!  😊
+Sentiment: Positive

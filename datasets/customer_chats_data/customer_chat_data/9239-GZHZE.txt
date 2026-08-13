@@ -1,0 +1,17 @@
+Customer ID: 9239-GZHZE
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection is super slow today, I can barely watch YouTube videos. 
+Agent:  I understand that you are experiencing high latency or ping while using your internet service. I'd like to help get this fixed for you. 
+Customer: Can we do something about it? I was paying $113.65 a month, and this is ridiculous! 
+Agent:  Let me check on our network status. Please provide the following information so we can troubleshoot your issue: Account number and last 4 digits of your phone number. 
+Customer: Sure, here you go. 
+Agent: Thank you for providing that information.  I'm seeing some reports of congestion in your area. We are currently working on resolving it. 
+Customer: Okay, thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the update about the network issues, a $113.65 monthly rate should not result in this level of service."
+Sentiment: Negative

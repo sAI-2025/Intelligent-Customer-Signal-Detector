@@ -1,0 +1,17 @@
+Customer ID: 0875-CABNR
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps buffering and dropping connection. 
+Agent: Hello!  I'd be happy to help with that. Can you tell me a little more about what's happening? 
+Customer: The speed is very slow. I was hoping to stream a movie, but it keeps stopping.
+Agent: Thank you for the details. Have you tried restarting your modem and router?
+Customer: Yes, I did that already. Still no difference.  
+Agent: Let me take a look at your account and see if there's anything we can do. 
+Customer: Okay. 
+Agent: Based on our records, you are currently under contract with us for Fiber optic internet service, and it is not unusual to experience occasional slowdowns during peak hours.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I understand peak hours can be congested, the intermittent buffering makes it difficult to enjoy my internet connection."
+Sentiment: Negative

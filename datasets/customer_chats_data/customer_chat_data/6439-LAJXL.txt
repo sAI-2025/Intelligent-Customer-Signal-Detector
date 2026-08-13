@@ -1,0 +1,17 @@
+Customer ID: 6439-LAJXL
+Topic: downloaded movie cannot play
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble playing a movie I downloaded. It says it can't play. 
+Agent:  I apologize for the inconvenience.  Could you please provide your account number? 
+Customer: Sure, it's [account number]. 
+Agent: Thanks! And what type of device are you using to play the movie?
+Customer: My laptop.
+Agent:  Okay, I see there was an issue with the file format. Let me check if we have any fixes for that. 
+Customer: Okay. Thank you.
+Agent: No problem at all! We should be able to get this sorted out for you.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and resolved the issue quickly, thanks!
+Sentiment: Positive

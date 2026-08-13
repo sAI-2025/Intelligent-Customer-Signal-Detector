@@ -1,0 +1,24 @@
+Customer ID: 5918-VUKWP
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my network speed during peak hours today. It slows down significantly.
+
+Agent: Hello!  I understand your concern about slow internet speeds during peak times. 
+
+Customer: Thanks for the response. I've been experiencing this issue for a few days now. My monthly payment is $20.55 and my contract is one year old.
+
+Agent: Thank you for providing that information. We can definitely look into this further. Do you mind telling me your account details, so we can run some diagnostics? 
+
+Customer: Of course, I have a No internet plan with an account number of [account number].
+
+Agent: Ok, thank you.  I am connecting to the system now and will get back to you shortly!
+
+Customer: Thanks for your help.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Quick resolution and helpful communication from the agent, I appreciate their efforts in resolving this issue."
+Sentiment: Positive

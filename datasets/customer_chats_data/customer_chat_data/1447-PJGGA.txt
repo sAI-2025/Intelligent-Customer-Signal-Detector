@@ -1,0 +1,17 @@
+Customer ID: 1447-PJGGA
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having really high latency/ping when trying to use my internet. It's been like this for a couple of days now. 
+Agent:  I understand you're experiencing slow speeds. Can you please provide your account number and the specific device you are using? 
+Customer: Sure. Here it is [account number] and I'm on my desktop, latest model. 
+Agent: Alright, thank you for that information.  Let me check our network logs to see if there are any reported outages in your area.
+Customer: Okay.
+Agent:  Based on the results, it appears we have a temporary issue with our fiber optic lines in your area. We're working to resolve it as quickly as possible. 
+Customer: Thanks for letting me know! 
+Agent:  We apologize for any inconvenience this may cause. We'll keep you updated on the progress. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for keeping me updated - I appreciate your quick response and transparency.
+Sentiment: Positive

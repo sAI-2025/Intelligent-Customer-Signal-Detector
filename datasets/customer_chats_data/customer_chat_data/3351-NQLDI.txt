@@ -1,0 +1,16 @@
+Customer ID: 3351-NQLDI
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow and keeps dropping out. 
+Agent: I understand your frustration,  can you please provide your account details so I can look into this further?
+Customer: Sure, my account number is [redacted].
+Agent: Thank you for providing that information, I am pulling up your account now. 
+Customer: Is there a fix for the slow internet speeds? I’m paying $94.35 per month for fiber optic internet.
+Agent: We will address this issue as soon as possible. We're investigating to see what's causing this problem and will have an update for you by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate your prompt response, I hope the fix works quickly!
+Sentiment: Positive

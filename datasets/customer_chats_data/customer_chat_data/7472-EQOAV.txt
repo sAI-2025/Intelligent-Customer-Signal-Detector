@@ -1,0 +1,17 @@
+Customer ID: 7472-EQOAV
+Topic: hardware configuration problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my network.  The speeds are terrible and keeps dropping. 
+Agent: Hello!  I understand you're experiencing connection issues.  Can you tell me your account number and what device you're using?
+Customer: My account number is 123456789. I use a desktop computer, running Windows. 
+Agent: Thank you for that information. Let me check on the configuration. One moment, please...
+Customer:  Is there something you need to set up or change with my network?
+Agent:  The speed issue might be related to the router's firmware.  I will update it and see if that helps. 
+Customer:  Great! Thanks for your help.
+Agent: You're welcome! I have updated the router's firmware and let me know if this resolves the issue. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quickly resolved my network issues! 😊
+Sentiment: Positive

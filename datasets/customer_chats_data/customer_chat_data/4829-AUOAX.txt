@@ -1,0 +1,16 @@
+Customer ID: 4829-AUOAX
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet has completely gone down. I can't access anything online.
+Agent:  I understand your concern, and I apologize for any inconvenience this may cause. Can you please provide your account number so I can check the status of your service? 
+Customer: Yes, it's [Account Number]
+Agent: Thank you, [Account Number]. The Fiber Optic connection appears to have a fault in the area. Our team is working on resolving it as soon as possible. 
+Customer: Okay, that's good news.
+Agent:  We will keep you updated.  I apologize again for this inconvenience.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly and keeping me updated. Hope the issue gets resolved soon."
+Sentiment: Positive

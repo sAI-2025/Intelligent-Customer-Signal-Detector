@@ -1,0 +1,20 @@
+Customer ID: 0428-IKYCP
+Topic: customer questions unexpected data consumption
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm concerned about my data usage lately, it seems way higher than usual. 
+Agent:  I understand your concern, can you tell me a little more about what you're seeing? 
+Customer: My monthly bill is $87 and usually averages around 30GB of data used. This month I'm already at 65GB. 
+Agent:  Thank you for that information.  Are you using any streaming services, downloading a lot of files, or gaming a lot?
+Customer: Mostly just browsing the web and checking emails. 
+Agent:  I see. Let me check our records to see if there are any recent changes in your plan. 
+Customer:  Okay. 
+Agent: I have found that you're on our high-speed Fiber Optic plan, which allows for a data limit of 1TB per month. 
+Customer: Oh! So I should be okay with my usage? 
+Agent: Yes, it seems your usage is within the normal range for this plan, however we do offer data overages if you would like to add more. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for clarifying!  I appreciate your help in understanding my data usage.
+Sentiment: Positive

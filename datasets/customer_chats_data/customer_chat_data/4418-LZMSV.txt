@@ -1,0 +1,19 @@
+Customer ID: 4418-LZMSV
+Topic: line transfer or replacement problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to transfer my phone service to another number and have a question about the DSL modem. 
+Agent:  Hello! What's your account name or phone number? 
+Customer: My name is John Smith, I am calling from [Phone Number].
+Agent:  Alright John, thanks for reaching out. Can you tell me what line/modem issue you are experiencing? 
+Customer: Just having trouble transferring the line to a new number and they're not letting me do it online.   
+Agent:  I understand. I can help with that.  Please hold while I locate your account details... 
+Customer: Okay, thanks.
+Agent: We have determined there is a problem with your DSL modem; we’ll send you a replacement one today. Please let us know if you have any further questions or concerns after the transfer. 
+Customer: Great! Thanks so much for your help. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in resolving my issue with transferring my phone service.
+Sentiment: Positive

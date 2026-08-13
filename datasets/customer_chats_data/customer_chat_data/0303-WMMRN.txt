@@ -1,0 +1,19 @@
+Customer ID: 0303-WMMRN
+Topic: remote or TV device cannot connect to service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to connect my remote or TV device to the service. 
+Agent:  I understand. To help me troubleshoot this, could you please provide your account number and the model of your device?
+Customer: Here's my account number [redacted] and it's a Roku Streaming Stick. 
+Agent: Thanks for that information.  Could you tell me what exactly happens when you try to connect? 
+Customer: The screen says "No signal" and the device is blinking red light. 
+Agent: I see, let me check on this.  It might be an issue with your router's connection settings. Can you confirm if your Wi-Fi is active in your home?
+Customer: Yes, my internet is working fine. 
+Agent: Okay.  I will need to take a look at our system and see what we can do to help with this. Let me know when you get back.
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, thanks for the prompt assistance!
+Sentiment: Positive

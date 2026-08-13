@@ -1,0 +1,24 @@
+Customer ID: 2806-MLNTI
+Topic: multiple-line pricing is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I have a question about my bill. It seems like the pricing for multiple-line discounts isn't clear to me.
+
+Agent:  I understand your confusion.  Would you mind telling me your account details, so I can pull up your plan and information? 
+
+Customer: Sure. My name is Mr. Smith, and my account number is 1234567.
+
+Agent: Thank you, Mr. Smith.  Your current plan includes a $105.1 monthly fee for Fiber optic internet with no multiple-line discount. 
+
+Customer: Hmm, okay, I thought there was a discount. 
+
+Agent: Let me know if you have any other questions. 
+
+Customer: Thank you.
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, the lack of clarity regarding the multiple-line discount makes it difficult to understand why I didn't receive a discount on my bill.
+Sentiment: Neutral

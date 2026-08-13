@@ -1,0 +1,25 @@
+Customer ID: 5602-BVFMK
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I’m having trouble connecting to the internet frequently. 
+
+Agent:  I understand you're experiencing intermittent internet connectivity.  Could you tell me your account number? 
+
+Customer: It’s 1234567890 
+
+Agent: Thank you! Please stay on the line while I look into this for you.   
+ 
+Customer: Ok, thanks. 
+
+Agent: Alright, I have reviewed your account and see that there are a few recent issues with service outages in your area.  We'll be working to restore connectivity as soon as possible. We apologize for any inconvenience this has caused.
+
+Customer: Okay, thank you.  
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update and explanation of the outage! I appreciate your prompt response."
+Sentiment: Positive

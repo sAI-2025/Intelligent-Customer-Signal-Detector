@@ -1,0 +1,22 @@
+Customer ID: 2506-TNFCO
+Topic: repeated playback errors during movies
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I keep getting errors when trying to play my movies online; they just freeze and stop.  Is there anything I can do?
+Agent: Hi there! I'm sorry to hear you're experiencing playback issues with your streaming content. 
+Customer: Thank goodness it wasn't me, I thought I was going crazy!  I've only been using the service for a month, though.
+Agent: I understand. Let's take a look at what might be causing this. 
+Customer: My connection is fiber optic, and I just want to watch movies online. 
+Agent: Absolutely. Could you please tell me your account details so I can check it out? 
+Customer: My username is John Smith and my email address is jsmith@email.com.  
+Agent: Thank you! I'm checking on the issue now.
+Customer:   Okay, thanks for the help. 
+Agent: Okay, thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for resolving my issues! It seems like a few things were causing the streaming to freeze up.
+Sentiment: Positive

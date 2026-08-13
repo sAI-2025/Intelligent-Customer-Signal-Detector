@@ -1,0 +1,17 @@
+Customer ID: 8979-CAMGB
+Topic: referral program question
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble understanding the referral program details. 
+Agent:  Hi there! I understand you have questions about our referral program. What specifically are your concerns about it? 
+Customer: Well, I saw the offer on my account statement for getting a $100 reward when someone signs up using my referral link. My question is, what does "sign up" mean exactly? 
+Agent:  It means they sign up for an internet plan with us. 
+Customer: Okay, that makes sense. Thanks! 
+Agent: You're welcome! Please let me know if you have any other questions. 
+Customer: Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in explaining the referral program! Thanks for assisting.
+Sentiment: Positive

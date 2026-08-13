@@ -1,0 +1,26 @@
+Customer ID: 9831-BPFRI
+Topic: customer dissatisfied with support experience
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been slow and unstable for weeks now. I’ve tried restarting my router but it hasn't helped. 
+
+Agent: I understand your frustration with the recent speed issues. Can you please provide me with your account information so I can look into this further?
+
+Customer: Sure, my account number is XXX-XXXXXXX.  
+
+Agent: Thank you for that. Let me check on your Fiber optic connection and see what options we have available for faster speeds. 
+  
+Customer: Thank you. This has been a real problem.
+
+Agent: I apologize again for the inconvenience this has caused. 
+
+Customer: Okay, thanks. 
+
+Agent: You can expect an update within 24 hours. Thanks for contacting us! 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and looking into my issue.  I hope the speed issues get resolved soon.
+Sentiment: Positive

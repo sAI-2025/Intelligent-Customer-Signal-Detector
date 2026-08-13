@@ -1,0 +1,24 @@
+Customer ID: 3896-ZVNET
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having really high latency or ping issues when using my internet connection.  It's been happening for about a week now. 
+
+Agent: Hello! I understand you're experiencing high ping issues. Can you please tell me more about where you are experiencing this issue? 
+
+Customer: Mostly when playing online games and video calls, my internet speed is just extremely slow. It's like the game is lagging all the time.  
+
+Agent: Thank you for providing that information. I will need to check your account settings and router configuration to determine the cause of the issue.  
+
+Customer: Ok, thanks! 
+
+Agent: We have identified a potential congestion issue in the network due to peak hours usage. We are working on resolving this for you as quickly as possible.  
+
+Customer: Okay, great! Thanks again! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The resolution for the congestion seems promising and I appreciate your quick response."
+Sentiment: Positive

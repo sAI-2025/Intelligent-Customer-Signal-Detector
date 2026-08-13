@@ -1,0 +1,18 @@
+Customer ID: 1373-ORVIZ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in some rooms of my home.  The signal is weak or intermittent.
+Agent: Hello! I understand your concern about your Wi-Fi connection. Can you please tell me the names of those specific rooms and which devices are experiencing issues? 
+Customer: Yes, in the living room and bedroom. My laptop, tablet, and phone have trouble connecting.  
+Agent: Thank you for that information. Let's try a few troubleshooting steps. Would you like to run a network speed test?
+Customer: Sure! That sounds good.
+Agent: Okay, I will guide you through the process. 
+Customer: Alright.
+Agent: (Continues with step-by-step instructions)
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and walked me through the troubleshooting steps to resolve my Wi-Fi issue!
+Sentiment: Positive

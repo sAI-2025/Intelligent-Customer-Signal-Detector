@@ -1,0 +1,16 @@
+Customer ID: 7254-IQWOZ
+Topic: password reset fails
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having trouble resetting my password on your website. 
+Agent:  I understand. Could you please tell me what email address you used to sign up? 
+Customer: It's [email protected]  
+Agent:  We can reset your password for that account. Let me just check... 
+Customer: Thank you!
+Agent:  Your password has been successfully reset. You should be able to log back in now. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick and easy help with resetting my password! Much appreciated."
+Sentiment: Positive

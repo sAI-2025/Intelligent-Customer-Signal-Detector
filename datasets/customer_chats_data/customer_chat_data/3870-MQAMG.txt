@@ -1,0 +1,24 @@
+Customer ID: 3870-MQAMG
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much lower than expected. It’s been consistently slower than my contract states and I haven’t changed any equipment or settings. 
+
+Agent:  I understand your concern. Please provide your account number for me to quickly check the details of your service plan.
+
+Customer: Sure, it's [account number].
+
+Agent: Thank you! Based on your plan, you should be getting speeds around [expected speed range] Mbps.  
+
+Customer:  That’s not quite right. I need help addressing this issue.
+
+Agent: We can look into what might be causing the slower upload speed and work to resolve it. Would you like to connect through a live chat so we can troubleshoot? 
+
+Customer: Yes, please. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the agent's help, but I still need clarification on how to address the consistent slow upload speed."
+Sentiment: Neutral

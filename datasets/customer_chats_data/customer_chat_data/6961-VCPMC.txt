@@ -1,0 +1,17 @@
+Customer ID: 6961-VCPMC
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my Wi-Fi signal in the living room and dining area. It's very weak even when trying to connect devices. 
+Agent:  I understand, could you please tell me your account number?
+Customer: Sure, it is [account number]. 
+Agent: Thank you. I can see that your fiber plan covers both areas. Is there anything else I can help you with today? 
+Customer: Yes, would you mind sending a technician to check the signal strength? 
+Agent:  I will be happy to put in a request for our technician. We'll reach out with an estimated time frame.  
+Customer: Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The service was prompt and helpful, I appreciate the quick resolution."
+Sentiment: Positive

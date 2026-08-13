@@ -1,0 +1,15 @@
+Customer ID: 5762-TJXGK
+Topic: data service stops after plan change
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I’m having trouble accessing my data service since making a recent plan change. 
+Agent: Hello, and thank you for reaching out to us today.  I understand your concern about your data service.  
+Customer: Yes, it just stopped working after my switch. Is this something that can be fixed?
+Agent: I'd be happy to help with that. Can you please tell me your account number or the last 4 digits of your phone number?
+Customer: My account number is 12345678.  I’ve been a loyal customer for five years!
+Agent: Thank you, I can see this in our system.  We'll look into this and have it resolved by the end of the day.   It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for resolving my issue so quickly! Glad to be back up and running."
+Sentiment: Positive

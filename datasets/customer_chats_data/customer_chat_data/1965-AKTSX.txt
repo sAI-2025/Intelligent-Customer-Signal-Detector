@@ -1,0 +1,20 @@
+Customer ID: 1965-AKTSX
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet has been disconnecting frequently lately. It's really frustrating! 
+Agent: I understand your frustration, it sounds like a concerning issue.  Can you tell me your account details?
+Customer: Sure, my name is Mary Smith and my account number is 1234567890.  I also have Fiber optic service. 
+Agent: Thank you, Mary. I can see there haven't been any recent complaints about outages in your area.  Do you use Wi-Fi or Ethernet for connection? 
+Customer: It’s mostly WiFi.  
+Agent: Okay, let me check the connection. One moment.
+Customer: Thanks!
+Agent: There may be a temporary issue with your router's settings. I am going to initiate a reboot and see if that resolves the problem. 
+Customer: That would be great, thanks!
+Agent:  The internet should reconnect now.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me resolve the issue! Much appreciated."
+Sentiment: Positive

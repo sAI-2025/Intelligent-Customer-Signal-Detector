@@ -1,0 +1,18 @@
+Customer ID: 4307-KWMXE
+Topic: calls failing between connected lines
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my phone lines. They're just dropping in and out. 
+Agent:  I apologize for the inconvenience, can you please tell me your account number? 
+Customer: It's 1234567890 
+Agent: I see that you have a DSL connection. Let me look into this issue. 
+Customer:  Thanks! 
+Agent:  I'm checking the network logs for any potential issues. We may need to reset your modem and router as well, let me know what you think about it. 
+Customer:  Okay, sounds good. 
+Agent:  Done. Please try connecting a phone line now. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and resolved my issue quickly! Thank you.
+Sentiment: Positive

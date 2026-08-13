@@ -1,0 +1,17 @@
+Customer ID: 4654-GGUII
+Topic: TV audio and video out of sync
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my TV audio and video out of sync. It started happening a few hours ago. 
+Agent:  I understand your issue, let me take a look into it for you. Can you please tell me your account name? 
+Customer: My account name is SmithJohn123. 
+Agent: Thank you, John.  Let's check the service status now.   
+Customer:  Hmm, I was hoping to get this fixed today. Is there a way to do that?
+Agent: We can certainly try to assist you. Give me a moment.  Your TV audio and video out of sync issue is being worked on at our end. 
+Customer: Okay, thank you.   
+Agent: No problem, John. We will keep you updated on the progress. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful to have this sorted out!  Hopefully I won't experience this again."
+Sentiment: Positive

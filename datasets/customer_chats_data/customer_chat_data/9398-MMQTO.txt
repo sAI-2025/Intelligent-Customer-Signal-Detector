@@ -1,0 +1,20 @@
+Customer ID: 9398-MMQTO
+Topic: live TV freezes during playback
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with live TV playback on my channel guide. It keeps freezing up! 
+
+Agent:  I understand your concern, and I'd like to help resolve this issue. Can you please provide me with the specific channel or program experiencing freezing?
+
+Customer: Channel 10 NBC is doing it. And about half an hour ago, the whole thing froze for a few minutes.
+
+Agent:  I've checked our system and I see that there might be some network issues affecting your area. We're currently working on resolving them as quickly as possible. 
+
+Customer: Okay.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful to hear it's being addressed, hopefully the issue gets resolved soon!
+Sentiment: Positive

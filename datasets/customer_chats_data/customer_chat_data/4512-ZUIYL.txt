@@ -1,0 +1,19 @@
+Customer ID: 4512-ZUIYL
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey! My internet is super slow lately, almost unusable sometimes.  Is there a problem on your end?
+Agent: Hi [Customer Name], I'm sorry to hear about your slow internet connection. Please tell me more about what's happening. 
+Customer: Yeah, it's been really choppy. It starts fine, but then drops completely for minutes at a time.  Also my speed test shows significantly lower speeds than advertised.
+Agent: I see you're on our fiber optic plan. Can you please run a speed test again? Let me know the results and your location. 
+Customer: Sure, here are the results. (provides speed test result)
+Agent: Thanks for that information.  I can check network status to see if there's an outage in your area. 
+Customer: Thanks!
+Agent: I just checked, and it looks like a temporary issue with our fiber optic lines near your address. We should have this resolved within the next few hours.
+Customer: Okay, thanks!  I appreciate it.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly and explaining the issue. It's reassuring to know it'll be fixed soon!"
+Sentiment: Positive

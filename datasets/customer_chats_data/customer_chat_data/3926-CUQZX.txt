@@ -1,0 +1,23 @@
+Customer ID: 3926-CUQZX
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I just need help with my download speeds. My plan is a 100Mbps connection and right now it’s barely hitting 5.
+
+Agent: Thank you for contacting us.  Could you please provide your account details? 
+
+Customer: Sure, my name is [Customer Name] and my account number is 123456789. I've been a month-to-month customer since the beginning of this month.  
+
+Agent: We apologize for the slow speeds, Mr./Ms. [Customer name].  Is your DSL connection working properly? 
+ 
+Customer: It’s intermittent, but mostly just slow.   I am using DSL and have been having these issues from day one.
+
+Agent: I understand your frustration.  We'd like to investigate further. Please wait a moment while I look into this for you. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Still experiencing slow speeds after the investigation, hoping for a resolution soon."
+Sentiment: Negative

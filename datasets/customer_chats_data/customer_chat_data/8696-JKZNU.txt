@@ -1,0 +1,17 @@
+Customer ID: 8696-JKZNU
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is extremely slow.  The ping is high and I can’t watch online videos properly. What can be done? 
+Agent: I understand your concern. Please provide me with your account details so I can check the connection status. 
+Customer: Sure, my account number is XXX-XXXX.
+Agent: Thank you! Let me check on that for you.  I'll look into this latency issue right away and see what we can do to resolve it.  
+Customer: Okay. Thanks.  Do I need to reset anything or restart the router? 
+Agent: No, resetting your router may not be necessary, but restarting it is recommended as a quick fix.
+Customer: Ok, thank you.  I’ll do that. 
+Agent:  We're working on improving connectivity for all our customers. I will be checking in with you within the next hour to see if the issue has been resolved. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your quick help!  I think the video issues are fixed after restarting my router."
+Sentiment: Positive

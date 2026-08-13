@@ -1,0 +1,17 @@
+Customer ID: 4625-EWPTF
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble with my download speed. My plan is a 50 Mbps DSL package and it's much slower than usual. 
+Agent:  I understand your concern. Can you please provide me with your account details?
+Customer: Sure, my name is John Smith and my account number is 12345678.
+Agent: Thank you for providing that information. Let me check on your download speed at this moment. 
+Customer: Okay, I am seeing about 20 Mbps right now. 
+Agent:  I'm sorry to hear that, John. Based on our DSL plans and the current speeds, it should be closer to 50 Mbps. There may be some issues with your connection or a nearby signal interference causing this issue. 
+Customer: Thanks for checking. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, John."
+Sentiment: Neutral

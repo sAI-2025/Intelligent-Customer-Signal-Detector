@@ -1,0 +1,15 @@
+Customer ID: 8050-DVOJX
+Topic: specific songs unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I’m having trouble accessing some of my favorite songs on the streaming service.
+Agent:  I understand your frustration. Can you tell me which specific songs are unavailable? 
+Customer: My usual playlist "Classic Rock Anthems" is mostly missing. 
+Agent: Let me check the status of that playlist and see why it's not showing up for you. 
+Customer: Thank you! I’m hoping this isn't a problem with my connection.  
+Agent:  I checked your account and found there are no known technical issues with your DSL internet service at the moment. However, we do have some reports of temporary playlist outages. We apologize for the inconvenience.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this! Hopefully those playlists will be back soon.
+Sentiment: Positive

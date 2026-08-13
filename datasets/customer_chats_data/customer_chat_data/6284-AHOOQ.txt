@@ -1,0 +1,17 @@
+Customer ID: 6284-AHOOQ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having frequent internet disconnections lately. 
+Agent: Hello!  I understand you're experiencing connectivity issues. Could you please tell me your account number and a bit more about what kind of disconnection you are encountering? 
+Customer: Sure, my account number is 1234567890. The connection drops frequently, especially during streaming. It’s been happening for the past few days.
+Agent:  I see your account details. Let me check your speed and signal strength, and I'll look into potential network congestion issues. 
+Customer: Thank you!
+Agent: Okay, I am checking now. I will keep you updated on my findings. 
+Customer: Okay. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This issue has been resolved, and the agent was very helpful and responsive.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 3565-UNOCC
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is really slow, it's barely half of what I paid for!  I'm on a 100Mbps plan. 
+Agent: Hello! I understand you're experiencing slow download speeds, even with your fiber optic connection. Can you please provide the exact details of your issue?
+Customer: Yes, my internet speed is about 20Mbps. How do I fix this?  I have a contract and pay $99.05 per month!
+Agent: Let's try troubleshooting steps first. Could you tell me your account number, please?
+Customer: 1234567890
+Agent: Thank you. I'm checking on the status of your service now. There may be a temporary network issue affecting some users in your area. 
+Customer: Ok thanks
+Agent: We'll keep you updated on our progress and fix the issue as soon as possible.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the update about the potential network issue, it's disappointing that my speeds are still so slow despite paying a hefty monthly fee."
+Sentiment: Negative

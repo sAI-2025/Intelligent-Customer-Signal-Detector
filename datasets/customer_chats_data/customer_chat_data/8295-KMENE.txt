@@ -1,0 +1,17 @@
+Customer ID: 8295-KMENE
+Topic: movie playback fails on specific devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble playing movies on my Samsung TV. It keeps saying there's an error. 
+Agent: I understand, I can help with that! Please tell me your account number and what specific device you're using for the playback.
+Customer: My account number is 1234567890.  I use a Samsung Smart TV.
+Agent: Alright, thank you for providing that information. We might have an issue with the streaming service on your specific device. 
+Customer:  Okay. What can I do? 
+Agent: Let me check our system and see if there are any updates or troubleshooting steps we can take.  
+Customer:  Thank you!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my problem. Thanks!
+Sentiment: Positive

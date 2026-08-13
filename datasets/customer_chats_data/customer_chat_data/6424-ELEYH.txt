@@ -1,0 +1,17 @@
+Customer ID: 6424-ELEYH
+Topic: device unable to register on network
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet isn't connecting at all. I can't even access anything. 
+Agent: I understand your frustration. Let me check on your account information and see what we can do to help.
+Customer:  I just moved into my new apartment a month ago, and this is the first time I've had an issue with connectivity. 
+Agent:  It sounds like you might be having trouble registering your device onto the network. Can you confirm your MAC address?  
+Customer: My MAC address is XXXXXXXXXX. 
+Agent: Thank you for providing that information. It will help me troubleshoot the issue. Please give me a moment and I'll get back to you shortly. 
+Customer: Okay, thank you! 
+Agent:  I have confirmed your MAC address and found some information about the Fiber optic issue at your location.  Let me connect you with our Network Engineering team for further assistance. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful to finally get this resolved, appreciate the prompt response!"
+Sentiment: Positive

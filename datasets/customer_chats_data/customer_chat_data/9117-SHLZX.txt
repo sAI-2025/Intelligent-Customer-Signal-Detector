@@ -1,0 +1,17 @@
+Customer ID: 9117-SHLZX
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my upload speed is much slower than I expected. 
+Agent: Hello! I understand your concern about the upload speed. To troubleshoot this issue, could you please provide your account details like your name and email address?
+Customer: Sure, my name is John Doe and my email is johndoe@email.com. 
+Agent: Thank you, John. Based on our records, you are currently using DSL internet with a plan costing $45.7 per month. Could you please tell me your current location? 
+Customer: I live in Los Angeles. 
+Agent:  I see. We might have some issues in your area due to heavy traffic, but let's check the details and try to resolve this. 
+Customer: Okay. Thank you! 
+Agent: No problem, John. Thanks for contacting us.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a pretty quick resolution! Thanks for your help getting my upload speed sorted out.
+Sentiment: Positive

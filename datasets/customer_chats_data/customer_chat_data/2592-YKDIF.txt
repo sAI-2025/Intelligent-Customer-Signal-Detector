@@ -1,0 +1,15 @@
+Customer ID: 2592-YKDIF
+Topic: internet completely unavailable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I can't connect to the internet at all. 
+Agent:  I understand there's an issue with your internet connection. Please provide your account number and address so we can investigate further.
+Customer: Here it is, 1234567890. My address is 123 Main Street.
+Agent: Thank you for that information. We are currently experiencing a widespread outage in the area.  We'll keep you updated on the progress.
+Customer: What about my internet plan? Is there any estimate when it will be back online?
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for keeping me informed, I appreciate your prompt response."
+Sentiment: Positive

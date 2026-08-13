@@ -1,0 +1,18 @@
+Customer ID: 1775-KWJKQ
+Topic: customer cannot find required account option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't find the option to change my plan online. 
+Agent:  I understand you are having trouble accessing your account options. Can you please provide your account number and email address?
+Customer: It's [account number] and my email is [email address]. 
+Agent: I see your account information, thank you for that.  Are you looking to change your internet plan or add another service?
+Customer: I need to change the type of data usage limit, but I can't find it in my online account.
+Agent: Let me take a quick look at your account and then we will figure this out. 
+Customer: Thank you!
+Agent:  I see your current plan is set for DSL internet with a data limit. To change the data usage, you would need to adjust your internet plan through our website. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for clarifying! I appreciate the help in finding the information I needed."
+Sentiment: Positive

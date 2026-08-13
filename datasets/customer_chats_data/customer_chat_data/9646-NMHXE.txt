@@ -1,0 +1,17 @@
+Customer ID: 9646-NMHXE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I have a question about my Wi-Fi signal in the living room. It's very weak and I can barely connect to it.
+Agent:  I understand your concern. Can you please tell me which specific part of your home is experiencing this issue? 
+Customer: The living room. There are no other devices in that area or near the router.
+Agent:  Thank you for clarifying. We'd like to check if there's a possibility of obstruction causing interference with the signal. 
+Customer: I think that might be it but I haven't noticed anything unusual.
+Agent:  We may be able to suggest some troubleshooting steps. How about we take a look at your router settings? 
+Customer: Okay, I will give that a try. Thank you! 
+Agent:  No problem. Let me know if you need any assistance with the settings.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided some good troubleshooting advice. Hopefully this will resolve my Wi-Fi issue!
+Sentiment: Positive

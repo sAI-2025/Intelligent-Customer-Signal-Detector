@@ -1,0 +1,17 @@
+Customer ID: 6954-OOYZZ
+Topic: data service stops after plan change
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet service has stopped working since I changed my plan last week.  I'm on a month-to-month contract and have DSL.
+Agent: Hi there! We understand your internet is down after changing your plan. Can you tell me your account number or the email address associated with it?
+Customer: 1234567890, my email is jane.smith@example.com
+Agent: Thank you, Jane.  I see that you were on a $44.35/month plan and changed to a different one. Please hold while I check for possible reasons for this issue. 
+Customer: Is it a common problem? I'm worried about the slow speed...
+Agent: The outage should be resolved within the hour, but we can investigate further if there is an issue with your account. 
+Customer: Ok. Thank you.
+Agent: We apologize for any inconvenience this may have caused. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This situation was handled professionally and I appreciate their prompt response to the service outage."
+Sentiment: Positive

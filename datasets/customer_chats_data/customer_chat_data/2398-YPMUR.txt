@@ -1,0 +1,17 @@
+Customer ID: 2398-YPMUR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is very weak in the living room.  I can barely stream a video.
+Agent: I understand you're having trouble with your Wi-Fi signal in the living room. 
+Customer: I just moved into this place and have fiber internet, but it's awful. What can I do?
+Agent: Let me ask some questions about your setup to best address this issue.  What is your router model and how far are you from the router?
+Customer: It's a standard Netgear router. About 30 feet away. 
+Agent: Thanks for that info. We can try restarting your modem or router to see if it helps. 
+Customer: Great, thanks! I appreciate it.
+Agent:  No problem! It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The issue was resolved quickly and effectively, thank you!"
+Sentiment: Positive

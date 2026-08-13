@@ -1,0 +1,19 @@
+Customer ID: 8859-DZTGQ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My Wi-Fi signal is really weak in the living room and dining area of my apartment. 
+Agent:  I understand, I'm sorry to hear about your signal strength issues. Could you please tell me your account details so I can take a closer look?
+Customer: Sure. My name's James, account number [redacted], and my address is [redacted].
+Agent: Thank you, James. Let me check on the signal strength in those areas for you. 
+Customer:  Great! Thanks.
+Agent: I just checked your signal strength and it seems there may be a blockage or interference issue affecting the living room and dining area. I'm going to try some troubleshooting steps.
+Customer: Okay, that makes sense.
+Agent: We can try resetting your modem, checking for any potential obstructions in those rooms, and adjusting your Wi-Fi settings. 
+Customer: Thanks again, will let you know if it helps! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick resolution!  I appreciate your help getting my wifi back up and running."
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 3247-MHJKM
+Topic: high latency or ping during usage
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there! I'm having issues with high latency/ping while using your service.  Is this a known problem? 
+Agent: We apologize for the delay in connection and any inconvenience it may cause. 
+Customer: It seems like ping is constantly above 300ms, making online gaming unplayable. Can you help? 
+Agent: I understand your frustration, we're currently investigating network issues that could be impacting connectivity.  Please hold while we check on the situation further. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While it was helpful to get an update, I still haven't seen any improvement in latency and my gaming is still unplayable."
+Sentiment: Negative

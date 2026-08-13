@@ -1,0 +1,17 @@
+Customer ID: 4550-EVXNY
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping out frequently.
+Agent:  I understand your frustration, can you please provide me with your account information so I can assist you further? 
+Customer: Sure, my name is John Smith and my account number is 1234567890.
+Agent: Thank you, Mr. Smith. I see there's a history of recent connectivity issues on your account. 
+Customer: Hmm, that's odd.  My internet speed seems fine to me. 
+Agent: I'd be happy to look into this further. Let's try restarting your modem and router first. 
+Customer: Okay, I'll give it a shot.
+Agent:  Done. Please let me know if you continue experiencing issues after restarting your equipment. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quickly addressed the issue! Thanks again for getting this sorted out.
+Sentiment: Positive

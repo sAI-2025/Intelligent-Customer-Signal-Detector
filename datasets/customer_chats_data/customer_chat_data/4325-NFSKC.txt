@@ -1,0 +1,17 @@
+Customer ID: 4325-NFSKC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I've been having trouble connecting to your internet lately. The latency is really high.
+Agent: Hello!  I'm sorry to hear about the high latency you're experiencing. Can you tell me your account information so I can take a look? 
+Customer: Sure thing. My name is Robert, and my account number is 1234567890.
+Agent: Thank you, Robert!  I see you are on a month-to-month plan with Fiber optic service.  Have you checked your router recently for any issues? 
+Customer: I have, but nothing seems to be working.  
+Agent: Alright, let me check on the network status for your area. 
+Customer: Thanks! 
+Agent: We'll get this resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Great, thanks for getting it sorted out so quickly!"
+Sentiment: Positive

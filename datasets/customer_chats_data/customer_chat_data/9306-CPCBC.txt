@@ -1,0 +1,20 @@
+Customer ID: 9306-CPCBC
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet speed during peak hours. It slows down significantly. 
+
+Agent:  I understand your concern. Can you please provide me with your account information or a timestamp of when the slowdowns occur?
+
+Customer: Sure, my account name is [account name] and it usually happens between 7 PM and 9 PM. 
+ 
+Agent: Okay, thanks for that detail. I'll be happy to look into this further.  I can see your plan is Fiber Optic with a speed of 100 mbps.
+
+Customer: I appreciate it! 
+
+Agent: Let me check on the network and provide you with an update shortly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out, it feels like the speeds are back to normal now."
+Sentiment: Positive

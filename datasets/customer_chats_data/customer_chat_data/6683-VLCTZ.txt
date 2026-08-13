@@ -1,0 +1,24 @@
+Customer ID: 6683-VLCTZ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's very slow and keeps disconnecting.
+
+Agent: Thank you for contacting us, Mr. Smith.  I understand this is frustrating. 
+
+Customer: Yes, it has been going on for about an hour. My speeds are down to a trickle!
+
+Agent: I apologize for the inconvenience. Can you please provide me with your account number and the address where you're experiencing these issues?
+ 
+Customer:  My account number is #1234567890.  I live at 123 Maple Street,  
+ 
+Agent: Thank you, Mr. Smith. I have located your account and will run a diagnostics check right now.
+
+Customer:   Oh, that's great! Thanks for the help.
+
+Agent: You're welcome. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks again for quickly resolving my internet issue!  I appreciate your helpfulness.
+Sentiment: Positive

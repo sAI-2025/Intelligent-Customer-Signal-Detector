@@ -1,0 +1,21 @@
+Customer ID: 5385-SUIRI
+Topic: outgoing calls failing
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble making outgoing calls on my internet plan. 
+Agent:  I understand your concern, let me gather some information about your account.  Could you please provide your name and account number? 
+Customer:  My name is Robert Smith and my account number is XXX-XXXXXXX. 
+Agent: Thank you for providing that information, Mr. Smith.  
+Customer: I've been a loyal customer for over five years!
+Agent:  I appreciate your long-standing loyalty, Mr. Smith.   We are currently experiencing some technical issues with outgoing calls on our network. 
+Customer: Well, this is frustrating!
+Agent: I understand, and we are working diligently to resolve the issue as quickly as possible.   Would you like me to escalate this for you?
+Customer:  Yes please.  Can you give me an estimated time of when it might be fixed? 
+Agent: We anticipate having the issue resolved within the next few hours. 
+Customer: Great, thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating to experience this kind of technical issue after so long as a loyal customer.
+Sentiment: Negative

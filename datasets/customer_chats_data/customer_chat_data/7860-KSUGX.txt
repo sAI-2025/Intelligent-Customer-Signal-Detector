@@ -1,0 +1,17 @@
+Customer ID: 7860-KSUGX
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble with my download speed. It's significantly slower than what I'm paying for. 
+Agent:  I understand your concern. What's your current internet speed and plan? 
+Customer: My download speeds are about 5 Mbps, but my plan is supposed to be 100 Mbps. It seems like the service is lagging a lot.
+Agent: I see you've been with us for two years, on a $64.45 monthly plan.  
+Customer: Yes, and it's DSL internet.
+Agent:  I can definitely check into this. We do sometimes run into issues with speeds in that area. 
+Customer: Thanks! 
+Agent: Please allow me a few minutes while I look into this for you. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it took a long time to get a resolution and the speed issue persists despite their investigation."
+Sentiment: Negative

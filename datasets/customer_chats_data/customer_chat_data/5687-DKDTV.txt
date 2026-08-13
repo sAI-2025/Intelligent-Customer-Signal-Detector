@@ -1,0 +1,17 @@
+Customer ID: 5687-DKDTV
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! My internet is running really slow during peak hours today. It's been lagging so much I can't even load videos. 
+Agent: I understand your frustration with the slow internet speeds.  Can you please provide me with your account details for verification? 
+Customer: Sure, my username is [Username] and I believe my account number is [Account Number]. 
+Agent: Thank you for sharing that information. Let's investigate this further.  We may need to check the network congestion at your location.  
+Customer: Okay, sounds good.  
+Agent: Just a moment while we run some checks.  I will update you on what I find shortly.  
+Customer: Thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and hopefully the slow internet speeds will be resolved soon!"
+Sentiment: Positive

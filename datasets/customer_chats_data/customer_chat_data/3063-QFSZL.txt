@@ -1,0 +1,24 @@
+Customer ID: 3063-QFSZL
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet at all.  It's been down since this morning. 
+
+Agent:  I understand you're experiencing trouble with your DSL connection. Can you please provide me with your account information so I can check on the status?
+
+Customer: Sure, it's [Customer name] and my account number is #1234567.
+
+Agent: Thank you for providing that information.  I am seeing reports of a widespread outage in your area.  An engineer has been dispatched to resolve this issue. 
+
+Customer: Ok, great! When can I expect internet back online? 
+
+Agent: We are working on it and we hope to have your connection restored within the next two hours. 
+ 
+Customer: Thanks for the update.  I appreciate that.   
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was prompt and informative, and I appreciate their quick response and expected timeframe for the service restoration.
+Sentiment: Positive

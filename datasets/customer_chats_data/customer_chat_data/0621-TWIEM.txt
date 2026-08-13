@@ -1,0 +1,17 @@
+Customer ID: 0621-TWIEM
+Topic: customer wants to apply an available offer
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I want to apply for the new internet offer that's currently available for customers like me. 
+Agent: Absolutely!  I can help with that. Could you please tell me your current plan details and if you have a DSL connection?
+Customer: My plan is month-to-month, and I pay $45.55 per month for my DSL internet. I've been a customer for 10 months now.
+Agent: Thank you! We do have an offer available that will lower your monthly cost. Can I confirm your account number?
+Customer: [Account Number] 
+Agent: Your plan is eligible, and we can apply the offer right away.  Let me just process that. 
+Customer: Great! Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a smooth and efficient experience.  I appreciate the quick resolution to getting my monthly bill lowered!
+Sentiment: Positive

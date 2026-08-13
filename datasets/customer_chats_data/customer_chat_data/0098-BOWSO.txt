@@ -1,0 +1,17 @@
+Customer ID: 0098-BOWSO
+Topic: music streaming uses unexpected data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My monthly data usage has been unexpectedly high!  I'm on a month-to-month plan and only use Spotify streaming. 
+Agent: I understand your concern, let me take a look into your account details.
+Customer: It feels like there's been a sudden increase in my data consumption, even though I haven't changed my usage habits.
+Agent:  I can see that you have an active month-to-month plan and are streaming music via Spotify. 
+Customer: How can I decrease this unusual amount of data usage?
+Agent: It may be related to how Spotify is optimizing your audio quality and data utilization for optimal listening experience, based on your connection preferences. 
+Customer:  Thank you!  I'll check that out.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into my data usage; it seems like the Spotify optimization feature is impacting my plan more than usual.
+Sentiment: Neutral

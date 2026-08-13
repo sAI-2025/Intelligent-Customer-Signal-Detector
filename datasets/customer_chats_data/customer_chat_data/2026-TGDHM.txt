@@ -1,0 +1,21 @@
+Customer ID: 2026-TGDHM
+Topic: customer dissatisfied with support experience
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm really frustrated with my recent internet outages.  I've experienced them multiple times over the past week!
+
+Agent: I understand your frustration, and I'd be happy to help troubleshoot this issue for you. 
+
+Customer: There has been no improvement after a few technical checks from my end.
+
+Agent: Thank you for letting me know about that.  Please provide me with your account number and the specific dates and times of these outages so we can investigate further. 
+
+Customer: Here it is.  My details are on file in the system.
+
+Agent: I'll be sure to send you updates once I have a better understanding of this matter. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it still feels frustrating that these outages haven't been resolved after multiple attempts."
+Sentiment: Negative

@@ -1,0 +1,17 @@
+Customer ID: 6330-JKLPC
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having trouble getting a strong Wi-Fi signal in my living room. 
+Agent:  I understand. Can you tell me your address and account number so I can check the service on your location?
+Customer: Sure, my name is Sarah Smith, and my account number is 1234567890.
+Agent:  Thank you for providing that information, Ms. Smith. I'm looking at your signal strength now.  
+Customer: Alright! Thanks so much. 
+Agent: I’m sorry to say we are having some connectivity issues in your area. We will send a technician out to check it out soon. 
+Customer: Ok, that’s great. Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the quick response and solution! Glad they'll be sending someone to take care of things."
+Sentiment: Positive

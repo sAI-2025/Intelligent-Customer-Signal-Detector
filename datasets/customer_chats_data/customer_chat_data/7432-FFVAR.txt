@@ -1,0 +1,19 @@
+Customer ID: 7432-FFVAR
+Topic: data service stops after plan change
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just changed my data plan and now my internet is not working.
+Agent:  I understand your concern.  Could you please provide me with your account number? 
+Customer: My account number is [account_number]
+Agent: Thank you for that information. What specific service are you having trouble with - speed or connectivity?
+Customer: It's both, I'm getting very slow speeds and no connection at all.
+Agent:  I see your plan was changed recently. Let me check the details on our end. 
+Customer: I just switched to a higher-tier plan
+Agent: We are aware of an issue with some recent changes to our data plans.  It should be resolved within a few hours. In the meantime, can you try restarting your modem and router? 
+Customer: Thanks for the help!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was frustrating to deal with, but the agent's explanation was clear and helpful in offering potential solutions.
+Sentiment: Neutral

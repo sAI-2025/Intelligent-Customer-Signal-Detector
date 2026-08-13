@@ -1,0 +1,15 @@
+Customer ID: 1343-EHPYB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing frequent internet disconnections. My speeds have been slow as well lately. 
+Agent:  I understand your concern, Mr./Ms. [last name], we're sorry to hear you're having trouble with your connection. Can you please provide the account number and a description of the issue?
+Customer: Sure. Account Number is [account number]. The disconnections happen every few hours. 
+Agent: Thank you for providing that information.  I’ve accessed your account and have noticed a few recent outages in your area. We’ll investigate this further. 
+Customer: Thanks, I hope we can resolve this soon. 
+Agent: I understand. We are working on a solution to ensure your internet connection remains stable.  We will update you within the next 24 hours with an estimated time for resolution. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me and providing an update, hoping for a resolution soon!"
+Sentiment: Positive

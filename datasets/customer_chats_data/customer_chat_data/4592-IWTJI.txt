@@ -1,0 +1,24 @@
+Customer ID: 4592-IWTJI
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is terrible. It's barely working at all. I was expecting much better speeds than this. 
+
+Agent:  I understand you're having trouble with your upload speeds, and we want to help get that fixed for you! To start troubleshooting, could you please tell me your full address so I can check the service area?
+
+Customer: My address is [redacted]. I've been experiencing slower speeds since the last billing cycle started. 
+
+Agent: Thank you for providing your address. Based on what we have in our system, you are using DSL internet which has limited upload speeds compared to other connection types. 
+
+Customer: So there's no real fix? It seems like a big waste of money if I can't even use the services I pay for. 
+
+Agent:  We understand your frustration and we apologize for the inconvenience. We are here to help you optimize your current internet service, so do you want to consider upgrading or would you prefer to look at other options?  
+
+Customer: I think I might need a better option. How much does it cost to upgrade my plan?
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in exploring options, the lack of immediate resolution and clear pricing information makes me feel like this problem is unlikely to be resolved easily.
+Sentiment: Negative

@@ -1,0 +1,15 @@
+Customer ID: 5685-IIXLY
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet connection has been slow and unstable lately.  It's been happening for about a week now. 
+Agent: I understand your frustration. Could you please provide me with your account details so I can check the service status?
+Customer: Sure, my name is John Miller and my account number is 1234567890.  I also use Fiber optic connection.
+Agent: Thank you, John.  I have checked your service records and it appears there are some outages reported in your area currently. We apologize for the inconvenience.
+Customer: Okay, I hope this gets resolved soon. 
+Agent: Our team is working on restoring service as quickly as possible. We will notify you once it's back to normal speed.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know the issue! It's good to hear you're working on fixing things."
+Sentiment: Positive

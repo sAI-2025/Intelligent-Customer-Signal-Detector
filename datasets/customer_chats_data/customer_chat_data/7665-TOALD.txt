@@ -1,0 +1,24 @@
+Customer ID: 7665-TOALD
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow and I can't even load basic websites. This is unacceptable for a $69.6 per month service!
+
+Agent: Hello! Thank you for contacting us regarding your internet connection. 
+
+Customer:  I just got this Fiber optic internet, it's been like this since yesterday. It’s not normal. I have been on hold for the past hour and a half. 
+
+Agent:  My apologies for the delay, let me take a look at your account information. 
+
+Customer:  Okay! Thanks!
+
+Agent: We are checking your connection now to ensure that everything is working properly. 
+
+Customer: Okay.
+
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the quick resolution, but the slow internet speeds and long hold times are still concerning for a $69 service.
+Sentiment: Negative

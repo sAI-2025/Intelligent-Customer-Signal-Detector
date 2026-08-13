@@ -1,0 +1,23 @@
+Customer ID: 8097-OMULG
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am unable to access the internet at all.  My connection has been down for hours.
+
+Agent: Thank you for contacting us, I'm sorry to hear about your internet outage. Can you please provide me with your account number and location? 
+
+Customer: My account number is [account number] and I am located in [city].
+
+Agent: Alright, I see that your DSL service is currently experiencing an issue.  I can begin troubleshooting this for you now. 
+
+Customer: Thank goodness, it was really impacting my work. 
+
+Agent: No problem at all, we will have this resolved as quickly as possible. We'll keep you updated on the progress!
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this fixed so quickly, I appreciate your help!
+Sentiment: Positive

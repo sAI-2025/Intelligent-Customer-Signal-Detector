@@ -1,0 +1,24 @@
+Customer ID: 2667-WYLWJ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I'm only getting around 5Mbps when my contract states it should be 10Mbps.  
+
+Agent: Thank you for reaching out to us! We understand that your upload speed isn’t meeting expectations. Could you please provide me with the following information to help troubleshoot: account number, and a screenshot of your current speed test results?
+
+Customer: Here is my account number [redacted] and a screenshot of the speed test result: [image link] 
+
+Agent: Thank you for sharing that information! Let me check on that for you. 
+
+Customer:  It’s frustrating to have such slow upload speeds, especially considering I pay $19.75 a month for this service.
+
+Agent: We want to ensure your internet experience is optimal. While we strive to deliver the advertised speed, there can be occasional fluctuations due to network congestion or other factors impacting performance. 
+   
+Customer:  Ok, well hopefully it gets resolved soon! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation about potential fluctuations, I hope this issue is addressed quickly as my slow upload speed feels unreasonable given my contract and monthly payment.
+Sentiment: Negative

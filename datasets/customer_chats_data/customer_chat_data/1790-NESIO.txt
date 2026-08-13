@@ -1,0 +1,16 @@
+Customer ID: 1790-NESIO
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My ping and latency are super high lately, making it impossible to use the service.
+Agent: I understand your frustration! Can you please provide me with your account information and internet provider so I can check for any network issues? 
+Customer: Sure, my account name is [Account Name], and my internet provider is Spectrum. 
+Agent: Thank you.  I'm looking into this now. 
+Customer: Thanks, I hope you find something quickly!
+Agent: Let me know if there are any updates on the status of your connection. We appreciate your patience. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and responsive, hopefully we see improvement soon."
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 2824-MYYBN
+Topic: line transfer or replacement problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my internet service. I was just transferred from another customer's call and I can't seem to get past this screen. 
+
+Agent: I understand you're experiencing difficulties.  Please provide your account number and the specific issue you're facing.
+
+Customer: My Account Number is XXXXXXXXXX
+
+Agent: Thank you. Let me check on your internet connection. It appears there might be a line issue affecting your service. 
+
+Customer: Ok, thanks
+
+Agent: I'm going to transfer your call to our technical support team who can assist with the replacement process.  We'll get that sorted out for you.
+
+Customer: Great, thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for resolving my internet issue so quickly. The new technical support rep was really helpful too.
+Sentiment: Positive

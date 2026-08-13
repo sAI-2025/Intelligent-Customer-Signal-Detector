@@ -1,0 +1,15 @@
+Customer ID: 1621-YNCJH
+Topic: referral discount not applied
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with a referral discount.  I referred someone and haven't seen it applied to my bill yet. 
+Agent: I understand you're referring to a discount for your referral. Can you provide me with your account information? 
+Customer: Sure, here it is. [account details]
+Agent: Thanks! Let me check on that, and I'll be able to rectify the situation.  
+Customer: Great, thank you. 
+Agent: No problem at all. It should reflect in your next billing cycle.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and prompt, resolving the issue quickly!
+Sentiment: Positive

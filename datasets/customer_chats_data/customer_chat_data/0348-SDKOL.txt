@@ -1,0 +1,18 @@
+Customer ID: 0348-SDKOL
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room and bedroom. 
+Agent: Hello!  I understand your concern. May I ask what type of device you are using? 
+Customer: I'm using my laptop. The signal is weak, and it keeps dropping. 
+Agent:  Please provide the exact address or location of your property so I can check on the Wi-Fi signal strength. 
+Customer: 123 Main Street, Apt. #5B. 
+Agent: Thank you. 
+Customer:  My internet speed is also slower than usual in those rooms.   
+Agent:  I understand your frustration and will look into the issue right away. We need to check for any potential interference or signal issues with your router's placement, then I can give you some recommendations. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive in resolving my Wi-Fi issues.
+Sentiment: Positive

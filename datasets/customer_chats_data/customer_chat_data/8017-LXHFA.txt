@@ -1,0 +1,17 @@
+Customer ID: 8017-LXHFA
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is incredibly slow! I can barely load websites and videos. 
+Agent:  I understand your frustration. Could you please tell me more about what's happening? What specific websites or applications are giving you trouble?
+Customer: YouTube, Netflix, even just checking my email is taking forever. Ping is high.
+Agent:  I see that your connection speed and latency haven't been consistent lately. I apologize for the inconvenience. 
+Customer: Is this a known issue with the fiber optic network? I've used it for almost two years without any problems.
+Agent: We are aware of some recent issues with network congestion, particularly during peak hours.  We're working on resolving them as quickly as possible. 
+Customer: Okay, thank you. Hopefully that will get resolved soon.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was a relief to hear that the issue is being addressed! Hopefully things will improve soon.
+Sentiment: Positive

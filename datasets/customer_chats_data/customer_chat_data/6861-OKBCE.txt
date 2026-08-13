@@ -1,0 +1,16 @@
+Customer ID: 6861-OKBCE
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My ping is really high and I can't play online games. It's been this way for days now. 
+Agent:  I understand your frustration. We're sorry to hear you're having trouble. Can you please provide me with your account information? 
+Customer: Sure, it's [redacted]. My account number is [redacted].   
+Agent: Thank you for providing that information. I will investigate further and try my best to resolve the issue.  
+Customer: Thanks!
+Agent: Let me know if there are any updates or if you need anything else from me. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help, I'll update you if the ping issue persists."
+Sentiment: Positive

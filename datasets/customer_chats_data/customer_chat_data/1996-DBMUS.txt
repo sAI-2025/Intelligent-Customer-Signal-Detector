@@ -1,0 +1,22 @@
+Customer ID: 1996-DBMUS
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my internet. It seems like there's a lot of lag and high latency, even though my connection speed is supposed to be fast. 
+
+Agent:  I understand that you are experiencing issues with high latency during your usage. Can you please provide me with your account details or the device you are using?
+
+Customer: My name is John, and my service number is 12345678. I'm having trouble playing online games due to lag.
+
+Agent:  John, thank you for providing that information. We are aware of a recent surge in latency across our Fiber Optic network. Our technical team is working on a solution but we can offer some troubleshooting steps while the issue is being resolved.
+
+Customer: Okay, I appreciate it! 
+
+Agent:  Our best recommendation at this time is to restart your router or modem and check if that resolves any issues. If that doesn't help, feel free to call us back with the results. Thank you for contacting us. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the troubleshooting advice, it seems like the latency issue is improving!
+Sentiment: Positive

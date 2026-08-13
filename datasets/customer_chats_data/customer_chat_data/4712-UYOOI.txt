@@ -1,0 +1,24 @@
+Customer ID: 4712-UYOOI
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is lower than expected. I just tried uploading a large file and it took forever. 
+
+Agent:  I understand your frustration. Could you please tell me what your current upload speed reading is? 
+
+Customer: It's around 3 Mbps, when I expect 8 Mbps.
+
+Agent: Thanks for providing that information. Let me check on the account settings for you and see if there are any possible reasons why the speeds might be low.
+
+Customer: Okay. 
+
+Agent:  My apologies for the inconvenience caused. Based on your current plan, we're currently running at a slower speed than expected. 
+
+Customer: Thanks anyway! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this - it seems like there are some issues with my upload speeds.
+Sentiment: Neutral

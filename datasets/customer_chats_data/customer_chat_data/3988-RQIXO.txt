@@ -1,0 +1,18 @@
+Customer ID: 3988-RQIXO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble getting a strong Wi-Fi signal in my living room. 
+Agent:  Hi there! I understand your concern, can you please tell me your account details?
+Customer: Sure, my name is Sarah and my account number is 12345678.
+Agent: Thank you for providing that information, Sarah.  I see you're on a month-to-month contract with us.  
+Customer:  Is there anything I should do to strengthen the Wi-Fi signal? 
+Agent: We can definitely look into this for you.  Would you mind if we try resetting your router first? 
+Customer: Okay, sounds good! 
+Agent:  Okay, let's do that now. Please wait a minute or two and your signal strength should improve. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and the solution to reset my router worked quickly!"
+Sentiment: Positive

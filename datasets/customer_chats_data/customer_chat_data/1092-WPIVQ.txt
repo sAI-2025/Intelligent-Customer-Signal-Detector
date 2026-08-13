@@ -1,0 +1,17 @@
+Customer ID: 1092-WPIVQ
+Topic: customer questions monthly service price
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was hoping to get some clarification on my monthly service price. 
+Agent:  Hello! Thank you for reaching out to us. Could you please confirm your account number or the name associated with it? 
+Customer: Sure, it's [account number]. My plan is No Internet, and I've been a customer for 18 months. 
+Agent: Your current monthly service price is $25.10. Does that seem to be in line with your expectations?
+Customer:  I was under the impression it might be lower.
+Agent:  We have a special offer running for No Internet users on our latest plan, which includes discounts for longer-term contracts like yours! 
+Customer: Okay, what's the discount? 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the clarification, though I still feel a bit surprised about the price considering my long-standing history with your service.
+Sentiment: Neutral

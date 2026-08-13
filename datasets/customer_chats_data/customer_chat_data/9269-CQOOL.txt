@@ -1,0 +1,19 @@
+Customer ID: 9269-CQOOL
+Topic: customer wants to know retention offers
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m looking for information on any retention offers or discounts available. 
+Agent:  Hi there! Of course, I can help you with that. What's your current plan and length of service?
+Customer: My plan is the DSL package at $54.7 a month, and I've been a customer for three months now. 
+Agent:  I see.  We currently have an offer on our DSL plans for those looking to renew. It includes a discount for the next 12 months! 
+Customer: That sounds great! How do I go about signing up?
+Agent: You can easily manage your plan online, through our app, or give us a call. What would you prefer? 
+Customer:  I'd like to explore this option further; I'll give you a call later. Thank you for your help.
+Agent:  No problem at all! Thanks for contacting us. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was quick and easy, thanks for the helpful info on the renewal offer!"
+Sentiment: Positive

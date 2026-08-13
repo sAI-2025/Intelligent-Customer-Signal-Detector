@@ -1,0 +1,17 @@
+Customer ID: 0374-IOEGQ
+Topic: internet completely unavailable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, my internet connection has been completely down all day. I haven't been able to work or even use video calls. 
+Agent: I understand your frustration, we can definitely help you get back online. Can you please provide your account information so I can take a closer look? 
+Customer: Sure, my name is [customer name] and my account number is [account number]. 
+Agent: Thank you for providing that information, [customer name]. Let me check on the status of your connection. 
+Customer: That's great. 
+Agent: I see there seems to be an issue with your DSL service in your area. We are working on restoring connectivity as quickly as possible. 
+Customer: Ok, thanks for letting me know.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update and quick response! I appreciate that you're working to get my internet back up.
+Sentiment: Positive

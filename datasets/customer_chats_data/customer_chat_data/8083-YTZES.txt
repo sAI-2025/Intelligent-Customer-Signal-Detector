@@ -1,0 +1,24 @@
+Customer ID: 8083-YTZES
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi, I can't seem to connect to the internet at all. 
+
+Agent:  I understand your frustration! We are experiencing some network issues right now.
+
+Customer:   That's great...thanks for letting me know.  Is it just me?
+
+Agent:  Let me double-check that information. I see you're a subscriber on our Fiber optic plan, and we haven't had reports of widespread outages. 
+
+Customer:  Well, I can't get online.  I need to work!
+
+Agent:  I apologize for the inconvenience. Please wait just a moment while I investigate further. 
+ 
+Customer:  Thanks! 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it still took too long and I'm struggling to work from home without internet access.
+Sentiment: Negative

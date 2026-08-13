@@ -1,0 +1,17 @@
+Customer ID: 9170-CCKOU
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my upload speed. It's significantly slower than expected. 
+Agent:  I understand you're experiencing slow upload speeds. May I ask for your account information so I can take a look?
+Customer: Sure, my name is [customer name], and my account number is [account number]. 
+Agent: Thank you, [customer name]. Let me check if there's any issue with the service on our end.  
+Customer: Okay, thanks. 
+Agent:  I ran a speed test, and it appears your upload speeds are lagging slightly compared to your typical performance. 
+Customer: This is frustrating, especially since I rely on fast upload speeds for work. 
+Agent: We're here to help! Let me escalate this to our network team to investigate the issue further.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out quickly! Hopefully, this issue won't recur in the future.
+Sentiment: Positive

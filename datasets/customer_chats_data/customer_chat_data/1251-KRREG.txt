@@ -1,0 +1,21 @@
+Customer ID: 1251-KRREG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I can't connect to the internet at all.  My DSL connection is completely offline.
+
+Agent: I understand you're experiencing internet connectivity issues. Please provide your account information and location so I can assist you further.
+
+Customer: My account info is (account number) and my location is [City, State]. 
+
+Agent: Thank you! Let me check on the status of your connection. It appears there may be a service interruption in your area. 
+
+Customer:  That's okay, just trying to get connected to work. 
+
+Agent: We are working on restoring connectivity as quickly as possible. You will receive updates via email and SMS.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It would be helpful to have an estimated timeframe for when the service should be back online.
+Sentiment: Neutral

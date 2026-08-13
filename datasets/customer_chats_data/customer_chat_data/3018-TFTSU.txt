@@ -1,0 +1,17 @@
+Customer ID: 3018-TFTSU
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm having issues with my internet speed. It's been super slow and dropping in and out a lot. 
+Agent:  I understand your frustration. Can you please tell me your account name or the email address associated with it?
+Customer: My name is John, and my email is john.smith@email.com
+Agent: Thank you, John. I've pulled up your account details. It looks like there might be a congestion issue in your area today. 
+Customer:  Okay, that makes sense. Is there anything I can do to speed things up?
+Agent: We can investigate further and see if any solutions are available for you. Would you like me to escalate this to our network team?
+Customer: Yes please! Thanks for the help.
+Agent: Absolutely! I'll have them take a look at your connection. Please wait 5-10 minutes while we investigate. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting things escalated, appreciate the quick action!  😊
+Sentiment: Positive

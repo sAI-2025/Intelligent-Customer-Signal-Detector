@@ -1,0 +1,17 @@
+Customer ID: 1430-SFQSA
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. There's a lot of lag and high ping. 
+Agent:  I understand that you're experiencing latency issues. Can you please tell me your account details and how long you've been experiencing this?
+Customer: My account number is XXX-XXXX, I'm on a one year contract and my monthly payment is $35.60. 
+Agent: Thank you for the information.  Let me check our system and see if there are any known issues in your area. 
+Customer: Thanks!
+Agent:  I can confirm that we have had some reports of high latency today across the DSL network. We'll continue to monitor it and let you know if there's an update. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the issue! Hopefully this gets resolved soon."
+Sentiment: Positive

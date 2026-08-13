@@ -1,0 +1,24 @@
+Customer ID: 5309-TAIKL
+Topic: phone network connection disappearing intermittently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my phone network connection. It keeps dropping in and out. 
+
+Agent:  I understand your frustration,  Can you tell me what specific device are you experiencing this issue on?
+
+Customer: My laptop. Other devices like my smartphone stay connected. 
+
+Agent:  We have a DSL service plan; is the network signal strong in your location?  Have you restarted your modem and router recently? 
+
+Customer: It's been pretty consistent, though there are days where it's really spotty. I haven't done a restart lately. 
+
+Agent: Okay, I will check our system for any potential outages or network issues reported in your area.  
+ 
+Customer: Thanks!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I'm hoping the issue gets resolved soon.
+Sentiment: Positive

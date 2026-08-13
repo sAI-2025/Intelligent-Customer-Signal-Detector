@@ -1,0 +1,19 @@
+Customer ID: 4456-RHSNB
+Topic: customer reports poor overall service experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to speak to someone about my internet service.  
+Agent: Certainly! What seems to be the issue?
+Customer: My speeds are terrible and I've been having frequent drops in connection. 
+Agent: I understand your frustration.  Can you please provide me with your account number? 
+Customer: 1234567890
+Agent: Thank you. I see some history of slow speeds and intermittent outages reported for your DSL plan. 
+Customer: Well, that's just not acceptable! 
+Agent:  I apologize for the inconvenience. Let me put you in touch with our specialist team who can look into this further. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation, it's still frustrating to experience such poor service regularly."
+Sentiment: Negative

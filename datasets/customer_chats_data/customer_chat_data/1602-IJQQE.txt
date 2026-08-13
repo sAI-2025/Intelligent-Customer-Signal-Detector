@@ -1,0 +1,17 @@
+Customer ID: 1602-IJQQE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room and den. 
+Agent: Hello!  I understand your concern about your Wi-Fi signal strength. Please provide me with your account number or the address of your service location so I can look into this for you.
+Customer: My account number is 1234567890 and my address is 123 Main Street, any ideas why it's weak?
+Agent: Based on our records, we recently had a fiber optic line installation at your property, could be the reason for the problem. 
+Customer: What should I do?  Can you send an engineer to look at the signal? 
+Agent: Of course! We will have someone come out to check out your Wi-Fi signal strength within the next few business days. 
+Customer: Thank you so much, that's great!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this resolved so quickly!  I appreciate the prompt response and clear communication.
+Sentiment: Positive

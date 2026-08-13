@@ -1,0 +1,16 @@
+Customer ID: 7047-YXDMZ
+Topic: multiple-line pricing is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm confused about the pricing for multiple-line plans.  I thought my contract was month-to-month, but it seems like there are extra charges depending on how many lines I have. 
+Agent: Let me clarify your plan details. You're currently on a standard $20 per month plan with one line.  
+Customer: But then why is the price so different than my single line plan? 
+Agent: Could you please confirm your billing cycle and number of lines?
+Customer: My billing cycle is monthly, and I have two lines.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in clarifying the plan details but it would be helpful to know more about how multiple lines affect the overall cost upfront when choosing a plan.
+Sentiment: Neutral

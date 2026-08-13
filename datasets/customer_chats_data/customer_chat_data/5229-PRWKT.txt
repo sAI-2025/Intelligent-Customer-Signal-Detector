@@ -1,0 +1,15 @@
+Customer ID: 5229-PRWKT
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with high latency and ping during online gaming. It's been happening consistently for the last hour or so. 
+Agent: Hello! My apologies for the inconvenience.  Could you please provide your account information and any error messages you are seeing? 
+Customer: My name is John Smith, and this is my account number [account number]. The ping spikes around every other minute, sometimes going over 100ms. 
+Agent: Thank you, John. I've checked your network stats and we don't see any issues with the fiber connection at our end. 
+Customer:  I just want to play online gaming. Is there anything else you can do to help?
+Agent: We're checking for potential problems on our side. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, hopefully I'll be able to play without these spikes later."
+Sentiment: Positive

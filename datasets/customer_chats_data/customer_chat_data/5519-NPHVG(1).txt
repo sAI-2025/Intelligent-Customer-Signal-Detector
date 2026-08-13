@@ -1,0 +1,22 @@
+Customer ID: 5519-NPHVG
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is really slow today, especially during peak hours. It's making it difficult to work.
+
+Agent: I understand your frustration, and we are currently experiencing some network congestion during peak times. 
+
+Customer:  Is there anything you can do about it? 
+
+Agent: We're working on resolving the issue as quickly as possible. In the meantime, can you tell me what device(s) you're using?
+
+Customer: My laptop and iPad are slow. I am on a fiber plan.
+
+Agent:  Thank you for your patience. We'll keep you updated on our progress. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, hopefully things get back to normal soon."
+Sentiment: Neutral

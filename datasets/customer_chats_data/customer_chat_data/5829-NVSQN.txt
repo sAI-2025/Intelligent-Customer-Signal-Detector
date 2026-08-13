@@ -1,0 +1,17 @@
+Customer ID: 5829-NVSQN
+Topic: activation completed but service unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I just completed my service activation, but I can't connect to the internet yet. 
+Agent:  I understand your frustration, please provide your account number and the address where you have the modem installed?
+Customer:  My account number is 1234567890. My address is 123 Main Street.
+Agent:  Thank you. We're currently experiencing some technical difficulties at your location. 
+Customer:  Okay, that makes sense. Can I get an estimated time of when the service should be back online?
+Agent:  We'll have a technician dispatch to your location as soon as possible. We apologize for the inconvenience.
+Customer:  Great, thank you.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update and for getting me on the list for service - appreciate it!"
+Sentiment: Positive

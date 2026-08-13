@@ -1,0 +1,17 @@
+Customer ID: 7951-QKZPL
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It seems really slow and there are frequent dropouts. 
+Agent:  I understand your frustration. Can you tell me more about what you're experiencing? What device and connection plan are you using?
+Customer:  I'm on my laptop, and it's a No Internet package. The plan is $24.50 per month. I've been with Spectrum for two years. 
+Agent: Thanks for that information. We understand how important reliable internet access is. I'll be happy to check your account to see if there are any service issues affecting your connection. 
+Customer:  I hope it's just a temporary glitch, thanks!
+Agent:  We can certainly look into this. Let me connect you with our technical team, and they'll be able to diagnose the issue for you.
+Customer: Great! Thanks for your help.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and I appreciate them getting this issue sorted out so quickly.
+Sentiment: Positive

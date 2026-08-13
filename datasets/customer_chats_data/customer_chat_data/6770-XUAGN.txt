@@ -1,0 +1,19 @@
+Customer ID: 6770-XUAGN
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't seem to connect to the internet at all. 
+Agent: I understand your issue, let me take a look. What is your account number? 
+Customer: 123456789 
+Agent: Thank you for that information. We'll get this resolved for you right away. 
+Customer:  That would be great. Thanks!
+Agent: I am currently checking on the internet connection status, and it looks like there might be a service outage in your area.
+Customer: Oh no!  How long will this last?
+Agent: I'm checking our system for more information regarding the outages and I will let you know once we have an update 
+Customer: Alright. Thanks again.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated, hopefully they get this resolved quickly."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1349-WXNGG
+Topic: customer questions unlimited data pricing
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I need to understand your unlimited data pricing.
+Agent:  Hello! Thank you for contacting us. 
+Customer: My monthly plan is $20.05 and it's on a month-to-month contract. Do you offer unlimited data at that price?
+Agent: Absolutely, we have an Unlimited Data plan starting at $20.05 per month.  Would you like to learn more about that plan? 
+Customer: I think so. What are the details? 
+Agent:   Unlimited data is included with a monthly cost of $20.05 on a month-to-month contract. 
+Customer: Thank you, I understand now! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and clear in explaining the unlimited data plan!
+Sentiment: Positive

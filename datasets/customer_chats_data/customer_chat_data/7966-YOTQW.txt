@@ -1,0 +1,19 @@
+Customer ID: 7966-YOTQW
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having frequent internet disconnections lately. My service is DSL and I've been a customer for about 10 months now. 
+Agent: Hello! I understand you're experiencing intermittent connectivity issues.  I'll be happy to help troubleshoot this for you. Could you please provide your account number? 
+Customer: Sure, it's [Account Number]
+Agent: Thank you. I've reviewed your account and there doesn't seem to be any reported outages in the area.  Can you tell me a bit more about when these disconnections occur?
+Customer: Mostly during the evening hours. 
+Agent: Okay, thanks for that detail. Let's check the speed test results on your account. 
+Customer: Done, here's my recent test result. (Attached screenshot)
+Agent:  Thanks. We can take a closer look at this. I'll need to escalate this case to our technical team and get back to you with an estimated time frame for resolution.
+Customer: Ok, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the troubleshooting steps were helpful, it would be nice to have a timeframe for when I can expect my service to be stable again."
+Sentiment: Neutral

@@ -1,0 +1,24 @@
+Customer ID: 6876-ADESB
+Topic: activation completed but service unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, my internet has been down all day and it’s frustrating! Can you help me figure out why?
+
+Agent: Hi there! I understand your frustration.  Can you please provide your account number or email address so I can take a look at your service status? 
+
+Customer: My account is [Account Number], and my monthly plan started on the 1st of this month.
+
+Agent: Thank you! We have confirmed that your activation has been completed, but there is an issue with the DSL line connection in your area. 
+
+Customer:  Okay, thanks for letting me know. Is there a timeline for when it should be working? 
+
+Agent: I'm sorry for the inconvenience. Our technicians are currently working to resolve this issue as quickly as possible and we will update you on the status within the next hour or two. 
+
+Customer: Thanks!
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** "Thanks for the updates, I appreciate the quick response."
+Sentiment: Positive

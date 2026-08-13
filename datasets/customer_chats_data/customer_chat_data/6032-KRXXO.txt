@@ -1,0 +1,25 @@
+Customer ID: 6032-KRXXO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in certain rooms of my house. 
+
+Agent:  I understand, we can definitely look into that! Could you please tell me which rooms are affected and what kind of device you are using?
+
+Customer: The living room and the bedroom seem to be the worst. It's like there's a dead zone in those areas. I’m using my laptop. 
+
+Agent:  Thank you for providing that information. We can check your network configuration and signal strength. 
+
+Customer: Thanks! 
+
+Agent: Let me look into it right now.
+
+Customer:  Thanks so much. 
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive, and I appreciate them quickly taking care of the problem.
+Sentiment: Positive

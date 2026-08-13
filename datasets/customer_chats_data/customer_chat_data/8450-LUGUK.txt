@@ -1,0 +1,18 @@
+Customer ID: 8450-LUGUK
+Topic: payment method update failed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My payment method update failed. I tried to change my credit card details but it didn't go through. 
+Agent:  I understand your concern. What is the error message you received?
+Customer: It says "payment processing unsuccessful."  
+Agent: Can you please share your account information with me? (Username/Email and account number)
+Customer: Here you go.
+Agent: Thank you, I'm investigating this now. 
+Customer: Thanks for your help! 
+Agent:  I am looking into the issue. We will be able to update your payment method as soon as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly, I appreciate the updates and hope it gets resolved soon!"
+Sentiment: Positive

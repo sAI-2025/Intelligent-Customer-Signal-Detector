@@ -1,0 +1,17 @@
+Customer ID: 2657-ALMWY
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble connecting to the internet today. It's very slow and lagging. 
+Agent: Thank you for contacting us, what is your account number?
+Customer:  My account number is 1234567890. 
+Agent: I see that you are a month-to-month customer on our Fiber optic plan.
+Customer: Yes, I've been having slow connection since late morning. 
+Agent: We noticed an increase in network traffic during peak hours and it appears to be impacting your connection speed.  
+Customer: Ok, thanks for letting me know. 
+Agent: No problem at all. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for explaining the slow internet speeds! It's good to know this is being addressed.
+Sentiment: Positive

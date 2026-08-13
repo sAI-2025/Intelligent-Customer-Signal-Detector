@@ -1,0 +1,25 @@
+Customer ID: 9019-QVLZD
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is incredibly slow and I am getting high latency. It’s almost unusable!  
+
+Agent:  I apologize for the inconvenience. Can you please provide your account details so I can take a closer look? 
+
+Customer: Sure, my name is John Smith, account number [redacted], and I've only been using the internet for about a month. 
+
+Agent: Thank you, John.  I have a few questions about your connection. Can you tell me what part of the country you are located in?  
+
+Customer:   I’m in Seattle, Washington. 
+
+Agent:  Okay, I see that fiber is available there.  Let me check for any network issues or outages impacting your service area.  
+ 
+ Customer:  Thanks!
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my issue. Thanks!
+Sentiment: Positive

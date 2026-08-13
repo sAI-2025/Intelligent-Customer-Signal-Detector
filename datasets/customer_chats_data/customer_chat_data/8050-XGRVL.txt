@@ -1,0 +1,17 @@
+Customer ID: 8050-XGRVL
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, my internet connection has been really slow and unstable lately.  It's just not reliable anymore. 
+Agent: I understand your frustration. Let me take a look at your account details to see what might be causing the issue.  Could you please provide your account number?
+Customer: Sure, it's [Account Number]
+Agent: Thank you. I have reviewed your account and it seems there may be some issues with your DSL modem. We can schedule an appointment for a technician to visit your home. 
+Customer: Alright, that would be great!
+Agent:  Just tell me your preferred date & time slot, and we'll get that scheduled for you.
+Customer:  Perfect, thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful process!  Thanks for getting the problem addressed so efficiently.
+Sentiment: Positive

@@ -1,0 +1,23 @@
+Customer ID: 0568-ONFPC
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is really slow and keeps dropping out.  It's been like this all day.
+
+Agent: I understand your frustration, it sounds like you're experiencing some network issues. 
+
+Customer: Thanks for the quick response.  I signed up for No Internet with a monthly cost of $25.9. How can we resolve this?
+
+Agent: We'll definitely try to help! To best diagnose the issue, could you please run a speed test and tell me your current internet connection speed (in Mbps)? 
+
+Customer:  My upload speed is about 1.3 MBps. My download speed is around 2.5 MBps. 
+
+
+Agent: Thank you for providing that information. I'm looking into possible network issues in your area that may be causing the slow speeds and dropouts. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response, but still hasn't resolved my connection problems.  I hope they can address the underlying issue soon!
+Sentiment: Neutral

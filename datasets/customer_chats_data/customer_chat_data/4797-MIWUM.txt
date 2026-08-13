@@ -1,0 +1,17 @@
+Customer ID: 4797-MIWUM
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble connecting to the internet. It’s been really slow and dropping in and out a lot. 
+Agent:  I understand your frustration, [customer name]. Can you please provide your account information so I can look into this for you?
+Customer: Sure, it's [account number]. 
+Agent: Thank you. I have access to your account and see that your service plan is currently month-to-month.  Is there anything else you would like to add about the issue?
+Customer: Yeah, just started happening a few days ago. 
+Agent:  I’m checking on the network status for your area, [customer name]. I will update you as soon as I have more information.
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating to have intermittent internet speeds, especially when it started just a few days ago."
+Sentiment: Negative

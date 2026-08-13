@@ -1,0 +1,15 @@
+Customer ID: 8404-VLQFB
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey there! My download speed has been really slow lately. I'm on a $25.25/month plan and it seems like my speeds are barely 1MB/s. Is this normal?
+Agent: Thank you for contacting us.  I can definitely look into that for you. Could you please provide me with your account number or the email address associated with your account so I can check on your service? 
+Customer: Sure, my account number is [Account Number]. My email is [Email Address]
+Agent: Thank you! We'll investigate this issue and get back to you shortly. 
+Customer: Thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick response and I hope it resolves the slow speeds quickly.
+Sentiment: Neutral

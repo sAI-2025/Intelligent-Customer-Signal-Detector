@@ -1,0 +1,17 @@
+Customer ID: 6128-DAFVY
+Topic: customer asks about contract expiration
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to know when my contract is expiring. 
+Agent:  Hi there! You can check your contract details online in My Account. 
+Customer: Thanks. But I don't remember how to access that. It's a month-to-month agreement.
+Agent: No problem!  You can find the information on our website and through your account dashboard. 
+Customer: Okay, thanks. What about my monthly bill? It’s $44.85. 
+Agent: That's correct. Your contract has been with us for 56 months now, so you'll be on a month-to-month agreement until it expires.  
+Customer: Got it. Thanks for the help! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and patient in explaining everything to me! 😊
+Sentiment: Positive

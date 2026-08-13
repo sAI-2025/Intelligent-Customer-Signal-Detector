@@ -1,0 +1,24 @@
+Customer ID: 2454-RPBRZ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I'm paying $98.1 per month and have Fiber optic internet.  My contract is month-to-month. 
+
+Agent:  I understand you're experiencing slow upload speeds, we apologize for the inconvenience. To help me best diagnose your issue, could you please provide your account number?
+
+Customer: My account number is XXXXXXXXXX. 
+
+Agent: Thank you for providing that information. I can see your current speed and have a look at your plan details. Let's figure this out together!
+
+Customer:  Okay, thanks. 
+
+Agent: We can investigate what might be causing the slow speeds. Just a moment while I check. 
+   
+Customer: Great! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the agent's quick response and effort to troubleshoot my issue."
+Sentiment: Positive

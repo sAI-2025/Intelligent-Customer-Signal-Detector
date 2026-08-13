@@ -1,0 +1,17 @@
+Customer ID: 4800-CZMPC
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there!  My internet speed has been really slow today, especially during peak hours. It's like I'm stuck on dial-up. 
+Agent: Thank you for reaching out. What device are you using and what part of the day does the issue occur? 
+Customer: I'm using my laptop and it seems to happen around 7pm - 8pm when everyone else is streaming or working from home.
+Agent:  Okay, I understand. I can check our network traffic to see if there are any issues. Could you give me your account information so I can pull up your details? 
+Customer: Sure. My name is [customer's name], and my account number is [account number].
+Agent: Thank you for providing that information, [customer's name].  I've found some congestion on our network during peak hours. We should be able to resolve this within the next hour or two. 
+Customer: Alright, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly!  Hope it smooths out soon."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7248-VZQLC
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't seem to get online at all. My internet is completely unavailable. 
+Agent:  I understand your concern, and we are sorry to hear about this issue. Can you please provide your account details for faster assistance? 
+Customer: Sure, my name is [name], and my account number is [account number]. I'm on the month-to-month plan with $85.2 per month.
+Agent: We can confirm that you are currently using fiber optic internet. Please hold while we investigate this further.  
+Customer: Thank you for your help. 
+Agent:  We apologize for the inconvenience and have identified a network issue affecting your connection. The repair team is working on it now, and we expect service to be restored soon.
+Customer: Okay, thank you so much. I appreciate that. 
+Agent: We're glad we could assist you. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick update and helpful explanation!  😊
+Sentiment: Positive

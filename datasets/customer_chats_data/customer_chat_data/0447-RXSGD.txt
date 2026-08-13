@@ -1,0 +1,16 @@
+Customer ID: 0447-RXSGD
+Topic: customer cannot access account information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I can't access my account information online.  I keep getting an error message. 
+Agent: Hello!  My apologies for this inconvenience.  To help troubleshoot this issue, could you please provide your username and the specific error message?
+Customer: My username is [redacted] and the error message says "Unable to process request." 
+Agent: Thank you for providing that information. I'm seeing a slight lag in the system at the moment but should be resolved shortly.  
+Customer:  Okay, thanks.
+Agent:  I've checked your account information and everything seems accurate.  We are experiencing a temporary network issue; this should resolve itself within minutes.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It was nice to have the issue explained and resolved quickly despite the network issues."
+Sentiment: Positive

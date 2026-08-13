@@ -1,0 +1,17 @@
+Customer ID: 6275-YDUVO
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just wanted to check if my upload speed is normal. It seems slower than expected. 
+Agent:  I understand your concern. Can you please provide your account details and connection type?
+Customer: Sure, my name is Robert, it's account #1234567890. I'm using fiber optic internet.
+Agent: Thank you, Mr. Roberts.  Let me check on the speeds for you. 
+Customer:  Okay, thanks. 
+Agent: Based on your usage and speed test results, it seems there might be a temporary network congestion. We are working to resolve this issue as soon as possible.  Do you have any other questions? 
+Customer: Is there an estimated time when the speeds will return back to normal? 
+Agent: I'm checking our current status and will update you once the issue is resolved.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the congestion, I appreciate your prompt response and updates."
+Sentiment: Positive

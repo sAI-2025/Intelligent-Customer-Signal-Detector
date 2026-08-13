@@ -1,0 +1,20 @@
+Customer ID: 5649-VUKMC
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is way slower than expected. It's only at 5 Mbps while I'm paying $95.5 per month with fiber optic internet. Is this normal?
+
+Agent:  I understand your concern about the slow upload speed. Let me take a look into this for you.  Could you please provide your account details and your current location?
+
+Customer: Here they are, sure thing. 12 months of service on my contract, account number XXX-XXXXXXX. I'm in [City].
+
+Agent: Thank you. I have identified the issue with your internet connection. We've had some network fluctuations lately.  We're working to resolve it right away.
+
+Customer: Okay, thanks for letting me know. 
+
+Agent: You should see a noticeable improvement in upload speed within the next few hours.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me quickly, and hopefully the issue will be resolved soon."
+Sentiment: Positive

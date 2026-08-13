@@ -1,0 +1,17 @@
+Customer ID: 4612-THJBS
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am experiencing very high latency during online gaming. It's been happening for a few days now. 
+Agent: I understand your frustration.  Can you tell me what platform you're using and the specific games you've been playing?
+Customer: I'm on Discord for gaming. And it happens in several different games like Call of Duty and Fortnite.
+Agent: Have you tried restarting your router or modem? 
+Customer: I just did that, but it didn't help. 
+Agent: I'll also check your account details to see if there are any ongoing issues.  
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful in their troubleshooting steps, the high latency issue persists despite my efforts to restart my equipment."
+Sentiment: Neutral

@@ -1,0 +1,22 @@
+Customer ID: 4432-ADRLB
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi there! I’m having trouble with my Wi-Fi signal in the living room. It's very weak and barely works.
+
+Agent: Thank you for contacting us, I understand your concern. 
+
+Customer: Could you help me troubleshoot? My DSL internet is reliable, but it seems to be impacting the Wi-Fi in certain rooms.
+
+Agent:  I can certainly look into that for you. To get started, could you please tell me your account number and the address of the living room where you are experiencing the issue? 
+ 
+Customer: My account number is [account number], and I live at [address].
+
+Agent: Thank you!  I'll investigate this further and have a look into possible solutions. We aim to resolve it by the end of the day. 
+ 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful for the prompt response, hope it gets resolved quickly!"
+Sentiment: Positive

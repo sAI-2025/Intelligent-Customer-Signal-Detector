@@ -1,0 +1,18 @@
+Customer ID: 4609-KNNWG
+Topic: website form fails during submission
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was trying to submit a website form on your site but it failed. 
+Agent: Hello! What website form did you try submitting?  
+Customer: The one for new account setup. 
+Agent: Could you please provide me with the specific error message or details you saw during the submission process?
+Customer: It says "Unable to submit" and nothing else. I've tried different browsers, but no luck.
+Agent: Thank you for providing more information.  I can look into this issue further. 
+Customer:  Thanks! 
+Agent: Let me get this resolved right away. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would be beneficial to have a clear error code or message in addition to just saying "Unable to submit." "
+Sentiment: Neutral

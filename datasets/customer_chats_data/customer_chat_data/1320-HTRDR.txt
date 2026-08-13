@@ -1,0 +1,16 @@
+Customer ID: 1320-HTRDR
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet speed has been incredibly slow during peak hours lately. It's almost unusable.
+Agent: Hello! I understand your frustration.  I can look into this for you. Please provide me with your account number and the exact time frame when you experienced slow speeds. 
+Customer: Sure, my account number is [account number] and it was around 7-8pm yesterday evening.
+Agent: Thank you for that information. I'm seeing some reports of network congestion during those hours. 
+Customer: Well, this has been happening for the past week or so.
+Agent:  I’ve reviewed your account, [account number], and will connect you with our engineering team to address this issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for addressing my slow internet speeds. I appreciate the prompt action.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 8006-PYCSW
+Topic: service does not meet advertised expectations
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I have been having problems with my service speeds for a few weeks now.  The advertised speeds are not what I'm getting. 
+Agent: Hello! Thank you for contacting us. Can you tell me your account number and the specific issues you’re facing?
+Customer: My account number is XXXX-XXXX-XXXX. The speed has been consistently slower than advertised, especially during peak hours.  
+Agent: I understand that's frustrating, and I apologize for the inconvenience. Could you please describe a typical instance where you are experiencing slow speeds? 
+Customer: Well, I'm trying to video call my grandkids and it’s taking forever. It’s just not meeting what we expected when we signed up.  
+Agent: I see. Let me pull up your account information and take a look at the speeds. 
+Customer: Thank you!
+Agent: ...It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank goodness it's being taken care of, I hope the speed increases soon!"
+Sentiment: Positive

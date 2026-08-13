@@ -1,0 +1,24 @@
+Customer ID: 9524-EGPJC
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is very weak in my bedroom and living room. I was hoping to get some help with this issue.
+
+Agent: Thank you for contacting us!  I'd be happy to assist you. 
+
+Customer: It seems like the signal strength fluctuates a lot, especially in the afternoon. I’ve tried restarting the modem but it doesn't seem to fix the problem. 
+
+Agent: Alright, I understand. Could you please tell me your account details and the specific location of the affected rooms? 
+
+Customer: Sure, my account is [Insert Account Number].  I live at [Insert Address].  The issues are primarily in the living room and bedroom. 
+ 
+Agent: Thank you for that information! I will look into this for you right away. 
+
+Customer: Thanks so much. 
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me quickly, it's reassuring to know they'll fix it!"
+Sentiment: Positive

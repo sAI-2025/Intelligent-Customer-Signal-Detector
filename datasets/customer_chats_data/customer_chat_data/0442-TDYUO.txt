@@ -1,0 +1,22 @@
+Customer ID: 0442-TDYUO
+Topic: billing information unavailable online
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't access my billing information online, is there a way to get it? 
+
+Agent:  Hi! Let me check on that for you. Could you please tell me your account name or email address so I can verify your details?
+
+Customer: My account name is John Smith and my email is johnsmith@email.com. 
+
+Agent: Thank you, Mr. Smith. Your billing information is now ready. You can access it on our website under the "My Account" section.
+
+Customer: Okay, thanks!
+
+Agent:  You're welcome, John. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my issue! Thanks for your assistance.
+Sentiment: Positive

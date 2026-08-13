@@ -1,0 +1,27 @@
+Customer ID: 7551-DACSP
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my upload speeds. It's significantly slower than what I was expecting. 
+
+Agent:  I understand your frustration, [Customer Name]. Let me check on your account details.
+
+Customer: My internet plan is the basic DSL package at $55.3 per month. 
+
+Agent:  I see you've been a loyal customer for six months now and have consistently stayed within your plan.  We do occasionally experience occasional slowness during peak hours, though. 
+
+Customer: But this speed is unacceptable! It's like using dial-up. Can you help me? 
+
+Agent: Absolutely! I can check the current status of your connection. Is there a particular activity or program that is causing these slower speeds?
+
+Customer:  Well, streaming online and uploading files have slowed down significantly.
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the attempt to troubleshoot, this current speed still isn't acceptable even with peak hours in mind.
+Sentiment: Negative

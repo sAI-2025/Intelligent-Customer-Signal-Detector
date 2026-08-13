@@ -1,0 +1,23 @@
+Customer ID: 7853-OETYL
+Topic: internet speed differs across devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed.  It seems different on all my devices.
+
+Agent: Hello! Thanks for reaching out. Could you tell me which devices you are experiencing slow speeds from? 
+
+Customer: My laptop, phone, and TV all show different speeds.
+
+Agent: Okay, I can see that your plan is DSL and it's possible there are some limitations with the speed based on the network condition. Can you give me a little more information about which devices and what speeds you are seeing?
+
+Customer:  My laptop downloads files very slowly but my phone seems fine. TV streaming is also slow, inconsistent.
+
+Agent: Thank you for providing that details! I'll check your connection speed further and see if there's anything we can do to fix it for you.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's help in investigating my internet issues. Hopefully, a solution will be found soon.
+Sentiment: Neutral

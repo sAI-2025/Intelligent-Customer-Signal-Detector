@@ -1,0 +1,24 @@
+Customer ID: 3043-SUDUA
+Topic: repeated playback errors during movies
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I keep getting errors while trying to play movies on my No subscription plan.  Is there something wrong with the service? 
+
+Agent: Hi there! I'm sorry to hear you are having trouble playing your movies. Can you please tell me what kind of error messages you’re seeing, and which movie titles are giving you issues?
+
+Customer: It keeps saying "Playback Error" or "Connection Interrupted".  I am using No internet. 
+
+Agent: I see.  Unfortunately, streaming services like ours require a stable internet connection to access content. We'd recommend checking your network for any possible issues before trying again. 
+
+Customer: Tried that, no luck.  What about my monthly subscription? 
+
+Agent: Let me double-check your billing details and account status. I can see you have a month-to-month contract at $19.9 per month.  
+
+Customer: Thank you. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it would be nice to have a clear explanation of what needs to happen to resolve these playback issues with my No subscription plan before I continue trying.
+Sentiment: Neutral

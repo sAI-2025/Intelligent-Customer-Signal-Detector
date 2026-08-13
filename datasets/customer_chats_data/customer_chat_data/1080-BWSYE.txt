@@ -1,0 +1,21 @@
+Customer ID: 1080-BWSYE
+Topic: customer asks about downgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I would like to downgrade my plan from the $25.65 a month option to something cheaper. 
+
+Agent:  Absolutely! To help me understand your needs better, can you tell me what kind of plan you are looking for?
+
+Customer: Well, I mainly just need basic phone service and don't use any internet. 
+
+Agent: Okay, with no internet needed, you could consider our Basic Plan at $15 per month. Would that work for you?
+
+Customer: Yes, thank you!  I appreciate it.
+
+Agent: No problem at all! We can certainly change your plan to the basic one. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very smooth and quick process, thanks!
+Sentiment: Positive

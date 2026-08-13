@@ -1,0 +1,17 @@
+Customer ID: 2889-FPWRM
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been slow and unstable for the last few days. 
+Agent: I understand your frustration. Please tell me a little more about what's happening. Is it affecting specific tasks or websites? 
+Customer:  Everything is laggy, video calls are choppy. The speed test shows an average speed of 5 Mbps down, even though I am paying for 100 Mb/s. 
+Agent: Thank you. Could you please provide the full name and address associated with your account?
+Customer: [Name], [Address]
+Agent:  I'll look into it right away. We appreciate your patience while we investigate this issue. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and professional, and I hope the internet speeds are resolved quickly.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7776-QWNFX
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet.  The latency is very high and it's making it difficult to use my computer for work. 
+Agent: Hi there! I understand you're experiencing high latency while using your internet connection.  Could you please provide me with your account information so I can access your details?
+Customer: My name is John, and my account number is 123456789. 
+Agent: Thank you for providing that information, John. I'm checking on the issue now. 
+Customer:  I've been a customer for 30 months now, with DSL internet service. How can I get this fixed?
+Agent: We're looking into the possibility of fiber optic network issues impacting your connection. We'll update you once we have further information. 
+Customer: Thank you!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It seems like a technical issue is affecting my internet, but I appreciate their prompt response and will wait to hear updates.
+Sentiment: Neutral

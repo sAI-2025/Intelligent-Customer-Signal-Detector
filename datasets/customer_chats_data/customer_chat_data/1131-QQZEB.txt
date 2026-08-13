@@ -1,0 +1,17 @@
+Customer ID: 1131-QQZEB
+Topic: customer wants to cancel a service or add-on
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to cancel my service.
+Agent:  I understand. To assist you best, could you provide your account number or name? 
+Customer: My name is John Smith and my account number is 12345678. 
+Agent: Thank you, John. You have a two-year contract with a monthly payment of $23.95 for No Internet service.  
+Customer: I understand. Can I cancel the service? 
+Agent:  Yes, absolutely. Please bear in mind your current billing cycle and any potential fees before cancellation. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and clear throughout the process, but I wish there had been more information about the cancellation fees."
+Sentiment: Neutral

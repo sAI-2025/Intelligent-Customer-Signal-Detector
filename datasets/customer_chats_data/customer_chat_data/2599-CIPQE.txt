@@ -1,0 +1,17 @@
+Customer ID: 2599-CIPQE
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is extremely slow. It's way below what I paid for and expected.
+Agent:  I understand your frustration. Can you please provide your account details so I can check on your connection? 
+Customer: Sure, here are my details - account number [account number], name [name], and address [address].
+Agent: Thank you! We're seeing that your speeds are significantly lower than average in your area.  
+Customer: That's frustrating. Is there anything we can do about it? 
+Agent: I will escalate your case to our engineers for a faster resolution. 
+Customer: Thanks, hopefully this gets fixed soon. 
+Agent: We appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's great that they're escalating the issue but I hope it actually leads to faster results!
+Sentiment: Positive

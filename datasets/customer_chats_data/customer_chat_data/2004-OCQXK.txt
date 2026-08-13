@@ -1,0 +1,16 @@
+Customer ID: 2004-OCQXK
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having trouble connecting to my internet again and it keeps disconnecting.
+Agent:  I understand your frustration. Can you tell me more about when this is happening, and what type of device you are using? 
+Customer: It's every time I try to stream a video on Netflix or use any online banking. 
+Agent:  Let's take a look at your account information. My apologies for the inconvenience, I can definitely help with that. 
+Customer: Thank you!
+Agent: Alright, we will have this checked out and resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quick to resolve my issue.  Thanks for getting it sorted!"
+Sentiment: Positive

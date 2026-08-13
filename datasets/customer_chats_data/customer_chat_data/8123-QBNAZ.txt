@@ -1,0 +1,17 @@
+Customer ID: 8123-QBNAZ
+Topic: customer reports repeated unresolved problems
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet has been down several times this week.  I’ve already tried restarting my router but it hasn’t helped. 
+Agent: I understand your frustration, [customer name].  To troubleshoot further, could you please provide the account number and modem/router model?
+Customer: It's [account number], and it’s a Netgear Nighthawk R7000.
+Agent: Thank you for that information. We’ll investigate this issue further. 
+Customer:  I hope this gets resolved quickly! I can’t afford to miss any work deadlines because of internet issues. 
+Agent: Our team is working on it, and we're committed to restoring your service as soon as possible.
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick response, I appreciate the update! Hopefully this issue gets resolved soon so my work can continue uninterrupted.
+Sentiment: Positive

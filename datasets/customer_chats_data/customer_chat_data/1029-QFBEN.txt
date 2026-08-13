@@ -1,0 +1,17 @@
+Customer ID: 1029-QFBEN
+Topic: calls failing from specific locations
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello!  I’m experiencing issues connecting to calls from my location. 
+Agent: Hi there! My name is Alex, how can I help you?
+Customer: It seems like all calls are failing for the past hour. 
+Agent:  I understand that's frustrating. Can you please tell me your exact address or city and state? 
+Customer: 123 Main St, Anytown, CA 
+Agent: Okay, I see there's been a report of connectivity issues in your area recently. We are working on the issue as we speak. 
+Customer:  Thanks for that! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for letting me know about the issue and updates. I hope the connection gets fixed soon!"
+Sentiment: Positive

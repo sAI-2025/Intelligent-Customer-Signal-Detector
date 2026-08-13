@@ -1,0 +1,19 @@
+Customer ID: 1928-BXYIV
+Topic: customer wants to change phone plan
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello! I'd like to change my phone plan. 
+Agent:  I can help you with that. What would you like to do?
+Customer:  I'm looking to move to a smaller plan - something around $40 per month.
+Agent: Sure, which plan are you interested in? 
+Customer: I want to switch to the "Essentials" plan.
+Agent:  The Essentials plan is available for $40, what internet speed would you prefer?
+Customer: DSL, please. 
+Agent: Okay, let me adjust your plan and confirm the details. 
+Customer: Thank you.
+Agent:  Your new monthly plan will be $40 for a "Essentials" plan with DSL. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and made the process of switching my phone plan easy!
+Sentiment: Positive

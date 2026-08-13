@@ -1,0 +1,25 @@
+Customer ID: 0655-RBDUG
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my Wi-Fi signal in my living room. It’s very weak and intermittent. 
+
+Agent:  I understand your concern, thank you for reaching out. Can you please tell me the specific devices you are trying to connect? 
+
+Customer: Yes, I'm trying to stream a movie on my laptop and also use a smart speaker. 
+
+Agent: Ok, I can help with that. Could you please describe the location of your living room in more detail?  
+ 
+Customer: It’s a second floor apartment, near the back entrance. 
+
+Agent: Alright, thank you. We'll send our technicians to check the signal strength and router placement at your residence. 
+
+Customer: Great! Thank you for your help. 
+
+Agent: Thanks for choosing us, we'll get this resolved for you.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out so quickly, I appreciate the prompt and helpful service."
+Sentiment: Positive

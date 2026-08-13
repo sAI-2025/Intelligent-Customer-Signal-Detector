@@ -1,0 +1,17 @@
+Customer ID: 4129-LYCOI
+Topic: router cannot connect to internet
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble connecting to the internet.  My router isn't showing any connection. 
+Agent: Hi there! I understand you're experiencing connectivity issues with your Fiber optic internet. I can definitely help you troubleshoot this.  
+Customer:  My Wi-Fi icon is greyed out and shows no signal.
+Agent: Let me check on that. Could you please provide the modem/router model number? 
+Customer: It's an ARRIS SURFboard SBG6700. 
+Agent: Thank you for providing the model number. I'll have a look at our records and see what we can do to get your internet back up and running! 
+Customer:  Appreciate it, thanks. 
+Agent: You're welcome! Let me know if anything else comes up.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and efficient in resolving my internet issue. Thanks!"
+Sentiment: Positive

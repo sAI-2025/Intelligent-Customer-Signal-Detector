@@ -1,0 +1,17 @@
+Customer ID: 2808-CHTDM
+Topic: mobile data becomes unusually slow
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to mobile data. It's been incredibly slow lately. 
+Agent:  I understand, can you please provide your account number and a brief description of your issue?
+Customer: Sure, my account number is XXXXXXXXXX. My connection has been unbearably slow for the past few days. I’m finding it difficult to work from home.
+Agent: Thank you, I'm currently checking your service history. 
+Customer:  I'm on a two-year contract and paying $25.1 per month. It's frustrating because my usual data speed has been so consistent.
+Agent:  We are seeing some reported network congestion in your area. We will be able to restore normal speeds shortly.
+Customer:  Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this resolved quickly! It's nice to have consistent service again.
+Sentiment: Positive

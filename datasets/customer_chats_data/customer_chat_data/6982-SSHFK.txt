@@ -1,0 +1,28 @@
+Customer ID: 6982-SSHFK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet speed during peak hours. 
+
+Agent:  I understand you're experiencing slow speeds, especially during peak times. Could you tell me a bit more about your location and what kind of devices you're using? 
+
+Customer: It seems to be happening mostly during the evenings and weekends. We use a laptop and two smart TVs for streaming. I signed up for DSL internet.  
+
+Agent: Thank you for that information. I can look into that for you right now. 
+
+Customer: Thanks, appreciate it!
+
+Agent:  I've checked your account and it appears there may be some network congestion during peak hours on weekdays. We offer a few solutions to help optimize your speeds. Would you like me to walk through some options?
+
+Customer: Yeah, that would be great. 
+
+Agent: Alright, we can try things like adjusting your router settings or upgrading your plan if necessary. Would you prefer to discuss this further over a call?  
+
+Customer: That sounds good! Thank you for your help.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for the helpful explanations and options - I appreciate the fast response!
+Sentiment: Positive

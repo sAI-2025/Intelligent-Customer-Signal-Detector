@@ -1,0 +1,17 @@
+Customer ID: 1579-KLYDT
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, my download speed is super slow today.  It’s barely reaching 10 Mbps when my plan promises 50 Mbps. 
+Agent: Thank you for contacting us! I'd be happy to help investigate this issue. Could you please provide your account information?
+Customer: Sure, it’s [account number]. 
+Agent:  I see that you have a month-to-month contract and your plan is Fiber optic internet.  Do you remember when the speed issues started?
+Customer: It's been happening for the past couple of hours, ever since I started using my streaming services.
+Agent:  We do offer a 30 day money back guarantee if you’re not satisfied with the speeds.  Let me check our system and see what we can do. 
+Customer: That'd be great. Thank you!
+Agent:  Thank you for contacting us!
+
+----------------------------------------
+Feedback: "The agent was helpful, and I appreciate the money-back offer. Hopefully this gets resolved quickly!"
+Sentiment: Positive

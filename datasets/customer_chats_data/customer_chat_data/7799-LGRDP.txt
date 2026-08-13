@@ -1,0 +1,18 @@
+Customer ID: 7799-LGRDP
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having some trouble with my internet connection. It keeps disconnecting frequently. 
+Agent:  I understand your frustration. Can you please tell me your account number and the device experiencing issues?
+Customer:  45678901234; it's happening on my laptop right now. 
+Agent: Thank you for providing that information. I'm going to check our logs for any outages in your area. 
+Customer:  Okay, thanks. 
+Agent:  It appears there might be a temporary server issue affecting some customers in your region. We apologize for the inconvenience.
+Customer:  Just let me know when this is resolved.
+Agent:  We're working on it and will update you with an estimated resolution time shortly.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the server issue, I appreciate the updates."
+Sentiment: Positive

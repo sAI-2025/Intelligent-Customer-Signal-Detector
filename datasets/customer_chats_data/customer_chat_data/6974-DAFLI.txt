@@ -1,0 +1,22 @@
+Customer ID: 6974-DAFLI
+Topic: new device cannot connect to Wi-Fi
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't connect to Wi-Fi on my new device. 
+
+Agent: Hello!  I understand you're having trouble connecting to Wi-Fi. Can you please tell me your account number and the model of your device?
+
+Customer: My account number is #1234567890, it's a Samsung Galaxy S23 Ultra. 
+
+Agent: Thank you for that information. I'm checking your account to see what may be causing the issue.
+
+Customer: Thanks!  I just got it today and haven't been able to connect yet. 
+
+Agent: No problem at all. We will have this resolved by the end of the day.
+ 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and I feel confident that my Wi-Fi issue will be sorted out soon!
+Sentiment: Positive

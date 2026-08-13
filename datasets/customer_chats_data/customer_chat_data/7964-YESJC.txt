@@ -1,0 +1,22 @@
+Customer ID: 7964-YESJC
+Topic: refund inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting a refund for my service.
+
+Agent:  I understand your frustration. Can you please provide me with your account details, including your name and customer ID? 
+
+Customer: Sure, my name is Sarah Smith, and my customer ID is 12345678. 
+
+Agent: Thank you, Sarah. I have reviewed your request and will process the refund for you today.  
+
+Customer: Great! Do you need me to sign off on anything?
+
+Agent: No, thank you. We will be sending an email confirmation shortly with the details of your refund. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Very happy with the quick and efficient resolution!"
+Sentiment: Positive

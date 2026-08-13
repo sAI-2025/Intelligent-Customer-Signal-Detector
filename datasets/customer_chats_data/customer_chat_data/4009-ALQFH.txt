@@ -1,0 +1,15 @@
+Customer ID: 4009-ALQFH
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is very slow today. It keeps dropping in and out. 
+Agent: I apologize for the inconvenience,  what device are you using and what's your location? 
+Customer: Laptop, at home in [city], CA.  
+Agent: I see a few reports of network issues in the area.  Do you have a speed test result handy? 
+Customer: No, but it feels significantly slower than usual. 
+Agent: We’ll look into that for you right away. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for looking into this, I appreciate your help!  Hopefully it resolves soon.
+Sentiment: Positive

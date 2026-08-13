@@ -1,0 +1,23 @@
+Customer ID: 5125-CNDSP
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My upload speed is just way too slow.  I'm getting about 10 Mbps when I should be getting at least 50.   It's been this way for a few days now.
+
+Agent: Thank you for contacting us, we understand your concern. May I ask what the issue started with?
+
+Customer: It just began recently, and I haven't made any changes to my equipment or settings.  I did just get my new router last week though. 
+
+Agent:  Let me check on that for you.  Could you please provide your account number and the last few days of your speed test results?
+
+Customer: Sure here they are - [account number] and [date range] 
+ 
+Agent: Thank you. I'm looking into this issue for you now and will have it resolved shortly.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Feedback: "This seems to be a good start, hopefully the issue gets resolved quickly."
+Sentiment: Neutral

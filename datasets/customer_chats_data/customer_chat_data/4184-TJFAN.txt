@@ -1,0 +1,17 @@
+Customer ID: 4184-TJFAN
+Topic: customer cannot find expected self-service option
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I'm having trouble accessing the self-service option on your website to change my plan. 
+Agent:  I understand you need help with the self-service options on our website. What specific service are you hoping to use?
+Customer: I was looking to upgrade my internet speed for a higher monthly fee.  How do I find that option?
+Agent: We've recently redesigned our online portal, so it might take you a few minutes to locate the "Upgrade your Service" section. 
+Customer: Thank goodness! I just need it to be quicker than usual. 
+Agent: You could try navigating to our main website menu and looking for "Account Management," followed by "Change Plan."  
+Customer: Oh, that's right, thanks! It worked, finally found the upgrade option!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Overall, the agent was helpful and guided me to the correct solution quickly.
+Sentiment: Positive

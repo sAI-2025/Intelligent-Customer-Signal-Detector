@@ -1,0 +1,19 @@
+Customer ID: 0643-OKLRP
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is weak in the living room and bedroom.  I haven't had this problem before. 
+Agent: I understand your concern.  Could you please provide your account information so I can check on it?
+Customer: Yes, my name is [Name], account number [Account Number]. 
+Agent: Thank you, [Name]. We see that your Fiber internet is active and there haven't been any recent service outages reported for your plan. 
+Customer:  That's odd because I never get a good signal in those rooms.
+Agent: Let me check on the connection strength for those areas. Would you like me to walk through some troubleshooting steps? 
+Customer: Okay, that sounds good.
+Agent: Alright, [Name].  Let's try moving your router closer to those rooms and see if it helps. If not, we can explore further options. 
+Customer: Thank you, I appreciate it! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the help and troubleshooting steps! It seems like a strong solution based on moving the router. 👍
+Sentiment: Positive

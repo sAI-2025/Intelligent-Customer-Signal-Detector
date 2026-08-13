@@ -1,0 +1,20 @@
+Customer ID: 1219-NNDDO
+Topic: customer wants to change contract type
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I would like to switch from my month-to-month contract to a yearly plan. 
+Agent:  Certainly!  I can help with that, but what type of yearly plan are you interested in?
+Customer: The one that offers the best price per month. My current $76.85 is good.  
+Agent: I see. We have several yearly plans, including an option that includes a discount for longer contracts. Would you be open to exploring this? 
+Customer:  I'm interested in hearing about it.
+Agent: Excellent!  Let me pull up the details of our available plans and benefits.  Please hold while I gather information. 
+Customer: Thanks. 
+Agent: Here are the details for your preferred plan - including a discount based on length of contract. Would you like to proceed with this? 
+Customer: Yes, please do!
+Agent: Great! Your new yearly contract will be $71.95 per month, and we'll apply the discount accordingly. We can also confirm any necessary changes regarding your payment method or billing address.  Would you like to proceed with setting up the change? 
+Customer: Yes
+
+----------------------------------------
+Feedback: "The agent was helpful and explained everything clearly! It's great that they found a plan that saves me money."
+Sentiment: Positive

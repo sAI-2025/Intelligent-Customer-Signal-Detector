@@ -1,0 +1,17 @@
+Customer ID: 4690-LLKUA
+Topic: inconsistent internet connection quality
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with my internet connection. It's been very inconsistent lately.
+Agent:  I understand your concern about your internet connection quality. 
+Customer: I signed up for DSL and pay $45.05 a month. Is that normal?
+Agent: We do offer different plans to suit individual needs, so it may help to compare our current offerings. 
+Customer: How can I get more information? My contract is month-to-month.
+Agent:  You're in luck! The details of our plans are available on our website. 
+Customer:  Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided some resources, but I still feel confused about my plan options.
+Sentiment: Neutral

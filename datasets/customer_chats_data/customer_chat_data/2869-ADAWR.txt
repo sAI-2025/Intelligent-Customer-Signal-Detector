@@ -1,0 +1,19 @@
+Customer ID: 2869-ADAWR
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble with my download speed. It is significantly slower than what I'm paying for. 
+Agent: I understand your concern, [Customer Name].  Can you please provide your account number or the email address associated with it?
+Customer: Sure, it's [Account Number] and [Email Address].
+Agent: Thank you, [Customer Name]. Let me check on that for you. Please hold while I look into this further. 
+Customer: Thanks! 
+Agent: Based on our current records, we see there are some network outages in your area currently affecting download speeds. 
+Customer: Oh, I didn't know. So is there anything being done to fix it? 
+Agent: Yes, our team is working to resolve the issue as quickly as possible.  It should be back to normal within the next hour or two. 
+Customer: Great! Thanks for your help, Agent. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for explaining the slow speeds and for keeping me updated on the issue."
+Sentiment: Positive

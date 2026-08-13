@@ -1,0 +1,15 @@
+Customer ID: 3717-OFRTN
+Topic: internet speed differs across devices
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet speed.  It's much slower on my laptop than it is on my phone. 
+Agent: Thanks for reaching out! I can definitely help you with that.  Could you please provide your account information so I can take a look? 
+Customer: Sure, my name is [name] and the account number is 1234567.
+Agent: Thank you, [name]. Let me check the connection speeds on your devices.  It looks like there might be some issues with routing.  
+Customer: I appreciate it! 
+Agent: I've checked your account and found that you have a good internet speed.  Let me see if we can adjust your router settings to improve your device's performance. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you, the issue was resolved quickly and efficiently. 😊
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 8621-MNIHH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my Wi-Fi signal in the living room has been very weak lately. 
+Agent: I understand you're experiencing connectivity issues.  Could you please tell me your account number and what specific areas are affected?
+Customer: My account number is X1234567.  It seems like only the living room is having problems. 
+Agent: Alright, thank you for providing that information. I can take a look at the signal strength in the living room. 
+Customer: Thank you.
+Agent: We'll get this sorted out for you. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for your help, the agent was very efficient and quick to address my problem!"
+Sentiment: Positive

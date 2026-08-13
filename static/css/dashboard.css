@@ -1,0 +1,431 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f5f7fb;
+    color: #172033;
+}
+
+
+.app {
+    display: flex;
+    min-height: 100vh;
+}
+
+
+/* =========================
+   SIDEBAR
+========================= */
+
+.sidebar {
+    width: 250px;
+    background: #111827;
+    color: white;
+    padding: 24px 16px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+
+
+.brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 40px;
+}
+
+
+.brand-icon {
+    width: 42px;
+    height: 42px;
+    background: #2563eb;
+    border-radius: 10px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: bold;
+}
+
+
+.brand h2 {
+    font-size: 16px;
+}
+
+
+.brand span {
+    color: #9ca3af;
+    font-size: 12px;
+}
+
+
+.navigation {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+
+
+.nav-link {
+    color: #cbd5e1;
+    text-decoration: none;
+    padding: 12px 14px;
+    border-radius: 8px;
+    transition: 0.2s;
+}
+
+
+.nav-link:hover {
+    background: #1f2937;
+    color: white;
+}
+
+
+.nav-link.active {
+    background: #2563eb;
+    color: white;
+}
+
+
+/* =========================
+   MAIN CONTENT
+========================= */
+
+.main-content {
+    margin-left: 250px;
+    width: calc(100% - 250px);
+    padding: 32px;
+}
+
+
+.page-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 28px;
+}
+
+
+.page-header h1 {
+    font-size: 28px;
+    margin-bottom: 8px;
+}
+
+
+.page-header p {
+    color: #6b7280;
+}
+
+
+.refresh-button {
+    border: none;
+    background: #2563eb;
+    color: white;
+    padding: 10px 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+.refresh-button:hover {
+    background: #1d4ed8;
+}
+
+
+/* =========================
+   KPI CARDS
+========================= */
+
+.kpi-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    margin-bottom: 24px;
+}
+
+
+.kpi-card {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 22px;
+
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.03);
+}
+
+
+.kpi-label {
+    display: block;
+    color: #6b7280;
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+
+.kpi-value {
+    display: block;
+    font-size: 30px;
+    margin-bottom: 8px;
+}
+
+
+.kpi-description {
+    color: #9ca3af;
+    font-size: 12px;
+}
+
+
+.risk-card {
+    border-left: 4px solid #ef4444;
+}
+
+
+.negative-card {
+    border-left: 4px solid #f97316;
+}
+
+
+/* =========================
+   SECTIONS
+========================= */
+
+.dashboard-section {
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 24px;
+    margin-bottom: 24px;
+}
+
+
+.section-header {
+    margin-bottom: 20px;
+}
+
+
+.section-header h2 {
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+
+.section-header p {
+    color: #6b7280;
+    font-size: 13px;
+}
+
+
+/* =========================
+   RISK DISTRIBUTION
+========================= */
+
+.risk-row {
+    margin-bottom: 18px;
+}
+
+
+.risk-label {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+    font-size: 14px;
+}
+
+
+.progress {
+    height: 9px;
+    background: #e5e7eb;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+
+.progress-bar {
+    height: 100%;
+    border-radius: 20px;
+}
+
+
+.progress-bar.high {
+    background: #ef4444;
+}
+
+
+.progress-bar.medium {
+    background: #f59e0b;
+}
+
+
+.progress-bar.low {
+    background: #22c55e;
+}
+
+
+/* =========================
+   FILTERS
+========================= */
+
+.filters {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+}
+
+
+.filters input,
+.filters select {
+    padding: 10px 12px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    background: white;
+    font-size: 14px;
+}
+
+
+.filters input {
+    width: 280px;
+}
+
+
+/* =========================
+   TABLE
+========================= */
+
+.table-container {
+    overflow-x: auto;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+th {
+    text-align: left;
+    color: #6b7280;
+    font-size: 12px;
+    text-transform: uppercase;
+    padding: 14px;
+    border-bottom: 1px solid #e5e7eb;
+}
+
+
+td {
+    padding: 16px 14px;
+    border-bottom: 1px solid #f0f1f3;
+    font-size: 14px;
+}
+
+
+tbody tr:hover {
+    background: #f8fafc;
+}
+
+
+/* =========================
+   STATUS
+========================= */
+
+.risk-score {
+    font-weight: bold;
+}
+
+
+.high-risk {
+    color: #dc2626;
+}
+
+
+.medium-risk {
+    color: #d97706;
+}
+
+
+.sentiment,
+.status {
+    display: inline-block;
+    padding: 5px 9px;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+
+.negative {
+    background: #fee2e2;
+    color: #b91c1c;
+}
+
+
+.neutral {
+    background: #e5e7eb;
+    color: #374151;
+}
+
+
+.high-status {
+    background: #fee2e2;
+    color: #b91c1c;
+}
+
+
+.medium-status {
+    background: #fef3c7;
+    color: #92400e;
+}
+
+
+/* =========================
+   RESPONSIVE
+========================= */
+
+@media (max-width: 1000px) {
+
+    .kpi-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+}
+
+
+@media (max-width: 700px) {
+
+    .sidebar {
+        display: none;
+    }
+
+    .main-content {
+        margin-left: 0;
+        width: 100%;
+        padding: 20px;
+    }
+
+    .kpi-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .page-header {
+        align-items: flex-start;
+        gap: 15px;
+        flex-direction: column;
+    }
+
+    .filters {
+        flex-direction: column;
+    }
+
+    .filters input {
+        width: 100%;
+    }
+
+}

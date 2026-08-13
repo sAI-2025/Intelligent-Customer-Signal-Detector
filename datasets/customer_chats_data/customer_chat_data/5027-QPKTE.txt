@@ -1,0 +1,17 @@
+Customer ID: 5027-QPKTE
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I can’t connect to the internet at all.  My connection is completely down. 
+Agent:  I understand you're experiencing connectivity issues. What is your account number? 
+Customer: It's [Account Number]. 
+Agent: Thank you, let me check on that. 
+Customer: I’ve been a loyal customer for the past 7 months and this is just frustrating.   
+Agent:  I apologize for the inconvenience. Our fiber optic network has been experiencing some unexpected outages recently. We're working to resolve it as quickly as possible. 
+Customer:  How long until internet returns? 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While the agent was helpful, I'm still hoping for faster resolution given my prolonged loyalty to the service.
+Sentiment: Neutral

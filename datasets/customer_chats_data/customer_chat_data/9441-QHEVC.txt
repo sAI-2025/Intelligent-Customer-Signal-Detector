@@ -1,0 +1,15 @@
+Customer ID: 9441-QHEVC
+Topic: customer cannot view plan details
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there! I can't seem to see my plan details online. 
+Agent:  I understand, let me check on that for you.  What is your account email? 
+Customer:  [customer email address]
+Agent: Okay, thank you. Let me just pull up your account information. It looks like you are currently on a month-to-month contract with us.
+Customer: I see my plan details online. Thanks! 
+Agent: No problem at all. If you have any other questions in the future, please don't hesitate to reach out to us. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help!  Glad I was able to access my plan details easily."
+Sentiment: Positive

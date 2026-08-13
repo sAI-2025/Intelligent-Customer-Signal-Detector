@@ -1,0 +1,17 @@
+Customer ID: 8878-HMWBV
+Topic: customer questions unexpected data consumption
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm concerned about my data usage lately. My bill just came in and it seems much higher than usual. 
+Agent: Hello!  I can definitely help with that. Could you please tell me your account name or email address? 
+Customer: Sure, my account is [redacted] 
+Agent: Thank you. I'm looking into your usage patterns now and will have more info for you shortly.
+Customer: Great, thanks.
+Agent: No problem at all. We did recently upgrade your plan to a faster speed, which might be contributing to the higher consumption rate.
+Customer: Right! 
+Agent:  We are happy to discuss this further with you. Let me know when it's convenient for you to speak about it. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and explained the situation clearly, and I appreciate their proactive approach to finding a solution!
+Sentiment: Positive

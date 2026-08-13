@@ -1,0 +1,17 @@
+Customer ID: 2684-EIWEO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble getting a strong Wi-Fi signal in the living room. 
+Agent:  I understand your concern, what is the name of your location and the specific rooms affected?
+Customer: My address is 123 Main Street, Apartment 4B. The main living area, kitchen, and dining room are all weak. 
+Agent: I see you're on a month-to-month plan with Fiber optic internet.  Could you tell me your router model and the signal strength?
+Customer: Model is RBW-AC1200, the signal strength in those rooms is around 3 bars.
+Agent:  I recommend restarting your modem and router. If that doesn't resolve the issue, I can schedule a remote technician check or you can request a visit to inspect your equipment. 
+Customer: Thanks for helping me out! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the helpful advice, it seems like restarting my router worked!  😊
+Sentiment: Positive

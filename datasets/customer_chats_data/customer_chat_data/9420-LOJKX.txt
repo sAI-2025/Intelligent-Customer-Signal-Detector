@@ -1,0 +1,28 @@
+Customer ID: 9420-LOJKX
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! My internet is completely down. I'm on a month-to-month contract and my billing address is [address].  Can you check on that?
+
+Agent: Hello! I understand your internet service isn't working.  Could you please provide me with the account number associated with your service? 
+
+Customer: Here it is,  [account number].
+
+Agent: Thank you for providing that information. Let me look into this for you.
+
+Customer: Thanks
+
+Agent: Based on our system checks, there seems to be a temporary outage in your area. We're working on restoring your service as quickly as possible. 
+ 
+Customer: Okay, thanks!  Is there an estimated time of restoration?
+
+Agent: Our technicians are currently on site and working towards resolving this issue. I will provide updates as soon as we have them. Thank you for your patience. 
+
+Customer: Thanks again
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, appreciate it!"
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 3138-BKYAV
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down! Can you help?
+
+Agent:  Hi there! I understand you're experiencing internet outage.  Can you please provide your account number and address so I can look into this for you? 
+
+Customer: Yes, my account number is XYZ1234567890 and it’s located at 123 Main Street. 
+
+Agent: Thank you! Let's check on the fiber optic connection. I'm seeing there's a delay on your service area.  Could be an outage in your area. 
+
+Customer: Okay, but this is frustrating as I rely on internet for work and home communication. 
+
+Agent:  I understand. I'll escalate this to our engineers. We are currently investigating the issue.  We will keep you updated. 
+
+Customer: Great! Thanks so much for your help. 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for getting back to me quickly and keeping me informed about the outage.
+Sentiment: Positive

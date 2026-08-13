@@ -1,0 +1,17 @@
+Customer ID: 2933-FILNV
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I'm having trouble with my internet connection. It keeps disconnecting frequently. 
+Agent:  I understand your frustration, please tell me what device and internet plan you have?
+Customer: It's my laptop connected to DSL, monthly contract, $24.4 per month. Been using it for two months now.
+Agent: Okay, I see a few reports of frequent disconnections in your area.  Do you remember any recent changes to your equipment or service settings?
+Customer: Nope, everything seems normal, no new devices added recently. 
+Agent:  We're looking into this issue for you right now. We will keep you updated on the progress. 
+Customer: Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly, it’s nice to know someone is working on the problem."
+Sentiment: Positive

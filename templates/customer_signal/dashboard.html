@@ -1,0 +1,374 @@
+{% extends "base.html" %}
+
+{% block title %}
+Customer Signal Detector
+{% endblock %}
+
+
+{% block content %}
+
+<header class="page-header">
+
+    <div>
+        <h1>Customer Risk Overview</h1>
+
+        <p>
+            Identify customers requiring proactive attention.
+        </p>
+    </div>
+
+    <button
+        class="refresh-button"
+        onclick="refreshDashboard()"
+    >
+        Refresh
+    </button>
+
+</header>
+
+
+<!-- KPI Cards -->
+
+<section class="kpi-grid">
+
+    <div class="kpi-card">
+
+        <span class="kpi-label">
+            Customers Analyzed
+        </span>
+
+        <strong class="kpi-value">
+            {{ total_customers }}
+        </strong>
+
+        <span class="kpi-description">
+            Total customers processed
+        </span>
+
+    </div>
+
+
+    <div class="kpi-card risk-card">
+
+        <span class="kpi-label">
+            High Risk
+        </span>
+
+        <strong class="kpi-value">
+            {{ high_risk }}
+        </strong>
+
+        <span class="kpi-description">
+            Customers requiring attention
+        </span>
+
+    </div>
+
+
+    <div class="kpi-card">
+
+        <span class="kpi-label">
+            Open Issues
+        </span>
+
+        <strong class="kpi-value">
+            {{ open_issues }}
+        </strong>
+
+        <span class="kpi-description">
+            Unresolved support issues
+        </span>
+
+    </div>
+
+
+    <div class="kpi-card negative-card">
+
+        <span class="kpi-label">
+            Negative Signals
+        </span>
+
+        <strong class="kpi-value">
+            {{ negative_signals }}
+        </strong>
+
+        <span class="kpi-description">
+            Negative customer signals
+        </span>
+
+    </div>
+
+</section>
+
+
+<!-- Risk Distribution -->
+
+<section class="dashboard-section">
+
+    <div class="section-header">
+
+        <div>
+            <h2>Risk Distribution</h2>
+
+            <p>
+                Current customer risk levels
+            </p>
+        </div>
+
+    </div>
+
+
+    <div class="risk-distribution">
+
+        <div class="risk-row">
+
+            <div class="risk-label">
+                <span>High Risk</span>
+                <strong>27</strong>
+            </div>
+
+            <div class="progress">
+                <div
+                    class="progress-bar high"
+                    style="width: 27%;"
+                ></div>
+            </div>
+
+        </div>
+
+
+        <div class="risk-row">
+
+            <div class="risk-label">
+                <span>Medium Risk</span>
+                <strong>63</strong>
+            </div>
+
+            <div class="progress">
+                <div
+                    class="progress-bar medium"
+                    style="width: 63%;"
+                ></div>
+            </div>
+
+        </div>
+
+
+        <div class="risk-row">
+
+            <div class="risk-label">
+                <span>Low Risk</span>
+                <strong>110</strong>
+            </div>
+
+            <div class="progress">
+                <div
+                    class="progress-bar low"
+                    style="width: 80%;"
+                ></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- Customer Signals -->
+
+<section class="dashboard-section">
+
+    <div class="section-header">
+
+        <div>
+            <h2>Prioritized Customer Signals</h2>
+
+            <p>
+                Customers ranked by predicted risk
+            </p>
+        </div>
+
+    </div>
+
+
+    <div class="filters">
+
+        <input
+            type="text"
+            id="customerSearch"
+            placeholder="Search customer..."
+            onkeyup="filterCustomers()"
+        >
+
+
+        <select id="riskFilter">
+            <option value="all">All Risk Levels</option>
+            <option value="high">High Risk</option>
+            <option value="medium">Medium Risk</option>
+            <option value="low">Low Risk</option>
+        </select>
+
+
+        <select>
+            <option>All Sentiments</option>
+            <option>Positive</option>
+            <option>Neutral</option>
+            <option>Negative</option>
+        </select>
+
+    </div>
+
+
+    <div class="table-container">
+
+        <table id="customerTable">
+
+            <thead>
+
+                <tr>
+                    <th>Rank</th>
+                    <th>Customer</th>
+                    <th>Risk</th>
+                    <th>Sentiment</th>
+                    <th>Open Issues</th>
+                    <th>Status</th>
+                </tr>
+
+            </thead>
+
+
+            <tbody>
+
+                <tr>
+
+                    <td>1</td>
+
+                    <td>
+                        <strong>CUST-104</strong>
+                    </td>
+
+                    <td>
+                        <span class="risk-score high-risk">
+                            91 / 100
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="sentiment negative">
+                            Negative
+                        </span>
+                    </td>
+
+                    <td>2</td>
+
+                    <td>
+                        <span class="status high-status">
+                            High Risk
+                        </span>
+                    </td>
+
+                </tr>
+
+
+                <tr>
+
+                    <td>2</td>
+
+                    <td>
+                        <strong>CUST-087</strong>
+                    </td>
+
+                    <td>
+                        <span class="risk-score high-risk">
+                            88 / 100
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="sentiment negative">
+                            Negative
+                        </span>
+                    </td>
+
+                    <td>1</td>
+
+                    <td>
+                        <span class="status high-status">
+                            High Risk
+                        </span>
+                    </td>
+
+                </tr>
+
+
+                <tr>
+
+                    <td>3</td>
+
+                    <td>
+                        <strong>CUST-031</strong>
+                    </td>
+
+                    <td>
+                        <span class="risk-score medium-risk">
+                            85 / 100
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="sentiment neutral">
+                            Neutral
+                        </span>
+                    </td>
+
+                    <td>2</td>
+
+                    <td>
+                        <span class="status medium-status">
+                            Attention
+                        </span>
+                    </td>
+
+                </tr>
+
+
+                <tr>
+
+                    <td>4</td>
+
+                    <td>
+                        <strong>CUST-122</strong>
+                    </td>
+
+                    <td>
+                        <span class="risk-score medium-risk">
+                            82 / 100
+                        </span>
+                    </td>
+
+                    <td>
+                        <span class="sentiment negative">
+                            Negative
+                        </span>
+                    </td>
+
+                    <td>1</td>
+
+                    <td>
+                        <span class="status medium-status">
+                            Attention
+                        </span>
+                    </td>
+
+                </tr>
+
+            </tbody>
+
+        </table>
+
+    </div>
+
+</section>
+
+{% endblock %}

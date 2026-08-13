@@ -1,0 +1,18 @@
+Customer ID: 2018-PZKMU
+Topic: mobile data becomes unusually slow
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my mobile data has been unusually slow today.  It's like I can barely browse websites! 
+Agent: Thanks for reaching out! Can you please provide your account details so we can troubleshoot this? 
+Customer: Sure, here’s my account number (XXXXXXX) and the last four digits of my phone number. 
+Agent: Thanks for that.  Based on what you've told me, it seems like there might be a data issue with your plan. Let me check. 
+Customer: Oh, that makes sense. My monthly bill is $103.1 and I’m using fiber internet. 
+Agent: I see the problem now. We have some temporary maintenance scheduled for your area today; it could be affecting your connection. 
+Customer: Thanks! When will this be fixed?
+Agent:  It should be back to normal within a couple of hours. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick resolution and explanation! Much appreciated.
+Sentiment: Positive

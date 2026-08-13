@@ -1,0 +1,19 @@
+Customer ID: 6543-XRMYR
+Topic: TV device cannot connect to network
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my TV to the internet. 
+Agent:  Hello, thanks for reaching out! What's the issue?
+Customer: My TV won't connect to the Wi-Fi. It says "No connection." 
+Agent:  Let me take a closer look. Can you tell me what model TV you have and your internet plan details?
+Customer: Yes, it's a Samsung Smart TV. I use Fiber Optic Internet.
+Agent: Okay, let me check the network settings for your device. 
+Customer: Thanks, I hope this is simple to fix.
+Agent:  I think I found the problem!  Please try restarting your router and TV. 
+Customer: Alright, thanks! 
+Agent: You're welcome, let me know if that resolves the issue. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and quickly resolved my issue! Thanks for the fast and efficient support.
+Sentiment: Positive

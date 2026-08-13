@@ -1,0 +1,19 @@
+Customer ID: 5494-WOZRZ
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet today. My speeds are sluggish during peak hours. 
+Agent: Thank you for contacting us!  I understand your concern about slow internet speeds. 
+Customer: It's been especially bad this afternoon and evening. What can be done? 
+Agent: Let's take a look at your account information to see if anything stands out. Could you please provide your account number or the last four digits of your phone number? 
+Customer: Here it is, my account number is XXX-XXXX.  
+Agent: Thanks! I have taken a look and am seeing that we are experiencing some network congestion during peak hours today.   
+Customer: How long will this take to resolve? 
+Agent: The issue should be resolved within the next hour or so. We apologize for any inconvenience this may cause. Thank you for contacting us.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for addressing my slow internet speeds! Appreciate the quick resolution."
+Sentiment: Positive

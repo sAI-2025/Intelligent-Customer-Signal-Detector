@@ -1,0 +1,23 @@
+Customer ID: 6127-ISGTU
+Topic: live TV freezes during playback
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my live TV playback. It keeps freezing up. 
+
+Agent:  I understand your frustration. Can you tell me more about what’s happening? What device are you using and how long has this been occurring?
+
+Customer: My Roku player, it started a few minutes ago, hasn't stopped since. I was just watching a show on Netflix when it froze up. 
+
+Agent:  Thanks for the details.  We can check your account for any known outages in your area. 
+ 
+Customer:  That would be great.
+
+Agent: Okay, let me check that... [Check] ... Looks good! There's no reported outage on our end at this time. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it - seems like the issue was resolved! "
+Sentiment: Positive

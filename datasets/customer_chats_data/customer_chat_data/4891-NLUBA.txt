@@ -1,0 +1,24 @@
+Customer ID: 4891-NLUBA
+Topic: customer is dissatisfied with contract terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm very dissatisfied with my contract terms.  I've been a loyal customer for 61 months and am paying $61.45 per month for DSL internet. The new terms seem unfair!
+
+Agent: Hello, thank you for contacting us today. Can you please provide me with your account number so I can look into this?
+
+Customer: My account number is [redacted].  I just want to know how I can get a better deal. 
+
+Agent: I understand your concern. We are currently running a limited-time promotion on our DSL plans, which may be more suitable for you. Would you like me to explain the details of that offer?
+
+Customer: No, I'm not interested in promotions. The current contract isn't working for me anymore.  Can you just tell me what options are available to me? 
+ 
+Agent: Unfortunately, your contract is currently a two-year term with no early termination penalty. We would need to explore other options that may be available to you.   
+
+Customer: Okay, thank you.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I wish the agent had been more helpful in finding alternative solutions instead of just pointing me towards a promotional offer I'm not interested in.
+Sentiment: Negative

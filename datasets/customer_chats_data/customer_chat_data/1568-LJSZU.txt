@@ -1,0 +1,24 @@
+Customer ID: 1568-LJSZU
+Topic: streaming stops while changing channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble changing channels on my TV. The stream keeps stopping mid-change. 
+
+Agent: Hi there!  I'm sorry to hear about the streaming issues you're experiencing.  Could you please tell me your account details and which device you are using? 
+
+Customer: My account name is [account name] and I am watching on my Roku TV.
+
+Agent: Thank you for providing that information. Please try restarting your modem and router, and see if that helps.
+
+Customer: Tried that, no luck. Still having the same issue. 
+
+Agent:  I understand. Let's check if there are any outages in your area or on our end. I will need to look into your account further. 
+
+Customer: Okay. Thanks for looking into this! 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, and it would be helpful to have more definitive solutions for the channel-changing issue.
+Sentiment: Negative

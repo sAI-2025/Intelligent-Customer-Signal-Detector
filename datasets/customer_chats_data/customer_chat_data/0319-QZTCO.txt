@@ -1,0 +1,19 @@
+Customer ID: 0319-QZTCO
+Topic: customer asks about upgrade pricing
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello! I'm looking to upgrade my internet plan and was hoping for more info on pricing. 
+Agent:  Hello! What kind of upgrade are you interested in?
+Customer: I'm thinking about moving from the DSL plan to fiber optic. 
+Agent: Okay, we offer Fiber Optic plans starting at $79.99 per month with speeds up to 1 Gigabit. 
+Customer: Hmm, that sounds great! But how much would it cost me to switch? 
+Agent:  Switching costs will depend on your current plan and the specific upgrade you're looking for.  
+Customer: Well, I have a month-to-month contract and pay $58.70 now.
+Agent:  Let me check that information for you... it looks like your DSL plan has 10 Mbps speed. 
+Customer: Alright! 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate their prompt service in finding out about my upgrade options.
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 7312-XSBAT
+Topic: frequent internet disconnections
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet frequently. It seems like it drops out every 10-15 minutes.
+
+Agent:  I understand your frustration with intermittent connectivity, [Customer Name].  Let me gather some information to help troubleshoot this issue.  Could you please tell me your account number and what type of device you are using?
+
+Customer: Sure, my account number is XXXXXXXXXX, and I'm using a laptop. 
+
+Agent: Thank you for providing that information.  I am seeing reports that there may be an ongoing service disruption in your area affecting DSL users. Is this the case with your location? 
+
+Customer: Yes, it’s been happening all week. 
+
+Agent:  I apologize for the inconvenience. I will flag this issue and escalate it to our technical team to resolve it as quickly as possible. We should have an update within 24 hours.   
+ 
+Customer: Okay, thanks for helping. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response and explanation, appreciate the update on when I might expect things to be back to normal."
+Sentiment: Positive

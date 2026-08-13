@@ -1,0 +1,15 @@
+Customer ID: 8914-RBTSB
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, my internet has been incredibly slow this evening.  It feels like it's barely working.
+Agent: I understand your frustration, I am happy to help troubleshoot this issue. Could you please provide me with your account details and the specific time frame when you noticed the slow performance?
+Customer: My account number is 1234567890, and the speeds have been terrible since around 6pm.  It was fine before then. 
+Agent: Thank you for providing that information. I've checked our network logs and it appears there were heavy traffic loads during peak hours this evening.
+Customer: Hmm, well, I hope it gets back to normal soon.  I am on a month-to-month plan.
+Agent: We certainly hope so! We are working to maintain optimal performance for all customers.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully this issue resolves quickly and the slow speeds won't happen again."
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 3657-COGMW
+Topic: installation or activation fee dispute
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm disputing an installation fee on my recent internet bill.  It seems higher than what I expected. 
+Agent: Thank you for contacting us. Can you please provide your account number and the specific details of the invoice you're referring to?
+Customer: Sure, it's [customer's account number]. My bill was incorrect as I believe no installation fee should be applied given my tenure with the company.  
+Agent: Thank you for that information. We'd like to look into this for you. 
+Customer: My contract is month-to-month and I've been a loyal customer for five years.   
+Agent: I see your point, sir. Let me check on the details of your account. 
+Customer:  Great. Thank you.
+Agent: We found that there was an error in processing your initial installation fee.  Your bill should be adjusted accordingly. The fee has been removed and you will see your updated invoice shortly.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank goodness! I appreciate the quick resolution to this issue."
+Sentiment: Positive

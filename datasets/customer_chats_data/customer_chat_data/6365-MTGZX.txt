@@ -1,0 +1,17 @@
+Customer ID: 6365-MTGZX
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm experiencing incredibly high latency during my online gaming sessions lately. 
+Agent:  I understand your frustration, and I apologize for this inconvenience. I'd be happy to help investigate this further. Can you please tell me your exact location and the type of device you're using?
+Customer: My location is [city, state], and I use a gaming PC with wired Ethernet. 
+Agent:  Thank you. We do have occasional network congestion in that area. Let me check on the current traffic levels for your specific connection.
+Customer: Okay, thanks!
+Agent: I've just been notified of an ongoing maintenance update affecting some parts of the fiber optic network. It should be resolved shortly. 
+Customer: Great, thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and explained the issue clearly! Thanks for getting things sorted out so quickly.
+Sentiment: Positive

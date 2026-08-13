@@ -1,0 +1,23 @@
+Customer ID: 7270-BDIOA
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping and buffering constantly.
+
+Agent:  I understand your frustration. Can you please confirm your account details so I can assist you further? 
+
+Customer:  My name is John Smith, my account number is 1234567890.  And yes, it's Fiber optic internet.
+
+Agent: Thank you for providing that information, John. Let me check the status of your connection.
+
+Customer: I've been having these issues for about an hour now.
+
+Agent:  I see some recent activity on our end and a couple of intermittent outages in your area but we are working to resolve them. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, it seems like things should be improving soon."
+Sentiment: Positive

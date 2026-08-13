@@ -1,0 +1,26 @@
+Customer ID: 1660-HSOOQ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. Everything is super slow. 
+
+Agent:  I understand your concern! Could you please provide me with your account information?
+
+Customer: Sure, it’s [account holder name] and my phone number is [phone number]. 
+
+Agent: Thank you! I'm seeing some reports of slower speeds during peak hours today. 
+
+Customer: Oh, okay. Well, that's frustrating. 
+  
+Agent: Would you like me to check your connection speed? Or perhaps we can schedule a callback for a quicker solution?  
+
+Customer:  I’d prefer to see if there's anything I can do to improve the connection on my end.  
+
+Agent:  Let me walk you through a couple of steps and we’ll get this resolved! 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for walking me through some troubleshooting steps, it seems like things are improving now!"
+Sentiment: Positive

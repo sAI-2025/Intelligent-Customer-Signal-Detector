@@ -1,0 +1,17 @@
+Customer ID: 9139-WQQDY
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the Wi-Fi in my living room and bedroom. 
+Agent:  I understand, I can help with that. Could you please tell me your account number or the name on the service?
+Customer:  My account number is 1234567890. My name is John Smith. 
+Agent: Alright, John, thank you for providing that information. Can you describe the situation a little more? What speeds are you experiencing and what parts of the room are struggling to connect?
+Customer:  The speed seems slow, and it's only working at about 10-20% in those specific rooms, while other areas have good signal.
+Agent: Okay, I see. Let me check with our network team.  I'll get you a resolution as soon as possible.
+Customer: Thanks for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for getting this resolved so quickly! Much appreciated.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 4488-PSYCG
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping in and out. 
+Agent:  I understand you're experiencing frequent disconnections. Could you please tell me your account number? 
+Customer: It's 2345-1234-6789
+Agent: Thank you for providing that information. I have reviewed your account and noticed a pattern of outages in the last few weeks.  
+Customer: Is there anything I can do to fix this issue?
+Agent: Let me check on possible solutions. 
+Customer: Thanks, so far it's been an inconvenience.
+Agent: We're working on resolving this for you. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, I appreciate your effort to get things fixed!"
+Sentiment: Positive

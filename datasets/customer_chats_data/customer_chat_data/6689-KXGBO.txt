@@ -1,0 +1,16 @@
+Customer ID: 6689-KXGBO
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. It's super slow, especially during peak hours. 
+Agent:  I understand, unfortunately, it can be challenging during peak times as many users access the network simultaneously. Could you please provide your account details and an estimated time of day when the issue arises?
+Customer: Sure, my account name is John Smith. It seems to be happening between 7pm and 10pm.
+Agent: Thank you, John. I see that you're on a month-to-month contract with our DSL plan, at $50.55/month.  
+Customer: Thanks. Is there anything I can do? Do I need to restart my modem or router? 
+Agent: It might be beneficial to try restarting your modem and router. If the issue persists, please provide us with a screenshot of your network speed test results. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful in troubleshooting, but it's frustrating that speeds are so slow during peak hours."
+Sentiment: Negative

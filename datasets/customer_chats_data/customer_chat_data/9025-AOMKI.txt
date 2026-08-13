@@ -1,0 +1,17 @@
+Customer ID: 9025-AOMKI
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some issues with my internet speed and latency. 
+Agent:  I understand, let's get this sorted out. Can you please provide your account details? 
+Customer: Sure, my username is [Username] and the last four digits of my account number are [Account Number].  
+Agent: Thank you. Based on our records, I see you're currently using Fiber optic internet and have been a customer for six months with a monthly payment of $93.55. 
+Customer: I'm noticing high ping during online gaming. Is there something going on? 
+Agent:  I understand your concern about the high latency. Let me check our network performance logs to see if there are any issues reported recently. 
+Customer: Thanks, I really hope it gets resolved soon. 
+Agent:  I'll look into it right away. We will keep you updated on the progress. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and I appreciate them looking into the issue."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 2905-KFQUV
+Topic: TV audio and video out of sync
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with the audio and video syncing on my TV. 
+Agent:  I understand you're experiencing issues with your TV audio and video being out of sync. Could you please tell me which device you are using?  
+Customer: It's a Samsung Smart TV connected to our internet via fiber optic. 
+Agent: I see, thanks for that information. Let's try resetting your TV. Have you tried unplugging it from the power outlet and then plugging it back in?   
+Customer: Yes, but no luck.
+Agent: Okay, let me check if there are any known issues on our end related to your device or internet service.  I will look into that now. 
+Customer: Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful in trying to resolve the issue, it seems like a more technical fix is needed."
+Sentiment: Neutral

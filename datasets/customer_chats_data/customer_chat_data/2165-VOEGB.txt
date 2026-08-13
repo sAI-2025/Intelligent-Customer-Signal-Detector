@@ -1,0 +1,18 @@
+Customer ID: 2165-VOEGB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having trouble connecting to the internet. It keeps dropping in and out. 
+Agent: Hello! I understand you are experiencing intermittent connectivity issues.  Can you tell me your account number so I can access your details?
+Customer: Sure, it is [Account Number].
+Agent: Thank you for providing that information. Let's take a look at the network logs.
+Customer: Okay. 
+Agent: I see a pattern of disconnections around 8 PM every night. We have been seeing some recent technical issues in your area.  Would you like to reschedule our appointment?
+Customer: Yes, please. 
+Agent: I will set up a time for you with one of our technicians. Thank you for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting me connected! Hopefully the technical issues are resolved soon."
+Sentiment: Neutral

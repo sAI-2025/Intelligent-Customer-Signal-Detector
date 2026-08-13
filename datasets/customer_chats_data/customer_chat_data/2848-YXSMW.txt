@@ -1,0 +1,18 @@
+Customer ID: 2848-YXSMW
+Topic: customer reports poor overall service experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I have been having some issues with my service lately and I’m not happy with it. 
+Agent: Hello! Thank you for reaching out.  I'd be happy to help resolve this issue for you.  Could you please tell me more about what kind of problems you are experiencing? 
+Customer: Well, the speed has been inconsistent and the customer service hasn’t been helpful either. I have been a loyal customer for over seven years now but lately it feels like your company is not putting in the effort anymore.
+Agent: I understand your frustration, and I apologize for the inconvenience this has caused you.  I'd like to take a look at your account details to see what we can do. 
+Customer: Thank you, that would be great! 
+Agent: Let me check on your account history and service plan, then we can discuss options.  
+Customer: Thanks again.  
+Agent: Absolutely! Thank you for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the Agent's effort, it seems like the company isn't meeting their past standard of service."
+Sentiment: Negative

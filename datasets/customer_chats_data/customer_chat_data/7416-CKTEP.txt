@@ -1,0 +1,16 @@
+Customer ID: 7416-CKTEP
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet today during peak hours.
+Agent: I understand your frustration. Can you please provide your account number and a bit more detail about what you're experiencing?
+Customer: Sure, my account number is 1234567890. The speeds are extremely slow, even when doing simple tasks like checking email or browsing the web.  
+Agent: Thank you for providing that information. Let me see if I can find any issues on our end related to your account.
+Customer: Okay. Thanks. 
+Agent: It seems there's a network congestion at this time of day, but we are working on resolving it. You should see improved speeds soon!  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate that you’re looking into it and hope things improve quickly."
+Sentiment: Positive

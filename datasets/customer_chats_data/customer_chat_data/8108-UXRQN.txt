@@ -1,0 +1,25 @@
+Customer ID: 8108-UXRQN
+Topic: poor TV picture quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having some trouble with my TV picture quality lately. 
+
+Agent:  I apologize for the inconvenience, and thank you for letting me know. Can you please tell me your account information so I can look into this further? 
+
+Customer: Sure, it's [customer name], account number [account number]. 
+
+Agent: Thank you. I see that your service is currently on a month-to-month contract with us and we offer DSL internet.   
+
+Customer: Yeah, I just started having problems around the end of last month.  It seems like everything's blurry and pixelated. 
+
+Agent: I understand. It might be some connection issues or something with your TV itself. To get things fixed up, let's schedule a quick check-in call over video. What time works best for you?
+
+
+Customer: Sure, sounds good.  How about [time]? 
+ 
+Agent: Perfect! Thanks for letting me know. I look forward to connecting with you then. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the quick resolution and helpful advice!  Looking forward to seeing my TV back to normal.
+Sentiment: Positive

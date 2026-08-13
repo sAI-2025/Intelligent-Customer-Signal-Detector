@@ -1,0 +1,27 @@
+Customer ID: 5093-FEGLU
+Topic: service does not meet advertised expectations
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am very disappointed in my service quality recently. It's been lagging significantly compared to what was advertised. 
+
+Agent: We understand your frustration and apologize for any inconvenience this may have caused. Could you please provide your account details or the specific issues you're facing? 
+
+Customer: The speeds are down, and I am constantly experiencing buffering problems while streaming. 
+
+Agent: Thank you for providing that information.  We will investigate further to understand what is causing these issues. 
+
+Customer:   That would be appreciated.  I signed up for No Internet package based on their advertising. 
+
+Agent: We assure you that our advertised speeds are accurate, however, there might be external factors affecting your connection. 
+
+Customer:  It's been happening for weeks and it's unacceptable.
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in investigating, I still feel frustrated by the consistent buffering issues and lack of reliable internet service even after signing up for the "No Internet" package as advertised.
+Sentiment: Negative

@@ -1,0 +1,18 @@
+Customer ID: 3571-RFHAR
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I've been having trouble with my internet connection lately. It's slow and keeps dropping in and out. 
+Agent:  I apologize to hear that you're experiencing issues. Can you tell me your account details so I can look into it?
+Customer: Sure, my name is John Miller, and my account number is 123456789. 
+Agent: Thank you, Mr. Miller. I see there's a fiber optic connection for you.  Let me check the service status... 
+Customer: Okay. 
+Agent: It appears your speed isn't meeting our standards at the moment. We can offer troubleshooting steps or even a temporary upgrade. Which would you like to do?
+Customer: I just want it to be stable! Thank you for your help.
+Agent:  I understand, Mr. Miller.  We'll take care of that. We have some options for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It seems like the issue is resolved, thank you for your assistance!"
+Sentiment: Positive

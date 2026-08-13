@@ -1,0 +1,17 @@
+Customer ID: 2164-SOQXL
+Topic: price differs from advertised plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I noticed that my monthly bill is different from what's advertised on your website. 
+Agent: Hello! Thank you for contacting us.  What plan are you currently subscribed to?
+Customer: I'm on the basic plan, and the price listed on your site was $15 per month. 
+Agent: My apologies, there might be a slight discrepancy between the advertised rate and the actual one. 
+Customer: It's been this way for a few months now.  My current monthly payment is $20.05.
+Agent: Would you like to discuss your billing further? 
+Customer: Yes, please.
+Agent: I can certainly help with that. We will adjust your account accordingly. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While I appreciate the resolution, it's disappointing this discrepancy has persisted for months.  Hopefully, they can improve their website accuracy to prevent future confusion.
+Sentiment: Negative

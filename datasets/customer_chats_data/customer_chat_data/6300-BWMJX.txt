@@ -1,0 +1,23 @@
+Customer ID: 6300-BWMJX
+Topic: new service activation delayed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my service activation is delayed and I need to know when it will be up. 
+
+Agent:  Hello! Thank you for contacting us. I can certainly help with that. What's your account name or number?
+
+Customer: My account name is [account name].
+
+Agent:  Okay, let me pull up your account information. It looks like your service activation is delayed due to an issue with the equipment installation in your area. 
+
+Customer: Thanks for letting me know. Can you tell me when I can expect it to be activated?
+
+Agent: We are aiming for a resolution by [date].  We'll keep you updated on any further developments.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated, appreciate the prompt response and information."
+Sentiment: Positive

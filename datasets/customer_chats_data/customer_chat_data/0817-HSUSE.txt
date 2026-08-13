@@ -1,0 +1,20 @@
+Customer ID: 0817-HSUSE
+Topic: additional line missing from account
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there! I just checked my account online and noticed that I don't have a second line added. 
+
+Agent:  I understand you're missing a line on your account. Can you please provide me with your account number or email address?
+
+Customer: My account number is 1234567890.  
+
+Agent: Thank you. I can confirm that the additional line has not been added yet. We will take care of it for you. 
+ 
+Customer: Great, thanks! How long should I expect this to take? 
+
+Agent: We are looking into adding a second line for you today and will see to it by the end of the day. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting my second line added!  I appreciate the quick resolution. 😊
+Sentiment: Positive

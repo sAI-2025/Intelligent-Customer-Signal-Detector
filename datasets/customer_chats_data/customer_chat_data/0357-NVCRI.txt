@@ -1,0 +1,15 @@
+Customer ID: 0357-NVCRI
+Topic: customer cannot find expected self-service option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't find the option to change my billing frequency on your website! 
+Agent:  I understand you're looking to adjust your billing cycle. Could you please tell me what self-service option you were hoping for?  
+Customer: It was supposed to be on the "Account Settings" page under "Billing & Payment." 
+Agent:  Let me check our system, and I will see if we can find it for you.
+Customer: Thanks!
+Agent:  I've located your billing settings. You can change your billing cycle directly through there.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was quick to help me find the option, and I'm happy with my new billing schedule."
+Sentiment: Positive

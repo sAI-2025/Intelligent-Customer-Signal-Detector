@@ -1,0 +1,24 @@
+Customer ID: 2612-RRIDN
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there!  I'm having trouble connecting to the internet consistently. I've been experiencing frequent disconnects. 
+
+Agent: Hello! We're sorry to hear about your ongoing connectivity issues. Can you please provide your account information so we can assist you further?
+
+Customer: Sure, my name is John Miller and my customer number is 12345678.  I started my service four months ago. 
+
+Agent: Thank you, John. I've reviewed your account history and it looks like there have been a few recent outages in the area. We are actively working to resolve them for you. 
+
+Customer: Thanks!  Can you give me an estimated time frame for when things should be back to normal? 
+
+Agent: We aim to restore connectivity within the next hour, John.  We appreciate your patience and we'll continue to keep you updated on our progress. 
+
+Customer: Great, thanks. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and kept me informed. Thanks for the quick resolution!"
+Sentiment: Positive

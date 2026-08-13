@@ -1,0 +1,16 @@
+Customer ID: 5339-TJFEK
+Topic: payment method update failed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My payment method update failed.  I tried changing my credit card information online this morning, but it says there was an error. 
+Agent: I'm sorry to hear about the issue with your payment update, can you please provide me with your account details? 
+Customer: Sure, it's [account number]. My name is Sarah and my email is [email address].  
+Agent: Thank you, Sarah.  I see that you are experiencing difficulties with updating your payment information. Let me check the system. 
+Customer: Great! Thanks for checking this out. 
+Agent: We will have this resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out, appreciate the quick response and resolution!"
+Sentiment: Positive

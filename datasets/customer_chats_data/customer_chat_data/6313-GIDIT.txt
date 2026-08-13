@@ -1,0 +1,16 @@
+Customer ID: 6313-GIDIT
+Topic: router lights showing unexpected status
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my router lights showing an unexpected status. 
+Agent:  I understand your concern about the unexpected status on your router light. Can you please tell me which specific lights are not behaving as expected and what kind of device is connected to the router? 
+Customer: The Wi-Fi light is blinking yellow, and the DSL light is staying solid green. 
+Agent: I see.  Let's check if there's a connection issue. Can you try restarting your modem/router? If that doesn't resolve it, please provide us with your account details for further assistance. 
+Customer: Okay, here are my account details. 
+Agent: Thank you for providing the information. I will be happy to help with troubleshooting. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in finding a solution for my router issue.
+Sentiment: Positive

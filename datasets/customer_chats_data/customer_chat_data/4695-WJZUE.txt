@@ -1,0 +1,15 @@
+Customer ID: 4695-WJZUE
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been really slow lately, especially during peak hours. I'm paying $88.55 a month for Fiber Optic and haven't had any problems before this. 
+Agent: I understand your concern.  Can you please tell me what time of day you're experiencing the slow speeds?
+Customer: It seems to be between 6 PM and 10 PM, mostly evenings.
+Agent: Thank you for that information.  I'll check our network logs and see if there's anything affecting your service during those hours. We may have some congestion going on at peak times.
+Customer: Thanks, I hope it gets resolved quickly!
+Agent: No worries, we'll get this sorted out for you as soon as possible.  I'm hoping to resolve this issue for you by [time frame/day]. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and hopefully I won't be stuck with slow internet speeds tonight."
+Sentiment: Neutral

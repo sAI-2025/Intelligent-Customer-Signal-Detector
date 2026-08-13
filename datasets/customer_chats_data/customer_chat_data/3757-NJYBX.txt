@@ -1,0 +1,24 @@
+Customer ID: 3757-NJYBX
+Topic: outgoing calls failing
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting my calls to go through. 
+
+Agent:  I understand, I'd be happy to look into this. May I have your account number and a brief description of the issue?
+
+Customer: Sure, it's [customer account number]. The calls are dropping, and sometimes they don’t even connect.  
+
+Agent: Thank you for providing that information.  I can see that your service is active, and your plan is currently a month-to-month contract. 
+
+Customer: I have Fiber optic internet.
+
+Agent: Ok, we'll check our records to ensure everything is functioning properly on your end.  Give me a minute and I'll check in with you shortly. 
+
+Customer: Thank you!
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient, resolving my issue quickly.
+Sentiment: Positive

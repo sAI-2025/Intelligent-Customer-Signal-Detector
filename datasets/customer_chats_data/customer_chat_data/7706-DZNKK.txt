@@ -1,0 +1,17 @@
+Customer ID: 7706-DZNKK
+Topic: customer asks about early termination terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about my early termination terms? 
+Agent:  Sure!  To understand your options, could you tell me your contract type and billing cycle?
+Customer: It's month-to-month. And I pay $20.45 per month for internet service. 
+Agent:  You have a month-to-month agreement with no early termination fee, correct?
+Customer: Yes. That's what I thought. 
+Agent:  Thank you! We do not charge any fees for cancellation on our monthly plans.
+Customer: Alright, thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for clarifying!  Good to know."
+Sentiment: Positive

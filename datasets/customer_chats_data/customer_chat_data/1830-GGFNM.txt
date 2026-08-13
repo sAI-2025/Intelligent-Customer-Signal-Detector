@@ -1,0 +1,19 @@
+Customer ID: 1830-GGFNM
+Topic: outgoing calls failing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there, I’m having trouble making outgoing calls. I get an error message saying “unable to complete call” 
+Agent: Hello! My name is Emily, how can I assist you today? 
+Customer: My internet connection has been working fine, but my phone keeps failing to make outgoing calls. I've checked the settings and everything seems okay.
+Agent: Let's take a look at your account.  What is your account number? 
+Customer: 1234567890
+Agent: Thank you. We’re seeing that your internet has been running well, but we did notice some recent changes to your call settings. 
+Customer: Really? What do I need to change? 
+Agent:  We may have inadvertently switched your account over to an old plan without your consent. 
+Customer: Okay. Can you just fix this for me so I can make calls again? 
+Agent: Absolutely!  Let's get that call setting back to the way it was, and we should be good to go. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for quickly resolving my issue!  I appreciate your help."
+Sentiment: Positive

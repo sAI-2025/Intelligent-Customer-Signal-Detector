@@ -1,0 +1,17 @@
+Customer ID: 0203-HHYIJ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My ping is really high right now.  Is there an issue?
+Agent: I apologize for the high latency you're experiencing. Could you please provide your account details so I can check on your connection? 
+Customer: Sure. Account number [account number] and my name is [name]. 
+Agent: Thanks, [name]. I see that your connection is currently experiencing a high ping rate. Let me look into this for you.
+Customer: Is there anything I can do to fix it? 
+Agent:  I'm checking the server status now. We are working on resolving some connectivity issues. 
+Customer: Thanks. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the issue and providing updates! I appreciate your help getting this sorted out.
+Sentiment: Positive

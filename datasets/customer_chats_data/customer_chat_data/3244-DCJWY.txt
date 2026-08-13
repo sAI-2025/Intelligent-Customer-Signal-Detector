@@ -1,0 +1,28 @@
+Customer ID: 3244-DCJWY
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My download speed is much slower than my subscribed plan. I’m on a month-to-month contract and it’s been just over a month of service. 
+
+Agent:  Hi [Customer Name], thanks for contacting us. We can definitely help with this. Could you please provide your account number or the email associated with your plan? 
+
+Customer: Sure, my account number is [Insert Account Number] 
+ 
+Agent: Thank you. Let me take a look at your account information.  I see you're currently on our Fiber optic plan and are experiencing slower speeds than anticipated. 
+
+Customer: I’ve already tried restarting my modem but the issue persists.
+
+Agent:  I understand. Could you please run a speed test while we investigate this further? We want to make sure we address the root cause of this issue.  
+
+Customer: [Speed Test Results]
+
+Agent: Thank you for providing that information. I see it’s down to 20Mbps, which is significantly below your subscribed plan's speed of 100 Mbps.
+
+Customer:  Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in troubleshooting my slow download speeds. Glad I have the issue resolved now!"
+Sentiment: Positive

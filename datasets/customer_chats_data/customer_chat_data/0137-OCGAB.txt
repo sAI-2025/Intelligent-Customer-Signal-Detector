@@ -1,0 +1,16 @@
+Customer ID: 0137-OCGAB
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It's significantly slower than what I expect from my Fiber optic plan. 
+Agent:  I understand your concern, we want to make sure you're getting the best possible experience. Could you please share your account details and location? 
+Customer: Sure, here's my account number and city, [City Name]. 
+Agent: I see that your contract is for month-to-month with us, and you're currently paying $80.20 per month for fiber optic internet. 
+Customer:  I don't think this speed issue aligns with what the plan offers. Can we check into it? 
+Agent: Absolutely, I’ll investigate your upload speeds and find a solution for you.  Let me know if there are any other concerns.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the agent's prompt response and willingness to investigate my issue. Hopefully we can resolve this quickly!"
+Sentiment: Positive

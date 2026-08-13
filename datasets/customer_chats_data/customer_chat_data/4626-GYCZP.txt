@@ -1,0 +1,24 @@
+Customer ID: 4626-GYCZP
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than what I was promised when I signed up for this plan. 
+
+Agent: We are sorry to hear that your internet speed is lower than expected. Can you please provide your account number so we can look into it?  
+
+Customer:  It's [account number].  I also just checked my speeds and they are under 10 mbps, way below the advertised 500mbps. 
+
+Agent: Thank you for providing that information. I'm seeing some network congestion in your area. Let me check our system to see what options we can offer. 
+
+Customer:  That's frustrating! Can you help me get back up to speed?
+
+Agent: We can certainly do that, and possibly upgrade you to a different plan if needed.  Please give me a moment while I look into this further.
+
+Customer:  Thanks. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience but the agent's quick response and willingness to help is appreciated.
+Sentiment: Neutral

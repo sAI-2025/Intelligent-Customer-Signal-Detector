@@ -1,0 +1,19 @@
+Customer ID: 4664-NJCMS
+Topic: mobile data disconnects frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having issues with my mobile data disconnecting frequently. 
+Agent:  I understand your concern about frequent disconnects. Could you please provide me with your account information?
+Customer: Sure, my name is John Smith and my account number is 1234567890. My phone number is (XXX) XXX-XXXX. 
+Agent: Thank you, John.  I've accessed your account and noticed that your DSL internet connection might be causing the disconnections.
+Customer: So, what can I do?  
+Agent: We can definitely look into this. Would you like to schedule a call with our technical support team to address this issue further? 
+Customer: Yes, please.  How long will it take?
+Agent: The call should be scheduled within the next hour or so. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a helpful and efficient process to resolve my issue with the frequent data disconnects.
+Sentiment: Positive

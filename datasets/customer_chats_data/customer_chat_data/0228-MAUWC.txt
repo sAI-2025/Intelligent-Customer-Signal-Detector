@@ -1,0 +1,22 @@
+Customer ID: 0228-MAUWC
+Topic: data unavailable despite active plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is down and I can't access my data.  My plan hasn't changed, but there's no data available on my account? 
+
+Agent: Hello! Thank you for contacting us. We understand your concern about the lack of data. May I please have your account information to investigate further?
+
+Customer: It's [account holder name], and my account number is [account number]. My plan is a month-to-month DSL contract, and I pay $59.55 per month. 
+
+Agent: I see the account details.  We are currently investigating this issue. Please hold while we check your service status.
+
+
+Customer: Okay, thank you. 
+Agent: We've looked into the matter and it appears that there is a data limit on your plan. It was not clear to us before.  I apologize for any inconvenience this may have caused.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This really needs to be clearer about data limits upfront!  It's frustrating to find out after already paying for service.
+Sentiment: Negative

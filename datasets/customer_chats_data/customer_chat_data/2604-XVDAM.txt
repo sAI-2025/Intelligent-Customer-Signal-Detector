@@ -1,0 +1,17 @@
+Customer ID: 2604-XVDAM
+Topic: phone service activated but not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just activated my phone service, but it isn’t working. 
+Agent: Hello!  I understand your frustration. Can you tell me your account number and what issue you're experiencing? 
+Customer: My account is [account number] and the problem is that I can't make calls. 
+Agent: Thank you for providing that information. Have you tried restarting your phone?
+Customer: Yes, I did.  Still no sound.  
+Agent: Let me check our system. You are on a month-to-month contract. 
+Customer:  I’m wondering if it might be the DSL line? 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm glad the agent was able to start troubleshooting, but I still haven't been able to make a call yet.
+Sentiment: Neutral

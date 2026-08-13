@@ -1,0 +1,25 @@
+Customer ID: 3882-IYOIJ
+Topic: service does not meet advertised expectations
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to speak with someone about my internet service not meeting advertised expectations.  I've been a loyal customer for six years and have consistently paid $115.25 per month for Fiber optic.
+
+Agent: Hello! Thank you for contacting us today. I understand you're experiencing some issues with your service. Can you please provide me with your account number or the name on the account? 
+
+Customer: My account number is [account number].  My name is [name] and the connection speed has been consistently slower than advertised. 
+
+Agent: Thank you for providing that information, [name]. We would like to look into this issue further. Could you please tell me what speeds you are currently receiving? 
+
+Customer: My download speed is rarely above 15 Mbps. It's significantly below the advertised 25 Mbps.  
+ 
+Agent: I see your concerns about your service speeds. Let me connect you with a specialist to discuss this further and offer solutions.  
+ 
+Customer: Thank you!
+
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the prompt attention to my issue, hopefully this will result in a satisfactory resolution."
+Sentiment: Positive

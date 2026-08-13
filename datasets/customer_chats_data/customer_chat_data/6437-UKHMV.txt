@@ -1,0 +1,17 @@
+Customer ID: 6437-UKHMV
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm experiencing frequent internet disconnections lately.  It seems to happen around 3-4pm every day. 
+Agent: Hello! I understand your frustration with intermittent internet outages. Can you please tell me your account details?
+Customer: Sure, my name is [customer name], account number is 12345678, and my billing cycle is month-to-month.
+Agent: Thank you for the information, [customer name]. I'm looking into potential network issues that could be causing these disconnections.  Do you have any other details about when it happens?
+Customer: Mostly around 3pm to 5pm, and sometimes after a heavy load on my laptop or streaming something.
+Agent: Thank you for providing more information.  I'm checking the system now.  We'll aim to get this sorted out as soon as possible. 
+Customer: Ok, thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this and hopefully it gets resolved soon.
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 9074-KGVOX
+Topic: customer received a better competitor offer
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I just received a better offer from another provider and I need to cancel my service.  I’ve been a loyal customer for 50 months.
+
+Agent: I understand your decision to cancel.  May I ask for the reason you're looking to switch? 
+
+Customer: They are offering DSL at $29.99 per month. 
+ 
+Agent: Thank you for letting me know, and I understand it’s a competitive market. We appreciate your loyalty over the past five years. 
+
+Customer: Yes, but I’m not seeing that change in my monthly bill.  Is there a way to get something comparable? 
+
+Agent: Unfortunately, with our current plan structure, we can't match the competitor's offer directly. However, I'd be happy to discuss alternative options for your existing plan and explore possibilities to help you save money.   
+
+Customer: Okay, let me talk to my family first and see what they think. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in exploring alternatives, it seems like a discount is needed to keep me as a loyal customer.
+Sentiment: Negative

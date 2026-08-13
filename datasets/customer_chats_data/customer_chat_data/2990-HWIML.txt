@@ -1,0 +1,17 @@
+Customer ID: 2990-HWIML
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is very weak in the living room. I get about 1 megabit download speed and it fluctuates a lot. 
+Agent: I understand your frustration.  I'd be happy to look into this for you. Please tell me your account number or email address so we can check your service details.
+Customer: My account number is [redacted] 
+Agent: Thank you! I'm checking your account now and will let you know what I find. 
+Customer:  Thanks, I hope it's something simple to fix.
+Agent:  I hope so too! We can also run a speed test if needed to confirm the issue.  
+Customer: Okay, thanks again. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive, and I appreciate them taking action on my request.
+Sentiment: Positive

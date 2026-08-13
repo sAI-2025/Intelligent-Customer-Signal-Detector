@@ -1,0 +1,17 @@
+Customer ID: 2683-BPJSO
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my download speed has been really slow lately, and I’m wondering if there’s an issue. 
+Agent:  I understand your concern.  Could you please provide me with your account information, such as the service address and the last few days' download speeds? 
+Customer: Sure, here it is. My account number is [Account Number], my address is [Street Address], and the last few days of download speed are around 10 Mbps when I usually get 50 Mbps. 
+Agent: Thanks for that information.  I’m checking your account now. 
+Customer: Thank you! 
+Agent:  I have confirmed there isn't any noticeable service outage on your end, and the average speeds were not as high as what you expected. We will adjust your plan to provide better speeds if possible. 
+Customer: Thanks for that. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this! It's reassuring to know there isn't a service outage, and the upgraded plan is appreciated.
+Sentiment: Positive

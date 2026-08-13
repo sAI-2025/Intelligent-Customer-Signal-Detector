@@ -1,0 +1,16 @@
+Customer ID: 5577-OTWWW
+Topic: password reset fails
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I've forgotten my password and can't access my account. 
+Agent:  I understand!  To help me reset your password, please provide your full name and the email address associated with your account.
+Customer: My name is John Smith and my email is johnsmith@email.com.
+Agent: I see your account, John Smith. Please verify the security question you set up during registration. 
+Customer: The answer was "Mountain". 
+Agent: Thank you, John. Your password has been reset successfully. You can now log in using your new credentials.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting my account back up and running!  I appreciate the help with resetting the password.
+Sentiment: Positive

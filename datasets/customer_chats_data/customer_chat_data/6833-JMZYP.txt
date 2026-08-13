@@ -1,0 +1,17 @@
+Customer ID: 6833-JMZYP
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet.  It's extremely slow and dropping frequently.
+Agent: Hi there! My name is Alex, how can I help you today? 
+Customer: It's been this way for the last hour. My speed test shows a result of 5 Mbps down and 10 Mbps up when it should be around 100 Mbps down and 20 Mbps up. 
+Agent:  I see, and based on your Fiber Optic plan, you are experiencing significant speeds lag. I'll schedule a system check for you to ensure everything is running as expected. Please hold a moment while I initiate the process. 
+Customer: Thank you! 
+Agent:  Okay, we will be checking your connection right away. We should have updates on your account in the next few minutes. 
+Customer: Thanks again! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and kept me updated throughout the process. Hopefully my internet speed improves soon!"
+Sentiment: Positive

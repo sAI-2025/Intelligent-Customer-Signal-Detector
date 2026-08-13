@@ -1,0 +1,21 @@
+Customer ID: 8791-GFXLZ
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is completely down. I can't connect to anything. 
+
+Agent: Hi there!  I understand you're having trouble connecting to the internet. Can you please tell me your account number and what kind of device you're using?
+
+Customer: Account Number: [account number]
+It’s a laptop running Windows.
+
+Agent: Thanks for that information.  I can see your DSL service is down right now.  Let me check on the cause of the outage. 
+
+Customer: Ok, thanks! 
+
+Agent: I will get this resolved for you today. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and for letting me know it will be fixed today! 👍
+Sentiment: Positive

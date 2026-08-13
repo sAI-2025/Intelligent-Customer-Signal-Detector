@@ -1,0 +1,20 @@
+Customer ID: 0927-CNGRH
+Topic: websites load slowly despite active connection
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My website is taking forever to load! I have a good connection though. 
+Agent: I understand your frustration.  I need some more information to help you troubleshoot this issue. Could you please tell me what kind of websites you are trying to access?
+Customer: Mostly work-related, but it's slow even on personal sites.
+Agent: Okay. Can you confirm your current plan details and Internet speeds? 
+Customer: Month-to-month, $19.55/month.  I'm getting about 20 Mbps download speed.
+Agent: I see, thanks for that info. Let me check what might be causing the slow load time.
+Customer: Thank you!
+Agent:  Thanks for contacting us.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and I appreciate their efforts to find a solution."
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 5998-DZLYR
+Topic: music playback buffering
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with music playback buffering on my service. 
+Agent:  I understand your frustration. Could you tell me a little more about what's happening? 
+Customer:  It seems like it pauses constantly even when the volume is low. It’s really disrupting my listening experience.
+Agent:  We've had some reports of issues with buffering lately, especially during peak hours on Fiber optic internet. 
+Customer:  I've been a customer for two years and this has never happened before. My speed test results are good.
+Agent:  Thank you for providing that information. I'll have our team take a look at your account and investigate further.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating to experience buffering issues after years of being a loyal customer. Hopefully, the team can get to the bottom of this soon."
+Sentiment: Negative

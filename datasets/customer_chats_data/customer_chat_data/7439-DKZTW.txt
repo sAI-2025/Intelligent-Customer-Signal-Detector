@@ -1,0 +1,20 @@
+Customer ID: 7439-DKZTW
+Topic: customer wants to downgrade service plan
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I would like to downgrade my service plan.  
+Agent: Hello! Thank you for reaching out to us. Can you please tell me what plan you're currently on and why you'd like to downgrade? 
+Customer: My current plan is the $80.55 Fiber Optic plan. I need something less expensive. 
+Agent: I understand, we have some plans that might fit better for your budget. Would you prefer a slower connection or a different type of service?  
+Customer: Something slower would work.  I don't use the internet for anything too heavy. 
+Agent: Perfect! We do offer a more basic plan with lower speeds. It will cost $55 per month. 
+Customer: Okay, that sounds good. 
+Agent: Great!  To finalize the change, I just need to verify your information and confirm your new plan.
+Customer: Alright, sure.  I'm ready to make the change.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a smooth and quick process! Thanks for helping me find a good plan.
+Sentiment: Positive

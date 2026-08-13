@@ -1,0 +1,17 @@
+Customer ID: 4723-BEGSG
+Topic: service upgrade option missing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I want to upgrade my internet plan.
+Agent:  I can help with that! What kind of plan are you interested in? 
+Customer: I'm looking for something faster and more reliable than the DSL I have now.  
+Agent:  Sure, we offer fiber optic options. Could you tell me your current address?
+Customer: My address is [address] 
+Agent: Let me check our upgrade options. There doesn’t seem to be a way to do this online.  
+Customer: Thank you for trying to help!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful, but I'm still frustrated that I can't upgrade my plan online.
+Sentiment: Negative

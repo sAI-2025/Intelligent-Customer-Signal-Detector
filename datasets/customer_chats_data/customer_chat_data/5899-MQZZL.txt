@@ -1,0 +1,17 @@
+Customer ID: 5899-MQZZL
+Topic: specific songs unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I can't find my favorite song on the streaming service. 
+Agent: Hi there! I'd be happy to help with that. What song are you looking for?
+Customer:  "Sweet Caroline" by Neil Diamond. It just isn't playing anymore.
+Agent: Let me check on this, it sounds like a potential issue with our playlist content. 
+Customer: Thanks so much!  Do you know when I might expect to see it back up?
+Agent: I can take a look into that for you. We'll let you know as soon as we have an update on the song's availability. 
+Customer: Okay, thanks again. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It was great to get help with my 'Sweet Caroline' issue, and I appreciate the updates!"
+Sentiment: Positive

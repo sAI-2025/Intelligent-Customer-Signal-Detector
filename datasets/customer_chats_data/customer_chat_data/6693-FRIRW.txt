@@ -1,0 +1,17 @@
+Customer ID: 6693-FRIRW
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It’s really slow and keeps dropping.
+Agent:  I understand your concern. Can you please tell me what device you are using to connect and what kind of speeds you are experiencing? 
+Customer: My laptop and phone, I'm getting about 10 mbps download speed. 
+Agent: Thank you for that information. We just had some network maintenance done in the area recently.  
+Customer: Is there anything we can do to fix this issue right away? 
+Agent: Let me check and see if we can reroute your connection or restart the modem, if you're comfortable with that. 
+Customer: Sure, I’d appreciate it.
+Agent:  I have done some troubleshooting and found that a service outage is affecting your area. We'll need to contact our technicians to resolve this further. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update and letting me know about the outage. Hopefully, it gets resolved quickly."
+Sentiment: Neutral

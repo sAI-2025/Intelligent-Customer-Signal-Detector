@@ -1,0 +1,24 @@
+Customer ID: 6394-MFYNG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down! I haven't been able to connect all day. 
+
+Agent: I understand your frustration, sir/madam. What's your account number?
+
+Customer:  It's [Account Number]
+
+Agent: Let me check on your service status and see what we can do. 
+
+Customer: Thanks!
+
+Agent: It looks like there might be an outage in your area. We're currently working to restore service as quickly as possible. 
+
+Customer: Okay, I hope it's not too long.
+
+Agent:  Rest assured, we are working diligently on the issue and will keep you updated.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me informed, I appreciate your quick response."
+Sentiment: Positive

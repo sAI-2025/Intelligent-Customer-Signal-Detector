@@ -1,0 +1,17 @@
+Customer ID: 5236-PERKL
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is slower than expected.  I’m paying $112.95 a month and have been with your company for 57 months. Is there an issue on your end?
+Agent: I understand you're experiencing slow upload speeds, and I apologize for the inconvenience. Can you please confirm your account details, including the address where the service is connected to? 
+Customer:  Sure, my name is John and my address is [address withheld]
+Agent: Thank you, John. Based on the information you provided, our system shows no reported outages or network issues in your area. 
+Customer: Okay, but why is it so slow?
+Agent: Our records indicate that a recent customer upgrade may have impacted your speed temporarily, and we are working to resolve this issue for you as soon as possible.
+Customer: Thanks
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent explained the potential cause of my slow upload speed, I'm still hoping for a quicker resolution."
+Sentiment: Neutral

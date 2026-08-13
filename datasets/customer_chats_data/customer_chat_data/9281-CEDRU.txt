@@ -1,0 +1,17 @@
+Customer ID: 9281-CEDRU
+Topic: mobile data becomes unusually slow
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my mobile data, it's been running incredibly slow lately. 
+Agent:  I understand, I am sorry to hear that your connection is not working properly. Can you please tell me more about the issue, such as what device and plan you are using?
+Customer:  I'm on my iPhone X with a 2-year contract for $64/month. My DSL internet at home works fine.
+Agent: Thank you for providing that information. I can see your account details, and have been running speed tests in the area.
+Customer: Well, it's like I'm stuck on dial-up!  
+Agent: I will look into this further, please allow me a few minutes to check on what could be causing the slow speeds.
+Customer: Ok, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but hopefully the agent can resolve it quickly!
+Sentiment: Negative

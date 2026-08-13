@@ -1,0 +1,17 @@
+Customer ID: 1074-WVEVG
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey there, I'm having trouble connecting to the internet. It's really slow and seems unstable. 
+Agent: Hi there! I understand you're experiencing connection issues.  Can you please provide your account number?
+Customer: Sure, it's [account number].
+Agent: Thank you for that information.  I’m looking into your account now to see what we can do to help.
+Customer: Great, thanks!
+Agent: We're going to check your speed and connectivity on our end right away. Let me know if anything changes in the meantime. 
+Customer:  Okay, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quick, and hopefully my internet issue will be resolved soon!"
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 9050-QLROH
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing extremely slow internet speeds during peak hours. 
+Agent:  I understand you're experiencing slow speeds during peak times. Please confirm your current plan and service location. 
+Customer: My plan is the $90.7 Fiber Optic plan.  I live in [City/Neighborhood].
+Agent: Thank you for that information. We'll look into this for you right away. 
+Customer:  Thanks, I hope to get back to normal speeds soon.
+Agent: No problem! We are currently working on the issue. Rest assured, we will keep you updated.
+Customer: Ok, thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and I appreciate them keeping me informed about the situation."
+Sentiment: Positive

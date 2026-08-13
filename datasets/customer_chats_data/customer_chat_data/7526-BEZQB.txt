@@ -1,0 +1,18 @@
+Customer ID: 7526-BEZQB
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is really slow during peak hours. I can barely stream movies! 
+Agent:  I understand your frustration. Can you tell me your account details and what time of day are you experiencing this issue?
+Customer: My name is Michael and my account number is 1234567890. It happens between 6pm-9pm. 
+Agent: Thanks, Michael. Let me take a look at your service plan.
+Customer:  It's fiber optic.  I just started this contract 12 months ago.
+Agent: I see that you're on our Fiber Optic plan. Can you confirm if you have any other devices connected to the network?
+Customer: Just my laptop and TV.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful, but I still haven't seen a significant improvement in speed despite trying to troubleshoot."
+Sentiment: Neutral

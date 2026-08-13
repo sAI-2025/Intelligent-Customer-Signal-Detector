@@ -1,0 +1,15 @@
+Customer ID: 1428-GTBJJ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having some trouble with lag and high ping while playing online games. 
+Agent:  I understand you're experiencing issues with latency, can you provide me with your account details or service address?
+Customer: Sure, my name is John Doe, and my account number is 1234567890.
+Agent: I've checked our logs and it seems your service area has a temporary network congestion issue in the afternoon. We are working on resolving this immediately.
+Customer:  That's great, thanks! 
+Agent: We apologize for the inconvenience and will keep you updated about the status of the network. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update, it's good to know the issue is being addressed. 😊
+Sentiment: Positive

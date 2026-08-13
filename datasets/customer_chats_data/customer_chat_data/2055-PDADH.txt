@@ -1,0 +1,26 @@
+Customer ID: 2055-PDADH
+Topic: billing information unavailable online
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't seem to access my billing information online. 
+
+Agent:  I understand your frustration, please provide your account email or phone number.
+
+Customer: My email is [customer email]
+
+Agent:  Thank you for providing the account details. We are currently experiencing some technical difficulties with our online system.
+
+Customer: Oh, that’s no good. Is there a way to get my billing information manually? 
+
+Agent: We can send your billing information to you via email. Your monthly charges are $70.4 and you have been using Fiber Optic internet for the past three months.
+
+Customer:  Thanks. Can I expect this in my inbox shortly?
+
+Agent:  We'll be sending it to you within the next hour. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, even though there were technical difficulties!
+Sentiment: Positive

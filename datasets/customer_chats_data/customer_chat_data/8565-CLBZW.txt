@@ -1,0 +1,17 @@
+Customer ID: 8565-CLBZW
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble connecting to the internet today. It seems really slow during peak hours. 
+Agent:  I understand your concern. Please provide your account information so I can check on the status of your service.
+Customer: Sure, my account number is [account number], and my name is [name]. 
+Agent: Thanks for providing that information. I see a slight dip in your connection speed during peak hours. It might be related to other users on the network.  
+Customer: Is there anything I can do about it? My work is heavily reliant on fast internet!
+Agent: We're working on optimizing our network infrastructure. We will let you know when we have updates. 
+Customer: Okay, thanks for letting me know. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate your quick response and explanation."
+Sentiment: Positive

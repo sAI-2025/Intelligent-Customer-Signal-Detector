@@ -1,0 +1,18 @@
+Customer ID: 9621-OUPYD
+Topic: calls failing between connected lines
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting my calls, they keep dropping. 
+Agent:  I understand your concern. To troubleshoot this issue better, can you please provide me with your account number and the phone line number experiencing problems?
+Customer: My account number is XXX-XXXX and the phone line is 555-1234. 
+Agent: Thank you for providing that information.  Let me check our records for any recent service changes or maintenance activities that might be affecting your call quality. 
+Customer: Okay, thanks. 
+Agent: I've checked the logs, and it seems there were some unexpected surges in network traffic around the time of your calls failing. We are working on resolving this issue immediately, could take a few minutes to restore full connectivity.  
+Customer: Alright, will that affect my calls going out?
+Agent: No, we're actively addressing the problem and expect normal call quality to be restored soon. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! It sounds like they're working on getting things back up and running smoothly."
+Sentiment: Positive

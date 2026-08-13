@@ -1,0 +1,27 @@
+Customer ID: 6668-CNMFP
+Topic: customer cannot view plan details
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble viewing my plan details.  I can't seem to access them on my account. 
+
+Agent:  Of course! To help me troubleshoot this issue, could you please provide your account username or email address?
+
+Customer: My username is [username] and my email is [email].
+
+Agent: I see your account information. Are you trying to view the details for your current plan, or are you looking to change your plan in the future? 
+
+Customer:  I'm just trying to look at my current plan details. I'm not sure why it's not showing up.
+
+Agent: Okay, let me check that. It appears you may be using a browser with JavaScript disabled.  Do you happen to have a different browser or device you could try? 
+ 
+Customer: No, I tried on both my computer and phone. I just checked the settings in all my browsers - no changes there either.
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate your help resolving this issue!  It would be helpful if there was a clearer explanation of why JavaScript might cause viewing problems within the account settings, though.
+Sentiment: Positive

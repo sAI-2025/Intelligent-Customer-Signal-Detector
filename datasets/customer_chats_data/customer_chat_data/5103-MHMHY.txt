@@ -1,0 +1,15 @@
+Customer ID: 5103-MHMHY
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble with my internet connection today. It’s super slow and keeps dropping. 
+Agent:  I'm sorry to hear that! Can you please tell me your account information so I can look into this for you? 
+Customer: My name is [Name] and my account number is [Account Number]. I’m on a month-to-month contract.
+Agent: Okay, [Name], thank you.  I've opened a ticket to investigate the issue. Could you please stay connected and let me know if your internet speeds improve? 
+Customer: I will. Thanks for the help! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out, I appreciate your help resolving my slow internet!
+Sentiment: Positive

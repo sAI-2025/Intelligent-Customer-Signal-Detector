@@ -1,0 +1,22 @@
+Customer ID: 8974-OVACP
+Topic: movie catalog does not match subscription
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my movie catalog.  It doesn't seem to match what's listed on my subscription agreement. 
+
+Agent: Hello! I understand you're facing an issue with your movie catalog not matching your subscription. Can you please provide me with your account number?
+
+Customer: Sure, it's [account number].   I just started using the service last month.  
+
+Agent: Thank you for that information. Let me check on this for you and get back to you shortly. 
+
+Customer: Ok, thanks! 
+
+Agent: Just wanted to let you know that we have a slight discrepancy in our cataloging system at the moment. We apologize for any inconvenience this may cause.  The issue should be resolved by [date]. For now, we'll ensure your catalog is updated to reflect your subscription agreement. Thank you for contacting us. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! It's good to know the discrepancy will be resolved soon."
+Sentiment: Positive

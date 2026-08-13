@@ -1,0 +1,26 @@
+Customer ID: 4749-VFKVB
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's slow and unstable.
+
+Agent:  Hello! Thank you for reaching out.  I understand you are experiencing intermittent connection issues. 
+
+Customer:  It's been happening on and off all day. 
+
+Agent:  Let's take a look into that. Could you please tell me your account information, such as the service address and your username?
+
+Customer:  Sure, my name is [customer name], and I live at [address]. My account number is [account number]. 
+
+Agent:  I see your account details. We're running a DSL connection for you. What are the specific symptoms you're seeing? 
+
+Customer: The speeds are just incredibly slow for what we pay. It feels like dial-up from 1998!
+
+Agent:  I will connect you with our technical support team to troubleshoot this further. I apologize for any inconvenience this may cause, and thank you for your patience. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The issue was resolved efficiently and the agent's communication was professional, making a frustrating experience somewhat bearable.
+Sentiment: Neutral

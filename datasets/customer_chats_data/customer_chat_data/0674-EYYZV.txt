@@ -1,0 +1,18 @@
+Customer ID: 0674-EYYZV
+Topic: network becomes slow during peak hours
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, my internet speed is super slow today, especially during peak hours.
+Agent:  I understand you're experiencing slow speeds. Can you tell me more about what's happening? 
+Customer: I'm getting really frustrated. The download speeds are almost unusable.  
+Agent: Let me check your account details.  Your DSL plan is on our network, and it's not uncommon to see some slowdown during peak hours. 
+Customer:  Okay, that makes sense, but why isn't the speed better? I'm paying for a high-speed connection.  
+Agent: We have high demands during certain times of day. Is there anything specific you are finding slow, like streaming videos or gaming?
+Customer: It's hard to say exactly, but everything just feels sluggish! 
+Agent: Thanks for your patience.  We can look into this further and see if there are any adjustments we can make on our end. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I understand peak hours cause slowdowns, it's frustrating to still experience such poor speeds even after paying for high-speed service."
+Sentiment: Negative

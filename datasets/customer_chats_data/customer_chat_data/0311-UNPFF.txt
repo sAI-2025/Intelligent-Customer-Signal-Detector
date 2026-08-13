@@ -1,0 +1,27 @@
+Customer ID: 0311-UNPFF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need help with my upload speed. It seems to be much slower than expected.
+
+Agent: Thank you for contacting us! Can you please tell me your account details and what type of device you are using? 
+
+Customer: Sure, my account name is John Smith and I'm using a desktop computer.
+
+Agent:  I see your account has been active for 26 months and you're currently on our month-to-month plan.
+
+Customer: Yes, but the speeds haven't been what I expected. Can we fix this?
+
+Agent: We are experiencing some minor network fluctuations at the moment. Is there a specific application or website that is giving you slower performance than usual? 
+
+
+Customer:  Yes, it seems like streaming video is taking forever.
+ 
+ Agent: Thank you for contacting us. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the information about network fluctuations, it's still frustrating to experience slow streaming speeds despite paying for a good plan.
+Sentiment: Negative

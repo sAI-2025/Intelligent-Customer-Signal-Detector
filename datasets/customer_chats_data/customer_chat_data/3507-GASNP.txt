@@ -1,0 +1,24 @@
+Customer ID: 3507-GASNP
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is very slow and keeps dropping out. This has been happening all day. 
+
+Agent: I understand you're experiencing issues with your internet speed and connectivity. Can you tell me more about what kind of connection problems you are having? 
+
+Customer: It's like a dial-up modem, everything is just really choppy.  
+
+Agent: Okay, thanks for the details. Let's see if we can troubleshoot this issue. Could you please provide your account information, including your full name and account number?
+
+Customer: Sure, my name is Richard Davis, and my account number is 1234567890.
+
+Agent: Thank you, Mr. Davis.  I'm checking on the connection status now, and I'll provide an update shortly. 
+
+Customer: Thanks!
+
+Agent:  We have some maintenance happening in the area that might be causing this issue. We're working to resolve it as quickly as possible.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the ongoing maintenance and for keeping me updated.
+Sentiment: Positive

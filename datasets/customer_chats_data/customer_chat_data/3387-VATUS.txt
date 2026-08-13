@@ -1,0 +1,28 @@
+Customer ID: 3387-VATUS
+Topic: customer wants to change phone plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'd like to change my phone plan.  I'm currently on a month-to-month contract and paying $94.85 per month. 
+
+Agent:  Sure, I can definitely help you with that! What kind of changes are you looking for? 
+
+Customer:  Perhaps something with lower call minutes, maybe a faster data speed or plan, and unlimited texting.   
+   
+Agent:  I see, let's review your current plan details. You're currently on our Fiber optic internet package with $94.85 per month. 
+
+Customer:  Right. Well, I want something more affordable.   
+
+Agent: We have a few options that might be suitable for you based on your usage and needs. Would you like me to walk through some of those plans? 
+   
+Customer: Yes please. 
+
+Agent: Okay. You could try the "Connect Plus" plan, which offers unlimited talk and text at a lower price than your current plan. 
+  
+Customer: Hmm, that sounds good!  What about data speed? 
+ 
+Agent: The "Connect Plus" plan comes with 20GB
+
+----------------------------------------
+Feedback: This was helpful, I appreciate the agent's time and effort to find a suitable alternative plan for me.
+Sentiment: Positive

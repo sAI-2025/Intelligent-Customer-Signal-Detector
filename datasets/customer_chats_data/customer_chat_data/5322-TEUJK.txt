@@ -1,0 +1,16 @@
+Customer ID: 5322-TEUJK
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection has been super slow lately, ping is through the roof!  It's been really making it difficult to work. 
+Agent: I understand your frustration, we're sorry for the trouble you're experiencing.  Can you please tell me what device and services you are using? 
+Customer: Just my laptop, running Zoom calls at the moment.  I have Fiber optic, a contract that's two years old now.  Usually works great though! 
+Agent: Let's take a closer look at your account. Would you mind providing your full name and service address so I can check your network performance? 
+Customer: John Smith, 123 Main Street.
+Agent: Thank you for contacting us.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me troubleshoot this issue!  I'm hopeful the resolution will improve my online work."
+Sentiment: Positive

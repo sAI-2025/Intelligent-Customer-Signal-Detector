@@ -1,0 +1,18 @@
+Customer ID: 5337-IIWKZ
+Topic: customer wants cheaper service options
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was hoping to explore cheaper service options. My contract is month-to-month and I'm currently paying $44.85 for DSL internet.
+Agent:  I understand you're looking for ways to lower your monthly cost. Can you tell me a little more about what features you value most in your current plan? 
+Customer: Primarily speed and reliable connection, though the price is a big factor too.
+Agent: I can definitely see some options that might fit your needs!  Would you be interested in exploring our lower-speed plans or bundled services?
+Customer:  Maybe.  I'm not sure what I need to downgrade to but could it be possible to switch to something faster without the price increase? 
+Agent:  Absolutely, we can definitely help with that. How about a plan with around half the speed for $25.95 per month? 
+Customer: Hmm, that sounds good.  Can I get more details on what's included in that?
+Agent: Of course! We offer unlimited data and reliable connectivity, so you won't have to worry about overages. 
+Customer: Alright, great. Thanks for the
+
+----------------------------------------
+Feedback: Thanks! The new plan seems like a good fit, I appreciate your help with finding an affordable solution.
+Sentiment: Positive

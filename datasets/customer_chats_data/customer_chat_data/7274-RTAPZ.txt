@@ -1,0 +1,19 @@
+Customer ID: 7274-RTAPZ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is so slow! It's barely usable for streaming and browsing. 
+Agent: I understand your frustration.  Can you please tell me your full account information so I can check on your connection?
+Customer: Sure, my account number is [account number].
+Agent: Thank you for providing that information.   Based on our records, you are using fiber optic internet and your speed test shows it's down at 10 Mbps with a good connection established.
+Customer:  Really? That’s not much better! It barely loads pages. Is there anything I can do to fix it?
+Agent: I’m happy to assist further. Have you tried restarting your modem and router?
+Customer: Yes, but no luck.
+Agent: Let me check on any system updates that might be impacting the service. 
+Customer:  Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm still experiencing slow speeds after trying basic troubleshooting steps. Hoping this issue gets resolved soon.
+Sentiment: Negative

@@ -1,0 +1,21 @@
+Customer ID: 6574-MCOEH
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It's significantly slower than what's expected for my plan.
+
+Agent: Hello!  I understand you're experiencing slow upload speeds. May I have your account details or email address so I can check on this further? 
+
+Customer: Sure, my name is [Name] and my account number is [Account Number]. 
+
+Agent: Thank you, [Name]. I see your current plan is DSL and you've been a loyal customer for three years now.  
+
+Customer: Three years, yes!   It was $79.15 a month at first, but that seems to be normal these days, right?
+
+Agent:  Yes, monthly fees tend to increase with time due to inflation. 
+We will look into this further and let you know what we find. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a quick resolution! Thank you for your help resolving my upload speed issue.
+Sentiment: Positive

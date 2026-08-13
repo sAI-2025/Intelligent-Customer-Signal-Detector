@@ -1,0 +1,21 @@
+Customer ID: 9881-VCZEP
+Topic: customer asks about upgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I want to upgrade my plan but I'm a little confused about the pricing. Can you help?
+Agent: Of course!  Tell me, what is your current plan and what features are important to you in a new one?
+Customer: My current plan is DSL with the $54.1/month price. 
+Agent: Understanding. You're currently on our basic DSL plan which offers average speeds for streaming and browsing. 
+Customer:  Do you have faster plans available with higher prices?
+Agent: Yes, we do! We offer faster speeds and additional features like unlimited data and priority support at a higher price point. Would you like to explore those options?
+Customer: Yes, please.
+Agent: Alright! What kind of speed are you looking for, and would you prefer to keep the same pricing or something comparable? 
+Customer: I don't need super high speeds right now.  Just something that's reliable enough to stream movies occasionally. 
+Agent: Great! We offer various plans with different speeds and price points. Let me pull up some options for you and explain them in detail. 
+Customer: Thank you!
+Agent: Thank you for contacting
+
+----------------------------------------
+Feedback: The agent was very helpful and explained the plan options clearly, making it easy to understand what I needed.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1768-HNVGJ
+Topic: customer asks about installation status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was wondering about the installation status of my new internet service. 
+Agent: Hello!  Your account is currently scheduled for installation on [Date]. 
+Customer: Thanks, but that's a bit late for me to wait. My DSL connection will be down until then. 
+Agent: I apologize for the delay. Would you like me to confirm any specifics about your current address or service details?
+Customer: Sure, my address is [Address] and it's been like this for 45 months.  
+Agent: Thank you, your account is scheduled for installation on [Date].  
+Customer: Okay, thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful but the install date seems really far out. I'll need to look into other options while my DSL stays down.
+Sentiment: Neutral

@@ -1,0 +1,18 @@
+Customer ID: 5985-TBABQ
+Topic: customer asks about available promotional offers
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'd like to know about any available promotional offers on your services.
+Agent:  Hi there!  I can certainly help with that. 
+Customer: My current plan is a one-year contract, and it costs $74.75 per month for DSL internet. 
+Agent:  Based on your details, you have been loyal to us for the past 32 months and we appreciate that. 
+Customer: Thank you! I'm interested in learning about any discounts or deals.
+Agent:  We do have a special offer for customers who upgrade to our higher-speed internet plan, which would give you faster speeds and potentially lower your monthly bill. Would you like me to walk you through the details?
+Customer: Yes, please.
+Agent: Okay, I can do that. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided clear information about potential upgrades!
+Sentiment: Positive

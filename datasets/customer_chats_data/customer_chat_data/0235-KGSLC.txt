@@ -1,0 +1,18 @@
+Customer ID: 0235-KGSLC
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet connection is very slow and unstable today. 
+Agent:  Hello! I understand you're having trouble with your internet speed.  What's your account number?
+Customer: 123456789
+Agent: Thank you for providing that information.  I see you are currently on a month-to-month plan and using fiber optic service.  Is this issue occurring consistently, or is it intermittent? 
+Customer: It seems to be constant. The connection speeds are awful, dropping out frequently. 
+Agent: I apologize for the inconvenience, we'll get that resolved. Please stay on the line with me. 
+Customer: Thanks! 
+Agent:  I'm looking into your account now and will have a resolution within the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and provided reassurance that my issue would be fixed promptly."
+Sentiment: Positive

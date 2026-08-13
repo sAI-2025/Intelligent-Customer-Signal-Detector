@@ -1,0 +1,18 @@
+Customer ID: 8739-WWKDU
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my upload speed. It's much slower than expected. 
+Agent:  Hello! Thank you for reaching out to us. To best assist you, could you please provide your account information so I can pull up your details?
+Customer: Sure, my name is John Smith and my account number is 123456789.
+Agent: Thanks, John. We noticed that while your internet speed is typically excellent, you're experiencing a slightly slower upload speed at the moment.  Are you using any streaming services or applications like video conferencing?
+Customer: My grandson is studying online and his grades are slipping because of the slow upload speed. 
+Agent: I understand your frustration! Let me check on your specific situation and see if we can get this resolved for you.
+Customer: Thanks, Agent. 
+Agent:  We've identified a temporary issue with our network that might be affecting your upload speed. We’re working to resolve it as quickly as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update and quick fix! My grandson will be able to catch up now."
+Sentiment: Positive

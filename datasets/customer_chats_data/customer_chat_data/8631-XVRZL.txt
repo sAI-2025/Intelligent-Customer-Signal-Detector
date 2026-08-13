@@ -1,0 +1,15 @@
+Customer ID: 8631-XVRZL
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble with my download speed. It's much slower than my subscribed plan. 
+Agent:  I understand your concern, Mr./Ms. [Last Name]. I can certainly look into this for you. Could you please provide your account information?
+Customer: Sure, my account number is XXX-XXXX and my monthly payment amount is $20.15.
+Agent: Thank you for providing that information.  I'm seeing a few network outages in your area.  We can get you on to the next available technician to address this issue. 
+Customer:  Okay, thanks!  That's good news. 
+Agent: We appreciate your patience.  Let me know if you have any other questions or concerns. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this resolved so quickly, I appreciate the help!"
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 1193-RTSLK
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having some issues with my internet connection speed today. It's been extremely slow and unstable. 
+
+Agent:  I understand, let me look into this for you. Can you please tell me your account number and the service address where you are experiencing slowness?
+
+Customer: My account number is 1234567890 and my service address is 123 Main Street. 
+
+Agent: Thank you. I am seeing some reports of a fiber optic outage in your area.  
+ 
+Customer: Really? That's ridiculous. It's been like this for the past hour!
+
+Agent: My apologies for the inconvenience, we are currently working to resolve the issue. We will keep you updated. 
+ 
+Customer: Thanks anyway. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully they can get that fiber optic issue resolved soon!"
+Sentiment: Positive

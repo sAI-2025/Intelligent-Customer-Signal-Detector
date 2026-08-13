@@ -1,0 +1,21 @@
+Customer ID: 9530-EHPOH
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my subscribed plan.  Is there something going on? 
+
+Agent: Hello, I understand you're experiencing a slow internet connection. Can you please provide your account information so I can check the details?
+
+Customer: Sure, my name is Mary, and my account number is 1234567890.  
+ 
+Agent: Thank you, Mary. We have a DSL plan which might be experiencing technical issues with your area's connection. Please hold while I look into this for you.
+
+Customer: Well, I am hoping to download that movie I was waiting on for so long!
+
+Agent: Rest assured, we are working on resolving the issue and will have it fixed by the end of the day.  
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for keeping me updated, I appreciate your prompt response and hopefully this download speed issue will be sorted out soon!
+Sentiment: Positive

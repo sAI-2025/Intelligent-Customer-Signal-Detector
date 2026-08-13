@@ -1,0 +1,17 @@
+Customer ID: 0322-YINQP
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is incredibly slow and keeps dropping out. It’s been happening for hours. 
+Agent: I apologize for the inconvenience.  Could you please provide your account details so I can assist you further? 
+Customer: Sure, my name is [name] and my account number is [account number]. 
+Agent: Thank you, [name]. I'm looking into the issue now.
+Customer:  I’m hoping this gets resolved soon. Is there anything else I should be aware of?
+Agent: DSL connections can be prone to issues with fluctuating speeds, and it usually resolves itself after a few minutes. 
+Customer: Okay, thanks. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, hoping for a reliable connection soon."
+Sentiment: Positive

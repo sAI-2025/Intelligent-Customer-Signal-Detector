@@ -1,0 +1,21 @@
+Customer ID: 0936-NQLJU
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is way slower than my subscribed plan, I can barely stream movies!
+Agent: Hello!  I understand your frustration with slow speeds. May I ask what your current download speed is? 
+Customer: It's around 3 Mbps, while the advertised speed is 5 Mbps.
+Agent: Thank you for providing that information. We'd be happy to look into this further. Please tell me your account number or email address.  
+Customer: 1234567890
+Agent: Let's investigate. Just a moment while I check your account details... 
+Customer:  My speeds have been slow for the past few weeks now.
+Agent: I see what you mean! It seems there might be an issue with our network in your area. We can offer some solutions to help speed things up. 
+Customer: Thanks anyway, but it would be nice if you could provide me with a possible solution.
+Agent: Absolutely! We can look into upgrading your plan or maybe even provide temporary assistance.  What works best for you?  
+Customer:   Let me know what options are available in my region.  
+Agent: Thank you for
+
+----------------------------------------
+Feedback: **Feedback:** The agent was helpful and I appreciate the potential solutions they offered.
+Sentiment: Positive

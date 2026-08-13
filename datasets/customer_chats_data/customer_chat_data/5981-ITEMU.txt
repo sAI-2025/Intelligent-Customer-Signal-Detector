@@ -1,0 +1,19 @@
+Customer ID: 5981-ITEMU
+Topic: internet service interruption after payment
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just had my internet go out and I'm not able to connect to work. Is there a known outage in my area?
+Agent:  I see your account is on month-to-month service. Can you please tell me your location so I can check for any outages? 
+Customer: My address is [customer address] and it seems to be a general issue with fiber optic internet, according to some neighbors' comments. 
+Agent: Thanks for the details.  We do have an issue in your area with our fiber optic lines. We are working on fixing it as soon as possible.
+Customer: Can you give me an estimated time of when my internet will be back up? 
+Agent: It should be restored within a couple hours. We'll keep you updated if there are any changes. 
+Customer: Thank you, I appreciate the update. 
+Agent: Thank you for contacting us. 
+   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update and quick response, it's good to know they're working on fixing it."
+Sentiment: Positive

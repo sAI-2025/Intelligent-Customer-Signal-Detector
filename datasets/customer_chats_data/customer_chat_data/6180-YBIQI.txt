@@ -1,0 +1,17 @@
+Customer ID: 6180-YBIQI
+Topic: songs take too long to load
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble loading songs on my streaming service.  
+Agent: I understand your concern. Can you please tell me which streaming service you're using and your current internet speed? 
+Customer: It's Spotify, and I get around 5 Mbps. Is that slow for the usual load time?
+Agent: We typically aim for a minimum of 4 Mbps for smooth song playback.  It's possible there might be an issue with your connection.
+Customer: Okay, thanks. My contract is month-to-month, and I pay $24.3/month for DSL. 
+Agent: Do you have other streaming services working fine?
+Customer: Just Spotify. It's frustrating! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating that my slow connection with Spotify is the only issue I'm having, and it seems like a basic troubleshooting step wasn't taken."
+Sentiment: Negative

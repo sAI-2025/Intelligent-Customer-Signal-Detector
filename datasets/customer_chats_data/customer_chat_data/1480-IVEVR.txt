@@ -1,0 +1,17 @@
+Customer ID: 1480-IVEVR
+Topic: TV application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with the TV app on my smart TV. It keeps crashing and freezing. 
+Agent:  I understand your frustration. Can you please tell me which device you are using and what type of error message you're seeing? 
+Customer: It's a Samsung Smart TV, model number UN65J750DAWXZA. I get the "Error code [REDACTED]" message when it crashes. 
+Agent:  Okay. We've received reports about this issue with similar models, and I can see your account information here.
+Customer: My service is fiber optic internet and my contract is one year old. 
+Agent: Thank you for providing that information. Please try restarting your TV and router to see if that helps. If not, let's troubleshoot further.  
+Customer: I’ve tried that already. 
+Agent: Alright, I have a few more troubleshooting steps we can take.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful but didn't solve the problem. Hoping they can offer a solution as it seems like others are experiencing this issue too.
+Sentiment: Neutral

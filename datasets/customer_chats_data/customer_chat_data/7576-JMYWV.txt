@@ -1,0 +1,17 @@
+Customer ID: 7576-JMYWV
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is so slow today! I can't even watch my movies.  It gets worse during peak hours. 
+Agent: Thank you for contacting us. I understand your frustration. Could you please tell me what device and location you are using?
+Customer: This problem started happening around lunchtime on my laptop in the living room, but it has been pretty slow all day.  
+Agent: I'm looking into it now. You mentioned Fiber optic internet service. 
+Customer: Yes, and I have a month-to-month contract.
+Agent: Okay, thank you for that info. We'll get your network checked out!  
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully this gets resolved quickly as it's really impacting my evening!"
+Sentiment: Negative

@@ -1,0 +1,15 @@
+Customer ID: 2792-VPPET
+Topic: customer cannot find expected self-service option
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I can't seem to find the option to change my billing plan on your website. 
+Agent:  I understand, let me help you locate that setting. What specific plan are you looking to change? 
+Customer: The $15 plan - it was in the self-service area earlier today.
+Agent:  You're right, it's been moved recently. You can find it by navigating to "Billing" in your account menu then choosing "Plan Changes". 
+Customer: Oh, thank you! That works so much better now. 
+Agent:  No problem at all! I hope this helps you stay on track with your monthly payments. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and patient in explaining the new location of the plan change option. Thanks again!
+Sentiment: Positive

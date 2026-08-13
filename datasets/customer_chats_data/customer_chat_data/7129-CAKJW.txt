@@ -1,0 +1,24 @@
+Customer ID: 7129-CAKJW
+Topic: movie playback stops unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My movie playback just stopped working suddenly! I get a message saying something about buffering issues.
+
+Agent:  I understand your frustration. Can you tell me what device you're using and which movie is experiencing this issue? 
+
+Customer: It's my Roku TV, and I was watching "The Irishman" when it stopped.
+
+Agent:  Okay, thank you. Let's try a few things to fix this. Have you tried restarting your TV or the streaming device? 
+
+Customer: Yes, that didn't work. Still no video!
+ 
+Agent:  I can also check for any service outages in your area. It looks like there is no reported issue on our end right now. 
+
+Customer: Well, I just hope it gets fixed soon!
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Hopefully this gets resolved quickly so I can enjoy my movie again!
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 2379-ENZGV
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is very slow today. It's just not working! 
+
+Agent:  I understand your concern about the slow speed. May I ask what device and how you are connecting to the internet? 
+
+Customer:  My laptop. 
+I am using my Wi-Fi. 
+
+Agent: Thank you for providing that information. Just to double check, what is your address, or location of your home/business? 
+
+
+Customer:  [Full Address]
+
+Agent: Okay, thank you for providing that information. I'll investigate this further and get back to you shortly. Please be patient as we're checking all our records. 
+
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, but the issue is still unresolved after a long wait.  Hopefully they can provide an update soon!
+Sentiment: Neutral

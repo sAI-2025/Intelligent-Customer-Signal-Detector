@@ -1,0 +1,17 @@
+Customer ID: 6771-XWBDM
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the Wi-Fi in my living room. 
+Agent: Hello!  I understand you are experiencing a weak signal in your living room. Can you please tell me what device you're using? 
+Customer: Using my laptop and smart TV. 
+Agent: Okay, I can certainly look into that for you. Could you please let me know the exact address of the house or apartment number?  
+Customer: 123 Main Street
+Agent: Thank you. I will check our records to see if there are any known outages in your area and I’ll be in touch shortly. 
+Customer: Thanks
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and efficient, thanks for the quick response!"
+Sentiment: Positive

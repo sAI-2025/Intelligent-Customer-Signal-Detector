@@ -1,0 +1,24 @@
+Customer ID: 4632-XJMEX
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my phone calls.  I can't get through and it keeps saying 'connection failed.'
+
+Agent:  "Hello! I understand you're experiencing issues with your incoming calls.  Can you please tell me your account information or the service address?" 
+
+Customer: Sure, my account number is 1234567890, and the service address is 123 Main Street."
+
+Agent:  "Thank you. I'm reviewing your account now. Let me check on this for you." 
+ 
+Customer:  Okay, great!
+ 
+Agent: "We're having some issues with our internet lines at the moment, but we can get back to you shortly with an update on how long it will take and estimated resolution time. We want to make sure your service is as reliable as possible."
+
+Customer:  Sounds good, thanks for checking. 
+ 
+Agent: "Thank you for contacting us. "
+
+----------------------------------------
+Feedback: Thanks for the explanation, I appreciate you letting me know about the issues!
+Sentiment: Positive

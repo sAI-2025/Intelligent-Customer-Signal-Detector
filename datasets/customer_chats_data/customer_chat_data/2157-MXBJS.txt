@@ -1,0 +1,24 @@
+Customer ID: 2157-MXBJS
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is so slow today, especially during peak hours. It's like it's crawling! 
+
+Agent: I understand your frustration. Can you please provide me with your account information and location?
+
+Customer: Sure, my name is Alex, customer number [REDACTED], and I live in [City, State]. 
+
+Agent: Thank you for that information, Alex.  I can see you're experiencing slow speeds during peak hours. Let me look into this for you. 
+
+Customer: Thanks! 
+
+Agent:  Give me a moment to check your network status and find out what's causing the issue. 
+ 
+Customer: Ok, thanks 
+
+Agent: I have reviewed your account and it appears there is an area-wide network congestion issue happening now. I am putting you in line for a network optimization service.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** "While the agent was helpful and knowledgeable, it's frustrating to deal with slow internet speeds during peak hours when there's clearly an area-wide issue."
+Sentiment: Neutral

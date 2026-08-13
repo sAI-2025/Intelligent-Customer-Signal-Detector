@@ -1,0 +1,18 @@
+Customer ID: 5642-MHDQT
+Topic: customer wants to change movie package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to change my movie package. 
+Agent:  Hello! I understand you're looking to switch packages. Can you tell me what kind of changes you're hoping for?
+Customer: I was thinking about switching to the "Movie & Chill" option.
+Agent:  Absolutely! Let me just check your current plan details and see what options are available. 
+Customer:  Okay, thank you. 
+Agent: Based on your current "Classic" package, we can switch you over to "Movie & Chill" with a slight increase in cost. 
+Customer: Okay, that's fine, I'll go ahead and make the change. 
+Agent:  No problem! We'll process your changes today. You should be all set by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient, making the switch to my new package a breeze!
+Sentiment: Positive

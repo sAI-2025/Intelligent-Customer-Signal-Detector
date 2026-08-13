@@ -1,0 +1,23 @@
+Customer ID: 8375-DKEBR
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't get online at all.  Everything is completely down. 
+
+Agent: Hi there! I understand you're experiencing internet connectivity issues.  Can you please tell me your account number and the city you live in?
+
+Customer: My account number is 1234567890. I am in Seattle.
+
+Agent: Thank you,  I can see that your Fiber connection is down currently. Let me initiate a check with our network team. We'll have this resolved as soon as possible. 
+
+
+Customer: Alright, thank you.
+
+Agent: I've initiated the troubleshooting and will update you on our progress. Thanks for your patience.
+
+  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting me sorted out quickly! Appreciate the updates."
+Sentiment: Positive

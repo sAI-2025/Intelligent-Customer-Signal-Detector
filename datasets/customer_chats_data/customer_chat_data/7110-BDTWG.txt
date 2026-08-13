@@ -1,0 +1,17 @@
+Customer ID: 7110-BDTWG
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection is so slow and keeps dropping out.
+Agent: I apologize for the inconvenience, Mr./Ms. [Last Name], your account has been active for over 7 years. 
+Customer: Yes, but it's terrible now. Can you troubleshoot this?
+Agent: Let me check on your account status, I can look into the issue. 
+Customer: Thanks.  It's been frustrating having to constantly restart my connection. 
+Agent: We are currently working on a resolution for your DSL internet speed. 
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent did offer some help, I still hope this issue is resolved quickly as the slow and frequent drops are very disruptive."
+Sentiment: Neutral

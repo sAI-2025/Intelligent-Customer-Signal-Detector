@@ -1,0 +1,22 @@
+Customer ID: 3640-PHQXK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having some trouble connecting to the internet today. It’s very slow during peak hours. 
+Agent: I understand your concern, Sarah.  Could you tell me a little more about what time you're experiencing this slowness?
+
+Customer: Around 6-8 pm every day.  It seems like it gets really bad around that time.
+Agent: Thanks for the details. Let's take a look at your account to see if there's anything unusual going on during those hours.  
+
+Customer: My internet plan is Fiber, and I’ve been with you guys for 31 months now. 
+Agent: We appreciate your long-standing loyalty, Sarah. Our technical team will run some checks to see what might be causing the slowdowns.
+ 
+ Customer: Thank goodness! 
+ Agent:  No problem at all. We'll keep you updated on our findings and get back to you as soon as we have a solution.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out, I appreciate the quick response and updates!
+Sentiment: Positive

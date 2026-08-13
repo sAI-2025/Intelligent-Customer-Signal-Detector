@@ -1,0 +1,15 @@
+Customer ID: 3090-HAWSU
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It seems lower than what I expected for a Fiber optic connection.
+Agent: Hello! Thank you for contacting us.  I understand your concern about the upload speeds. 
+Customer: Yes, it's been consistently slower than usual. My speeds are averaging around 5 Mbps while advertised is 100 Mbps.
+Agent:  I apologize for this inconvenience. Can you please provide me with your account information?  We need to check on your connection and see if there’s anything we can do about it.
+Customer: Sure, here you go. [Account details provided]
+Agent: Thank you. I've reviewed your account details and will have a technician look into the issue for you today. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for looking into my upload speed issue!  I appreciate your quick response and resolution plan.
+Sentiment: Positive

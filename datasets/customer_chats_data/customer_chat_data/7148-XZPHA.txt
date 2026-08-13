@@ -1,0 +1,17 @@
+Customer ID: 7148-XZPHA
+Topic: streaming stops while changing channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having an issue where my streaming keeps stopping while changing channels. 
+Agent:  Hello! I apologize for any inconvenience this may cause. Can you please tell me your account information and what device you are using to stream? 
+Customer: My account details are [Account number] and the issue occurs on a Roku TV. 
+Agent: Thank you for providing that information. Let's check if there are any potential network issues impacting your streaming experience.  
+Customer: I am getting good connection speeds from my router.
+Agent: Okay, we will look into it further to ensure proper functionality. Please hold while I investigate this issue. 
+Customer: Great! Thank you for your help. 
+Agent: We are looking at the source of your problem. It should be resolved soon.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and patient, and it seems like the streaming issue is now fixed! 👍
+Sentiment: Positive

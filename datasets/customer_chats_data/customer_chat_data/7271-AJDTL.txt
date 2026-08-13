@@ -1,0 +1,18 @@
+Customer ID: 7271-AJDTL
+Topic: new device cannot connect to Wi-Fi
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need help connecting my new device to the Wi-Fi. It keeps saying it can’t connect. 
+Agent:  I'm sorry to hear that you're having trouble!  To better assist you, could you please provide your account details?
+Customer: Sure, my name is John Smith and my account number is 1234567890.
+Agent: Thank you, Mr. Smith. I see you have a Month-to-month contract. 
+Customer:  I've been using fiber optic for the past five years.
+Agent: Ok, let me check your account and help you connect. Just a moment.
+Customer: Thanks!
+Agent:  Your device should be connected now. If not, please try restarting both your router and device. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and the problem was resolved quickly. Thank you!"
+Sentiment: Positive

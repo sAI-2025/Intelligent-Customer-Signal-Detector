@@ -1,0 +1,17 @@
+Customer ID: 7996-MHXLW
+Topic: customer wants to remove an existing line
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I would like to cancel my landline service. 
+Agent:  Certainly, I can help you with that. What is your account number?
+Customer:  It's [account number]. 
+Agent: Thank you for providing your account number. Please confirm the reason for cancellation.
+Customer: Just want to drop the line altogether. 
+Agent: No problem. We'll stop service on the first day of the next billing cycle. 
+Customer: Great, thanks. 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The process was quick and easy, appreciate your help!
+Sentiment: Positive

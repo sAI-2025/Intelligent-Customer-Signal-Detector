@@ -1,0 +1,16 @@
+Customer ID: 4795-UXVCJ
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is much slower than what I am paying for. My plan is 10 Mbps, but it’s only getting about 2 Mbps. 
+Agent:  I understand your concern.  Can you please provide me with your account information or your account number? 
+Customer: Sure, my name is John Smith and the customer ID is #1234567. 
+Agent: Thank you, John. I see that your current speed issue has been reported by other customers as well. We are currently working on a solution for this. 
+Customer:  What can I do in the meantime?
+Agent: You could try restarting your modem and router. If that doesn't work, we can schedule a technician visit to take a look at your connection. Thank you for contacting us. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the information on troubleshooting steps, it would be helpful if there were any timeline updates on when the solution might be deployed."
+Sentiment: Neutral

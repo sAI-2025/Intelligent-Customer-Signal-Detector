@@ -1,0 +1,23 @@
+Customer ID: 8328-SKJNO
+Topic: customer believes unlimited data is restricted
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't seem to get any data on my phone after my plan has been active for a day now. 
+
+Agent:  I understand your frustration, could you please provide me with your account number and the date of your last data purchase?
+
+Customer: My account number is [redacted] and it was purchased on [date].   
+ 
+Agent: I see that your plan includes unlimited mobile data. Please check your mobile data usage via the settings on your phone or via our website at [link to website].  
+
+Customer: No, this is not unlimited. I don't get a lot of data.   
+
+Agent: There may be some limitations in place with your specific plan that are causing you to be affected by data restrictions. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent eventually helped identify the issue, it would have been helpful if I had received an explanation of the data limitations *before* my account was activated.
+Sentiment: Neutral

@@ -1,0 +1,20 @@
+Customer ID: 2324-AALNO
+Topic: one line has significantly slower service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed has been extremely slow lately. I can barely load pages or watch videos.
+
+Agent:  I understand your frustration, and I'm sorry to hear about the slow speeds you've been experiencing. Can you please provide your account number and a little more information about where you are having trouble connecting? 
+
+Customer: It seems like it's happening consistently throughout the house. Account number is [account number]. 
+   
+Agent: I'm looking into this for you now, and I'll update you on our findings. 
+
+Customer: Thank you! Please let me know what the cause of the issue might be.
+
+Agent:  I'm checking your current service status and will get back to you with more details shortly.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for taking care of this, I appreciate it!"
+Sentiment: Positive

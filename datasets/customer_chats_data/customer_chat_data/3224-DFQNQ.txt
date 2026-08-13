@@ -1,0 +1,17 @@
+Customer ID: 3224-DFQNQ
+Topic: service cancellation option difficult to find
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm trying to cancel my service but it seems like there's a glitch in the system. 
+Agent:  We understand your frustration. Please provide your account information so we can assist you.
+Customer: Account number is [account number] and my name is John Smith. 
+Agent: Thank you, Mr. Smith. We'll be happy to help you with the cancellation process.
+Customer: However, I don't seem to find a clear option for cancellation on your website or support page. 
+Agent: You are correct; we are currently undergoing some updates on our website to improve user experience and make it easier for you to manage your account.  
+Customer: Thanks anyway, I will wait for the new update.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation about the website updates, it would be helpful to have a clear cancellation option available now.
+Sentiment: Neutral

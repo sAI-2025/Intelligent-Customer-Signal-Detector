@@ -1,0 +1,17 @@
+Customer ID: 5788-YPOEG
+Topic: music streaming quality is poor
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble streaming music on my premium plan. 
+Agent: Hello!  I understand you're experiencing audio quality issues. Can you please tell me your account details and what device you're using?
+Customer: Sure, my account number is X12345678. I'm using my laptop via Wi-Fi.
+Agent: Thank you for that information.  I see there are some recent reports of connectivity issues in your area. 
+Customer: Really?  That's frustrating!
+Agent:  I apologize for the inconvenience. Would you like me to offer a temporary discount on your next month's bill while we work through this issue?
+Customer: That would be great, thanks!
+Agent: I've escalated your case and will be in touch soon with an update. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick solution and discount!  Hopefully the connectivity issues are resolved soon."
+Sentiment: Positive

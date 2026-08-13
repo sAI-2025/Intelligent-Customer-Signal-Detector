@@ -1,0 +1,16 @@
+Customer ID: 6963-KQYQB
+Topic: internet speed differs across devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, my internet speed is really slow on my laptop and my phone but fine on my smart TV. What gives? 
+Agent:  I understand your frustration. Can you tell me which devices are experiencing slower speeds, please? 
+Customer: My laptop is the slowest, followed by the phone. Smart TV works fine.
+Agent: I'm looking into this now. It could be related to network congestion or a specific device issue with your connection.
+Customer:  Thanks!
+Agent:  I just want to let you know that we are doing our best to resolve this for you as soon as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's good to hear you're working on it, thanks!"
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 3315-TOTBP
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm experiencing really high latency while streaming.  It's unplayable. 
+Agent: I understand your frustration. Can you tell me a bit more about what kind of devices and platforms you are using?
+Customer: I'm using my laptop on Netflix, it's just not smooth at all.
+Agent:  I see that your speed is currently averaging around 50Mbps, which is slightly below our typical speeds for Fiber optic connections in this area. 
+Customer: Oh wow, thanks! Is there anything I can do to improve the connection? 
+Agent: We could run a quick speed test to check if there are any issues on our end.  Is your modem/router close to your laptop? 
+Customer: Yea, that's where my issues started. Thanks for the help.
+Agent: No problem at all!  Let me know what the results show and we will work on getting you a better connection. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's assistance in diagnosing my issue and troubleshooting solutions.
+Sentiment: Positive

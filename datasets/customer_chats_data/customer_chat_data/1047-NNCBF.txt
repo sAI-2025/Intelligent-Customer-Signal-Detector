@@ -1,0 +1,18 @@
+Customer ID: 1047-NNCBF
+Topic: customer cannot access included music service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble accessing my included music service.  I can't get past the login screen. 
+Agent: Thank you for contacting us!  Can you please provide your account number and email address?
+Customer: Sure, it's [account number] and my email is [email]. 
+Agent: I see your account. You're currently on a month-to-month contract with a $70.55 monthly payment plan. Is there anything specific about the login issue you're experiencing?
+Customer: The music app just keeps loading, it never actually opens up.  It's been this way for the past few days. 
+Agent: I see.  There may be a temporary technical issue with your account. Let me check on that for you. 
+Customer: Okay, thanks!
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help getting this sorted out! Hopefully this issue will be resolved soon."
+Sentiment: Positive

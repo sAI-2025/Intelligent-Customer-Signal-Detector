@@ -1,0 +1,28 @@
+Customer ID: 4905-JEFDW
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My upload speed is significantly slower than what I expected, about 10 Mbps, compared to my plan that says 25 Mbps. Is this normal?
+
+Agent: Hello! Thank you for reaching out.  I understand your concern, we strive to offer reliable speeds. 
+
+Customer:  It's been a month since my last speed test and it has remained consistent at this slower speed.  
+
+Agent: I'd be happy to check on that for you. Can you please provide me with the account details or confirmation number from your last service agreement?
+
+Customer: Sure, here it is. 
+
+
+Agent: Thank you. We see a DSL connection and based on your plan information, we do have a limit of 25 Mbps in your area.
+
+Customer: Ok that makes sense. Is there anything I can do to increase my speed? 
+
+Agent: We will explore some options.  Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for clarifying the details, I appreciate it. Hopefully exploring options will bring some improvement to my connection."
+Sentiment: Positive

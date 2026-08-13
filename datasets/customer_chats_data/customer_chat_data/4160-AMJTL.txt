@@ -1,0 +1,17 @@
+Customer ID: 4160-AMJTL
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been very slow lately, especially during peak hours. Is there an issue? 
+Agent: Hi there! I'm sorry to hear about the slow speeds you've been experiencing.  Let me check on your account and see what might be causing it. 
+Customer: Thank you. I'm on a month-to-month plan, just started eight months ago. 
+Agent: No worries, we can definitely take a look at that for you. Would you like to proceed with troubleshooting steps or report this issue?  
+Customer: Troubleshooting sounds good. 
+Agent: Okay, let me try to see what's causing the slow speeds now.
+Customer: That would be great. 
+Agent: I'm finding some temporary congestion in your area during peak hours. We should see a noticeable improvement shortly after this peak.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick fix! My connection is much faster now, appreciate it."
+Sentiment: Positive

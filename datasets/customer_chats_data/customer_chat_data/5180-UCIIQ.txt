@@ -1,0 +1,20 @@
+Customer ID: 5180-UCIIQ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having a lot of internet problems lately.  I've been disconnected several times this week. 
+
+Agent:  Hi there! I understand you're experiencing frequent disconnections. Could you please tell me your account number and the specific issues you're facing?
+
+Customer: Sure. My account number is 1234567890. The internet keeps cutting in and out, with no warning. 
+
+Agent:  I see that your plan is a month-to-month DSL connection. I can check on the service status for you.
+
+Customer: Is there anything I can do to make it more stable?
+
+Agent: We'll look into this issue. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate your effort, but unfortunately, the internet still seems unstable after your promised resolution.
+Sentiment: Negative

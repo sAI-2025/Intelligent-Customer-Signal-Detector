@@ -1,0 +1,17 @@
+Customer ID: 9031-ZVQPT
+Topic: new device cannot connect to Wi-Fi
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My new device keeps saying it can't connect to Wi-Fi and I'm not getting any internet. 
+Agent: Hello! I understand your concern about the Wi-Fi connection issue.  Let me check some details for you? 
+Customer: Sure, my name is [customer name], my account number is [account number] and I'm on a two year contract.
+Agent: Thank you, [customer name].  I see your device was recently connected to our network. Can you tell me the specific model of your device? 
+Customer: It's an iPhone 13 Pro Max.
+Agent: Okay, I'll check for any known issues with that particular model and Wi-Fi connectivity. 
+Customer: Thanks!
+Agent: No problem at all. We can resolve this quickly. Let me know if you have any other questions.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quick to get started on the issue, hopefully it will be resolved soon.
+Sentiment: Neutral

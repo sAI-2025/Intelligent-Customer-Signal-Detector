@@ -1,0 +1,24 @@
+Customer ID: 6518-KZXCB
+Topic: data unavailable despite active plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I haven't been able to access my internet since this morning. I have data available on my plan. 
+
+Agent: We apologize for the inconvenience. Can you please provide your account number and the specific service issue you are experiencing? 
+
+Customer: My account number is 1234567890 and it's not loading any pages at all.  
+ 
+Agent:  We see that you have a two year contract with us, and your monthly payment is $25.25.  Could you please verify if you are using the internet or mobile data?
+
+Customer: No, I am only using my home network for internet. My plan has been active since yesterday. 
+
+Agent: We checked your account, but there's no indication of a data outage in your region.
+ 
+Customer: How can I access the internet then?  I was expecting a lot of information to come through today.
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful, but it's frustrating that my internet hasn't been working since this morning and I won't have access until later in the day.
+Sentiment: Negative

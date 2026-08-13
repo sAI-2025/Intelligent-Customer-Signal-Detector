@@ -1,0 +1,17 @@
+Customer ID: 2232-DMLXU
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my subscription plan allows! It's barely half the speed I'm paying for. 
+Agent: Thank you for contacting us about your internet service.  I understand this can be frustrating. Can you please provide your account number so we can look into it?
+Customer: Sure, it's [account number].
+Agent: Alright, thank you. I see your account is a month-to-month contract with DSL and you are currently paying $55.20 per month. 
+Customer:  That seems right. 
+Agent: I have reviewed your internet connection and the issue appears to be on our end. We're working on it, but we expect to resolve it by the end of the day. 
+ 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This is a relief to hear! Thank you for keeping me updated.
+Sentiment: Positive

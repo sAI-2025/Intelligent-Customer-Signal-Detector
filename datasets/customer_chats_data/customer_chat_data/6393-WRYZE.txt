@@ -1,0 +1,18 @@
+Customer ID: 6393-WRYZE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my Wi-Fi signal is very weak in certain rooms of my house.
+Agent: Hello! I understand your frustration.  Could you please tell me which rooms are experiencing the issue and what type of device you're using?
+Customer: The living room and dining room seem to be the worst.  I use a laptop and an iPad for browsing and work. 
+Agent:  Okay, thanks.  We'll want to check your signal strength.  Could you please open the router settings app on your device?
+Customer: I can do that.
+Agent:  Let me know what you find.
+Customer:  I saw a drop in speed and connection when I tried to connect my laptop. 
+Agent: Thank you for providing that information. We'll have our technician check your signal strength and router settings. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the prompt resolution, it looks like we were finally able to get connected!"
+Sentiment: Positive

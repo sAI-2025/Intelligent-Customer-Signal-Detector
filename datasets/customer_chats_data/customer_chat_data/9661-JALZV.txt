@@ -1,0 +1,24 @@
+Customer ID: 9661-JALZV
+Topic: unexpected increase in monthly bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey there! I just received my bill and it seems like my monthly cost has gone up quite a bit. It’s almost $50 now.  How come?
+
+Agent: Hello! I can definitely understand your concern.  Can you please provide me with your account number so I can look into this for you? 
+
+Customer: Sure, here it is. 123456789
+
+Agent: Thank you! Your monthly service cost has increased due to a recent adjustment in our pricing structure, which was reflected on your renewal bill. You should have received an email notification about the changes. 
+ 
+Customer: Ah, thanks for letting me know. 
+
+Agent:  Is there anything else I can help with?   
+
+Customer: No, that's all. Thanks!
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in explaining the price change.  It would have been nice to know about this adjustment sooner through email or a notification within my account.
+Sentiment: Neutral

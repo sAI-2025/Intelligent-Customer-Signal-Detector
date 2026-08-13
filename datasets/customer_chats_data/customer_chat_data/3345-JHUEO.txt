@@ -1,0 +1,17 @@
+Customer ID: 3345-JHUEO
+Topic: music stops when switching networks
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey there! My music keeps stopping when I switch to my mobile data. 
+Agent:  I understand your frustration. Please provide your account details so we can investigate further. 
+Customer: Sure, it's [account number].
+Agent: Thank you for providing the information. Let me check this for you.
+Customer: Thanks!
+Agent: I have located the issue and confirmed that there is a restriction on streaming music with mobile data.  We will need to update your account settings to allow streaming on mobile data.
+Customer: That's great, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks again for getting this sorted out so quickly and efficiently!"
+Sentiment: Positive

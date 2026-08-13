@@ -1,0 +1,16 @@
+Customer ID: 5840-NVDCG
+Topic: multiple lines affecting network quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed has been terrible lately.  I can barely stream any videos or load webpages. 
+Agent: I understand your frustration, and I'd be happy to help troubleshoot this issue. Can you please provide me with your account information? 
+Customer: Sure, my name is John Smith and my account number is 1234567890.  
+Agent: Thank you, John. Based on your recent activity, it appears multiple lines in your area are experiencing network congestion. 
+Customer: So that's why everything's slow?
+Agent: Yes, but don't worry, we are working to resolve this by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for explaining the situation and the update on resolution.  I hope it works out quickly!
+Sentiment: Positive

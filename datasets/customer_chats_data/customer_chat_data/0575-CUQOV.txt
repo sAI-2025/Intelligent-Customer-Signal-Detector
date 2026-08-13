@@ -1,0 +1,18 @@
+Customer ID: 0575-CUQOV
+Topic: customer reports unusually high data usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble figuring out why my data usage is so high lately. 
+Agent:  I understand your concern, Ms. Smith. Please provide me with your account information, such as your name and the last four digits of your phone number.
+Customer: Sure, it’s Margaret Smith. 123-4567. 
+Agent: Thank you, Margaret. Let me check on your usage details.  Based on your Fiber optic plan, your data limit is [amount] GB per month.
+Customer: That's a lot! I haven't used that much recently. What can we do about it?
+Agent: It may be due to some background activity on your device or an app streaming video content in the background. 
+Customer: Hmm, perhaps.  
+Agent: We recommend reviewing your internet usage by visiting [link] for detailed usage reports. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me figure out my high data usage! I appreciate the link to track it."
+Sentiment: Positive

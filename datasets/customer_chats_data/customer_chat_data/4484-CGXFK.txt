@@ -1,0 +1,23 @@
+Customer ID: 4484-CGXFK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am unable to connect to the internet at all.  My DSL connection isn’t working. 
+
+Agent: I understand you're experiencing trouble with your internet connection. May I ask for your account number and the last time you were able to successfully connect? 
+
+Customer: My account number is [account number]. The last successful connection was around 1 hour ago.
+
+Agent: Thank you. We have detected a potential service outage in your area.  We're investigating this issue now. Please stay connected for updates.
+ 
+Customer: Okay, thanks. 
+ 
+Agent: I apologize for any inconvenience this may cause. The investigation should take about an hour or so. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is frustrating, especially with the lack of clear communication on what's causing the outage!
+Sentiment: Negative

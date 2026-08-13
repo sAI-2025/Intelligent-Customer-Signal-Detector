@@ -1,0 +1,16 @@
+Customer ID: 2252-ISRNH
+Topic: customer cannot find required account option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't find the option to change my plan! I need a new one. 
+Agent:  I understand your issue, what type of plan are you looking for? 
+Customer: I want to switch from the 150mbps Fiber plan, to the 250mbps plan, but when I go to the account page, it's not there! 
+Agent: Let's check on that.  Have you tried selecting a different category in your account?
+Customer: Yeah, I did. But still can't find it!
+Agent: Okay, I see where you're stuck.  It appears you may need to contact us directly to change plans. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the help in troubleshooting, it seems like a direct phone call is needed for plan changes."
+Sentiment: Neutral

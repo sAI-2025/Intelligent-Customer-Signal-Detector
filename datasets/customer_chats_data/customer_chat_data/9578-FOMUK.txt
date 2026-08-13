@@ -1,0 +1,18 @@
+Customer ID: 9578-FOMUK
+Topic: music playback buffering
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there! I'm having trouble playing music because it keeps buffering and skipping. 
+Agent:  I understand your frustration. Can you tell me a bit more about what's happening? Are you streaming from the app or using online radio?
+Customer:  It's through the app, but when I listen to my playlists on Spotify, it buffers constantly.
+Agent:  Let's check your connection speeds. Could you go to [website] and run a speed test there? 
+Customer: Okay, just running it now.  
+Agent:  Thanks for that! Looks like we have some low bandwidth issues right now in your area. 
+Customer: Well, why is the music buffering so much then? 
+Agent:  We're currently working on a network update to address these specific issues. We hope this will improve streaming experience for you soon. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting me this information! I appreciate your prompt response and updates about the issue.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 4614-NUVZD
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I'm having trouble connecting to my internet. It keeps dropping in and out. 
+Agent: Hi there!  I apologize for the inconvenience. I understand your connection is unstable. Can you tell me a bit more about what's happening? 
+Customer: It happens frequently, especially when streaming movies or playing online games. 
+Agent: Thanks for that info. Let me check on your account and service details.
+Customer:  My contract is month-to-month. I signed up in the past month.
+Agent: You're using Fiber optic, correct? 
+Customer: Yes, I am paying $81.1 per month.   
+Agent: Okay, let me take a look at our records. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quickly resolved the issue.  It's great to have reliable internet!"
+Sentiment: Positive

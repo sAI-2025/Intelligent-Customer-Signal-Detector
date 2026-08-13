@@ -1,0 +1,21 @@
+Customer ID: 0727-BMPLR
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my upload speed. It's much slower than expected. 
+
+Agent:  I understand, sir. Can you please tell me your account number and a little bit more about the situation? 
+
+Customer: Sure, it's 1234567890. My connection has been slow for a few days now, even with low traffic usage. 
+Agent:  I see, I will look into this. Could you please tell me what devices you are using for internet?  
+
+Customer: I am using my laptop and the speed is very low when streaming videos. 
+
+Agent: Thank you, sir!  I apologize for the inconvenience, we're trying to troubleshoot your upload speed issue. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, I appreciate the quick response!"
+Sentiment: Positive

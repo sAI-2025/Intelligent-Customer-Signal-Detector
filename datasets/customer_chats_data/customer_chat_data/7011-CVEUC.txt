@@ -1,0 +1,24 @@
+Customer ID: 7011-CVEUC
+Topic: customer reports unusually high data usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble understanding my data usage. It's been unusually high this month. 
+
+Agent: Thank you for reaching out!  I can help you with that. Could you please confirm your account number and the date range of the usage concern?
+
+Customer: Sure, it’s 1234567890, and it started last week.
+ 
+Agent: I see an unusually high data usage over the last few days.  Based on your plan, your monthly limit is 1TB.
+
+Customer: Oh wow, that's a lot higher than usual! What can I do about this?
+
+Agent: Let's take a look into it.  I recommend turning off some non-essential background applications or streaming services and see if that helps reduce the data usage over the next few days.
+
+Customer: Great idea, thanks so much for your help. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick response and helpful advice!  It's definitely a good reminder to check my app settings.
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 3996-ZNWYK
+Topic: music application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My music app keeps crashing. It's been happening all afternoon.  
+Agent: I understand your frustration, Mr./Ms. [Last name]. May I please have your account details? 
+Customer: Sure, my account number is [Account number]. My monthly payment amount is $19.8. And the contract length is two years old. 
+Agent: Thank you for providing that information.  Let me look into this for you right now. 
+Customer: Please help! I've been enjoying listening to classical music lately.   
+Agent: We'll get your music app back up and running as soon as possible. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you, agent!  I appreciate the quick response and hope my issue is fixed soon.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 0224-HJAPT
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet.  It feels really slow, and there are high latency spikes every few minutes. 
+Agent: Thank you for reaching out! To help troubleshoot this issue, can you please provide your account number or email address?
+Customer: My account number is [account number] 
+Agent: I've initiated a diagnostics check on your account.  It may take a couple of minutes to complete.
+Customer: Thanks, that would be great.
+Agent: The diagnostics report indicates high latency due to network congestion at the moment. We are working on addressing this issue for you as soon as possible. 
+Customer: Alright, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and kept me updated about the status of my internet problem.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 4817-VYYWS
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! I'm having intermittent internet disconnections again and it's really frustrating. 
+Agent: Hello!  I apologize for the inconvenience. Can you tell me a little more about when this happens? 
+Customer: It seems to happen mostly around evening hours, usually between 7pm and 9pm.
+Agent: I see. Thank you for providing that information. Could you please confirm your account details?
+Customer: Sure, my name is [customer name] and my account number is [account number]. My contract is month-to-month and I'm currently paying $100.2/month. 
+Agent:  Thanks for the details! We will check on your service and see what's causing these disconnections.
+Customer: Thank you for your time!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the effort, it would be helpful to know a timeline of when this problem started or potential causes like heavy usage during peak hours.
+Sentiment: Neutral

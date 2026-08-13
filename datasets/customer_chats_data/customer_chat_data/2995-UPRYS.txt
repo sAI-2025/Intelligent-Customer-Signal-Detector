@@ -1,0 +1,19 @@
+Customer ID: 2995-UPRYS
+Topic: additional service charge is unclear
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I need clarification on an additional service charge on my bill. It looks like it’s $50 per month. 
+Agent:  Let's explore this together. Could you please provide your account number?
+Customer: Here it is. 45789-2341
+Agent: Thank you. I see that you're currently on a one-year contract and have been with us for over four years. You do have a premium data package which includes additional features.  
+Customer:  I’m confused about what exactly this service charge covers. 
+Agent: The $50 monthly charge covers the cost of our enhanced security features, including malware protection, parental controls, and faster speeds on weekends.
+Customer: Okay, I guess that makes sense. 
+Agent: Is there anything else I can help you with today? 
+Customer:  No, thank you for explaining this. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was clear and helpful in explaining the extra service charges, thanks!"
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 4803-LBYPN
+Topic: additional service charge is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hello, I'm having trouble understanding my recent bill. I was charged a $10 extra service fee. 
+Agent:  I understand your concern. To clarify, can you tell me which specific services were included in that additional charge?
+Customer:  The charges are for enhanced data features and streaming content, but the details seem unclear. My plan is just basic internet with no streaming or downloads. 
+Agent:  Thank you for providing more context.  It seems the extra service charges may have been applied mistakenly.
+Customer:  I would appreciate a clarification on this and confirmation of any potential error. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The issue was resolved quickly, thank you! I hope my bill is adjusted correctly."
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 6168-WFVVF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I was expecting my upload speeds to be higher than what I'm getting now. 
+
+Agent:  I understand your frustration, and I'd like to help. Could you please tell me your account details?  
+
+Customer: My username is John Smith.  My account number is 1234567890.
+
+Agent: Thank you, Mr. Smith. I'm checking on your speed test results now.
+ 
+Customer: Well, this is ridiculous. It's just not what I paid for.
+
+Agent: Let me take a look at the details of your Fiber plan and then we will try to find a solution that works best for you.
+  
+Customer: Thanks. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While it was helpful to get this resolved, I still feel frustrated with the slow speeds despite paying for faster service."
+Sentiment: Negative

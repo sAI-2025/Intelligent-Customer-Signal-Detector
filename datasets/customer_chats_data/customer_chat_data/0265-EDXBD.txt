@@ -1,0 +1,17 @@
+Customer ID: 0265-EDXBD
+Topic: customer wants to remove an existing line
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I want to cancel my phone line. It’s been on a month-to-month contract since November 2021.  
+Agent: Hello! I'd be happy to help with that. Can you provide me with your account number or the last four digits of your Social Security Number?
+Customer: Here it is - my account number is [account number]. 
+Agent: Thank you. Please allow a moment for us to process your request.  
+Customer: Okay, thank you. 
+Agent: Your line will be disconnected on [date], per our cancellation terms. Is there anything else I can help with today? 
+Customer: No, that’s all. Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The process was quick and easy, thanks for the smooth cancellation.
+Sentiment: Positive

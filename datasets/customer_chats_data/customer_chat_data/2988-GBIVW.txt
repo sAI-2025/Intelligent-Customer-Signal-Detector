@@ -1,0 +1,18 @@
+Customer ID: 2988-GBIVW
+Topic: unexpected data charges
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello! I'm having a problem with unexpected data charges on my bill this month. My plan is a month-to-month contract and I'm getting charged more than usual.
+Agent: Hi there!  I understand you're concerned about your recent charges. May I ask for your account information? 
+Customer: Yes, it’s [account number].
+Agent: Thank you. Let me take a look at that. 
+Customer: My monthly payment is $90.85. 
+Agent:  I see you're currently on our Fiber optic plan. Your contract details show that your average monthly data usage is close to double your limit, and we can’t provide specific reasons without reviewing the billing statement. 
+Customer: Ok. Can I discuss it with someone?   
+Agent:  Absolutely!  I can connect you with a specialist who can answer any questions you might have.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and efficient, thanks! I appreciate the explanation about my data usage.
+Sentiment: Positive

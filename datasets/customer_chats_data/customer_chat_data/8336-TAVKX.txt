@@ -1,0 +1,24 @@
+Customer ID: 8336-TAVKX
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It's slow and sometimes drops completely.
+
+Agent:  Hi there!  I'd be happy to help troubleshoot this issue for you. Could you please provide your account information? 
+
+Customer: Sure, my name is John and my account number is 12345678. I am on a two-year contract.
+
+Agent: Thank you, John. I see you're currently on a DSL connection plan, and it seems like we may have some interference affecting your speeds. 
+
+Customer: That sounds right. What can be done?  I hope this gets resolved soon!
+
+Agent: Let me check our records for any known issues in your area. We should be able to speed things up for you within an hour or so if it's due to a service issue.
+
+Customer:  Great, thanks. I appreciate the help. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks again for getting this resolved so quickly! Much appreciated."
+Sentiment: Positive

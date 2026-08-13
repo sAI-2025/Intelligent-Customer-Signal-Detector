@@ -1,0 +1,18 @@
+Customer ID: 6892-XPFPU
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I was hoping to get some help with my internet speed. It seems slower than I expected.
+Agent: Thank you for reaching out!  I'd be happy to assist. Could you tell me what your current connection speed is? 
+Customer:  It's around 15 Mbps down, but I usually expect closer to 25-30. 
+Agent: I understand. Let's investigate this further. Do you have any internet service outages in your area that might be affecting the signal?
+Customer: No, no outages reported in our neighborhood.   
+Agent:  Okay, and what is your plan details? 
+Customer: My contract is month-to-month for $104.25 per month, Fiber optic. I've had this service for 24 months now. 
+Agent: Thank you for providing that information! We can take a look at our records and see what we can do to speed up your connection.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the agent looking into my situation, hopefully I'll see improvement soon."
+Sentiment: Neutral

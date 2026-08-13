@@ -1,0 +1,20 @@
+Customer ID: 5802-ADBRC
+Topic: line transfer or replacement problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble transferring my line to a new address. My new place is ready but the line isn't working yet.  Can you help?
+
+Agent: Hello! Thanks for reaching out. I understand you're experiencing an issue with your line transfer.  Could you please provide me with your account number and current address? 
+ 
+Customer: Of course, here it is. Account Number: 1234567890; Current Address: 123 Main St., Anytown.
+
+Agent: Okay, I can see the details of your account.  A transfer like this usually takes a few days. Is there anything else I can assist you with?
+ 
+Customer: No, that's all for now.  I just need to know when my line will be working again at my new address?
+
+Agent: I apologize, but we are experiencing some technical difficulties today which might delay the process. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for your update, I appreciate you letting me know about the delay!
+Sentiment: Positive

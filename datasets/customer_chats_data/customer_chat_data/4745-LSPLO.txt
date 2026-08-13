@@ -1,0 +1,17 @@
+Customer ID: 4745-LSPLO
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my upload speed is much slower than I expected. I'm paying $20.5 per month for this plan, and it's only been a month since I started using No Internet.
+Agent:  I understand you're having trouble with your upload speed. Can you please provide me with your account information so I can check on the issue? 
+Customer: Sure, my account name is John Doe.
+Agent: Thank you, Mr. Doe. Your plan details are pulling up now. I am finding that your current plan does not offer upload speeds higher than what we generally see at this level of usage.
+Customer: Okay, but can I do anything to boost it?  Is there a way to upgrade my plan? 
+Agent: We have limited options for upgrading this month as our peak season is in full swing. However, we could recommend adjusting your network settings and using a wired connection. 
+Customer: Ok thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the explanation, though I wish there were more options for improving my upload speed despite the slow speeds."
+Sentiment: Neutral

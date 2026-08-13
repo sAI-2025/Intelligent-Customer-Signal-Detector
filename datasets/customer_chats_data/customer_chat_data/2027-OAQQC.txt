@@ -1,0 +1,17 @@
+Customer ID: 2027-OAQQC
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having trouble connecting to the internet. It's extremely slow, and I'm getting high latency/ping. 
+Agent:  I understand, let me get some information to help you troubleshoot this issue. What is your modem/router model? And what does it look like when you experience lag? 
+Customer: My router is a Netgear Nighthawk R7000. It's showing about a 1-2 second ping on various websites, and the speeds are down significantly. 
+Agent:  I see. Can you tell me your location, and if you have any other devices connected to your network? 
+Customer: I live in [city], and yes, my smart TV is also lagging. 
+Agent: Thank you for providing that information. Please check your modem/router settings.  The most likely cause of this issue is the DSL connection. 
+Customer: Ok, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for helping me figure out the slow internet connection. It looks like a simple fix!"
+Sentiment: Positive

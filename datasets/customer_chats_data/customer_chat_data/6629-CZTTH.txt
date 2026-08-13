@@ -1,0 +1,17 @@
+Customer ID: 6629-CZTTH
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having trouble connecting to the internet. It seems like there's a lot of lag/latency. 
+Agent:  I understand your concern. Could you please provide me with your account information so I can check on your connection? 
+Customer: Sure, here it is. My account number is [redacted], and my name is [redacted].
+Agent:  Thank you for providing that information. Let's take a look at your current speed test results.
+Customer:  It's frustrating! My internet works fine sometimes, then suddenly slows down to about 10 KB/s. 
+Agent:  I see some inconsistencies in your speeds, and DSL can be affected by distance and local line conditions. Let me escalate this to our engineers for further analysis.
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it's frustrating that my internet connection fluctuates so much. Hoping for a permanent solution soon."
+Sentiment: Neutral

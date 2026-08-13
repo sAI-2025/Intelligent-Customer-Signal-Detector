@@ -1,0 +1,24 @@
+Customer ID: 3423-HHXAO
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is significantly slower than my subscribed plan. I'm getting about 2 Mbps when I should be at least 10 Mbps.
+
+Agent:  I understand your concern. Can you please provide your account number and service address so we can investigate this further? 
+
+Customer: Account Number: 1234567890. Address: 123 Main Street, Anytown, USA.
+
+Agent: Thank you for providing that information. Based on your plan details and our records, the current speed should fall within your subscription limits.
+
+Customer:  I'm not sure why it's so slow. I need help with this issue.
+
+Agent: Let me check the connection status for you. 
+
+Customer:  Thanks
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, I still haven't seen a substantial improvement in my download speed despite their investigation."
+Sentiment: Neutral

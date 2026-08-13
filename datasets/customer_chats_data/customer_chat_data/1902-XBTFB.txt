@@ -1,0 +1,24 @@
+Customer ID: 1902-XBTFB
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having a really frustrating time with my internet connection today. My ping is incredibly high, making it impossible to play online games and stream videos. 
+
+Agent:  I understand your frustration.  Can you tell me more about what's happening? Please provide your account details and the approximate times of day you experience this issue. 
+
+Customer: Sure, my account name is [insert account name]. It seems like it happens mostly during evenings between 8pm and 10pm. 
+
+Agent:  I see that you're currently on a month-to-month contract with a fiber optic connection.  Let me check your network health to see what the issue might be.
+
+Customer: Alright, thanks for checking.
+
+Agent:  There seems to be some temporary congestion in your area. Our engineers are working on it now and should have it resolved shortly. 
+    
+Customer: Thanks!
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and informative, and I'm glad they were able to explain what was happening and get this fixed quickly!
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 4713-ZBURT
+Topic: customer requests compensation for poor service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet has been down for three days and I haven't received any resolution. I'm requesting compensation for this unacceptable service. 
+Agent:  I understand your frustration. Can you please provide me with your account details and the specific dates of the downtime? 
+Customer: Here is my account information, the outages have been from Wednesday to today.
+Agent: Thank you for providing that information. I will look into this further and get back to you within 24 hours.  
+Customer: Great.
+Agent:  I'm sorry again for the inconvenience caused. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: It took a while but I finally got some resolution, thanks!
+Sentiment: Positive

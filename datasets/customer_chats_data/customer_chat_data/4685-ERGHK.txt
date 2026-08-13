@@ -1,0 +1,30 @@
+Customer ID: 4685-ERGHK
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my internet connection has been really slow lately. It's not loading pages properly. 
+
+Agent: Thank you for reaching out! I understand you're experiencing slow speeds.  Can you tell me your account number?
+
+Customer: Sure, it's [account number]
+
+Agent: Okay, let me check the details on your service plan and connection status.  
+    ...   [Short pause] 
+
+Customer: Thank you. 
+
+Agent: I see your Fiber optic connection is working well within our normal parameters. However, there could be a temporary network congestion in the area.
+
+Customer: Oh? What can I do?
+
+Agent: I'm happy to check on the cause of the issue and help troubleshoot further. Please stand by while I look into it. 
+
+Customer: Great, thanks!
+...   [Short pause]  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this; much appreciated!"
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 3090-LETTY
+Topic: high latency or ping during usage
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I'm experiencing really high ping and latency when using your service. 
+Agent:  I understand you're having trouble with speed. Could you please tell me a bit more about what kind of devices you're using? What is the specific issue you're seeing?
+Customer: I'm gaming, and it's making it impossible to play. It's been happening for weeks now. 
+Agent:  I apologize for the inconvenience. Please confirm your modem/router model as well as your location (city and state). 
+Customer: My router is a Netgear Nighthawk R8000, and I live in Sacramento, California.
+Agent:  Okay, thank you for providing that information. We'll be happy to look into this for you.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it took a while for them to get started on solving the issue. Hopefully, they can resolve this quickly!"
+Sentiment: Neutral

@@ -1,0 +1,18 @@
+Customer ID: 6034-ZRYCV
+Topic: Wi-Fi equipment requires frequent restarting
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my Wi-Fi, it keeps dropping out and needs constant restarting. 
+Agent:  I understand your frustration, let me take a look at what we can do. Could you please provide your account details?
+Customer: My name is John Smith, my account number is XXXXXXXXXX.
+Agent: Thank you, John. I've confirmed your account and the device is showing some frequent restart requests in its logs. 
+Customer: That makes sense, thanks for looking into it!
+Agent: We might need to run a network diagnostics check on your connection. Would you like me to schedule that now?
+Customer: Yes please.
+Agent:  I've initiated the diagnostics and will keep you updated on our findings.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very efficient and helpful, and the network diagnostics check is a great next step!
+Sentiment: Positive

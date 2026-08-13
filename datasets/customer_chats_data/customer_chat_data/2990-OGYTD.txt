@@ -1,0 +1,20 @@
+Customer ID: 2990-OGYTD
+Topic: selected movie unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I just checked my movie selection and it seems like "[Movie Title]" is unavailable. Is this a temporary issue? 
+
+Agent:  I apologize for the inconvenience, but unfortunately, "[Movie Title]" is currently not available on our platform due to licensing agreements. 
+
+Customer: Oh, that's frustrating! When will it be back? Is there anything I can do about it? 
+
+Agent: We don't have an exact timeframe on when the availability of this movie might change. However, we recommend checking our app or website regularly as new movies are added frequently.  
+
+Customer: Thanks for letting me know.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I understand licensing agreements can sometimes be tricky, it would be helpful to have a more concrete timeline for when the movie might return."
+Sentiment: Neutral

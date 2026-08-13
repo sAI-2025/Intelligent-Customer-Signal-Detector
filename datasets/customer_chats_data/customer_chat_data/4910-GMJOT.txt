@@ -1,0 +1,16 @@
+Customer ID: 4910-GMJOT
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet speed. It's been incredibly slow during peak hours lately. 
+Agent:  I understand your frustration. Can you tell me what devices you are using and what speeds you're seeing?
+Customer: My laptop is running on a Wi-Fi connection, and I am usually getting around 50 Mbps. During peak times, it drops down to under 10. 
+Agent:  Let me run some diagnostics for you. Would you mind if we check your modem settings? 
+Customer: Sure. 
+Agent: Okay, a quick restart of the modem seems to have resolved the issue. Thank you for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting my internet back up and running! I appreciate your prompt help."
+Sentiment: Positive

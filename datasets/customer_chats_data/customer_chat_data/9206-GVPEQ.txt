@@ -1,0 +1,19 @@
+Customer ID: 9206-GVPEQ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some major issues with latency and ping while using your service. 
+Agent: Hello!  I apologize for the slow connection you're experiencing. Can you please provide me with your account information so I can look into this further? 
+Customer: Sure, my username is [username], and my billing address is [address].
+Agent: Thank you, [username]. I see you have a DSL plan.  Let's check the connection status for any network issues. 
+Customer: Well, I am getting super slow speeds and it feels like the internet is on pause.
+Agent: I understand your frustration. We are currently working on resolving this issue. 
+Customer: How long will this take to be fixed? 
+Agent:  I'm going to investigate further into the problem. Once I have a better understanding of the issue, we'll send you an update as soon as possible. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was friendly, it would be helpful to know a more concrete estimated time frame for resolution."
+Sentiment: Neutral

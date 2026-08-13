@@ -1,0 +1,18 @@
+Customer ID: 0685-MLYYM
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping out constantly. 
+Agent: I apologize for the inconvenience, let me pull up your account information.
+Customer:  My phone number is [redacted]. My address is [redacted] and my contract type is month-to-month.
+Agent: Thank you. My apologies again.  I see that you are currently experiencing connectivity issues with your Fiber optic service. 
+Customer: I just want to be able to use the internet for emails and streaming, it's frustrating.
+Agent: We'll take care of this right away! Could you please confirm the exact time the connection drops out?
+Customer: Around 10 pm every night. 
+Agent:  I understand, thank you for that information. We will investigate further and have a technician take a look at your network connection. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was a frustrating issue but the agent's quick response and willingness to help were appreciated."
+Sentiment: Neutral

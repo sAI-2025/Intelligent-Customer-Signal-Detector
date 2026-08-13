@@ -1,0 +1,17 @@
+Customer ID: 8806-EAGWC
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm having trouble connecting to the internet, it keeps dropping out. 
+Agent:  I understand that you're experiencing frequent disconnections. Can you tell me more about when this occurs?
+Customer: Mostly around dinner time and late at night. 
+Agent: Thank you for that information.  Let's check your modem settings and router configuration.  
+Customer: Okay, thanks. 
+Agent: I've checked the logs and it seems like there might be a problem with the DSL line. We can send someone out to take a look at it. 
+Customer: Awesome, thanks! 
+Agent:  We will schedule an appointment for you. Thanks again for contacting us.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out - much appreciated!"
+Sentiment: Positive

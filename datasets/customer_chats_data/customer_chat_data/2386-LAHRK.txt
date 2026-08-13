@@ -1,0 +1,20 @@
+Customer ID: 2386-LAHRK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't seem to connect to the internet at all. 
+
+Agent:  I understand your concern!  Let's get this sorted out. Can you please verify your account details?  
+
+Customer: My account name is "John Doe" and my email address is johndoe@email.com.
+
+Agent: Thank you, John. I've checked your connection. There might be a temporary outage in your area. 
+
+Customer: Okay, that explains it. Anything else I should know?
+
+Agent:  We will keep you updated about the status of the service. We are working on restoring full internet connectivity for our customers in this region.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update!  I appreciate your help getting things back online.
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 3566-VVORZ
+Topic: billing dispute or unexpected charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I just reviewed my bill, and there's a charge I don't recognize.  It's $15.99 extra. What happened? 
+Agent:  I can certainly look into that for you.  May I have your account information, please?
+Customer: Sure, here it is - [Account details]
+Agent: Thank you. I see a $15.99 charge for expedited services added to the bill. Is this related to your DSL plan? 
+Customer: No, this wasn't mentioned in my initial contract or any of my past bills.  How do I get this removed?
+Agent: We can definitely remove the charge. Let me just update your account and then send you an updated invoice. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating to have unexpected charges on my bill, especially without prior notification. Glad it was resolved!"
+Sentiment: Neutral

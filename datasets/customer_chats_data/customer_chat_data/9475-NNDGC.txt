@@ -1,0 +1,17 @@
+Customer ID: 9475-NNDGC
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble getting a strong Wi-Fi signal in the living room. 
+Agent:  I understand your concern. Can you please tell me which rooms are experiencing this issue? 
+Customer: Living Room, and sometimes the kitchen as well.
+Agent: Thank you for that information.  I can check our records for potential interference or network congestion in those areas. 
+Customer: Alright. 
+Agent: I'll take a look and see if we can resolve it for you. 
+Customer: Thanks! 
+Agent:  No problem, let me know if you have any other questions while I work on the issue. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in resolving my wifi issue."
+Sentiment: Positive

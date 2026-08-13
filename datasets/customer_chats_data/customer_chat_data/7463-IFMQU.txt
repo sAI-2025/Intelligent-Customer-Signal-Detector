@@ -1,0 +1,22 @@
+Customer ID: 7463-IFMQU
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My ping is super high and I can't even load websites. What's going on? 
+
+Agent: I understand your frustration, we are currently experiencing some network congestion.  
+
+Customer: Seriously? It's been this bad for hours!
+
+Agent: I apologize for the inconvenience. Can you please provide your account details so I can check your connection status? 
+
+Customer: Sure, here it is: [Account details] 
+
+Agent: Thank you. We are currently working to resolve the issue.  We will update you once we have a confirmation. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is unacceptable! Hours of slow internet with no updates on when it might actually improve.
+Sentiment: Negative

@@ -1,0 +1,19 @@
+Customer ID: 8133-ANHHJ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble connecting to the Wi-Fi in my living room. 
+Agent:  Hello! I'm happy to help. Could you please tell me your account details so I can look up your service?
+Customer: Sure, it's [account number]. 
+Agent: Thank you.  I see that your fiber connection is active. Are you experiencing any other issues besides the weak signal in the living room?
+Customer: Yes, sometimes the signal just cuts out completely. I was hoping to watch a movie today but nothing works!
+Agent: We'll take a closer look at your network and find out what might be causing this issue.  Can you please provide me with the device name of the router? 
+Customer: It's called **[Router Name]**.  How do I do that exactly?
+Agent: You can usually see it in the settings on your Wi-Fi or under your devices.
+Customer: Right, it's **[router name]**. 
+Agent: Thank you for providing that information. We will work to resolve this as soon as possible. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly! I appreciate your help resolving the Wi-Fi issue.
+Sentiment: Positive

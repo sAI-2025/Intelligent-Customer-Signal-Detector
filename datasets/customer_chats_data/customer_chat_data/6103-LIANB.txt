@@ -1,0 +1,24 @@
+Customer ID: 6103-LIANB
+Topic: customer disputes a data usage charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just checked my bill and there was an unexpected data usage charge of $15.  My contract says 2TB of data is included and I didn't use anywhere near that much.
+
+Agent: Hello! Thank you for reaching out to us. Can you tell me your account number?
+
+Customer: 87465390
+
+Agent: Let me look into this for you.  Based on your usage history, it appears there was a recent streaming session that consumed a significant amount of data. Do you remember using any streaming services recently?
+
+Customer: Yes, I was watching some videos on Netflix for about an hour last night. 
+
+Agent: Thank you for clarifying. You're right, sometimes unexpected charges can happen due to streaming activity.  I have adjusted your bill accordingly.
+
+Customer: Thanks! 
+
+Agent: We apologize for the inconvenience and hope this resolves the issue. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy resolution! Thanks for taking care of the unexpected charges. 😊
+Sentiment: Positive

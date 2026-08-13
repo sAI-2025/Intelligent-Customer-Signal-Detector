@@ -1,0 +1,26 @@
+Customer ID: 6351-SCJKT
+Topic: websites load slowly despite active connection
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my website loading slowly. It happens even when I have a strong connection. 
+
+Agent: I understand your concern. Could you please tell me more about what sites are being slow and how long it takes for them to load?
+
+Customer: My email and social media are the worst.  Everything else loads just fine, but those sites take forever to load.
+
+Agent:  We're seeing some DSL issues with website loading speeds at this time. We do offer a faster plan if you'd like to upgrade. 
+
+Customer: What does upgrading cost? I'm on a month-to-month contract and my bill is $41.35 a month now.
+
+Agent:  The pricing for our higher speed plans will vary depending on the type of service you choose, but they start at around $60 per month. 
+
+Customer: Okay, thanks!  I'm just not sure I want to upgrade yet. 
+
+Agent: No problem! We can discuss your concerns and see if there are any other solutions we can offer. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent provided helpful information, I'm still unsure if upgrading is the best solution for me right now.
+Sentiment: Neutral

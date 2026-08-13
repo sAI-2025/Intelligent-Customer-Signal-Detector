@@ -1,0 +1,24 @@
+Customer ID: 6397-JNZZG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet.  My service seems completely down.
+
+Agent: Hello! I see that you’re experiencing an outage. Please provide your account number and location so I can check on things for you. 
+
+Customer: Sure, my account number is 1234567890.  I'm in [City, State].
+
+Agent: Thanks for providing that information! Let me check the status of your service...
+
+Customer: Thank goodness. This was starting to get stressful, as I rely on this internet for work.
+
+Agent: I understand. I see there may be a technical issue affecting some DSL customers.  We are working on a resolution. 
+
+Customer: Ok, thanks so much for the update!
+
+Agent: You're welcome! We appreciate your patience while we investigate and I will keep you updated. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me informed, appreciate the quick response!"
+Sentiment: Positive

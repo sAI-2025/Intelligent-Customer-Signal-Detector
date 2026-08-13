@@ -1,0 +1,19 @@
+Customer ID: 0827-ITJPH
+Topic: customer needs equipment replacement
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to replace my modem/router combo as it's not working properly anymore. 
+Agent:  I understand, let me gather some information so I can assist you further. What is your account number? 
+Customer: 1234567890
+Agent: Thank you, and what is the reason for needing a replacement?  
+Customer: The router stopped working completely about a week ago. 
+Agent:  I see, I can get you set up with a new one. 
+Customer: Is there a price difference between the regular modem/router combo and the upgraded one? 
+Agent:  The standard model is $50, while the upgraded version would be $80.
+Customer: Okay. I'd like to get the upgraded one if possible. 
+Agent:  I will take care of that for you. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for helping me sort this out quickly! The upgraded router sounds good."
+Sentiment: Positive

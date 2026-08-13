@@ -1,0 +1,15 @@
+Customer ID: 9894-EZEWG
+Topic: unlimited data feature not working
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there!  I'm having trouble getting my unlimited data feature to work. 
+Agent: Hello! I understand you're experiencing issues with your unlimited data feature. Can you please provide me with your account number and the specific issue you are facing?
+Customer: Sure, it's [Account Number]. My internet speeds have been slow for weeks now, and I wasn't getting any higher than 10 Mbps even after upgrading my service plan. 
+Agent: Thank you. I will look into this right away. 
+Customer:  Can you give me an estimated timeline on when this problem might be fixed?
+Agent: I'm investigating your account details now and will update you within the next hour or so. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for the quick response, it was helpful to know a timeframe!
+Sentiment: Positive

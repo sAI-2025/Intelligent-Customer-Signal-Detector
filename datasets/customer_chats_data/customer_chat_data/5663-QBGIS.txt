@@ -1,0 +1,27 @@
+Customer ID: 5663-QBGIS
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just can't seem to get a stable internet connection. It keeps dropping in and out. 
+
+Agent:  I understand your frustration, let's troubleshoot this together. Can you tell me your modem/router model and the last time it was restarted?
+
+Customer:  Sure, my modem is Motorola SB6120 and I just restarted it a few minutes ago. 
+
+Agent:  Thank you for that information. While restarting the modem usually helps, let's check if there are any recent updates to your service. Can you please confirm your account number?
+
+Customer: My account number is 1234567890.
+
+Agent: I have reviewed your account and see no ongoing issues reported by other users. Please try a speed test while we investigate further.  
+
+Customer: Okay, here are the results. 
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in troubleshooting and I appreciate their prompt response.
+Sentiment: Positive

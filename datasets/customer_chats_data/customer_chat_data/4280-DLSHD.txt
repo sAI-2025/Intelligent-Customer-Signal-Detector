@@ -1,0 +1,18 @@
+Customer ID: 4280-DLSHD
+Topic: service installation incomplete
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just tried to install my internet service and it looks like the process is incomplete. 
+Agent: Hi there!  I understand you're having trouble with your installation. What seems to be the issue?
+Customer: The technician didn’t connect the modem, and now I can’t connect to the internet. 
+Agent: I apologize for that inconvenience. Can you please provide me with your account number or the name on the account so I can look into this further? 
+Customer:  My account number is XXXXXXXXXX-XXXX.
+Agent: Thank you!  I'm looking into your case now. We will have a technician out to finish the installation shortly. 
+Customer: Great, thanks for helping me get this sorted out.
+Agent:  You’re welcome, and thank you for calling us today. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting things resolved quickly! I appreciate your help. 😊
+Sentiment: Positive

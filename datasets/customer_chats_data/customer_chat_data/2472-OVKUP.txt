@@ -1,0 +1,24 @@
+Customer ID: 2472-OVKUP
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room. The signal is weak and it keeps dropping out. 
+
+Agent:  I understand your frustration.  Can you please tell me what device you are using and the location of your router? 
+
+Customer: My laptop is connected via the Wi-Fi, and it's located on the couch in the living room. I also have a smart speaker and TV that are affected.
+
+Agent: Thank you for providing that information. I can try troubleshooting this issue remotely.  Let me check your account details... 
+
+Customer: Okay.
+
+Agent: Alright, I see your account is set up with Fiber internet and your contract is month-to-month at $91/month. 
+ 
+Customer: Yes, thanks for checking that for me. 
+
+Agent: Thanks for contacting us.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in resolving my Wi-Fi issue quickly.
+Sentiment: Positive

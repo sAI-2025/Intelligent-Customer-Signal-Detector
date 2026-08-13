@@ -1,0 +1,22 @@
+Customer ID: 0156-FVPTA
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is slower than expected. It's around 1 Mbps when I typically expect 5-7 Mbps.
+
+Agent:  I understand your concern. To troubleshoot this further, could you please provide your account details and location? 
+
+Customer: Sure, my account number is 1234567890, and I live in the city of Chicago.
+
+Agent: Thank you for providing that information. We will look into it. 
+
+Customer:  What's the estimated time frame for getting this resolved?
+
+Agent:  We'll have an answer for you within a few hours. We'll also send you a notification with the resolution update once we are done.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and I appreciate the quick turnaround time on addressing my issue.
+Sentiment: Positive

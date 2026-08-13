@@ -1,0 +1,24 @@
+Customer ID: 4897-QSUYC
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my upload speed is much slower than expected, it’s only 15Mbps. I was expecting at least 30Mbps with this plan.
+
+Agent:  I understand your frustration. Could you please tell me your account details?
+
+Customer: Sure, my account number is 1234567890.
+
+Agent: Thank you! Let me check the speed test and see if there's anything we can do about this.
+
+Customer: This seems really slow compared to other services advertised online. I just signed up for a month-to-month plan, but my internet has been consistently lagging. 
+
+Agent:  I have reviewed your account details and it looks like you are experiencing some network congestion at the moment.  Would you prefer to stay on the current speed, or would you like to upgrade your speed?
+
+Customer: I’d appreciate a faster speed, thanks.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's good that they acknowledged the congestion issue, but hopefully this will resolve quickly with a faster connection in the future.
+Sentiment: Neutral

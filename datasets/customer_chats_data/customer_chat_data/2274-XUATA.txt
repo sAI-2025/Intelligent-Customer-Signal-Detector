@@ -1,0 +1,17 @@
+Customer ID: 2274-XUATA
+Topic: TV streaming quality automatically decreases
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to report a problem with my TV streaming quality.
+Agent:  Hello! I understand you're having trouble with your streaming quality. Can you tell me what device and internet plan you have? 
+Customer: My internet is DSL.  I am on the $63.1 plan and just started this contract two years ago. 
+Agent: Thank you for that information.  I see your plan details are showing a consistent connection speed of around 5 Mbps,  and our streaming quality typically goes down if there's an issue with bandwidth. Would you mind trying restarting your modem/router?
+Customer: I've tried that already. Nothing changed.
+Agent: I understand, and it sounds frustrating to deal with these issues. Let me double-check things in the system for you. 
+Customer: Thank you!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's efforts, but unfortunately, restarting my modem/router hasn't helped improve the streaming quality despite having a consistent connection speed.
+Sentiment: Neutral

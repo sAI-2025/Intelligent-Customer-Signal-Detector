@@ -1,0 +1,24 @@
+Customer ID: 0406-BPDVR
+Topic: billing dispute or unexpected charge
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I’m calling about an unexpected charge on my bill. I just received it and there was a $50 charge I don't recognize. 
+
+Agent:  I understand, what is the account number?
+
+Customer: It’s [account number] 
+
+Agent: Thank you, let me take a look at your billing history.  We can investigate this for you.
+
+Customer:  That would be great.
+
+Agent: I've looked into it and there was an error on our end with your data plan. We will adjust the charge to reflect your current one. 
+
+Customer: Thank you so much, that’s really appreciated!
+
+Agent: No problem at all. We appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and resolved my issue quickly!  Thank you for taking care of this.
+Sentiment: Positive

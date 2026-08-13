@@ -1,0 +1,20 @@
+Customer ID: 6131-FOYAS
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I haven't been able to get through to anyone on my phone number for the past hour. 
+Agent: Thank you for contacting us! I understand your frustration. Please provide me with the phone number and your account information. 
+Customer: It’s 555-1234. My account number is 123456789.  
+Agent: Thank you, I see there's an issue with our connection for your phone service. 
+Customer: Okay, that’s good to know! 
+Agent: We are currently working on it. It should be back up in a few minutes. Could I have your account information again, just in case?
+Customer: Sure. My account number is 123456789. 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was fast and efficient! Thanks for the update on my service issue. 😊
+Sentiment: Positive

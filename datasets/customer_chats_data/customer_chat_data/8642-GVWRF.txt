@@ -1,0 +1,15 @@
+Customer ID: 8642-GVWRF
+Topic: customer wants to know retention offers
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I was wondering about any retention offers for fiber optic internet? 
+Agent:  Of course!  I'm happy to help you find out if there are any current promotions available.  
+Customer: My contract is month-to-month and I pay $79.7 a month.  I've been using the service for two months now. 
+Agent:  Thanks for providing that information. We often run special offers for our valued customers like yourself, especially during peak seasons. Would you be interested in a discount on your monthly bill? 
+Customer: Absolutely! That would be great!
+Agent: I can check for promotions and give you the most accurate details. Please allow me a few moments to look into it.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "This was super easy and helpful! Thanks for getting that discount sorted out for me."
+Sentiment: Positive

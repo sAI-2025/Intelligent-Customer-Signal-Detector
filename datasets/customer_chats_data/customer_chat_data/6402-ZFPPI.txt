@@ -1,0 +1,17 @@
+Customer ID: 6402-ZFPPI
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having frequent internet disconnections. It’s been happening for about a week now. 
+Agent: Thank you for contacting us.  I'd be happy to help with that. Could you please tell me your account name and the last time you experienced a disconnect?
+Customer: My account name is John Smith and the problem started yesterday. 
+Agent: I see, thank you. We offer fiber optic internet and it’s hard to believe that this would happen.  Can you try restarting your modem and router? 
+Customer: I will do that.
+Agent: Okay, let me know if there is a solution after restarting. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I hope this quick fix resolves the issue, as it's been frustrating to deal with these frequent disconnections.
+Sentiment: Negative

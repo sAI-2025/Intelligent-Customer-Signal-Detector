@@ -1,0 +1,18 @@
+Customer ID: 4890-VMUAV
+Topic: customer wants to dispute a previous payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to dispute a recent payment on my account.  It seems like it might be incorrect.
+Agent: Hello!  I'd be happy to help with that. Can you please tell me your account number and the specific date of the disputed payment? 
+Customer: My account number is XXX-XXXX-XXXX, and the amount was $75.00 on [Date].
+Agent: I see what you mean!  I'm looking into this now.  Please hold for a moment while I investigate. 
+Customer: Okay, thank you.
+Agent: Alright, it looks like there was a billing error. The correct amount should be $71.50, and the payment will be corrected immediately.
+Customer: Thank you! That's great news.  I appreciate your help with this.
+Agent: No problem at all! I hope this helps clear things up for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was a smooth and efficient process, thank you!"
+Sentiment: Positive

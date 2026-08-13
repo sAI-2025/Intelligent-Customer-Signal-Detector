@@ -1,0 +1,24 @@
+Customer ID: 4404-HIBDJ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet today. My speed is extremely slow during peak hours.
+
+Agent: Hello!  I understand your frustration with the slow connection. Let me ask a few questions to troubleshoot this issue. 
+
+Customer: Sure, my download speeds are barely anything.   
+
+Agent: Okay, let's check if there's any network congestion at the moment. Could you please tell me what time of day this is happening?  
+
+Customer: It started about an hour ago during peak hours.  I have a DSL connection, and it’s been slow for several days now. 
+  
+Agent: Thank you for providing that information. I'll be checking the network status and will get back to you shortly with an update. 
+
+Customer: Thanks!  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it seems like a more permanent solution is needed as this slow connection persists."
+Sentiment: Neutral

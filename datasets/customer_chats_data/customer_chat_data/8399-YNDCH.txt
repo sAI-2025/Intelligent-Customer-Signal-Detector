@@ -1,0 +1,18 @@
+Customer ID: 8399-YNDCH
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I’m experiencing frequent internet disconnections. It’s been happening almost every day lately. 
+Agent: Hi there!  I understand you're having trouble with your internet connection.  Could you tell me a little more about what type of issues you are encountering?
+Customer: Mostly when I’m using the computer, and especially during video calls.  Sometimes it just cuts out completely.  
+Agent:  Thanks for that information.  Do you have DSL internet or cable service?  We can look into your plan details to see if there are any known issues with either. 
+Customer: It's DSL.  I’ve been on this contract for about 21 months now.  
+Agent: I understand.  With that information, and your service type, let me check on the status of your connection.   
+Customer:  I hope it can be fixed! I pay $60.05 per month and would like to keep my services.
+Agent: No problem at all, we'll get this resolved for you. We found a minor issue with the DSL line and will have it fixed within the next couple of hours. 
+Customer: Thank
+
+----------------------------------------
+Feedback: Thank you for quickly addressing my internet issues!  I appreciate your help getting this fixed.
+Sentiment: Positive

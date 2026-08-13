@@ -1,0 +1,21 @@
+Customer ID: 9507-EXLTT
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, my internet is really slow and dropping in and out frequently. I'm on fiber optic and just started this month-to-month contract. 
+
+Agent:  I understand your concern. To troubleshoot further, could you please provide the following information?  Your account number, the specific device experiencing issues, and a screenshot of your connection speed test results?
+
+Customer: Sure, here’s my account number... [account number] and I've been getting the same speeds for 30 minutes now.
+ 
+Agent: Thank you for providing that information.  We will be looking into this issue right away.
+
+Customer:  That's great! 
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was responsive and helpful, and I appreciate them quickly acknowledging the issue."
+Sentiment: Positive

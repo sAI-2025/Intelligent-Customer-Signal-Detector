@@ -1,0 +1,15 @@
+Customer ID: 3785-KTYSH
+Topic: customer questions promotional offer terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have a question about the promotional offer on your website. 
+Agent: Hello!  I'm happy to help. What specific questions do you have?
+Customer:  Can you tell me what the data limit is for this promotion?
+Agent:  The current promotion provides unlimited data with no extra charge. 
+Customer: That's great, thanks! 
+Agent: No problem at all!  We hope you enjoy the offer. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for quickly answering my question! The information was very clear and helpful."
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 0617-AQNWT
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having some really bad lag/latency issues on my internet connection. 
+
+Agent:  I understand your frustration. Can you please provide me with your account information so I can look into this further?  
+
+Customer: Sure, it's [Account Name], 64-month contract, $47.85 a month for DSL.
+
+Agent: Thank you for providing that information.  Let me check the logs and see if we can pinpoint the issue. 
+
+Customer: Thanks! 
+
+Agent: It appears there's some congestion in your area, but it shouldn’t be this bad. I will escalate to our network team to investigate further. 
+ 
+Customer: Okay, thank you so much!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response and help!  I hope they can resolve the congestion soon."
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 6715-OFDBP
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping in and out frequently. 
+Agent: I understand your concern. Can you please tell me more about what kind of disconnections are happening? Are they intermittent or consistent?  
+Customer: Mostly intermittent, but sometimes it stays down for hours at a time. Is there something going on with the DSL service? 
+Agent: Let's investigate that further. I can run some diagnostics to check your connection quality and speed. 
+Customer: Thanks.  My internet bill is $70.50 per month, and I've had this issue for the last two months. 
+Agent:  I see you're on a month-to-month contract.  We may have some options to address this issue with your DSL service.  
+Customer: Please let me know what you recommend.  
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm glad I contacted you, the agent was helpful and we'll see how things go from here.
+Sentiment: Positive

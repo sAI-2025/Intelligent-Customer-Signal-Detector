@@ -1,0 +1,17 @@
+Customer ID: 3612-YVGSJ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have a weak Wi-Fi signal in my bedroom.  It's very frustrating! 
+Agent: Hello! I understand your frustration.  I can definitely help you troubleshoot this issue. Please tell me your account information so I can get started. 
+Customer: Sure, it's [customer name], account number [account number]
+Agent: Thank you for providing that information, [customer name]. Would you mind telling me a little bit about the room and devices you are using?  
+Customer: It's my bedroom, there are no other electronic devices. 
+Agent: Okay. I will look into this further. We have experienced some recent signal fluctuations. Do not worry, we should be able to improve the connection soon. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It was good to get support and feel confident the issue would be addressed!"
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 5609-CEBID
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping in and out every few minutes. 
+Agent:  I understand your frustration. Can you tell me what device you’re using to connect? What is the error message when it disconnects? 
+Customer: Laptop. The error message says "network connection lost".
+Agent: Thank you for that information.  Let's try a basic network test. 
+Customer: Okay. 
+Agent: The test shows a high ping and packet loss. We need to check your modem/router. 
+Customer: That sounds good, thank you. 
+Agent: I have sent a technician to your location for an on-site inspection. 
+Customer: Thank you so much. I appreciate it. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and efficient in resolving my internet issue. Thanks!"
+Sentiment: Positive

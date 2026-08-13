@@ -1,0 +1,24 @@
+Customer ID: 5922-ABDVO
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey! My internet is down and I can't seem to connect at all. 
+
+Agent: Hello, thank you for contacting us.  May I have your account number please?
+
+Customer:  Sure, it’s [Account Number].
+
+Agent: Thank you. Let me pull up your account information.  I see you are on a month-to-month contract and have been with us since 19 months ago. Your internet is Fiber optic. 
+
+Customer: Yeah, I've had no issues until now. Can you tell me what’s happening?
+
+Agent: I see there are some reports of outages in your area at the moment.  Our technicians are working on it right now. We should have a resolution within the hour.
+
+Customer: Okay, thank you for letting me know! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and kept me informed throughout the process. I appreciate their quick response to the outage.
+Sentiment: Positive

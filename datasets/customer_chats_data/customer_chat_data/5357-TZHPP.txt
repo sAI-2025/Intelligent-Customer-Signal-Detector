@@ -1,0 +1,17 @@
+Customer ID: 5357-TZHPP
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I've been having trouble connecting to the internet lately. It's slow and unstable.
+Agent:  I understand your concern. What is the issue exactly? When does it happen most often?
+Customer:  It seems to be happening mainly in the evenings. Especially after about 7 pm.
+Agent: I see. Could you tell me what device you're using for internet access and its location? 
+Customer: It's a laptop, sitting in my living room.   
+Agent: Thank you for providing that information.  We can look into the connection speeds to your address.
+Customer: Okay, thank you. 
+Agent: I will escalate this issue and have someone reach out to you shortly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and update. Hopefully this gets resolved soon!"
+Sentiment: Positive

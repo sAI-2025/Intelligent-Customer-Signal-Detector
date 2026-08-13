@@ -1,0 +1,18 @@
+Customer ID: 0020-INWCK
+Topic: customer reports poor overall service experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am really dissatisfied with my service lately, and I think it's time to cancel. 
+Agent:  I understand your frustration. Can you please provide more details about what's been happening? 
+Customer: Slow internet speeds, dropped connections often, and customer service reps have been unhelpful and rude.  
+Agent:  I apologize for the inconvenience you’ve experienced. I can definitely take a look into your account history.
+Customer: Thank you, but at this point, I’m seriously considering canceling my contract. 
+Agent:  Let's see what we can do to remedy the situation. We are working hard on improving our service quality and responsiveness. Would you like me to explore some solutions for you?   
+Customer:  Maybe a discount or credits for the inconvenience would be acceptable. 
+Agent:  I’ll gladly look into that. I am confident that we can find something that works best for both of us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate their willingness to offer solutions, the service issues have continued and made me decide to cancel my contract.
+Sentiment: Negative

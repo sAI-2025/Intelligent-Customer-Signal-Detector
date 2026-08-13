@@ -1,0 +1,17 @@
+Customer ID: 5651-CPDND
+Topic: movie video quality becomes blurry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with the video quality on my movie streaming app. It keeps getting blurry. 
+Agent: I understand your concern.  Can you please provide me with your account details?
+Customer: Sure, my name is [Customer Name] and my account number is [Account Number]. My contract type is month-to-month, and I pay $46 per month.
+Agent: Thank you for providing that information.  I'm checking on the status of your service plan and current connection. 
+Customer: Okay, thanks. 
+Agent: We should be able to resolve this within a short time. Let me know if you have any other questions or concerns.  
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and I'm hopeful the video quality issue will be resolved soon.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 5134-IKDAY
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speeds are really slow this evening, even during peak hours. It's unusable!
+Agent: I understand your frustration, and I’m happy to assist. Can you tell me your account name and the exact address where you're experiencing issues? 
+Customer:  My account name is John Smith.  I live at 123 Main Street.
+Agent: Thank you, John.  Let's take a look. Are you able to check your network status on our website?
+Customer: Yes, the speed test results are low - I was getting about 5 mbps. It’s barely usable! 
+Agent:  I see that there has been a recent increase in traffic during peak hours. We're currently working to resolve this issue for all customers.
+Customer: Ok, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your quick response and update on the issue! Hopefully it gets resolved soon."
+Sentiment: Positive

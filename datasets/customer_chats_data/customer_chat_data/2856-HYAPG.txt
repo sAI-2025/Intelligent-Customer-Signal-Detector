@@ -1,0 +1,24 @@
+Customer ID: 2856-HYAPG
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble streaming video tonight.  The internet seems very slow, especially during peak hours. 
+
+Agent: Thanks for reaching out, we understand how frustrating that can be! What device and service plan are you currently using?
+
+Customer: It's my laptop, and it's on the $68.65 month-to-month Fiber Internet plan.  I've only had internet service for a month now. 
+
+Agent: I see your account details.  Our fiber services are known for speed but can be impacted during peak usage times.  What kind of activities are you trying to do?
+
+Customer: Just watching my favorite shows and videos on Netflix.
+
+Agent: Okay, have you tried restarting your router or modem? 
+ 
+Customer: Yes, that didn't help. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the tips, the slow speeds haven't resolved yet and feel like a major inconvenience during peak hours."
+Sentiment: Negative

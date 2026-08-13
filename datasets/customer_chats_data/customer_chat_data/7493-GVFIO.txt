@@ -1,0 +1,19 @@
+Customer ID: 7493-GVFIO
+Topic: customer asks about available promotional offers
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm calling about some promotional offers. 
+Agent: Hi there!  I can definitely help you with that. What kind of offers are you looking for? 
+Customer: Well, I'd like to know about anything for my No internet plan.   
+Agent: Let me take a look at your account details. You're on a two-year contract and currently pay $20.55 per month. Is there anything specific in mind regarding promotions? 
+Customer:  I'm just curious, I haven't seen any special offers lately.   
+Agent:  There are some discounts available for renewing your contract or adding additional services to your plan. Would you like me to run through the options for you? 
+Customer: Please do!   
+Agent:  Okay, there's a promotion on our 1-year internet offer with a special price of $15 per month. Would you be interested in switching?
+Customer:  That sounds good. Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and I appreciate the quick turnaround & great offer!
+Sentiment: Positive

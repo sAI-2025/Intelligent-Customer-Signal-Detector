@@ -1,0 +1,27 @@
+Customer ID: 6128-CZOMY
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the Wi-Fi in my living room.  The signal is very weak there. 
+
+Agent: Thank you for contacting us!  I understand your concern. Can you tell me a little more about your location and what type of device you are using?
+
+Customer: My router is on the top floor, and I am using a laptop.   
+
+Agent: Ok, thanks.  Have you tried rebooting the router? 
+
+Customer: Yes, that didn't seem to help. 
+ 
+Agent:  Would you like me to suggest some troubleshooting steps or do you want to try connecting through your mobile hotspot? 
+
+
+Customer: I'll give it a shot with my mobile data.   Thanks for the help. 
+
+Agent: Thank you for contacting us! 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The troubleshooting suggestions helped me get back online, thanks!
+Sentiment: Positive

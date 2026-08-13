@@ -1,0 +1,17 @@
+Customer ID: 3002-WQZWT
+Topic: customer asks about early termination terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was hoping to get information on early termination terms for my contract. 
+Agent: Of course!  I can tell you that your contract is a month-to-month agreement and we do have a standard fee of $100 if you wish to cancel early. 
+Customer: That's helpful, thanks. Can I get any more details about that fee?
+Agent: You are welcome. There is also an additional fee for the remaining service period should it exceed the number of days in your current billing cycle. 
+Customer: Oh, okay.  I think I just need to understand the best way to break my contract.
+Agent: We can definitely help you with that. Would you like to discuss options over the phone or via email?
+Customer:  Thanks!  Email would be best for me.
+Agent: Okay, we will send you an email outlining your termination details. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in explaining my contract terms, but I wish there had been more specific information about the process itself.
+Sentiment: Neutral

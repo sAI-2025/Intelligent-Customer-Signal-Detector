@@ -1,0 +1,22 @@
+Customer ID: 5032-USPKF
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It seems completely unavailable. 
+
+Agent:  I understand there is an issue with your connection. Can you please tell me your account name and address so I can check on this for you?
+
+Customer: My account name is John Smith, and my address is 123 Main Street, Anytown, USA. 
+
+Agent: Thank you, John.  I'm seeing a service outage in your area.  We should have an update within the next hour or two.
+
+Customer: Okay. I need some help with this while we wait.  How can I be contacted if there is any news?
+
+Agent: You will receive email and text updates as they become available. 
+   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate being informed about the outage."
+Sentiment: Positive

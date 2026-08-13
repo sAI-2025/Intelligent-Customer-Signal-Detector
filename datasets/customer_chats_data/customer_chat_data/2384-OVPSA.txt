@@ -1,0 +1,17 @@
+Customer ID: 2384-OVPSA
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my upload speed.  It's much slower than expected. 
+Agent:  I understand your concern.  Please provide me with your account information and address so I can take a look.
+Customer: Sure. My name is John Smith. Account number is 1234567890. 
+Agent: Thank you, John. We noticed your upload speed has been slower than usual lately.  It appears there may be an outage in your area. 
+Customer: Oh no! I'm paying $20.2 a month for internet. 
+Agent: We apologize for the inconvenience and any frustration caused by this delay in service.  We will continue to work on resolving the issue as soon as possible, John.   
+Customer: Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This outage really put a damper on my evening! Thanks for keeping me updated though.
+Sentiment: Negative

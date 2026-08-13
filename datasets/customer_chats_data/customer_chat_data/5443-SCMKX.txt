@@ -1,0 +1,24 @@
+Customer ID: 5443-SCMKX
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having terrible latency issues. Everything is laggy and slow, especially during online gaming.
+
+Agent:  I understand your frustration, we apologize for the slow connection. Can you tell me your location and what device you are using? 
+
+Customer:  My location is [location] and I am using a PC. 
+
+Agent:  Let's check your network status. Please hold while I run some diagnostics.
+   
+Customer: Thanks! It’s been like this all morning. 
+
+Agent: The connection seems to be fine, but there might be temporary network congestion in your area. 
+
+Customer: Okay, thanks for checking it out. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful and thorough, the latency issues still persist even after a network check.
+Sentiment: Neutral

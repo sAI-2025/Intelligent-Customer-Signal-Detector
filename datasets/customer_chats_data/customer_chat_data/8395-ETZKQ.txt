@@ -1,0 +1,17 @@
+Customer ID: 8395-ETZKQ
+Topic: customer wants to downgrade internet plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to downgrade my internet plan. 
+Agent:  Hi there! I understand you're looking to change your plan.  
+Customer: My current plan is $19.5 per month and it's been one year since I signed the contract.
+Agent: Absolutely, we can definitely help with that. Could you please tell me which specific plan you’d like to switch to? 
+Customer: The basic plan would work best for my needs.
+Agent:  Excellent! No problem at all. Let's proceed with downgrading your internet plan. 
+Customer: Thank you so much.
+Agent:  You are welcome! Your new plan will be effective immediately. We’ve also removed any fees associated with the change, thanks to our loyal customers like you.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very smooth process and I appreciate the prompt and friendly service!
+Sentiment: Positive

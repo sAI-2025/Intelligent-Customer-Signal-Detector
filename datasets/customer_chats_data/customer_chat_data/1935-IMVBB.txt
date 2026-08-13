@@ -1,0 +1,20 @@
+Customer ID: 1935-IMVBB
+Topic: customer questions promotional offer terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I was wondering about the details of that promotional offer.  How long does it actually last?
+
+Agent: The promotion is valid until the end of December, and then it will revert to our regular pricing. 
+
+Customer:  Okay, so it's just a month-long offer?  I just want to make sure I understand.
+
+Agent: Yes, exactly. It applies for one month only with a minimum 12-month commitment to maintain the discounted rate after that month. 
+
+Customer: Thanks for clarifying! 
+ 
+Agent: You're welcome! Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was clear and helpful, though I wish there had been more explanation about the promotional offer during initial contact.
+Sentiment: Neutral

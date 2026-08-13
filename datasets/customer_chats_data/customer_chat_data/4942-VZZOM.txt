@@ -1,0 +1,17 @@
+Customer ID: 4942-VZZOM
+Topic: customer requests escalation to specialist
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to escalate my issue to a specialist. My internet connection has been down for three days now. 
+Agent: I understand your frustration.  I can connect you with our technical support team who will take a closer look at your account. 
+Customer: Thank you, that would be great.
+Agent: Your account details are here for reference: Account Number [account number], Monthly Payment $66.15
+Customer: I've been a loyal customer for six years and this is unacceptable.
+Agent:  I understand your concerns about the service outage and I apologize for any inconvenience caused. Would you like to proceed with escalation? 
+Customer: Yes, please.  
+Agent: We will connect you with our specialist team in the next few minutes. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While the agent was helpful and I appreciate their explanation, it's still frustrating to experience this internet outage for three days.
+Sentiment: Negative

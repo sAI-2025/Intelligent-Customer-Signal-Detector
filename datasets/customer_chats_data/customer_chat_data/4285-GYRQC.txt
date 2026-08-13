@@ -1,0 +1,16 @@
+Customer ID: 4285-GYRQC
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my upload speed today. It's much slower than expected. 
+Agent: Hi there! I'd be happy to look into this for you. What is your account name or email address? 
+Customer: John Smith, Account Number [redacted]
+Agent: Thank you, John. I'm checking the current upload speeds and it looks like we might have a temporary outage affecting some of our customers in your area. 
+Customer:  Okay, that explains why my speed is slower. What about compensation? 
+Agent: We understand this is frustrating, and are happy to offer you [discount/credit/etc.] for the inconvenience caused by the outage. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the explanation and offered compensation for the delay.
+Sentiment: Positive

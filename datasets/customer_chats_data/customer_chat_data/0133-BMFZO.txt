@@ -1,0 +1,17 @@
+Customer ID: 0133-BMFZO
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet during peak hours.
+Agent: Hello!  I understand you are experiencing slower speeds during peak times? 
+Customer: Yeah, it seems like everyone is using the network at once, and my download speed has been dropping significantly.
+Agent:  I see, thanks for sharing that information. I can certainly help with troubleshooting this issue.
+Customer:  Alright! What would you suggest I do to check things out? 
+Agent:  Let's start by looking into your internet usage history. We can then see if there are any unusual spikes in traffic. 
+Customer:  Perfect, thanks for your help.
+Agent: You're welcome! Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the helpful troubleshooting advice; hopefully this resolves the slow internet issues."
+Sentiment: Positive

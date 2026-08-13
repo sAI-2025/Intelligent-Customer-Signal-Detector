@@ -1,0 +1,17 @@
+Customer ID: 7142-HVGBG
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having frequent internet disconnections lately. It's been happening every few hours throughout the day. 
+Agent: I understand your concern. Can you please provide me with your account number and the address where you are experiencing these issues?
+Customer: Sure, my account number is 1234567890. The disconnections are at 123 Main Street in Springfield. 
+Agent: Thank you for providing that information.  I've noted down your details. I will check our network logs to see if there are any outages or technical issues affecting the line. 
+Customer: Okay, thanks. 
+Agent:  We'll get this sorted out for you soon. We have a fiber optic connection and we aim to provide seamless connectivity for our valued customers. 
+Customer: Great!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient, I appreciate the prompt response and effort to resolve my internet issue.
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 7293-LSCDV
+Topic: customer cannot access support history
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I can't seem to access my support history on the website. 
+
+Agent:  I understand, it can be frustrating when you can't find your past interactions. Can you tell me which type of issue you are trying to access?
+
+Customer:  I was having trouble with my bill and needed help understanding the charges.
+ 
+Agent: I apologize for the inconvenience.  Can you please provide your account number, email address or phone number associated with this issue? 
+
+Customer:  My account number is XXXXXXXXXX; I'm getting charged $5.00 per month for a package that is not active. My email is [email protected]   
+ 
+Agent: Thank you for providing that information.  I am able to access your support history now and can take a look at the charge.
+
+Customer:  Great! Thanks so much. 
+
+Agent: Please let me know if anything else comes up! Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent quickly resolved my issue and was very helpful in explaining everything.
+Sentiment: Positive

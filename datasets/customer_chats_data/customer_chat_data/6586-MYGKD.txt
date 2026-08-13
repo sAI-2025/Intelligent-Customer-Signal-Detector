@@ -1,0 +1,23 @@
+Customer ID: 6586-MYGKD
+Topic: customer cannot find required account option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't find my account settings on your website.
+
+Agent: Hello!  I understand you're having trouble accessing your account settings. Can you tell me a bit more about what you're looking for? 
+
+Customer: I want to change my billing information but the option is missing. 
+
+Agent: Let's get that sorted out for you. Your account is currently on a two-year contract with us and we have been happy to serve you for many years now.  Can you tell me your service address or phone number?
+
+
+Customer: My service address is 123 Main Street, any help would be great.
+
+Agent: Thank you. I'm going through your account and can see it should show the option. Your billing information needs to be updated as per your contract. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was much quicker than I expected!  I appreciate your help with my billing information.
+Sentiment: Positive

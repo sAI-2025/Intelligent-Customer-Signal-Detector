@@ -1,0 +1,19 @@
+Customer ID: 0822-GAVAP
+Topic: router cannot connect to internet
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet isn't working and I can't connect to anything.
+Agent:  I understand you're experiencing issues with your DSL connection. 
+Customer: Can you please help me figure out what's going on? 
+Agent: Let's troubleshoot this for you. What is the exact error message you are getting if any?
+Customer: No error messages, just no internet access.  It was working fine yesterday.
+Agent: Okay, I can certainly help with that. Could you please check your modem and make sure it is plugged in properly? 
+Customer: I checked everything, but still no luck. What else should I try?
+Agent: Try resetting your router by unplugging it for about 30 seconds and plugging it back in. 
+Customer:  Okay, that worked! Thank you so much! 
+Agent: You're welcome!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick resolution!  I really appreciate your help with getting my internet working again. 😊
+Sentiment: Positive

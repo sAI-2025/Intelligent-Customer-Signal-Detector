@@ -1,0 +1,17 @@
+Customer ID: 4628-CTTLA
+Topic: customer dissatisfied with available TV content
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm really disappointed with the available TV content on my package. There's just not much of anything good to watch anymore. 
+Agent: Hi there! I understand your frustration. Can you tell me a bit more about what kind of shows or channels you would like to see? 
+Customer:  I was hoping for more reality shows, and less of the kids' stuff. 
+Agent: We do offer quite a few options in those genres! Would you like me to show you some specific channels that fit your preferences? 
+Customer: Sure, that sounds good.
+Agent: Absolutely! What kind of reality shows are you interested in? 
+Customer:  Something on home improvement or cooking would be nice. Thanks! 
+Agent:  I'm sure I can point you to some great options. Let me take a look at the available channels... Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and helped me find some new shows! It really brightened my day.
+Sentiment: Positive

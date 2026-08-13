@@ -1,0 +1,19 @@
+Customer ID: 2272-QAGFO
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet again.  It keeps dropping out.
+Agent: Hello! Thank you for reaching out.  I understand you're experiencing intermittent connection issues. 
+Customer: It's been happening for weeks now. Every time I try to use it, it drops out. 
+Agent: Let me ask a few questions about your account. What is the full address of your internet service?
+Customer: [Customer’s Address]
+Agent:  I see you are on a month-to-month contract and have been with us for 14 months. Do you have any trouble with the speed or performance in general?
+Customer: Yes, it's frustrating! The speeds have always been great before this started. 
+Agent:  Thank you for your patience. I can start looking into your account now. 
+Customer: Okay. Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it's frustrating that these issues have persisted for weeks and we haven't seen a solution yet."
+Sentiment: Negative

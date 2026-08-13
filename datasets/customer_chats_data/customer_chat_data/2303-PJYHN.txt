@@ -1,0 +1,16 @@
+Customer ID: 2303-PJYHN
+Topic: network becomes slow during peak hours
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hey, my internet is super slow today, especially during peak hours. 
+Agent: I understand your frustration, [Customer name].  Can you tell me more about what's happening? What device are you using?
+Customer:  I'm on a laptop, and the speeds are really bad. It's like everything is lagging for a good 15-20 minutes every hour.
+Agent:  Let me check your connection. Is there anything different with your usage today compared to usual times?
+Customer:  Yeah, it's just during peak hours that I notice the slowness. My use has been pretty consistent throughout the month.
+Agent: Alright, thanks for the info. I'm investigating this and will get back to you shortly. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quick to respond! Hopefully they can fix the slow internet soon.
+Sentiment: Positive

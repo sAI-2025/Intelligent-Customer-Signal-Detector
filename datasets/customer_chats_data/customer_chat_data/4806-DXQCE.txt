@@ -1,0 +1,17 @@
+Customer ID: 4806-DXQCE
+Topic: music stops when switching networks
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My music keeps stopping when I switch networks. Is there a setting I can change?
+Agent:  I understand your frustration, and this is an issue we've seen before. 
+Customer: I have fiber optic internet for my home, it's been great until now. 
+Agent:   Can you please tell me which devices are having trouble with the music stopping?
+Customer: It happens on my TV and laptop. I’m not sure about the phone.  
+Agent:  Let's check your account details to see if there is a specific setting we can adjust. 
+Customer: Okay, thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating that the music keeps stopping, even with fiber internet. Hoping this issue gets resolved soon."
+Sentiment: Neutral

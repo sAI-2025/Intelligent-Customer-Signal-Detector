@@ -1,0 +1,24 @@
+Customer ID: 0567-XRHCU
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having some really frustrating issues with my internet connection. 
+
+Agent:  I understand. Can you tell me a little more about the problem? 
+
+Customer: My DSL connection keeps dropping out every few minutes. It's very inconsistent, and it's making it impossible to work from home.
+
+Agent: I apologize for this inconvenience. Let me check your account details.
+
+Customer: My plan is the $43.95 Basic DSL with a two-year contract. 
+
+Agent: Thank you, I can see that your plan is running on DSL. I'm going to connect with our engineering team and see what we can do to resolve this issue for you.  
+ 
+Customer: Great! Thanks for helping me out with this.   
+
+Agent:  I'll send you an update once the engineers have a chance to look into it. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into my problem, I appreciate your prompt response and willingness to help!
+Sentiment: Positive

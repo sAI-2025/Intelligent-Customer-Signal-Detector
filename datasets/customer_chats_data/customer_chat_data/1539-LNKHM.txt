@@ -1,0 +1,17 @@
+Customer ID: 1539-LNKHM
+Topic: customer has contacted support multiple times
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I've been trying to get through for over an hour now. My internet has been down for days. 
+Agent:  I apologize for the delay. Can you please provide me with your account number?
+Customer: 1234567890
+Agent:  Okay, I see that your account is currently on a month-to-month plan and was last billed on the 1st of this month. What issue are you experiencing specifically? 
+Customer: No internet at all! It's been down for days, and they haven’t even sent me an email or anything.
+Agent: I understand your frustration with the lack of service. We have a team working to get your internet back online as quickly as possible.  
+Customer: Thanks, but why hasn't this been resolved yet? 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "It's frustrating that it took so long to connect after calling for over an hour."
+Sentiment: Negative

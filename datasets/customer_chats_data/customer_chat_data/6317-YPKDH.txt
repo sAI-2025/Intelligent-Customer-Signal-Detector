@@ -1,0 +1,17 @@
+Customer ID: 6317-YPKDH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my Wi-Fi signal is very weak in the living room. I have been having trouble streaming movies and video calls. 
+Agent: Thank you for contacting us.  I understand you're experiencing difficulty with your Wi-Fi. Can you tell me your address so I can look into it?
+Customer: Yes, my address is 123 Main Street.
+Agent: Alright, thank you.  I see that there have been a couple of reports about similar issues in the area recently. We're working to get everything sorted out as quickly as possible.  Would you like me to walk you through some troubleshooting steps?
+Customer: Yes, please. 
+Agent: One thing you could try is restarting your router or modem. 
+Customer: That's a good idea! Thank you. 
+Agent: You're welcome! If the problem persists, please let us know and we can schedule a tech visit for you.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was helpful, thanks for walking me through some troubleshooting steps!"
+Sentiment: Positive

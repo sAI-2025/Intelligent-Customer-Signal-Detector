@@ -1,0 +1,16 @@
+Customer ID: 4190-MFLUW
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been unusually slow for the past few days. It's frustrating! 
+Agent: I understand your concern.  Please confirm your plan and approximate download speeds to help me investigate further.
+Customer: I have the "High Speed" plan, and my speeds are averaging around 1 Mbps, where I should be getting at least 50 Mbps.
+Agent: Thank you for providing that information. Let me check on the DSL network issues in your area.  
+Customer: Okay, thanks!
+Agent:  I've checked your connection logs, and it seems there might be an issue with your DSL line causing the slow speeds. We’ll get this resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This is a big relief to hear that the issue is being addressed. Thanks for keeping me updated!
+Sentiment: Positive

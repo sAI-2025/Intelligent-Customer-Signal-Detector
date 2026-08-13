@@ -1,0 +1,26 @@
+Customer ID: 2968-SSGAA
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been significantly slower than my subscribed plan, and I'm experiencing lag. 
+
+Agent:  I understand your concern. To help me diagnose the issue, could you please provide your account number or last name?
+
+Customer:  My account number is 1234567890 and my last name is Smith.
+
+Agent: Thank you, Mr. Smith. I'm currently investigating your service. Please bear with me while I run a speed test.
+
+Customer: Alright, thanks.
+
+Agent: The results show a slight fluctuation in your download speed during peak hours.  
+
+Customer: So it's normal? 
+
+Agent: Yes, but we can offer you some troubleshooting steps. Thank you for contacting us. 
+   
+**Thank you for contacting us.**
+
+----------------------------------------
+Feedback: "While the explanation was helpful, I still experience significant lag despite the occasional fluctuations in download speed."
+Sentiment: Negative

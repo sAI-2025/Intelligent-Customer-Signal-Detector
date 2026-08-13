@@ -1,0 +1,19 @@
+Customer ID: 7234-FECYN
+Topic: poor TV picture quality
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with my TV picture quality lately. It seems blurry and pixelated.
+Agent:  I understand, Mrs. Smith. Could you please tell me your account information? 
+Customer: Sure, it's [customer name], account number [account number] 
+Agent: Thank you, Mrs. Smith. Let me check on the status of your service connection.
+Customer: I have Fiber Optic internet too.
+Agent:  Okay, I see you've had a good tenure with us for the past eight months. 
+Customer: Yes, but lately, my TV picture has been terrible! 
+Agent:  I'm checking on the technical side of things. Please just hold while I look into this.  
+Customer: Okay, thanks so much. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful that the agent was able to take my complaint seriously and quickly start troubleshooting. Hopefully the picture quality issue gets resolved soon!"
+Sentiment: Positive

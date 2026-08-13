@@ -1,0 +1,17 @@
+Customer ID: 1389-CXMLU
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's incredibly slow and there's a lot of lag. 
+Agent:  I understand your frustration.  Can you please tell me what device you are using? What is the IP address or MAC address of the device?  
+Customer: Yes, my computer, it's showing ping at around 150 ms. Is that normal? 
+Agent:  It's possible your internet connection has some latency issues, especially when connecting from a remote location.  Let me check your account and see if there are any outages reported in the area. 
+Customer: Okay, thank you.
+Agent: No problem at all!  I'm checking on your Fiber service now. If there is an issue, we can offer some solutions to improve your experience.
+Customer: Thank you. I hope this gets resolved soon.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into the issue! Hopefully it gets resolved soon."
+Sentiment: Positive

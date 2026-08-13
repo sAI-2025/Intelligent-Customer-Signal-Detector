@@ -1,0 +1,17 @@
+Customer ID: 7067-KSAZT
+Topic: late payment inquiry
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm calling to inquire about my late payment for this month. 
+Agent: Hello! Thank you for reaching out.  Can you please provide your account number or name? 
+Customer: My name is John Smith and my account number is 1234567890. 
+Agent: Thank you, Mr. Smith. I'm seeing that your payment was due on the 5th of this month.  Is there something specific you'd like to discuss about your late payment?
+Customer: Yes, it seems that my account is showing as overdue and I would like to understand why. 
+Agent: We apologize for any confusion. Please let me check your billing history and I can provide more information.   
+Customer: Thank you. 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and quickly resolved my issue, thank you!"
+Sentiment: Positive

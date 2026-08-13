@@ -1,0 +1,17 @@
+Customer ID: 5924-IFQTT
+Topic: music service activation problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble activating my music service. I've been trying to set it up online and keep getting an error message. 
+Agent:  I'm sorry to hear you're experiencing issues activating your music service. Can you please provide me with your account number so I can check on the status of your activation? 
+Customer: Sure, my account number is [account number]. 
+Agent: Thank you for providing that information. I see there are some ongoing network issues affecting DSL customers.  
+Customer: Oh, no! I just got a new internet plan with higher speeds. 
+Agent: I understand your frustration. Let me check if we can expedite the activation for you as quickly as possible.
+Customer: Great, thank you!
+Agent: No problem at all. We'll get you up and running shortly.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient resolution to my issue - thanks for the prompt help!
+Sentiment: Positive

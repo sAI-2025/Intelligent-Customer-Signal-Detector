@@ -1,0 +1,18 @@
+Customer ID: 2154-KVJFF
+Topic: customer is considering switching providers
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I was hoping to find out about switching providers.  I'm currently on a month-to-month contract with $79.75 per month for fiber optic internet. 
+Agent: Absolutely! We understand you might be considering other options. How long have you been with us?
+Customer: About 15 months now.
+Agent: I can see you're a valued customer! Would you like to explore our different plans and offers?
+Customer:  That would be great, thanks. 
+Agent: Of course! We offer competitive pricing and various features depending on your needs.  Are you looking for something faster or with more data? 
+Customer: I mainly use it for streaming and browsing. 
+Agent: Perfect. Let me see what we can do for you.   Thanks for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and made switching providers seem easy!
+Sentiment: Positive

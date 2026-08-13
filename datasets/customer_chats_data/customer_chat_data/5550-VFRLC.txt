@@ -1,0 +1,20 @@
+Customer ID: 5550-VFRLC
+Topic: customer wants to change phone plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm calling to change my phone plan.  My current one is not working out. 
+Agent: Hello! Thank you for reaching out. Can you tell me your name and account number so I can look into your options?
+Customer:  My name is John Smith and my account number is 1234567. 
+Agent: I see your plan details here, John. What specifically are you looking to change about your phone service? 
+Customer: I'd like a plan that offers better call features at a lower price.
+Agent:  We have several plans with different features and pricing options available. Would you like me to walk you through some of the best choices for you? 
+Customer:  Yes, please.
+Agent:  Okay, John. We offer options for unlimited talk, text, and data starting at $54.95. 
+Customer: Thank you! I'd like that plan. 
+Agent:  Excellent choice! Your new plan will be activated immediately after we process your payment for the change. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and I appreciate the smooth transition to a better plan."
+Sentiment: Positive

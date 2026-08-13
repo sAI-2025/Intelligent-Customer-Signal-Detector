@@ -1,0 +1,17 @@
+Customer ID: 3572-UOLYZ
+Topic: movie video quality becomes blurry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! I'm having trouble with the video quality on my streaming service. It's been getting blurry lately. 
+Agent:  I understand your concern. Can you tell me what device and internet package you are using?
+Customer: I'm watching movies through my smart TV, it's a Fiber connection. My internet plan is a month-to-month, $84.8/month.
+Agent: Thank you for that information.  I can see your account details, but we do have some reports on recent quality issues with our service in this area. 
+Customer: Well, that's frustrating! Any advice?
+Agent: We are currently working to resolve the issue and will update you as soon as possible. Would you like me to check for any outages in your area?  
+Customer: That would be great! Thanks anyway
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for checking on the outages, I hope they're resolved soon!"
+Sentiment: Positive

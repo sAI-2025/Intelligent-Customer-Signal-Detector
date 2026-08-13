@@ -1,0 +1,24 @@
+Customer ID: 3776-EKTKM
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble connecting to the internet. It is very slow and seems unstable.
+
+Agent:  I understand your frustration, we'll get this sorted out for you!  Could you please provide your account number? 
+
+Customer: Sure, it's [account number].
+
+Agent: Thank you. I can see your DSL connection plan is active. We may have a technical issue on our end.
+
+Customer: Well that sounds bad. How long will this take to fix?
+
+Agent: Let me check the status and I'll update you with an estimated resolution time. 
+
+Customer:  Okay, thank you.  
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and kept me updated throughout the process, but it seems like the issue will take longer to resolve than expected.
+Sentiment: Neutral

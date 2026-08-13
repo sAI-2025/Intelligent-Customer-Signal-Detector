@@ -1,0 +1,17 @@
+Customer ID: 8414-OOEEL
+Topic: customer wants to dispute a previous payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to dispute a charge on my last bill. 
+Agent:  I understand you're having an issue with your recent billing statement. Can you please provide your account number and email address? 
+Customer: My account number is XXX-XXXX-XXXXXXX and my email is john.smith@email.com.
+Agent: Thank you, John. I'm reviewing the details of your last payment. 
+Customer:  I believe it's incorrect. Can you help me with a refund?
+Agent: We can certainly look into that for you. Please hold while we investigate this further. 
+Customer: Ok, thank you!
+Agent: Your payment was processed as planned. The charges will be refunded by the end of the day. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in resolving my billing issue, I appreciate their prompt service."
+Sentiment: Positive

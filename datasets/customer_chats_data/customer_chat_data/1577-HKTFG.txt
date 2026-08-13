@@ -1,0 +1,17 @@
+Customer ID: 1577-HKTFG
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey, I'm having trouble downloading files. My speed is slower than what I'm paying for. Is there an issue with the network?
+Agent:  I understand your concern. Can you please provide your account information and location so I can investigate further?
+Customer: Sure, my name is John, my account number is XXXXXXXXXX, and I’m located in Chicago, Illinois. 
+Agent: Thank you, John! Let me check the download speeds on your plan. 
+Customer: My speed has been really slow all day. 
+Agent:  I've checked and found that there are some network issues affecting your area at this time.  A technician is currently working to resolve it. 
+Customer: I hope it gets resolved soon, thanks.
+Agent: No problem, John. We appreciate you bringing this to our attention. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank goodness the issue was addressed quickly! Hope everything runs smoothly from now on."
+Sentiment: Positive

@@ -1,0 +1,23 @@
+Customer ID: 8267-KFGYD
+Topic: Wi-Fi equipment requires frequent restarting
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my Wi-Fi. It keeps restarting and dropping out frequently.
+
+Agent: I understand your frustration. Can you please tell me what device you are using and your internet plan?
+
+Customer: I'm using a laptop and it's the $21/month plan.  I just started my service last month. 
+
+Agent: Thank you for providing that information. Let me check on this issue.
+
+Customer: Please let me know what you find out.
+
+Agent: Based on our records, there may be some connectivity issues in your area. We recommend restarting your router and modem. If this doesn't resolve the issue, we would like to schedule a technician visit for you.  
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it!  I hope the temporary fix will keep me online."
+Sentiment: Positive

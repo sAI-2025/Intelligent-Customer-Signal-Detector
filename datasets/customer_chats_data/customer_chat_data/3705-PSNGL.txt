@@ -1,0 +1,18 @@
+Customer ID: 3705-PSNGL
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I've been experiencing frequent internet disconnections lately. 
+Agent:  I understand you're having issues with your connection. Can you please tell me more about what's happening? 
+Customer: My Wi-Fi keeps dropping out frequently, even though my plan is supposed to be stable.
+Agent: I see you've been a customer of ours for four and a half years. What device are you using?
+Customer: It's a desktop computer. 
+Agent:  Have you tried restarting your router or modem? 
+Customer: Yes, but the problem persists. 
+Agent: We would be happy to look into this further with you.  Let me check our records and see if there are any reported outages in your area. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the effort to investigate, it seems the issue persists despite trying restarting devices. Hoping for a more permanent solution soon."
+Sentiment: Neutral

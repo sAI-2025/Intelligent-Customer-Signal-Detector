@@ -1,0 +1,18 @@
+Customer ID: 9777-WJJPR
+Topic: specific songs unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, I can't seem to find my favorite song on your app, is there an issue? 
+Agent:  I understand your frustration. Could you please tell me which song and what type of content it is (e.g., music album, single)?
+Customer:  It's "Bohemian Rhapsody" by Queen, I think it was in a playlist called "Classic Rock."
+Agent:  Let me check on that for you. 
+Customer:  Thanks!
+Agent:  I see there's an issue with the song being unavailable at this moment. We are working to restore it as soon as possible.
+Customer:  OK, thanks. Is there a timeframe?
+Agent:  We anticipate having the song available within the next few hours. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the issue! Appreciate the quick update on when it will be back."
+Sentiment: Positive

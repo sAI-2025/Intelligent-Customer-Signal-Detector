@@ -1,0 +1,22 @@
+Customer ID: 0440-MOGPM
+Topic: refund inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to inquire about a refund for my recent internet service termination.
+
+Agent:  I understand you’d like a refund for your service. Please provide me with the account number or your customer name and the reason for cancellation. 
+
+Customer: My account is [account number].  It was terminated on [date], as I'm moving to a new residence.
+
+Agent: Thank you for providing that information, I can begin processing your refund request. We expect it to be processed within three business days. 
+
+Customer: That’s great! Can I get an estimated timeframe for the refund?
+
+Agent:  I will update you on the status of your refund request once the process is complete. Thank you for contacting us. 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, and I appreciate the quick communication about the refund process.
+Sentiment: Positive

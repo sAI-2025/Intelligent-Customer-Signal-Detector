@@ -1,0 +1,15 @@
+Customer ID: 0014-BMAQU
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I am having trouble connecting to my internet service.  The calls aren't working and I keep getting an error message.
+Agent: Hello!  I'm sorry to hear you're experiencing these issues. Could you please tell me your account number? 
+Customer:  It is #12345678.
+Agent: Thank you. I'll look into this for you. It sounds like there may be some network problems happening with the Fiber optic lines. We will try to resolve it for you soon. 
+Customer: Ok, thanks! 
+Agent:  Let me know if you experience any other issues. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate them acknowledging there may be network issues.
+Sentiment: Positive

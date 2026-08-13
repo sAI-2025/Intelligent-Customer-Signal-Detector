@@ -1,0 +1,29 @@
+Customer ID: 9715-SBVSU
+Topic: customer cannot access premium movie content
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't access my premium movie content. It keeps saying it's unavailable. 
+
+Agent:  I understand your frustration. Can you please confirm your subscription plan and the device you are trying to watch on? 
+
+Customer: My name is John and I have a two year contract for $61.4 per month. I'm using DSL internet. 
+
+Agent: Thank you, John. We noticed there might be an issue with your connection. 
+
+Customer:  I can't get the video to load at all. Is there any way to troubleshoot this? 
+
+Agent: Let me check our system. Please hold while I investigate.  
+ 
+Customer: Okay, thank you! 
+
+Agent: We found that there was an issue with your internet service. Can you please try restarting your router and modem? 
+ 
+Customer: Thanks for the help! 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Greatly appreciated for troubleshooting my problem and quickly resolving it!"
+Sentiment: Positive

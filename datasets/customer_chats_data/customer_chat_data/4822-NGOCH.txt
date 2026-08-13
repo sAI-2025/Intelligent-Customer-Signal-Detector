@@ -1,0 +1,20 @@
+Customer ID: 4822-NGOCH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my Wi-Fi in the living room. It's very weak and I can barely stream videos. 
+
+Agent:  I understand your frustration. Can you tell me what type of modem and router you have? Also, are you experiencing any issues connecting to the internet itself?
+
+Customer: Yeah, it's the same problem with streaming and downloading, even in the kitchen where we usually use our laptops. I have a Netgear Nighthawk R7000v2. 
+
+Agent:  Thank you for that information. We will check your signal strength and router configuration. Would you like me to schedule a technician visit?
+
+Customer:  No, thank you.  I’ll try re-booting my modem and router first. 
+
+Agent:  You're welcome! Please let us know if the issue persists after rebooting.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help, the re-boot worked!  Happy to have strong Wi-Fi again."
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 1867-BDVFH
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet during peak hours. My speeds are noticeably slower than usual. 
+
+Agent:  I understand your concern, and I apologize for any inconvenience this may be causing. Could you please tell me a bit more about what time of day these issues occur?
+
+Customer: Mostly between 6pm and 9pm on weekdays. 
+
+Agent: Thank you. I'll check our network logs to see if there are any reported outages or congestion during those times.  
+
+Customer: That would be great, thanks!  
+
+Agent: No problem at all. We appreciate your patience while we work through this.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update and quick response, hopefully it's resolved soon!"
+Sentiment: Positive

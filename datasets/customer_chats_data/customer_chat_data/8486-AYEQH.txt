@@ -1,0 +1,17 @@
+Customer ID: 8486-AYEQH
+Topic: movie application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! I’m having trouble downloading movies on my app. The program keeps crashing. 
+Agent: I'm sorry to hear you're experiencing this issue, [Customer Name]. Could you please provide me with your account number? 
+Customer: Sure, it is [account number] 
+Agent: Thank you.  I can take a look at your account details and see what might be causing the crash. 
+Customer: Alright, thanks! 
+Agent: I have checked your account information and it looks like there are some recent network issues we need to address before downloading is possible. Let me know if you have any other questions. 
+Customer:  Okay, thank you for helping me out.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into the issue and getting it sorted out! Much appreciated.
+Sentiment: Positive

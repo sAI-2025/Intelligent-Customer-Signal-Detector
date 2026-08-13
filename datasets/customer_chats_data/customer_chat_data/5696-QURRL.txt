@@ -1,0 +1,25 @@
+Customer ID: 5696-QURRL
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is significantly lower than what I expected. It was around 5-10Mbps when I thought it should be closer to 25-30Mbps.  
+
+Agent: I understand your concern. Please tell me your account details so I can check the status of your connection.
+
+Customer: Sure, my name is [Name], account number [account number]. I'm on a month-to-month contract and pay $45.05 per month. It's DSL internet. 
+  
+Agent: Thank you for providing that information. We'll investigate this further. Could you please tell me what kind of device you are using to check your internet speed?
+
+Customer: I’m currently on a laptop running Chrome. 
+
+Agent: Okay, thank you. We may have some issues with the local network connection. Let me check.
+  
+Customer: Thanks for looking into it!
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for investigating! Hopefully, this issue gets resolved quickly."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 8080-DDEMJ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is really weak in the bedrooms.  I can barely get a connection. 
+Agent: I understand your concern, Ms. Smith. Can you please tell me which rooms are affected?
+Customer: It's in the living room and both bedrooms. We have DSL internet. 
+Agent: Thanks for letting me know. Let me check our system to see if there are any known issues with your area. 
+Customer:  Okay, thanks. 
+Agent: Alright, I just checked and confirmed there is a strong signal in your area. 
+Customer: Thank goodness! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick resolution and clear communication, I appreciate it!
+Sentiment: Positive

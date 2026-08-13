@@ -1,0 +1,17 @@
+Customer ID: 8091-TTVAX
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there, I'm having trouble connecting to online services.  The latency is really high and makes browsing difficult. 
+Agent:  I understand your frustration. Can you please provide me with your account information? 
+Customer: Sure, my name is John Smith, account number 1234567890. I'm also on the Fiber Optic plan. 
+Agent: Thanks John!  I can see that you have a one year contract and are currently experiencing high latency. 
+Customer: That’s frustrating. It wasn't like this before. 
+Agent: We want to ensure you have the best experience possible. Let me check our logs for any recent outages or network issues. 
+Customer: Thank you, I appreciate it.
+Agent:  We're working on a solution for your latency issue!  Please give us a few minutes while we investigate.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is frustrating as the service has suddenly become slower than usual and there was no warning about it.
+Sentiment: Negative

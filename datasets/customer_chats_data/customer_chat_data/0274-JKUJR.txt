@@ -1,0 +1,22 @@
+Customer ID: 0274-JKUJR
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. It's really slow and lagging out.  My ping is extremely high during gaming. 
+
+Agent:  I understand your frustration with the lag, what specific games are you playing?
+
+Customer: Mostly Fortnite and Valorant.  It's been this way for a few days now, I think it started after the last update.
+
+Agent: I see, let me check the network status for your account. It might be related to some server issues. 
+
+Customer: Thanks!
+
+Agent:   I found some temporary overload in your area with DSL traffic. We're working on routing it more efficiently.  We expect the issue to be resolved within the next hour or two.    
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and for explaining the issue. I appreciate your update!
+Sentiment: Positive

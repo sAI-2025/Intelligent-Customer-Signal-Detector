@@ -1,0 +1,17 @@
+Customer ID: 5419-CONWX
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble connecting to the internet.  I can't access my emails or websites at all. 
+Agent: I understand your concern, ma'am. Could you please provide your account number and the specific issue you are experiencing?
+Customer: My account number is 1234567890. It’s just completely offline.  I have Fiber Optic internet.
+Agent: Thank you for providing that information. I am checking on your service status right now. The outage map shows an area with a reported issue in your neighborhood.
+Customer:  Is there a timeframe on when this will be resolved? 
+Agent: We're working to restore service as quickly as possible and we estimate it should be back online within the hour, but I can give you a status update once I have more information.  
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank goodness that was resolved so quickly! Appreciate your prompt response."
+Sentiment: Positive

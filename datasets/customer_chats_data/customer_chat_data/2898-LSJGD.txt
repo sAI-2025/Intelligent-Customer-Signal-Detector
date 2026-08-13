@@ -1,0 +1,15 @@
+Customer ID: 2898-LSJGD
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some issues with my internet speed this evening. It's super slow during peak hours. 
+Agent:  I understand. Can you tell me your account number and what specifically is happening? 
+Customer: Sure, it's 1234567890. My connection seems to be lagging when everyone else in the neighborhood is streaming movies and playing games online. 
+Agent: I see you're currently experiencing slow speeds during peak hours. Let me check on our network performance.
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this, hopefully it gets resolved soon!
+Sentiment: Positive

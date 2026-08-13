@@ -1,0 +1,23 @@
+Customer ID: 2514-GINMM
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed.  It seems much slower than expected. 
+
+Agent:  I understand your frustration, I apologize for the inconvenience. Can you please provide your account information so I can check on your connection?
+
+Customer: Sure, it’s [account number]
+
+Agent: Thank you, I've taken a look at your details and am seeing some congestion on your network. 
+
+Customer:  Well that explains it then!
+ 
+Agent: We are currently working to resolve this issue for you. Please be patient as we work through the process. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for addressing my slow upload speed, I appreciate your quick response and continued effort to fix it.
+Sentiment: Positive

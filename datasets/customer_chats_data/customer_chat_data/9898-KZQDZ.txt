@@ -1,0 +1,22 @@
+Customer ID: 9898-KZQDZ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can’t access the internet at all. Is there an outage in my area? 
+
+Agent:  I'm sorry to hear that you're experiencing internet issues.  Let me check on your service status. 
+
+Customer: My fiber connection is completely down. It's been this way since yesterday morning. 
+
+Agent: Thank you for letting me know, I see the issue and it appears there may be a temporary network disruption.
+
+Customer: Okay. How long will this be resolved? 
+
+Agent: We are working on resolving the issue now.  It should be up and running by the end of the day. 
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for keeping me updated! I appreciate your prompt response.
+Sentiment: Positive

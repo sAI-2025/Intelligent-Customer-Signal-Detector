@@ -1,0 +1,24 @@
+Customer ID: 7743-EXURX
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speeds. It seems like it's significantly slower than what I'm paying for. 
+
+Agent:  I understand your frustration. Can you please provide your account information so I can take a look? 
+
+Customer: Sure. My username is [username] and my last four digits of the social security number is [ssnum]. 
+
+Agent: Thank you for providing that information. I see you're on our DSL plan, and we are seeing some issues with speeds in your area right now.
+
+Customer: Oh, okay. So, what can I do?
+
+Agent: We'll send a technician to check your line.  We'll also credit your account for the slower speeds since it is causing you inconvenience. 
+
+Customer: Great! Thank you so much.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick resolution and the credit for my inconvenience. 😊
+Sentiment: Positive

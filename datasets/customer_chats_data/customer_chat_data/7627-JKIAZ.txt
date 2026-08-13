@@ -1,0 +1,27 @@
+Customer ID: 7627-JKIAZ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having frequent internet disconnections lately.
+
+Agent: Thank you for contacting us. Can you please provide your account number and the specific dates and times you experienced these disruptions?
+
+Customer: My account number is 1234567890.  It started happening about two weeks ago, mostly during the evening hours.
+
+Agent: I understand. Let me check our system for more details.
+
+Customer: Thanks.
+
+Agent: Ok, we see some network congestion in your area at around 6 pm and 7 pm. We're working on resolving this issue.  
+ 
+Customer: Hopefully it will be fixed soon.
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the update and hope to see a resolution soon!
+Sentiment: Positive

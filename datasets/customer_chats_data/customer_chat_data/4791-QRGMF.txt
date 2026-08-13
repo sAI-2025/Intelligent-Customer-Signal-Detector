@@ -1,0 +1,20 @@
+Customer ID: 4791-QRGMF
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down.  Can you help me troubleshoot?
+
+Agent: Hi there! I understand you're experiencing internet issues.  Let me gather some information to help. Could you please tell me your account number and the specific device(s) connected? 
+
+Customer:  Account #12345678, my laptop is not connecting.
+
+Agent: Thank you for that information. I'm looking into this now.  We will have a technician check your connection in the next hour.   
+
+Customer:  Okay, thanks! 
+
+Agent:  You're welcome. We appreciate your patience while we take care of this. We'll keep you updated on our progress and let you know when the internet is back up and running. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the quick response and explanation, I hope my internet is fixed soon!
+Sentiment: Positive

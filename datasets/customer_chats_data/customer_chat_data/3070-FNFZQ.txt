@@ -1,0 +1,27 @@
+Customer ID: 3070-FNFZQ
+Topic: phone cannot connect to carrier network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to my carrier network.  My phone keeps saying 'No Service'. 
+
+Agent: Hi there! I see that you're having issues with your service. What model of phone do you have? 
+
+Customer: It's a Samsung Galaxy S23 Ultra. 
+
+Agent: Alright, let me check on that for you.  Can you tell me the last time you updated the software on your phone?
+
+Customer: Not recently, I haven't had any updates. 
+
+Agent: Okay, thank you. Let me see if there are any network issues on our end.  We can try restarting your phone and checking your signal strength.
+
+Customer: Alright, thanks!
+
+Agent: No problem.  If that doesn't work, we can also explore some troubleshooting steps.  Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and I feel like the issue will be resolved with the suggested troubleshooting."
+Sentiment: Positive

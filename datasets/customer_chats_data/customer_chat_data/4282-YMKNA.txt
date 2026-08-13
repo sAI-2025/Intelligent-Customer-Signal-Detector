@@ -1,0 +1,16 @@
+Customer ID: 4282-YMKNA
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some issues with latency/ping while gaming online. It's been pretty bad lately.
+Agent:  I understand your frustration. Can you tell me what kind of games you typically play and what the ping is like currently? 
+Customer: I mostly play FPS games on a PC. The ping fluctuates between 100-250ms, which is really impacting gameplay.
+Agent:  Okay, thanks for that information.  I've checked your account and it looks like you are using Fiber optic, so there shouldn't be any issues with the connection itself. Let me check on other potential factors... 
+Customer:  Thanks!
+Agent:  Based on our network analysis, we're seeing some temporary congestion in a specific area during peak hours. This usually resolves by midday, however if it persists, please let us know and we will take further action.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the explanation!  It seems to be a temporary issue, so I'll keep an eye out."
+Sentiment: Neutral

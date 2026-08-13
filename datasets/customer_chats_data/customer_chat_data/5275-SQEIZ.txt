@@ -1,0 +1,17 @@
+Customer ID: 5275-SQEIZ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I've been having a lot of trouble connecting to the internet lately. It disconnects frequently. 
+Agent:  I understand your frustration. Can you please tell me your account information so I can look into this further?
+Customer: Sure, it's [account number] and my name is [name]. 
+Agent: Thank you for providing that information. We have noticed some recent reports of similar issues with our fiber optic services in your area.  
+Customer: Hmm, well, I'm just starting to use the internet again after a long break.
+Agent: Let me check on the specific disconnections and see if there are any updates regarding service outages in your area. 
+Customer: Okay, thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me quickly. Hopefully I won't have to deal with these frequent disconnects anymore!
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 7623-TRNQN
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet is completely down and I can't connect to anything.
+
+Agent:  I understand you're experiencing internet outages. To help me troubleshoot, could you please provide your account information?
+
+Customer: Sure, it's [account number] 
+
+Agent: Thank you for that.  We are currently experiencing some network issues in your area. We will have an update shortly. 
+ 
+Customer: Okay, what can I expect? 
+
+Agent:  I am sorry to inform you that we do not have a timeframe for restoring service at the moment.
+
+Customer: Thanks, but can't connect until it works again! How much longer is this going on? 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is frustrating as I need internet to work right now.  I hope they can provide an update soon regarding restoration.
+Sentiment: Negative

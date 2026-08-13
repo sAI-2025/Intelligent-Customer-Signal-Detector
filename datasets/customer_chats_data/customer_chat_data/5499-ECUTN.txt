@@ -1,0 +1,17 @@
+Customer ID: 5499-ECUTN
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today.  It seems like it's really slow during peak hours. 
+Agent: I understand your concern. Could you please provide me with your account number and a brief description of what is happening?
+Customer: Sure, my account number is [Account Number]. The speed has been noticeably slower than usual throughout the day.
+Agent: Thank you for providing that information. I see there are some ongoing network upgrades scheduled to take place this week. 
+Customer:  So, it's just a temporary issue?
+Agent: Yes, we expect the network speeds to be back to normal soon after those upgrades are completed. 
+Customer:  That’s great! Thanks for looking into this.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your help and clear explanation! I appreciate that the issue should resolve quickly.
+Sentiment: Positive

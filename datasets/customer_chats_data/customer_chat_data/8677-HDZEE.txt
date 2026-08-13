@@ -1,0 +1,24 @@
+Customer ID: 8677-HDZEE
+Topic: streaming device disconnects repeatedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My streaming device keeps disconnecting. I've restarted my router and modem but it doesn't help. 
+
+Agent:  I understand your frustration, we'll get this sorted out for you.  May I ask what model of streaming device are you using?
+
+Customer: It's a Roku Ultra. 
+
+Agent: Alright, thank you.  Let me check on the connection status for your account.  
+
+Customer: Great! 
+ 
+Agent:  Based on our records, there appears to be an issue with the signal strength from our fiber optic network.  We are currently working on a temporary fix to ensure seamless streaming experience. 
+ 
+Customer: Thank you for letting me know. I hope it gets resolved soon!  
+
+Agent: Thanks for your patience. We're committed to getting this resolved as quickly as possible. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update and for working on a fix! Hopefully, things will be back to normal soon.
+Sentiment: Positive

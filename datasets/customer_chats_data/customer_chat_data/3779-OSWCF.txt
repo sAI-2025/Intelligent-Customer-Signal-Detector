@@ -1,0 +1,17 @@
+Customer ID: 3779-OSWCF
+Topic: songs stop unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was just listening to my Spotify playlist and a song stopped unexpectedly. 
+Agent:  I understand your frustration, can you please tell me what device you were using? 
+Customer: My laptop, running the latest Spotify app.
+Agent: Can you let me know which song it was and where in your music list it was playing?
+Customer: "Bohemian Rhapsody" from a playlist titled "80s Hits."  It was about halfway through. 
+Agent: Thank you for providing that information. I'll look into this issue with our engineers to see if there are any potential issues. 
+Customer: Thanks, hoping it’s something simple!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and hope they can quickly resolve this issue.
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 0114-IGABW
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't seem to connect to the internet at all. 
+
+Agent:  I apologize for the inconvenience, how long have you been experiencing this issue?
+
+Customer: It started about an hour ago. I haven’t been able to browse or send emails since then. 
+
+Agent: Let me look into that for you. Could you please provide your account information and address so I can access your account history? 
+
+Customer: My account number is 12345678, and my address is 123 Main Street.  
+
+Agent: Thank you. I'm checking the DSL connection now. I'll update you with any progress soon.  
+ 
+ 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response, and hopefully this issue will be resolved quickly.
+Sentiment: Positive

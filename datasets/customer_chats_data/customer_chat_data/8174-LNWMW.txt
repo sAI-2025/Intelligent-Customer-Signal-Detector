@@ -1,0 +1,17 @@
+Customer ID: 8174-LNWMW
+Topic: customer wants to remove unlimited data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I want to cancel my unlimited data plan. 
+Agent:  I understand. You're looking to downgrade your plan? 
+Customer: Yes, please. Can you tell me how much the next month’s bill will be with a lower limit? 
+Agent:  Your monthly payment for a reduced data plan would be $15.90.  
+Customer: Okay, that works. Can I do that immediately?  
+Agent: Absolutely! Your changes will take effect on your next billing cycle. 
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick and easy cancellation process. Glad to have a more affordable plan now!"
+Sentiment: Positive

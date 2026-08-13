@@ -1,0 +1,17 @@
+Customer ID: 8182-PNAGI
+Topic: Wi-Fi equipment requires frequent restarting
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having issues with my Wi-Fi connection. It keeps dropping in and out frequently. 
+Agent:  I understand. Can you please tell me your account name or number?
+Customer: Sure, it’s John Smith 12345.
+Agent: Thank you, John. We are experiencing some technical issues with your DSL service today. Would you like to try rebooting the modem and router as a first step? 
+Customer:  I've tried that already but still having problems.
+Agent: Okay, let me check what I can do. 
+Customer: Thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and explained the situation clearly, but a solution would be appreciated."
+Sentiment: Neutral

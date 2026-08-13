@@ -1,0 +1,15 @@
+Customer ID: 4682-BLBUC
+Topic: question about contract renewal terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about my contract renewal terms?  Is there any change in price or data limits? 
+Agent: Hello! Thank you for reaching out. Your current contract is set to renew in [Month] with a rate of $70.95/month. Are you referring to DSL internet?
+Customer: Yes, that's correct.
+Agent:  Your plan has been active for 44 months and your data limits remain the same. 
+Customer: Okay, thanks for the quick info!
+Agent: You're welcome! Let me know if you have any other questions. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick answer, everything seems clear!"
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1285-OKIPP
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is very slow and keeps dropping out. It's been like this all day. 
+Agent: I understand your frustration with the internet speed.  Can you please provide your account details so I can take a look?
+Customer: Sure, my name is John Smith, account number 1234567890.  I’m on a month-to-month plan.  
+Agent: Thank you, John. I’ll check your Fiber connection and see if there are any issues with the service.  
+Customer: Well, hope so!   
+Agent: I'm checking your speed now and will let you know the result soon. 
+Customer: Thanks for your help! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and efficient, thanks! 😊  Fingers crossed it gets fixed quickly.
+Sentiment: Positive

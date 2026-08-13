@@ -1,0 +1,15 @@
+Customer ID: 8821-XNHVZ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is very weak in the living room and occasionally drops out. Is there a known issue?
+Agent: I'm sorry to hear about your weak Wi-Fi signal!  Let me check on that for you. 
+Customer: Thanks, it’s frustrating since I work from home often. What steps can I take?
+Agent: Our network team is currently investigating some potential signal interference in those areas. We will get back to you with an update and resolution plan.  
+Customer: Okay, thank you.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and I appreciate their prompt response.
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 9965-YOKZB
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet has been very slow lately. It's almost unusable during peak hours. 
+
+Agent: I understand your concern, Ms. Smith.  Could you please provide me with your account details and the specific time when you experience the slow speeds?
+
+Customer: Sure, my account is [account number].  It happens around 7pm - 9pm every day.
+
+Agent: Thank you for providing that information. I've checked our network logs and it appears other customers are experiencing similar issues during peak hours today. 
+
+Customer: I hope the issue will be resolved soon. Thanks!
+
+Agent: We are working to resolve this issue as quickly as possible.  We do apologize for any inconvenience this may cause. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, it's reassuring to know they're working on it."
+Sentiment: Positive

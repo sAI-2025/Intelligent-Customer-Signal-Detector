@@ -1,0 +1,15 @@
+Customer ID: 6900-PXRMS
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is way too slow today. I'm getting really high latency and ping, it's impossible to play online games.  
+Agent: Thank you for contacting us. To better understand your issue, could you please provide your account details?
+Customer: Sure. It's [account number]. 
+Agent: We have detected a temporary network outage in your area that may be causing the latency issues. Our engineers are working on resolving this issue.  Is there anything else I can help with at this time? 
+Customer: Just let me know if you need any further information from me.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the info, hope the network outage gets resolved soon!"
+Sentiment: Positive

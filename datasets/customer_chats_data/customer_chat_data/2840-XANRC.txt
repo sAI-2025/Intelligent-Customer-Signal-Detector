@@ -1,0 +1,17 @@
+Customer ID: 2840-XANRC
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is very weak in the bedroom and living room. I can barely stream video. 
+Agent:  I understand your frustration, ma'am. Can you please tell me which devices you are using for streaming? 
+Customer:  My smart TV, laptop, and phone all have issues. It’s like it’s a dead zone in these rooms. 
+Agent:  We can check the signal strength on the router. Would you mind letting me know your MAC address or any unique IDs?
+Customer: I'll be happy to! (Provides MAC Address) 
+Agent: Alright, thank you. We're looking into it now. 
+Customer: Thank you so much!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and proactive in addressing the issue. Hopefully, we will see a significant improvement soon.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 1841-YSJGV
+Topic: TV service unavailable despite active subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my TV service. It's not working at all. 
+Agent:  I understand, I’d be happy to help. What is your account number? 
+Customer:  123456789 
+Agent: Thank you. Let me check on that. It looks like there might be an issue with the service outage in your area. 
+Customer: So what can I do? My TV isn't working! 
+Agent: We are currently experiencing a technical issue affecting some customers in your region. We are looking into it as we speak. 
+Customer: Okay, well this is frustrating.  
+Agent: I apologize for the inconvenience. The service should be restored within the hour. Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the update on the outage and hope it gets resolved quickly!"
+Sentiment: Positive

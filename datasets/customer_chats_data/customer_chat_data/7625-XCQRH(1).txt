@@ -1,0 +1,18 @@
+Customer ID: 7625-XCQRH
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. It's extremely slow, especially during peak hours. 
+Agent:  I understand your concern. Please provide me with your account details so I can check on your connection status.
+Customer: Sure, my name is [Customer Name] and my account number is [Account Number].  My contract is month-to-month and it's $76.5 per month for fiber optic internet.
+Agent: Thank you for providing that information. We will be able to investigate your issue further once I have access to your account details. 
+Customer: It's been a slow few hours, but especially during peak times. 
+Agent:  I understand this has been frustrating. Our team is working on resolving the network issues affecting some users.
+Customer: Thanks for looking into it. 
+Agent: We appreciate your patience and will be able to resolve the issue by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and I feel much better knowing the slow connection will be addressed!
+Sentiment: Positive

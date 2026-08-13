@@ -1,0 +1,19 @@
+Customer ID: 0505-SPOOW
+Topic: router lights showing unexpected status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My router lights are showing an unexpected status.  Is there a problem? 
+Agent: Hi there! I understand you're seeing unusual activity on your router.  
+Customer: It is constantly blinking red, and the green light is off. 
+Agent: Can you please tell me what model of router you have?
+Customer: It's a Netgear Nighthawk R6700.
+Agent: Thank you for that information. Let's try restarting your router to resolve this issue.  
+Customer: Okay, I'll give that a go. 
+Agent: Did that work? 
+Customer: Yes, the green light is back on! It seems okay now.
+Agent: Wonderful news! If you experience any further issues, please don't hesitate to contact us again. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quick with the solution.  Glad I could resolve the issue!
+Sentiment: Positive

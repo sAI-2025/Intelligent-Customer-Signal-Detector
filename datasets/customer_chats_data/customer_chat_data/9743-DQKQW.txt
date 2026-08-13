@@ -1,0 +1,17 @@
+Customer ID: 9743-DQKQW
+Topic: customer asks about early termination terms
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I was wondering about the terms for early termination of my contract. 
+Agent: Of course!  We can certainly discuss that with you.  What specifically are you looking to understand? 
+Customer: My plan is month-to-month and I'm paying $25.1 a month for DSL internet. I've been a customer for about three months now. 
+Agent: Based on the terms of your month-to-month agreement, early termination penalties apply.  However, we can explore options to potentially waive these penalties if you're facing specific circumstances. 
+Customer: Yeah, I was actually hoping to switch plans. 
+Agent: Let me look into our latest plans and their associated fees for a more accurate assessment of what would work best in your case. 
+Customer: Okay, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, but I wish they could offer some more tailored plan recommendations as part of the early termination process.
+Sentiment: Neutral

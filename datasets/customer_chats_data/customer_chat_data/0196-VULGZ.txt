@@ -1,0 +1,17 @@
+Customer ID: 0196-VULGZ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having frequent internet disconnections lately.  It's been happening more and more often over the past few weeks. 
+Agent: We understand your frustration with the recent disconnections.  May I ask what specific issues you are experiencing? 
+Customer: Well, it just seems like my connection drops every time I try to stream a movie or video chat with my granddaughter. 
+Agent: To help us diagnose this issue, could you please provide your account details and the last several router/modem error logs you’ve encountered?  
+Customer: Sure, here they are. Thanks! 
+Agent: Thank you for providing that information. We'll be able to investigate further.
+Customer: Great.
+Agent: We will get this issue resolved for you as soon as possible. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the prompt response and I hope we can see improvement soon."
+Sentiment: Positive

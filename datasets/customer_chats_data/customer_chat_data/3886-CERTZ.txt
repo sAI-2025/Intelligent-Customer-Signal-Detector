@@ -1,0 +1,17 @@
+Customer ID: 3886-CERTZ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having frequent internet disconnections lately, even during peak hours. 
+Agent:  I understand your concern, [Customer Name]. Let me look into this for you. Could you please provide me with your account details or the customer ID? 
+Customer: Sure, my name is John and my account number is 12345678.
+Agent: Thank you, John. I'm seeing a few reported outages in your area.  
+Customer:  That's concerning. Is there any way to fix it?
+Agent: We apologize for the inconvenience. We can offer you a temporary solution while we investigate the root cause. 
+Customer: Alright.  I appreciate that.
+Agent:  We will have engineers resolve this issue as soon as possible, and if you experience further disconnections, please let us know. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The temporary solution was appreciated, thanks for your quick response and updates."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 0320-JDNQG
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there!  My internet has been disconnecting frequently lately, and I haven't found a pattern. 
+Agent: Hello! Thank you for contacting us, I understand you're experiencing frequent disconnections. Can you tell me your account details or the last time this issue began?
+Customer: Sure, my name is [Name], my account number is [Account Number]. It started about a week ago and has been happening pretty consistently.
+Agent: Thank you for that information, [Name]. I'm looking into your account now to see if there are any issues with service or billing. 
+Customer:  Okay.
+Agent: We have a fiber optic plan, so no known outages in the area as well, but we want to ensure everything is running smoothly. Just give me a few moments and I'll get back with you.
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient, hopefully this resolves the internet issue quickly."
+Sentiment: Positive

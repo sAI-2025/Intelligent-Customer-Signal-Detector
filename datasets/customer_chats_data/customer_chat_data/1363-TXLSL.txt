@@ -1,0 +1,16 @@
+Customer ID: 1363-TXLSL
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It's very slow and keeps dropping out. 
+Agent: I apologize for the inconvenience, ma'am.  May I please have your account information so I can check on your service? 
+Customer: Yes, my account number is [account number] and it’s under month-to-month contract. My address is [address]. 
+Agent: Thank you for providing that information. I see your Fiber Optic connection has been experiencing some issues. We'll have a technician look into this for you.  
+Customer: Can I expect to be back online soon?
+Agent: Yes, we're working to resolve the issue as quickly as possible. Your service should be back up and running in 30 minutes. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out so quickly! Appreciate your prompt response."
+Sentiment: Positive

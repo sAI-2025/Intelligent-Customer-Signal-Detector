@@ -1,0 +1,27 @@
+Customer ID: 8603-IJWDN
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's constantly buffering and slow. 
+
+Agent:  I understand your frustration! Can you please tell me your account details?
+
+Customer: Sure. My name is John Smith, and my customer ID is 12345678.
+
+Agent: Thank you for providing that information, John. Let's take a look at your connection.
+
+Customer: Okay.
+
+Agent:  I see there are some minor outages in your area at the moment. We'll work to resolve this as quickly as possible.
+
+Customer: That's great, thank you! 
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and explaining what was going on with my internet connection!  😊
+Sentiment: Positive

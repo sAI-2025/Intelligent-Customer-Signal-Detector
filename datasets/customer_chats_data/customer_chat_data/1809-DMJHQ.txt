@@ -1,0 +1,24 @@
+Customer ID: 1809-DMJHQ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble getting my internet speeds. My download speed is much slower than what I pay for. 
+
+Agent:  I understand your concern about your internet speeds. Can you please provide me with your account information so we can look into this further?
+
+Customer: Sure, my name is John Smith and my account number is 12345678.
+
+Agent: Thank you, John. I've accessed your account and noted that you are currently experiencing slow speeds, despite being subscribed to a 10 Mbps plan.  Let me check the speed tests.
+
+Customer: What can be done about it?
+
+Agent: We can troubleshoot this issue. Please allow me some time as I look into the problem. 
+
+Customer: Okay thanks.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and I appreciate them working to find a solution."
+Sentiment: Positive

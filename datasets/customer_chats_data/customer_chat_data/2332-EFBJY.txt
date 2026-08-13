@@ -1,0 +1,18 @@
+Customer ID: 2332-EFBJY
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having a lot of internet disconnections lately. 
+Agent:  I understand your frustration, I’d be happy to help with this issue.  Could you please tell me your account name and the area code where you're located?
+Customer: My account name is John Smith, and I'm in [Area Code]
+Agent: Thank you for that information, John. What type of device are you using when these disconnections occur? 
+Customer:  It seems to happen mostly on my laptop, but also my phone sometimes.  
+Agent: Okay. Have you checked your router settings and modem connection lately?  
+Customer: I have, everything looks good there.
+Agent: We’re here to help, thanks for being so patient with us. Let me check our records. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it still seems like an ongoing issue and I'm hoping for a resolution soon.
+Sentiment: Neutral

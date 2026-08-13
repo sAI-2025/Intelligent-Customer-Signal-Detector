@@ -1,0 +1,15 @@
+Customer ID: 8220-OCUFY
+Topic: customer wants a lower monthly price before cancelling
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about lowering my monthly rate on my DSL internet service before cancelling. 
+Agent:  I understand your concern. Can you please provide me with your account number so I can quickly access your information? 
+Customer: My Account Number is 1234567890. 
+Agent: Thank you for providing that information. Based on your current plan and tenure, we do have some options to adjust your rate.  How about a $40.99 monthly payment instead of the current $60.25? Would that work for you? 
+Customer: Yes, I appreciate that. 
+Agent: Great! I've updated your account to reflect the new rate, and you should see the change reflected in your next statement.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for helping me find a more affordable option!  It's nice to know there are options available.
+Sentiment: Positive

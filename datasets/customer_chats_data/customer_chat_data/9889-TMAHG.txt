@@ -1,0 +1,17 @@
+Customer ID: 9889-TMAHG
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is very slow today. I'm only getting a few Mbps, but my plan says it should be 100Mbps.
+Agent: Hello! Thanks for reaching out to us. Can you please confirm your account details and the specific location where this issue occurs?
+Customer: Sure, my name is John Smith, and I live at [address]. The slow speed is consistently happening since yesterday.
+Agent: We've noticed a few reports about an unusual network congestion in that area.  
+Customer: That sounds right. It's been difficult to work from home lately. 
+Agent: We are looking into it now. Our technicians will investigate the issue and provide you with an update. 
+Customer: Thank you for your help.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for keeping me updated, I hope they can resolve this network congestion soon!
+Sentiment: Positive

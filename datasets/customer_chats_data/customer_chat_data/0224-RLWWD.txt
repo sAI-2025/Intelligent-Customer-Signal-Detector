@@ -1,0 +1,16 @@
+Customer ID: 0224-RLWWD
+Topic: damaged network equipment
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I need to report some damage to my network equipment.
+Agent:  I understand. Could you please tell me your account number and what kind of damage you've experienced? 
+Customer: My account number is 1234567890. The modem has a cracked casing and isn't working properly. 
+Agent: I’m sorry to hear about the damaged equipment, I can certainly help you with this.  What kind of DSL plan are you currently on?
+Customer: It's the standard $44.3 monthly plan for DSL. 
+Agent: Thank you. We'll arrange a repair or replacement as soon as possible.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quick to resolve my issue, I appreciate their efficiency."
+Sentiment: Positive

@@ -1,0 +1,22 @@
+Customer ID: 2519-FAKOD
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is significantly slower than what I'm paying for.  I've been on a Fiber optic plan since January, and my speeds are just terrible now.  Is there something wrong with my connection?
+
+Agent: We understand your frustration with the slow speeds. May we ask you to provide us with your account details or your service address so we can troubleshoot further? 
+
+Customer: Sure, here is my account number: 1234567890
+And my service address: 123 Main Street, Anytown, CA 
+
+Agent: Thank you for providing the information. We will investigate this issue and get back to you soon with a solution. 
+
+Customer:  Okay, thank you!
+
+Agent: Our team is working on resolving your connection issues and will be in touch shortly. We appreciate your patience. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hoping for a quick resolution to this slow internet speed issue. Thanks for the update."
+Sentiment: Neutral

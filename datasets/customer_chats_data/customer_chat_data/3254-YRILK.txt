@@ -1,0 +1,18 @@
+Customer ID: 3254-YRILK
+Topic: video streaming becomes extremely slow
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My video streaming is extremely slow today. I can't even load YouTube or Disney+.
+Agent:  I understand your frustration, [Customer name]. Can you please tell me what kind of device and internet connection you are using?
+Customer: My TV is connected to the Fiber Optic internet. 
+Agent: Thank you. Let's check on your account for any potential service outages. What's your account number? 
+Customer: 1234567890 
+Agent: I see you are currently on a month-to-month contract and have been with us for 19 months.  I can verify that there is no active outage in your area. 
+Customer: Okay, thanks!
+Agent: Is there anything else I can help you with today? 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, the video streaming issue seems to be resolved now."
+Sentiment: Positive

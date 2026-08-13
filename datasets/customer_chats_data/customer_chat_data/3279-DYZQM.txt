@@ -1,0 +1,18 @@
+Customer ID: 3279-DYZQM
+Topic: TV device cannot connect to network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my TV device to the network. 
+Agent:  Hi there! I understand you're experiencing some difficulties with your TV connection. Can you tell me which model of TV device and what error message you're seeing?
+Customer: It's a TCL Roku TV. I get a "Network Connection Failed" message on the screen.
+Agent:  Let me guide you through troubleshooting steps to resolve the issue. Firstly, please make sure your TV is within range of your router and try restarting both the TV and your router. 
+Customer: Okay, I did that and still nothing.
+Agent:  If the problem persists, could you provide us with your device's MAC address? 
+Customer: It's 00:1A:2B:3C:4D:5E. 
+Agent: Thank you!  I see there's a known issue with this device and the recent update. We are working on a fix. Let me know if you have any other issues or questions, we'll be happy to help.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the troubleshooting steps, it's frustrating that there seems to be an issue with the device after the recent update."
+Sentiment: Negative

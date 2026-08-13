@@ -1,0 +1,27 @@
+Customer ID: 8048-DSDFQ
+Topic: internet speed differs across devices
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having issues with my internet speed. It varies greatly across different devices. 
+
+Agent: Hello!  I apologize for the inconvenience. Could you tell me what devices are experiencing this issue and what speeds you're seeing?
+
+Customer: My laptop is running slow compared to my smartphone.  My iPhone 13 gets a decent speed, but the laptop is much slower.
+ 
+Agent: We have noticed some variability in connection speeds across different devices sometimes.  Are these devices on different networks, like your home network and a work Wi-Fi?
+
+Customer: No, they're all connected through my router.  I just thought it was normal for speed to fluctuate a bit but this is concerning. 
+
+Agent: I understand, slow speeds can be frustrating.  Can you please confirm your account information so we can check on the details?
+ 
+Customer: Yes, sure. My name is John Smith and my account number is 1234567890.
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the troubleshooting steps, it's still frustrating to experience such inconsistent speeds despite being connected through my router."
+Sentiment: Negative

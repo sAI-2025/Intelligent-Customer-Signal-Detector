@@ -1,0 +1,19 @@
+Customer ID: 1624-NALOJ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi there, I'm having issues with my internet connection. It's super slow and there's a lot of lag during online activities. 
+Agent:  I understand, could you please tell me your account details?
+Customer: Sure, it's [account number]. My name is Margaret Johnson.
+Agent: Thank you, Margaret. I can see your service plan is fiber optic with a month-to-month contract and we have no known outages in the area. 
+Customer: Oh. Well, that's frustrating.  My speed just seems really slow for me to work on my computer. 
+Agent: Let me investigate further, please hold while I check your connection details. 
+Customer: Alright. 
+Agent: We are experiencing some latency in the network area, and we will be working on it as soon as possible.  We would like to offer you a discount for this inconvenience.
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for the quick response and discount offer, even though I still haven't been able to fully work on my computer.
+Sentiment: Neutral

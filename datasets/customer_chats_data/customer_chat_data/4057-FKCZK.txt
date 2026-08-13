@@ -1,0 +1,23 @@
+Customer ID: 4057-FKCZK
+Topic: specific songs unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was hoping to add some new songs to my music streaming service, but a few of them are unavailable. 
+
+Agent:  I'm sorry to hear that you're encountering this issue.  Can you tell me which specific songs you'd like to add?
+
+Customer: It's "Bohemian Rhapsody" and "Stairway to Heaven."  I'm also having trouble with some others on the new playlist I'm creating. 
+
+Agent:  I apologize for the inconvenience, but those two songs are not currently available through our streaming service.
+
+Customer: Really? That's strange. My contract says they should be included. 
+
+Agent: I understand your frustration, and I want to assure you that we work hard to make sure all content is accessible for our customers.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it's frustrating to discover popular songs are not available despite my contract stating they should be."
+Sentiment: Negative

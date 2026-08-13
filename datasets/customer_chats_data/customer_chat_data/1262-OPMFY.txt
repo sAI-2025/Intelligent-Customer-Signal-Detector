@@ -1,0 +1,17 @@
+Customer ID: 1262-OPMFY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I'm paying $75.75 per month for Fiber Optic internet and my speed test result shows just 10 Mbps, which seems low for what I've been paying. 
+Agent:  I understand your concern.  Could you please provide me with the exact device and service plan you are using? Also, may I ask what is your location?
+Customer: My device is a desktop computer running Windows. It's the standard Fiber Optic package you offer. The address is [customer's address]
+Agent: Thank you for providing that information.  Let me check on your account and see what might be causing this issue. 
+Customer:  Ok. 
+Agent: I've double-checked your plan, speeds and service history. It looks like the recent surge in internet traffic has impacted your connection. We will work to get you on the fastest possible lane. 
+Customer: Thanks for the update! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate their prompt action on getting me connected faster.
+Sentiment: Positive

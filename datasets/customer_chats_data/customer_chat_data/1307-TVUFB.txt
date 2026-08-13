@@ -1,0 +1,24 @@
+Customer ID: 1307-TVUFB
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, my download speed is incredibly slow today.  I subscribed to a 100 Mbps plan.
+
+Agent: I understand your concern, and we'll see what we can do to help. Can you please provide me with your account details or the service address where you are experiencing this issue?
+
+Customer: Sure, my account number is [redacted], and it is at [redacted] address.  My plan was upgraded last month.
+
+Agent: Thank you for providing that information. I'm currently checking on your account and the connection speed reports. 
+
+Customer: It's been a problem all day. Can I get an estimate of when this will be resolved?
+
+Agent: My team is working to resolve this immediately, and we should have everything back up to normal soon. We anticipate that you’ll experience normal speeds in about [time frame].
+
+Customer: Okay. Thank you. 
+ 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient resolution! Thanks for getting my speed back to normal so quickly.
+Sentiment: Positive

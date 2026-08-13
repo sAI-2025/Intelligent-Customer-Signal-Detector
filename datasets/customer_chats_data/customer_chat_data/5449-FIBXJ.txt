@@ -1,0 +1,18 @@
+Customer ID: 5449-FIBXJ
+Topic: customer was charged after cancellation
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I just checked my bank statement and was charged $103.30 after cancelling my service last week. 
+Agent:  Hi there, thanks for reaching out to us. Can you please provide your account number? 
+Customer: It's [Account Number]
+Agent: Thank you! Let me check on that cancellation for you. 
+Customer:  I was told it was free after the 12-month contract.
+Agent: I see you were on a month-to-month plan and have been billed accordingly.  We do occasionally have small discrepancies in billing.   
+Customer: Is there something I can do to get this refunded?
+Agent: We'll issue a refund for that charge.  You should expect the refund within 7 business days. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate your quick resolution and explanation, but it still seems unfair to be charged after canceling a contract that was advertised as free.
+Sentiment: Negative

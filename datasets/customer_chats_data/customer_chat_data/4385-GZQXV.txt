@@ -1,0 +1,17 @@
+Customer ID: 4385-GZQXV
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been really slow lately, it's much slower than my subscribed plan. 
+Agent: I understand your frustration, Mr./Ms. [Last Name].  Could you please tell me your account details and the specific speeds you're experiencing?
+Customer: Sure, my account number is [account number] and I'm getting a download speed of around 3 Mbps when I typically get 100+ Mbps.
+Agent:  I see your plan is Fiber optic and you are currently on a month-to-month contract.  
+Customer: That's correct, I've been with you for 16 months now and I'm paying $94.45 each month.
+Agent:  Thank you for contacting us. 
+Customer: Thank you!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the prompt response, but this slow speed is unacceptable for the price I pay."
+Sentiment: Negative

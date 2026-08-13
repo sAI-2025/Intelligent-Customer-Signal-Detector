@@ -1,0 +1,17 @@
+Customer ID: 2656-TABEH
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been extremely slow and unstable for the past hour. 
+Agent: Thank you for reaching out to us, I understand your frustration.  Can you please confirm your account information and the specific issue you are experiencing?
+Customer: Sure. My name is John Smith and my account number is 1234567890. The slowness started about an hour ago. 
+Agent: Thank you John, I'm looking into this now.  Please allow me a few minutes to investigate further. 
+Customer: This is really frustrating.  I need reliable internet for my work. 
+Agent: We apologize for the inconvenience and will look into your account as soon as possible.  
+Customer: Thanks.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly, I hope the issue gets resolved soon!"
+Sentiment: Positive

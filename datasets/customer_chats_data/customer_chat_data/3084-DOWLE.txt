@@ -1,0 +1,17 @@
+Customer ID: 3084-DOWLE
+Topic: additional service charge is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just received my bill and there's an additional service charge I don't understand. How does this work?
+Agent: Certainly! Can you provide me with your account number or the bill in question? 
+Customer: My account number is [Account Number]. Here it is. 
+Agent: Thank you for providing that information. The additional service charge is a result of an upgrade to your internet plan, which includes access to faster speeds and data limits.  
+Customer: Oh, I see now. Thanks! 
+Agent: You're welcome.  Is there anything else I can help you with today?
+Customer: No, thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for explaining the service charge!  It makes sense now that I understand the upgrade details.
+Sentiment: Positive

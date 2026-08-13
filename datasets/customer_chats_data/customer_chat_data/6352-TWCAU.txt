@@ -1,0 +1,17 @@
+Customer ID: 6352-TWCAU
+Topic: downloaded movie cannot play
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't seem to play the movie I downloaded yesterday.  The file isn't playable. 
+Agent: Thank you for contacting us, what is the title of the movie and the error message you are seeing? 
+Customer: It's called "Ocean's Eight" and it says, "Unable to open/decode video stream". 
+Agent: I understand your frustration, let me pull up your account.  Your Fiber connection has been excellent. 
+Customer: Great!  Thanks. 
+Agent: We checked the movie file. It is corrupted. 
+Customer: Oh wow. Thanks for looking into it! 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for quickly resolving my issue with "Ocean's Eight"!  Really appreciate the prompt and helpful service."
+Sentiment: Positive

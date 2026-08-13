@@ -1,0 +1,23 @@
+Customer ID: 3006-XIMLN
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's very slow and keeps dropping. 
+
+Agent:  I understand your frustration. Can you please tell me what device you're using and if you've recently made any changes?
+
+Customer: My laptop is connected via ethernet, and I haven’t changed anything recently. 
+ 
+Agent: Alright, let me check the status of your connection. Give me a moment to run some diagnostic checks...  
+
+Customer: Thanks for checking
+
+Agent: ...We're seeing some network congestion in your area right now. We are working on it!   
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and letting me know about the issue.
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 9323-HGFWY
+Topic: customer requests escalation to specialist
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble streaming my shows due to slow internet speeds. 
+Agent: Hello!  I understand you're experiencing slow internet speeds. To help me better assist you, could you please provide your account details?
+Customer: Sure, my name is John Smith, and my account number is [Account Number]. 
+Agent: Thank you, John. I see your account has been active for a year now. We also noticed that you're currently on our Fiber optic plan.
+Customer:  I just can't seem to get the speeds I expected. Is there any way to escalate this to a specialist? 
+Agent: Absolutely!  I have already escalated your case and will reach out to one of our specialists for further assistance.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick action, appreciate the help with getting my streaming issue resolved."
+Sentiment: Positive

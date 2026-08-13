@@ -1,0 +1,20 @@
+Customer ID: 7929-DMBCV
+Topic: customer dissatisfied with music catalog
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My music catalog has been getting worse lately. I used to love it, but now there's just a bunch of repeats and not much variety. 
+
+Agent:  I understand your frustration. We strive to offer a diverse and engaging music library. Could you tell me more about what specifically has changed in the catalog?
+
+Customer:  Well, for example, I can't find any new artists from my favorite genre. It feels like all the good stuff is gone. 
+
+Agent:  I apologize for this, but we do rotate our catalog regularly to introduce fresh content. Can you tell me what you were hoping to see added?
+
+Customer:  Exactly! A bit more variety in genres and a better selection of new releases would be great. It feels like I'm stuck in the same old tunes. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate your explanation, but it seems like my music recommendations are stuck in a rut.
+Sentiment: Negative

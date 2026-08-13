@@ -1,0 +1,16 @@
+Customer ID: 9507-EXLTT
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey! My internet connection has been really slow and dropping in and out.  
+Agent: Hi there! I’m sorry to hear about your recent internet issues. Could you please provide me with your account number and email address so I can look into this further? 
+Customer: Sure, it's [account number] and my email is [email]. 
+Agent: Thank you.  I see that you have a fiber optic plan and are on a month-to-month contract. Let me check the status of your connection for you now.
+Customer: Thanks! I hope to get this sorted out soon.  
+Agent: No problem, we'll get your internet back up and running smoothly. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for resolving my slow internet! Hopefully this will stay fixed."
+Sentiment: Positive

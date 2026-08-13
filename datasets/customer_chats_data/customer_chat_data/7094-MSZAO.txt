@@ -1,0 +1,17 @@
+Customer ID: 7094-MSZAO
+Topic: websites load slowly despite active connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble loading websites on my computer. 
+Agent:  I understand you're experiencing slow website loading times. Can you tell me your internet connection speed and what sites are affected?
+Customer: My internet is working fine, but the sites load very slowly.
+Agent:  Are these websites always loading slowly or just recently?  
+Customer: It started a week ago when everything was normal before. 
+Agent:  I'll check your account and connection to see if there are any service outages impacting website performance.
+Customer: Thank you.
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for looking into it, I appreciate the quick response."
+Sentiment: Positive

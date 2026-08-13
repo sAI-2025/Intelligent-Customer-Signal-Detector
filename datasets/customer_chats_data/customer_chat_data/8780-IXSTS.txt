@@ -1,0 +1,17 @@
+Customer ID: 8780-IXSTS
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having a slow internet connection today. It’s like molasses flowing through a straw. 
+Agent:  I understand your frustration. What device are you using to connect to the internet? 
+Customer: My laptop, and it’s been happening all afternoon.
+Agent:  Can you tell me more about what specifically is slow for you? For example, are you having trouble loading websites or streaming videos? 
+Customer: Everything’s just painfully slow. I even have trouble sending emails!
+Agent:  I see a few reports of slower speeds during peak hours. You're using fiber optic internet, and your contract is month-to-month. Would you like to consider upgrading to our Priority Service for faster speeds during busy times? 
+Customer: Thanks for the info. But I’ve got my fingers crossed, maybe it will fix itself!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for checking in on the slow internet. Hopefully things improve soon!"
+Sentiment: Positive

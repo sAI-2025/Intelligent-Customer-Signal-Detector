@@ -1,0 +1,18 @@
+Customer ID: 8246-SHFGA
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My Wi-Fi signal is really weak in my bedroom.  It's almost unusable.
+Agent: I understand your frustration with the weak Wi-Fi signal. Can you please provide me with your account information so I can further investigate this issue? 
+Customer: Sure, it's [Account name]. 
+Agent: Thank you for providing your account details. Let me take a look into your network logs and see what we can find. 
+Customer: Thanks!  
+Agent: Please hold while I check on the issue.  
+Agent: We have identified a possible interference with the signal in that room, and I've got a potential solution for you.
+Customer: Great, thank you!   
+Agent: You can expect your Wi-Fi signal to be back to its usual strength within 30 minutes. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful this was resolved quickly and efficiently!  Good job!"
+Sentiment: Positive

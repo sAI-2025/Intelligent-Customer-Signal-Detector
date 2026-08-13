@@ -1,0 +1,15 @@
+Customer ID: 4439-YRNVD
+Topic: customer questions taxes or regulatory fees
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! I just had a question about my monthly bill. Is there any tax or regulatory fee added on top of the $36.25? 
+Agent:  Hi there!  Yes, there is a small federal and state sales tax that's applied to your final bill. It averages around 5-10%.   
+Customer:  Oh, ok. Thanks for letting me know.
+Agent: You're welcome! Let me know if you have any other questions. 
+Customer:  Thanks again. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The explanation was helpful and clear. Thanks!"
+Sentiment: Positive

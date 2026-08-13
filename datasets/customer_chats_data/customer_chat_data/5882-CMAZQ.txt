@@ -1,0 +1,20 @@
+Customer ID: 5882-CMAZQ
+Topic: customer cannot use data-intensive applications
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't use my data-intensive apps like streaming and gaming anymore. My connection is slow. 
+Agent:  I understand your concern. Can you please provide me with your account details? 
+Customer: Sure, it's [Customer Name], Account #[Account Number]. 
+Agent: Thank you! I have checked your account and found that there might be some congestion in your area. 
+Customer: Okay.  Is there anything I can do to improve my connection speed?
+Agent: We offer a variety of plans to ensure optimal performance with higher bandwidths, such as our Unlimited Data Plan. 
+Customer: That sounds great! How much would that cost?  
+Agent: The plan starts at $49.95 per month and provides unlimited data. Would you like me to set it up for you? 
+Customer: Yes, please. 
+Agent: I have activated your new plan and will ensure a smooth transition. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very helpful and fast resolution! Thanks for getting my data speed sorted out.
+Sentiment: Positive

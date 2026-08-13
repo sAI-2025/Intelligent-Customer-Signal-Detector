@@ -1,0 +1,17 @@
+Customer ID: 0248-IPDFW
+Topic: customer cannot view plan details
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble viewing my plan details. 
+Agent:  I understand. Can you please tell me what kind of device and browser are you using?
+Customer: I'm on my laptop, Chrome browser.
+Agent: Okay, let me check your account. It looks like you have a month-to-month contract for $50.10 per month. 
+Customer: My plan details aren’t showing up. 
+Agent:  I see the issue, it seems there was a technical glitch. 
+Customer: Great!
+Agent: We'll fix this right away. Thanks for your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting my plan details sorted out quickly!
+Sentiment: Positive

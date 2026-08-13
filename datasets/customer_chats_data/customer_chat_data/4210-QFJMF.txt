@@ -1,0 +1,19 @@
+Customer ID: 4210-QFJMF
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having really high latency and ping while trying to stream a movie online. It's been happening on and off for the past few days.
+
+Agent:  I understand your frustration with the lagging speeds. Can you please provide me with your account details so I can look into this further? 
+
+Customer: Sure, here are my account information: XXXXXXX-XXXX-XXXXXXX
+Agent: Thank you. Based on the details provided, it seems like your connection might be experiencing some interference due to a recent power fluctuation in your area. 
+
+Customer: Okay, thanks for letting me know. Hopefully, the issue will be resolved quickly.  
+
+Agent: We're working on getting that sorted out for you.  We will let you know if there are any updates. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the explanation and update! Hope things get back to normal soon."
+Sentiment: Positive

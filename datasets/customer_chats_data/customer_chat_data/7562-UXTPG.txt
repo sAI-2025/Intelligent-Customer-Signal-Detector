@@ -1,0 +1,17 @@
+Customer ID: 7562-UXTPG
+Topic: activation completed but service unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I just finished activating my fiber internet service but it doesn’t seem to be working yet. 
+Agent:  I understand your frustration, [Customer Name]. Can you please provide me with your account details?
+Customer: Sure, my name is John Smith and my account number is 123456789. 
+Agent: I see your account, John. An issue has been identified with the activation process and we're working on it.
+Customer:  Okay, thanks. Can you give me an estimated time when I should expect service to be up?
+Agent: We are currently investigating the issue and hope to have service restored within the next few hours. 
+Customer: Okay, thank you for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, hoping for a quick resolution!"
+Sentiment: Positive

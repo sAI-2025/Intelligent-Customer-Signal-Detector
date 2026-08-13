@@ -1,0 +1,25 @@
+Customer ID: 9541-ZPSEA
+Topic: password reset fails
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  I am trying to reset my password, but I keep getting an error message. 
+
+Agent:  I apologize for the inconvenience. Please provide your full name and email address associated with your account so we can help you with this issue.
+
+Customer: My name is John Smith and my email address is john.smith@example.com.
+
+Agent:  Thank you, John. We are looking into it. 
+
+Customer: I've already tried the password reset link in my email but it's not working.
+
+Agent:  I understand. Please provide your account number so we can check on the status of your request.
+
+Customer: It's 1234567890.
+
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was a frustrating process, but I appreciate the agent’s help getting my password reset."
+Sentiment: Negative

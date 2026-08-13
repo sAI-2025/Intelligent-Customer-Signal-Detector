@@ -1,0 +1,24 @@
+Customer ID: 3793-MMFUH
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I just checked and it's averaging 10 Mbps, while my plan says it should be at least 25 Mbps.
+
+Agent: I understand your concern, Mr./Ms. [Last Name].  
+
+Customer: Can you help me troubleshoot this?  My contract states a minimum upload speed of 25 Mbps.
+
+Agent:  Let's check your connection settings and router configuration first. We can review the details on your account.
+
+Customer: Okay, thanks.
+
+Agent: I'm checking your plan information now. 
+
+Customer: This is so frustrating, it's taking forever to upload files.
+ 
+Agent: You mentioned you are using fiber optic internet?  I will check for any potential issues with the service line. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: **Feedback:** I appreciate the Agent's prompt response and troubleshooting steps, though it would have been helpful to know about this issue sooner.
+Sentiment: Neutral

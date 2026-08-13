@@ -1,0 +1,21 @@
+Customer ID: 1197-BVMVG
+Topic: customer wants to upgrade internet speed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to upgrade my internet speed. 
+Agent:  I understand! What speeds are you interested in upgrading to?  
+Customer: I was thinking about 100 Mbps. 
+Agent:  Absolutely.  Let me check our availability and pricing for that at your current address.  
+Customer: That would be great, thank you. 
+Agent: No problem at all!  Our fiber optic service is currently on a month-to-month contract. Is this something you'd like to upgrade to?  
+Customer: Yes, I'm ready to make that change and it sounds good for me.   
+Agent: Great! We're happy to help you with that.  We do have an additional cost for upgrading the speed; 
+Customer: Okay.   
+Agent: It would cost $10 more a month. However, with our current promotional rate, your monthly bill will be $84.45.  
+Customer: I see.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very efficient and helpful process. Thanks!
+Sentiment: Positive

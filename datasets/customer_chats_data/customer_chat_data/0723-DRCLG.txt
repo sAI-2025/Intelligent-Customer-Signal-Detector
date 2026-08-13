@@ -1,0 +1,24 @@
+Customer ID: 0723-DRCLG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I can't access the internet at all. Is there an outage? 
+
+Agent:  I see there is an issue with your service. Could you please provide your account number and the last four digits of your phone number so we can check on the status?
+
+Customer: Sure, it's [account number] and my phone number is [phone number]. 
+
+Agent: Thank you for that information. I have located your account and confirmed a network outage affecting fiber optic connections in your area. We’re working to resolve this as soon as possible.  
+
+Customer: When can I expect internet back up?
+
+Agent: I apologize for the inconvenience, I'm not sure of an exact ETA yet but we will keep you updated. 
+ 
+Customer: Okay, thanks.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It would be helpful to have a more concrete timeframe for when internet service will be restored.
+Sentiment: Neutral

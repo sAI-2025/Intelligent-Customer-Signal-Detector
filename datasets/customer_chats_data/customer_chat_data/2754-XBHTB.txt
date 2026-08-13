@@ -1,0 +1,17 @@
+Customer ID: 2754-XBHTB
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having major lag issues while streaming video. It takes forever to load anything. 
+Agent:  I understand your frustration. Can you tell me what your current ping is?
+Customer: Around 150ms, it's terrible!
+Agent:  Thank you for that information. Our engineers are monitoring our network. I can offer a temporary workaround to improve the latency during this time until we resolve the issue.
+Customer: Okay, thanks.
+Agent:  Is there anything else I can help with at this moment? 
+Customer: No, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the temporary workaround, hopefully, the issue will be resolved soon."
+Sentiment: Neutral

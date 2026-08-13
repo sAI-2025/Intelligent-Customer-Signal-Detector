@@ -1,0 +1,31 @@
+Customer ID: 1248-DYXUB
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection has been slow and unstable lately. I can barely stream videos without buffering. 
+
+Agent: Thank you for contacting us!  I'd be happy to help investigate this issue with your connection. Can you please tell me your account number? 
+
+Customer:  My account number is 1234567890
+ 
+Agent: I see your account information now. I understand that you're experiencing slow and unstable internet.  I want to check a few things on my end. Would you mind if we do a brief speed test?
+
+Customer: Yes, please 
+
+Agent: Let me initiate a speed test for you.  
+ 
+Customer: Alright. 
+
+
+Agent: Thank you for your patience! The results indicate there may be an issue with the service in your area. I'll have a technician take a look at it today and get it resolved as soon as possible.
+
+Customer: Great, thank you so much. 
+
+Agent: Thank you for contacting us. 
+    
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was great help!  I appreciate the speed test and quick response to my issue.
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 1899-VXWXM
+Topic: customer dissatisfied with available TV content
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm really disappointed with the current TV lineup. There are just too many options that aren’t available on my plan. 
+Agent:  I understand your frustration. To help me best address this, could you please tell me your specific channel concerns?
+Customer: I'd like access to more premium channels like ESPN+ and Discovery+. My current plan doesn’t have them.
+Agent: Let me take a look at your subscription plan options to see if we can offer any additional channels or upgrades. 
+Customer: That would be great, thank you!
+Agent: Based on your plan details, it looks like the premium channels are not available through this specific package. Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the agent's willingness to help, it still feels frustrating that my chosen plan doesn't include these popular channels.
+Sentiment: Negative

@@ -1,0 +1,19 @@
+Customer ID: 0719-SYFRB
+Topic: additional phone line cannot be activated
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm trying to activate an additional phone line but it says it's not possible. 
+Agent:  I understand your issue, please provide me with your account information and the phone line number you are trying to activate. 
+Customer: Sure, my account name is [Account Name] and the phone line number I am adding is [Phone Number]. 
+Agent: Thank you for providing that information, we will be able to assist you further from here.  
+Customer: Ok great.  
+Agent: The additional phone line activation may take some time as we need to check your account settings.   Would you like me to check on the estimated activation time? 
+Customer: Yes please!   
+Agent: I can confirm that the activation process for your additional phone line will likely be completed within 24 hours.  Thank you for contacting us. 
+Customer: Thank you, and yes this is very important to me.    
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a great help, thanks! I appreciate the prompt and helpful information.
+Sentiment: Positive

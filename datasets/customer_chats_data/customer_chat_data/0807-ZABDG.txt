@@ -1,0 +1,17 @@
+Customer ID: 0807-ZABDG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. It seems completely unavailable.
+Agent: Hello! I understand your concern. I'd be happy to look into this for you. Can you please provide your account information or a brief description of your issue? 
+Customer: My name is [redacted] and my account number is [redacted].  I'm on the month-to-month plan, and it seems like DSL internet.
+Agent: Thank you, [redacted]. I see that your DSL connection is down. We are currently experiencing some network issues. Please hold while we check for updates. 
+Customer: Okay, thanks! 
+Agent:  I've investigated further, and there's an outage affecting your area. A technician will be dispatched to fix it soon. 
+Customer: Great, that's good to know. Thanks for the update.
+Agent: You're welcome! We will keep you updated on the progress of your service restoration. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this resolved quickly - much appreciated!
+Sentiment: Positive

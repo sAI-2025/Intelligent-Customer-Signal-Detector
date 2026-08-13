@@ -1,0 +1,18 @@
+Customer ID: 3841-CONLJ
+Topic: customer asks about available service plans
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble understanding what service plans are available to me. 
+Agent: Hello!  I understand you'd like to explore our different options. Can you tell me a bit about your usage needs?
+Customer:  I mainly use the internet for work and some casual browsing. My speed is fine but I don't use it very often, so I don't need anything super fancy.
+Agent: Okay, based on your DSL connection and monthly payment of $35, you might be eligible for our Essential Plan or the Basic Plan. 
+Customer:  How much does that cost? 
+Agent: The Essential Plan is $35 per month, while the Basic plan is $29. 
+Customer: Hmm, so if I choose the Basic plan, can I get an upgrade later on?
+Agent: You are welcome to upgrade anytime you need more bandwidth! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in explaining my options.  I'm happy with my decision to go with the basic plan for now.
+Sentiment: Positive

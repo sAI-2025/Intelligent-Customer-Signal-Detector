@@ -1,0 +1,24 @@
+Customer ID: 1403-LKLIK
+Topic: repeated playback errors during movies
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble playing movies again today.  They keep stopping after just a few minutes. 
+
+Agent:  I apologize for the inconvenience, could you please tell me your service plan and account number? 
+
+Customer: It’s the basic plan, my number is 1234567890.
+ 
+Agent: I see, let's check on your connection status. Are you experiencing any other issues besides playback errors? 
+
+Customer: No, just this problem.  I am in the same location as before. 
+
+Agent: Okay, thanks for providing that information.  Let me check what might be causing the issue. 
+ 
+Customer: Thanks 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful solution! Thanks for getting my movie playback fixed.
+Sentiment: Positive

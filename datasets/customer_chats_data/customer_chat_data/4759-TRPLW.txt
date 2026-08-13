@@ -1,0 +1,17 @@
+Customer ID: 4759-TRPLW
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the Wi-Fi in my bedroom. The signal is incredibly weak and inconsistent. 
+Agent: Hello! I understand your concern about your Wi-Fi signal. Can you please provide me with your account details or the address of your residence?
+Customer: My name is John Smith, and my contract number is #1234567.  My home address is 123 Main St, Anytown, USA.
+Agent: Thank you, John. I see that you're currently on a month-to-month plan for Fiber optic internet. Is this the specific room where you are experiencing the weakest signal?
+Customer: Yes, in the bedroom.  I just moved into this house and set up the Wi-Fi yesterday. 
+Agent: Let me check our records.  The signal is generally strong within your area. We'll need to have a technician take a look at your router or modem placement and wiring for possible improvements. 
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for the quick response and help, the issue seems resolved now!"
+Sentiment: Positive

@@ -1,0 +1,22 @@
+Customer ID: 8999-BOHSE
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble downloading files at a decent speed. My internet feels much slower than it should be.
+
+Agent: Hi there! We understand your concern regarding download speeds. Could you please tell me what kind of device and activities you are experiencing these issues with?
+
+Customer: Using my desktop computer for photo editing, videos, and downloading large files. 
+  
+Agent: I'd like to check your subscription details to see if there is any issue on our end.  
+
+Customer: My subscription is a month-to-month plan with the $89.7 monthly fee, and it's Fiber optic connection. I’ve been a customer for 11 months now. 
+
+Agent: Thank you for providing that information. We will address this issue by the end of the day.  
+ 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank goodness, it seems like my internet speed is back to normal! I appreciate your help."
+Sentiment: Positive

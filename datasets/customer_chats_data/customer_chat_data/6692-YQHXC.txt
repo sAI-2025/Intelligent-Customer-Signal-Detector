@@ -1,0 +1,17 @@
+Customer ID: 6692-YQHXC
+Topic: phone cannot connect to router
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet won't connect to my router. I get a message saying there is an error and it keeps restarting.
+Agent: Please provide your account number so we can check on the issue. 
+Customer: Sure,  [Account Number]
+Agent: Thank you for providing your account information. 
+Customer: Is there a problem with my service? What should I do?
+Agent: Let me check the fiber optic connection status. It's possible that there is a temporary outage or technical issue.
+Customer: Okay. Just let me know what happens. 
+Agent: We are currently working to resolve the issue. We will update you as soon as it's fixed.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: It would be great if you could provide an estimated time of resolution, even a rough timeline. Thanks!
+Sentiment: Positive

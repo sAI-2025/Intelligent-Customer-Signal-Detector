@@ -1,0 +1,15 @@
+Customer ID: 9418-RUKPH
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet keeps disconnecting!  I'm getting so frustrated. 
+Agent: I understand your frustration.  May I please have your account information and the time of day the disconnections occur?
+Customer: Sure, my name is [Customer Name], account #[account number]. It happens most often in the evenings around 7-8pm.  
+Agent: Thank you for that information, [Customer Name].  I'll check our records to see if there are any known issues with your area at that time.  
+Customer: That would be great! 
+Agent: I am looking into it and will get back to you as soon as possible.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for checking this out, hopefully the issue gets resolved quickly!"
+Sentiment: Positive

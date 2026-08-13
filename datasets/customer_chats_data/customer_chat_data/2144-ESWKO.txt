@@ -1,0 +1,17 @@
+Customer ID: 2144-ESWKO
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having trouble uploading files online at a decent speed. My upload speed is much slower than what I was expecting. 
+Agent: Hello! Thank you for reaching out to us.  I understand you're experiencing slow upload speeds.
+Customer: My contract says my speed should be around 5 Mbps, but it’s currently only getting me about 1 Mbps.
+Agent: Let's investigate this further. To help me troubleshoot the issue, could you please provide your account number and the device you are using for internet access?
+Customer: Sure, here's my account number [account number] and I am using a laptop.  
+Agent: Thank you! We can take a look at that. 
+Customer: I hope we can resolve this soon.
+Agent: Absolutely. Let me know if there's anything else, or I can check in with you later today. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and hopefully, the issue will be resolved quickly."
+Sentiment: Positive

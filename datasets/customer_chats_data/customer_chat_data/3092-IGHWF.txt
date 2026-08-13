@@ -1,0 +1,24 @@
+Customer ID: 3092-IGHWF
+Topic: playlist fails to load
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! My playlist isn't loading on my app and I'm not sure what to do. 
+
+Agent:  I understand your issue. Could you please tell me which device and app you're using?
+
+Customer: It's my phone, using the Xfinity Flex app.
+
+Agent: Thank you! I can take a look into this for you. What’s your account number?
+
+Customer: 1234567890
+
+Agent: Okay, thanks.  Let me just check the system and get back to you as soon as possible. 
+    
+Customer: No worries. Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The issue was resolved quickly and professionally, thank you!"
+Sentiment: Positive

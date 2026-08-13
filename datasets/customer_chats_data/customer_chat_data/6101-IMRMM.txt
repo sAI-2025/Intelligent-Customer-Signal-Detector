@@ -1,0 +1,20 @@
+Customer ID: 6101-IMRMM
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed has been much slower than expected this past week. Is there an issue on your end?
+
+Agent: I understand you're experiencing slow upload speeds. I can check on the status of your service. 
+
+Customer: I just started my service with you six months ago and am paying $94.5 per month for fiber optic internet.  Is there anything I should do to help speed things up?
+
+Agent:  Let me run a few diagnostics, please hold for a moment. 
+
+Customer:  Thank you!  
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "After speaking with the agent, I still have slow speeds and feel like my expectations were not met."
+Sentiment: Negative

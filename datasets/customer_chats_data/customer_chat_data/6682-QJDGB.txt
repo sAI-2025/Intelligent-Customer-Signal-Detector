@@ -1,0 +1,17 @@
+Customer ID: 6682-QJDGB
+Topic: device compatibility problem
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my new laptop to my DSL internet.  
+Agent: I understand you're having issues connecting your laptop.  Please provide me with your account information so I can troubleshoot this further. 
+Customer: My account name is [account name] and the device is a Lenovo ThinkPad X1 Carbon.
+Agent: Thank you, I see that the device should be compatible with our DSL service.  However, I'm seeing some issues with the connection settings.
+Customer: Can we fix this over the phone? 
+Agent: Let me try to resolve this through the chat window first, then call us back if needed.
+Customer: Thank you for your help!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the agent's efforts to resolve the issue over the chat, and I hope it gets fixed quickly.
+Sentiment: Positive

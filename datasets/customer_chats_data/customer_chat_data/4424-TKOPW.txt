@@ -1,0 +1,16 @@
+Customer ID: 4424-TKOPW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting a stable connection.  It's slow and keeps dropping out. 
+Agent: Hello! I understand your concern about the internet service. Could you please tell me your account details so I can check on the connection?
+Customer: Sure, my name is John Smith, and my account number is 12345678. 
+Agent:  I see your account, John. Let's take a look at the internet speeds from our system.
+Customer: It's been pretty inconsistent for the past couple of days.  Thanks!
+Agent: Thanks for letting me know, John. Based on our records, there isn't any reported outage in your area. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick response and explanation, though I still haven't seen a significant improvement in my internet speed.
+Sentiment: Neutral

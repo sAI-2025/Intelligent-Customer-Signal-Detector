@@ -1,0 +1,22 @@
+Customer ID: 2959-MJHIC
+Topic: customer needs equipment replacement
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been unreliable for the past few days and keeps dropping.  I need equipment replacement. 
+
+Agent: I understand your concern, let's get this sorted out for you. Please provide me with your account number. 
+
+Customer: It's [account number] 
+
+Agent: Thank you for providing that information. We will send a technician to replace the faulty modem. How long is your contract?  
+
+Customer: I'm on a month-to-month plan and pay $80.35 per month. 
+
+Agent: Okay, we understand the details of the service. We’ll ensure this is resolved by the end of the day. 
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for getting this issue sorted out so quickly!  I appreciate your help.
+Sentiment: Positive

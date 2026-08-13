@@ -1,0 +1,18 @@
+Customer ID: 1760-CAZHT
+Topic: router cannot connect to internet
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is not connecting at all. I've restarted my modem and router, but nothing works. 
+Agent:  I understand your frustration. Can you please tell me your account number and the exact address where you are experiencing connectivity issues?  
+Customer: My account number is 1234567890 and I live at 123 Main Street. 
+Agent: Thank you for providing that information. Let's get this sorted out.  I need to check your router configuration. Please hold. 
+Customer: Okay, thanks.
+Agent: Your router is currently not configured to use the correct IP address and subnet mask for our network. We will fix it shortly. 
+Customer: Ok, great! Thanks for your help. 
+Agent:  Your internet connection should be active now. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting my internet working again! I appreciate the quick and efficient resolution."
+Sentiment: Positive

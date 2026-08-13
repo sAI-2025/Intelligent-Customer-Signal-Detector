@@ -1,0 +1,18 @@
+Customer ID: 7126-RBHSD
+Topic: additional service charge is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I just received my bill and noticed a new charge for an additional service fee. Can you explain what this is? 
+Agent:  I'd be happy to help with that, sir.   Could you please provide me with your account number or the date of your bill? 
+Customer: My account number is [account number]. The billing period was April 1st - April 30th. 
+Agent: Thank you for providing that information.  The additional service fee relates to the installation of your Fiber optic internet service and covers equipment charges.
+Customer: I understand, but it seems high for such a small area. 
+Agent:  I can certainly check for any potential issues with the price calculation. 
+Customer: Okay. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful, but I still feel that the installation fee is excessive for my service area.
+Sentiment: Negative

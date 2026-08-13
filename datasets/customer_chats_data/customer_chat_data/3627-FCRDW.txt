@@ -1,0 +1,16 @@
+Customer ID: 3627-FCRDW
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's super slow during peak hours.
+Agent:  I understand your concern. Can you please provide me with your account number or name and the specific device experiencing this issue? 
+Customer: My account number is [redacted] and my Wi-Fi router is a Netgear Nighthawk AX8.
+Agent: Thank you for that information. I've checked our network logs, but it appears there may be an ongoing congestion during peak hours. 
+Customer:  Is there any way to speed things up until this issue gets resolved?
+Agent: We are currently working on optimizing our network infrastructure and will be resolving the issue by the end of the day.
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the congestion. It's frustrating to have slow speeds, but I appreciate the update!"
+Sentiment: Positive

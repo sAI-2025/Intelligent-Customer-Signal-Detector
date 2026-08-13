@@ -1,0 +1,28 @@
+Customer ID: 5896-NPFWW
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is really slow today, especially during peak hours. 
+
+Agent: I understand your concern, let me check on your account.  Can you please tell me your full address and which device you're experiencing the slow speeds from?
+
+Customer: 123 Main Street, Anytown, CA 90210 - It's happening from my laptop. 
+
+Agent: Thanks for that information. I see there were some network congestion reports during peak hours today.  Are you seeing a specific slowdown in speed? 
+
+Customer: Yes, it seems like everything is loading extremely slowly. Even simple tasks are taking forever. 
+ 
+Agent:  I'll look into the issue and see if we can troubleshoot that for you. Would you mind holding on for just a minute while I do some checking?
+
+Customer: Sure.
+
+Agent: I found that your speed seems to be fluctuating during peak hours today. We might have to adjust your plan or speeds temporarily. 
+
+Customer: Okay, thanks.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the update and quick response.  Hopefully the speed adjustments help!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 9318-NKNFC
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet connection has been really slow and unstable lately. 
+Agent:  I understand your frustration! Can you please tell me what kind of issues you are experiencing? 
+Customer: I can't stream movies without buffering, and my downloads take forever.
+Agent:   Okay, thanks for that info. Would you mind checking your signal strength? 
+Customer: I don’t see any signal strength issues on my router or modem.  
+Agent: Could you please try a different device to test the speed? 
+Customer: Okay, it seems faster on my laptop than my phone. Thank you for your help!
+Agent: No problem at all. We appreciate you letting us know. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I'm glad to have the issue resolved!
+Sentiment: Positive

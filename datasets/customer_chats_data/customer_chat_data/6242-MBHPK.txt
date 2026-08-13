@@ -1,0 +1,18 @@
+Customer ID: 6242-MBHPK
+Topic: modem or router unable to establish connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my internet.  My modem isn't working. 
+Agent: Hello! I'd be happy to help. What device are you using to connect?
+Customer: My computer is the issue. 
+Agent: Could you please run a speed test and tell me the results?
+Customer: It’s not connecting at all. 
+Agent: Okay, I see your connection has been down for several hours now. Let me check on that.
+Customer: Thanks!  
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in resolving my internet issue.
+Sentiment: Positive

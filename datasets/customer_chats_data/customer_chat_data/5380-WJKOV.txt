@@ -1,0 +1,17 @@
+Customer ID: 5380-WJKOV
+Topic: additional service charge is unclear
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I was just charged an extra $10 on my bill this month and it wasn't listed in my initial terms.  Can you please explain this? 
+Agent: Of course! Please provide your account number so I can take a look at your billing details. 
+Customer: Sure, it is [account number].   
+Agent: Thank you for providing your account number. It looks like an additional service charge of $10 was applied to cover the cost of equipment rental.  
+Customer: Oh, I just wasn't expecting that extra fee. Was this something I should have been aware of? 
+Agent: You are correct; it's not explicitly stated in your monthly invoice. We usually include a service charge for equipment rental on new contracts for fiber optic internet.   
+Customer: Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for clarifying the extra $10 fee.  It would be helpful to have that information upfront in future invoices.
+Sentiment: Neutral

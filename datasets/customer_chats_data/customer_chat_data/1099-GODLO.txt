@@ -1,0 +1,27 @@
+Customer ID: 1099-GODLO
+Topic: activation completed but service unavailable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My service has been activated, but I can't connect to the internet. 
+
+Agent:  Hi there! I see your account is active and that you haven’t been able to connect yet. Can you tell me which modem/router you are using?
+
+Customer: It's a standard model from Spectrum.
+
+Agent: Okay, I have found some recent issues with your area. We will need to look into this further for you. 
+
+Customer:  Ok.  Can you give me an ETA on when the service should be available?
+
+Agent:  I can definitely help with that. Would you like to go ahead and refresh your internet connection now? 
+
+Customer: No, thanks. Let me know what’s happening.
+ 
+Agent: I apologize for the inconvenience and will keep you updated. Thank you for contacting us.  
+
+
+**Thank you for contacting us.**
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would have been nice to get a more concrete timeline."
+Sentiment: Neutral

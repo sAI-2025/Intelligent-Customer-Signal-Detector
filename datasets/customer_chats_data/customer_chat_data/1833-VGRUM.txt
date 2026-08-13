@@ -1,0 +1,17 @@
+Customer ID: 1833-VGRUM
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is extremely slow! I can barely do anything online. What’s going on?
+Agent:  I understand your concern, Mrs. Smith. Let's take a look into this. Can you please provide your account details and the device/application you're using? 
+Customer: Sure. My account number is 1234567890. I am using my desktop computer to browse the internet. 
+Agent: Alright, thank you. We’ll check on your Fiber connection.  Could you be experiencing a high latency or ping during your usage? 
+Customer: Yes, the speed is so slow that it's almost unusable. It’s like trying to watch Youtube in slow motion. 
+Agent: I see this issue on our end. Our network team is actively working on resolving this for you.  Would you prefer a temporary connection speed increase or a call back when it’s resolved?
+Customer: A call back would be best, please! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful I'll have a call back to get this issue resolved.  Hopefully, the service speeds up soon!"
+Sentiment: Positive

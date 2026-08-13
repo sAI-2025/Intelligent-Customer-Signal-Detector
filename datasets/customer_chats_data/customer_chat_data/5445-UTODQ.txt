@@ -1,0 +1,17 @@
+Customer ID: 5445-UTODQ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is really slow right now! It feels like I can barely browse. 
+Agent:  I understand your frustration. May I have your account details, please? 
+Customer: Sure, my name is [Name], and my account number is [Account Number].
+Agent: Thank you, [Name].  I've already checked your connection status and it appears to be congested during peak hours.
+Customer: Okay, thanks for checking!
+Agent: We can offer a temporary solution while we investigate the root cause of the congestion. 
+Customer: Cool, that would be great. 
+Agent: I'll see what I can do. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick response and offering a workaround!  Hopefully we can get this sorted out soon.
+Sentiment: Positive

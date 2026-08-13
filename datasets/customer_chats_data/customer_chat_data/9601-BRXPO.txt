@@ -1,0 +1,17 @@
+Customer ID: 9601-BRXPO
+Topic: customer requests compensation for poor service
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I am writing to request compensation for the recent service outage that lasted over 24 hours. My internet was completely down for an entire day.  
+Agent: I understand your frustration with the extended downtime.  I'd like to take a closer look at your account and the details of this incident. Can you please provide me with your account number?
+Customer: [account number] 
+Agent: Thank you, [account number].  Based on the outage duration and the impact it had on your work schedule, we would be happy to offer a partial refund for this service disruption. 
+Customer: This is certainly something I'd appreciate.  How much would that amount be?
+Agent: We will credit your account with $50 for this incident. 
+Customer: Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was nice to see the agent take action and offer a fair resolution for the service outage!
+Sentiment: Positive

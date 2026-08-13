@@ -1,0 +1,19 @@
+Customer ID: 8245-UMPYT
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been very slow lately, especially during peak hours. I'm getting frustratingly low speeds. 
+Agent: Hello! Thank you for reaching out to us today.  I can definitely help you with that. What is your account name? 
+Customer: John Smith
+Agent: Thanks, John Smith. Could you please tell me a little more about what kind of issues you're experiencing and when the slowdowns occur most often? 
+Customer: It seems like everything slows down between 7pm and 9pm.  I can barely stream movies or video calls.
+Agent: I understand your frustration, John Smith.  Let's see if we can troubleshoot this. Could you try temporarily disabling any background applications running on your device while streaming? 
+Customer: Okay, I'll give that a try. 
+Agent: Thank you! Let me know if anything changes or you need any further help. 
+Customer: Thanks.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and the troubleshooting tips were useful, hopefully my internet will return to normal soon.
+Sentiment: Neutral

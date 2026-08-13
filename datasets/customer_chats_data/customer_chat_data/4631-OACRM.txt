@@ -1,0 +1,16 @@
+Customer ID: 4631-OACRM
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need to report frequent internet disconnections.  It's been happening almost every day since last week.
+Agent:  I apologize for the inconvenience. Can you please provide your account number and the date/time of the disconnections? 
+Customer:  My account number is 1234567890. It started on Friday, October 27th around 10:00 PM.
+Agent: Thank you for the information. I'm investigating this issue right away. Could you please confirm if you are using any other devices connected to your network?
+Customer:  I have a laptop and my smart TV connected. No other devices are on the network.
+Agent:  Thank you. I'll take it from here, we'll get this resolved for you soon. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully this gets sorted out quickly as frequent disconnections are frustrating."
+Sentiment: Negative

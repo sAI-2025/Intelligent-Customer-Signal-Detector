@@ -1,0 +1,24 @@
+Customer ID: 2632-UCGVD
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is slower than expected. I just checked it and it's only 10 Mbps. 
+
+Agent:  I understand your concern about your upload speeds. Please provide me with your account information or the customer ID so I can look into this for you. 
+
+Customer: Sure, my name is John Smith and my account number is #12345678.  
+
+Agent: Thank you, John.  I've checked your account history and it appears that your speed should be closer to 50 Mbps.   
+
+Customer: Well, this is frustrating! I'm paying $100 a month for Fiber and expect better speeds than this.  
+ 
+Agent:  My apologies for the inconvenience. Is there anything else I can assist you with today?
+ 
+Customer: No, I think that’s all. 
+   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation, I'm still disappointed by the significantly slower speeds compared to the advertised package."
+Sentiment: Negative

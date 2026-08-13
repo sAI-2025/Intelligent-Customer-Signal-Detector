@@ -1,0 +1,17 @@
+Customer ID: 0742-NXBGR
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having trouble connecting to the internet.  The connection is completely down. 
+Agent: We understand this is frustrating. Can you please confirm your account number and the last time you were able to connect?
+Customer: Sure, my account number is XXX-XXXX. And it was working about an hour ago. I haven't had any outages before.  
+Agent: Thank you for providing that information. We are currently investigating this issue with our network. 
+Customer: Is there a timeframe when I might be able to get back online?
+Agent: Our engineers are working to resolve the issue, and we anticipate restoring service within the next few hours. 
+Customer: Okay. Thank you for your help! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The communication was helpful throughout, and it's good to know I'll have internet back soon."
+Sentiment: Positive

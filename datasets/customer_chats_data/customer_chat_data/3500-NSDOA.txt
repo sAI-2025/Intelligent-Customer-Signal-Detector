@@ -1,0 +1,17 @@
+Customer ID: 3500-NSDOA
+Topic: customer cannot access subscribed TV channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't seem to access my subscribed TV channels today. 
+Agent:  I understand your issue. Please provide your account information so we can help troubleshoot this issue for you.
+Customer: Sure, my name is [customer name], and my account number is [account number].  
+Agent: Thank you for providing that info, [customer name]. I'm looking into the channel access now. 
+Customer:  I appreciate your prompt response! 
+Agent: We're working on resolving this problem. Let me know if anything changes or if you need further assistance. 
+Customer: Okay, thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and resolved the issue quickly.
+Sentiment: Positive

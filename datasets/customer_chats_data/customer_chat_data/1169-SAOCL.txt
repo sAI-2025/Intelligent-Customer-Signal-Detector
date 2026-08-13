@@ -1,0 +1,17 @@
+Customer ID: 1169-SAOCL
+Topic: TV audio and video out of sync
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello! I'm having trouble with my TV audio and video being out of sync. 
+Agent:  I understand your concern, what TV service provider are you using? And which device is experiencing the issue?
+Customer: I use Spectrum and my Roku TV. It’s happening on all channels.
+Agent: Okay, thanks for providing that information. I will need to gather some details about your account to help troubleshoot the issue. Please let me know your account number and email address. 
+Customer:  Here you go. (account numbers and email)
+Agent: Thank you for your patience. Let's see if we can get this fixed quickly. We may have a software update available that will resolve this. Just give me a few minutes to check the details, and I’ll be back in touch shortly. 
+Customer: Great! Thanks so much.  
+Agent: No problem. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my issue! Hopefully the software update works.
+Sentiment: Positive

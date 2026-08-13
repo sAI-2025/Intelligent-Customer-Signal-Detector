@@ -1,0 +1,16 @@
+Customer ID: 3230-IUALN
+Topic: music streaming uses unexpected data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I’m having trouble understanding my recent data usage on my music streaming plan. 
+Agent: Hi there!  I understand you're concerned about your data usage. Can you tell me more about which app or service is causing the issue?
+Customer: It seems like Spotify and Netflix are using more than usual, even when I’m not actively using them.
+Agent:  Would you mind checking your phone and Wi-Fi router settings for any unusual activity on those devices? 
+Customer: Okay, thanks! 
+Agent: No problem at all. If the issue persists after looking into that, we'll be able to take a closer look at your plan details. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and walked me through some troubleshooting steps - hopefully this will resolve my data usage concerns.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 2404-JIBFC
+Topic: service does not meet advertised expectations
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed has been consistently slower than advertised. I'm paying $85/month and expected 20 Mbps download speed. Is there something I can do?
+Agent: Hi there! Thank you for contacting us. To better understand your issue, could you please provide your account number or the email address associated with your service? 
+Customer:  My account number is [account number], and my email is [email address] 
+Agent: I apologize to hear about this slow speed issue. Let me check on our records and see if we can expedite a resolution for you. 
+Customer: Thank you, but it's frustrating that my speeds are so much slower than advertised.  
+Agent: I understand your frustration, and I want to get this sorted out. I'm going to look into the details of your account and see what options might be available. We can look at a speed boost for you. 
+Customer: Great! Thank you. 
+Agent: Thank you for contacting us. 
+  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quick to offer solutions, which I appreciate.
+Sentiment: Positive

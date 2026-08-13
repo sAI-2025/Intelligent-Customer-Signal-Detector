@@ -1,0 +1,16 @@
+Customer ID: 5364-XYIRR
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with my internet connection - it's incredibly slow. 
+Agent:  I understand your frustration. Can you tell me a little more about what's happening? 
+Customer: My ping is really high during gameplay and streaming videos. I can barely load websites quickly, too. 
+Agent: Let me take a look at your account details. 
+Customer: Sure, it’s been like this for a while now. Fiber optic connection.  I just want to enjoy my content. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into the issue! Hopefully, things will be much better now."
+Sentiment: Positive

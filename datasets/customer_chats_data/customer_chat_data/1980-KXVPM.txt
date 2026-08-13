@@ -1,0 +1,17 @@
+Customer ID: 1980-KXVPM
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is terrible! I'm only getting about 10 Mbps, and it's supposed to be 50.  I need this for work.
+Agent: Thank you for contacting us. Can you please provide your account number and the specific location where you are experiencing slow speeds? 
+Customer: Here's my account number [account number]. I'm in a house, not a building. My speed is really bad all across town. 
+Agent: We apologize for the inconvenience.  Let me check on the connection status. 
+Customer: Thanks.
+Agent:  The fiber optic line appears to be under heavy usage by several customers at the moment. You may experience some slow speeds until it settles down. 
+Customer: Okay.  I am frustrated though, especially since my contract says I'm supposed to get 50 Mbps upload speed! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation, I still find it frustrating that this slow connection is affecting my work despite the contract promise.
+Sentiment: Negative

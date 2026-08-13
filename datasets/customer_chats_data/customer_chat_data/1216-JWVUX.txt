@@ -1,0 +1,17 @@
+Customer ID: 1216-JWVUX
+Topic: customer cannot receive verification calls
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble receiving verification calls from your company. 
+Agent:  I understand you're experiencing difficulties with verification calls. Let's try to resolve this for you. What kind of device are you using for the call?  
+Customer: My smartphone.
+Agent: Okay, have you checked your phone settings and make sure it's not on Do Not Disturb mode or silent? 
+Customer: I did, but it still isn't working. 
+Agent: We've also noticed that your internet service plan has been renewed this month.  Please wait a few minutes for us to check further.   
+Customer:  Okay, thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This issue was frustrating, but the agent was helpful and patient in trying to resolve it.
+Sentiment: Negative

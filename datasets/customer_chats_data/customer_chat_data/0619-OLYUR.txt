@@ -1,0 +1,17 @@
+Customer ID: 0619-OLYUR
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having a lot of issues with high latency or ping during my online gaming sessions. 
+Agent:  I understand your frustration. Can you please tell me your account details and what specific games you are experiencing slowdowns in? 
+Customer: Sure, my account details are [account information redacted].  The problem happens when I play [specific game mentioned].
+Agent: Let me check our network logs for the past few hours. 
+Customer:  Thanks. 
+Agent: The latency spikes seem to be coming from your location.  We're working on a solution, and you should see improvement within the next 24 hours. 
+Customer: Alright, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I appreciate the quick response and will keep an eye out for improvements."
+Sentiment: Positive

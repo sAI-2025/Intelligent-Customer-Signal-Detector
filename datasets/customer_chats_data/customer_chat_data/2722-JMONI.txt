@@ -1,0 +1,17 @@
+Customer ID: 2722-JMONI
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet connection.  It keeps disconnecting frequently.
+Agent: I understand, I apologize for the inconvenience. Can you tell me your account details? 
+Customer: Sure, my name is William Smith. My account number is 1234567890.
+Agent: Thank you, Mr. Smith. Let me look into this for you.  It sounds like there might be an issue with your DSL line.
+Customer: I hope it's something simple.
+Agent: I'll check the line speed and history to see what's going on. 
+Customer: Okay. Thanks!
+Agent: No problem, Mr. Smith. We're here to help. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for your help, it appears the issue is resolved now.
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 5569-OUICF
+Topic: previously resolved problem has returned
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I was just experiencing some issues with my internet today. 
+Agent:  I understand. Can you tell me more about what's happening? What is your account number and service address? 
+Customer: My account number is #4567890. It's at 123 Main Street, Anytown, USA.
+Agent: Thank goodness we have that information!  We were able to resolve that issue a couple weeks ago but it appears to be happening again.
+Customer: I'm sorry, what do you mean? 
+Agent: We are seeing a lot of dropped connection issues for your account, particularly during peak hours.
+Customer: Okay. How can we fix this?
+Agent:  I have escalated this issue to our technical team and they will be checking into it right away. I'll keep you updated on their progress.
+Customer: Great, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful process! Thanks for getting my internet back up and running.
+Sentiment: Positive

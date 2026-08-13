@@ -1,0 +1,17 @@
+Customer ID: 5855-EIBDE
+Topic: referral discount not applied
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just finished my billing cycle and I don’t see the referral discount on it. 
+Agent: Hi there! I'd be happy to help with that. Can you please provide your account information so I can look into this for you?
+Customer: Sure, my account number is XXX-XXXX-1234.  My name is [customer name] and I have a two-year contract. 
+Agent: Thank you! I see you have been with us for a long time. Do you want me to take a look at your billing details? 
+Customer: Thanks, that would be great. 
+Agent: Let's review. It looks like the discount was applied, and it should be reflected on your bill.  
+Customer: Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out quickly! I appreciate the help."
+Sentiment: Positive

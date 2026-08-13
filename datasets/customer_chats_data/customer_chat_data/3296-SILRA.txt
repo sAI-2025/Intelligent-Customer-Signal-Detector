@@ -1,0 +1,18 @@
+Customer ID: 3296-SILRA
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my download speed. It's significantly slower than what I paid for in my plan. 
+Agent: Hi there! I understand that you're experiencing slow internet speeds and are concerned about your plan.  Can you tell me which speeds you're seeing?
+Customer: Well, it's like a crawl at times. My speed test shows only half the speed I should be getting.
+Agent:  I see what's happening in your account. Let me double-check with our engineers. 
+Customer: Thank goodness! I just signed up for the plan last month.
+Agent:  No problem, we'll take a look at it. Give us a couple of minutes.
+Customer: Alright, thanks so much for helping.
+Agent: You’re welcome! We should have an update for you soon. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the prompt response and quick fix!  Hope this speeds things up."
+Sentiment: Positive

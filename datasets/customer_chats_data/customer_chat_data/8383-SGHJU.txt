@@ -1,0 +1,18 @@
+Customer ID: 8383-SGHJU
+Topic: customer wants to add another line
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to add another line to my account. 
+Agent:  Certainly! I can help with that. What type of service are you looking to add?
+Customer: I want a similar plan to the one I already have for high-speed internet.
+Agent:  Okay, and would you be interested in a promotional offer? We have some deals on new lines right now. 
+Customer:  I'd appreciate that.  
+Agent:  Great! Can you confirm your current account information please? 
+Customer: My name is [Name] and my account number is [Account Number]. 
+Agent:  Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks! 😊
+Sentiment: Positive

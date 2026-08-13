@@ -1,0 +1,16 @@
+Customer ID: 2969-VAPYH
+Topic: customer unable to update account information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't seem to update my account information online. 
+Agent: Hello!  I understand your frustration. To help me assist you better, could you please provide me with your account number and the specific changes you'd like to make? 
+Customer: My account number is XXXXXXX1234. I want to change my email address and phone number. 
+Agent:  Absolutely! Please confirm your new email address and phone number for verification purposes. 
+Customer: My new email address is johndoe@email.com, and my new phone number is 555-123-4567.
+Agent: Thank you! I'm updating your information now.  Your account will be updated within 24 hours. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, thanks for resolving my issue so quickly!
+Sentiment: Positive

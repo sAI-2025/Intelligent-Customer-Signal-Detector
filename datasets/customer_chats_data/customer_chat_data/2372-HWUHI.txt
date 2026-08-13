@@ -1,0 +1,20 @@
+Customer ID: 2372-HWUHI
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is terrible! It's barely 1 Mbps and I was expecting at least 5.  Is there anything you can do?
+
+Agent: Hi [Customer Name], I understand your frustration. We'll look into this to get things back on track for you. 
+
+Customer: Thanks, I hope it will be sorted out soon!
+
+Agent: We've identified a potential issue with the DSL line and have requested an engineer to perform a speed test and troubleshooting if needed.
+
+Customer: Okay, that sounds good.  Thank you!
+
+Agent: No problem at all. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Hopefully this speeds up my internet connection now!"
+Sentiment: Positive

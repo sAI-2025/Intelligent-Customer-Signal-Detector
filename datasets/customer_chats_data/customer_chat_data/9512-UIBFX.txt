@@ -1,0 +1,18 @@
+Customer ID: 9512-UIBFX
+Topic: phone cannot connect to carrier network
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My phone isn't connecting to the carrier network. 
+Agent: I understand your concern. Can you please provide your account number and the device model?  
+Customer: Here it is, 1234567890, and it's an iPhone 12 Pro.
+Agent: Thank you for that information.  Let me check on the connection status for your phone. 
+Customer:  Okay. 
+Agent: It appears there might be a temporary issue with your carrier service. I’m sending your request to our engineers to resolve this.
+Customer: How long will it take?
+Agent: We expect your service to resume within the next 30 minutes. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out! It's good to know there's a plan in place for a quick fix.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 0691-JVSYA
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my Wi-Fi signal in my living room. It's very weak. 
+Agent:  I understand your concern, can you tell me your account number and the address of the residence where the issue is occurring?
+Customer: My account number is 1234567890. It's at 123 Main Street.
+Agent: Thank you for providing that information.  I'll be happy to investigate this further.
+Customer: That would be great, thanks! 
+Agent: I have checked your account and the signal strength in your living room.  Would you like me to offer a temporary solution or suggest an upgrade?
+Customer: A temporary solution is perfect. Thank you. 
+Agent:  No problem at all, we can schedule a technician visit on Tuesday for the installation of a Wi-Fi extender. We'll let you know the time window beforehand so you are not inconvenienced.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick and helpful solution! The temporary fix worked perfectly.
+Sentiment: Positive

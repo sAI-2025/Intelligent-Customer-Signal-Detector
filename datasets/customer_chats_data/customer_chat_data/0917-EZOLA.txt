@@ -1,0 +1,19 @@
+Customer ID: 0917-EZOLA
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble getting a strong Wi-Fi signal in the dining room. 
+Agent:  I understand your concern, sir. Could you please tell me your account number and what device you are using?
+Customer:  My account number is [account number]. The problem seems to be affecting all devices. I am on my computer right now.
+Agent: Okay, I see that your service has been active for 72 months. We will need to do some troubleshooting. 
+Customer:  Thank you. Do I need a technician to come out?
+Agent:  I can help with that. Let me check what steps we can take.
+Customer: Great!
+Agent:  Alright, it looks like there might be interference in the dining room area. We have several options for this issue.
+Customer: Thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and resolved my problem quickly. Thanks!
+Sentiment: Positive

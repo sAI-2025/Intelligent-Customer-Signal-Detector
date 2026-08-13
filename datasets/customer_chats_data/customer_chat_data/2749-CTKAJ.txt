@@ -1,0 +1,17 @@
+Customer ID: 2749-CTKAJ
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection is really slow and unstable lately. It's making it hard to work from home. 
+Agent: I understand your frustration, we'd like to help you resolve this.  Can you please provide me with your account number? 
+Customer: Sure, my account number is [account number].
+Agent: Thank you for providing that information. We will look into the issue and get back to you shortly. 
+Customer: Thanks.
+Agent: We have identified a potential connectivity issue on your end and are working to resolve it.  
+Customer: That's great, thank you! 
+Agent: We appreciate your patience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks again for resolving my internet issues so quickly, I really appreciate the help!"
+Sentiment: Positive

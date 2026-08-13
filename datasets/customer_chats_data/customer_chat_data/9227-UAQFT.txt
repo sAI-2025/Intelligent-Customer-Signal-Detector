@@ -1,0 +1,18 @@
+Customer ID: 9227-UAQFT
+Topic: music streaming quality is poor
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble streaming music.  The quality is really bad! 
+Agent: I apologize for your poor experience. Can you tell me a bit more about what kind of issues you are experiencing? 
+Customer: It sounds like static and the songs sound muddy.  It was working fine before! 
+Agent: I understand, that's frustrating to deal with. Could you please provide your account number or email address so I can check on your service plan and any possible network issues? 
+Customer: Sure, my account number is [account number]. My email is [email]
+Agent: Thank you. I see you are currently on our No Internet plan.  Let me take a look at the connection in your area... 
+Customer: Okay! 
+Agent: ...and it seems like there might be a temporary outage affecting your streaming quality. We’re working to resolve it. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out -  appreciate the quick response and update on the outage."
+Sentiment: Positive

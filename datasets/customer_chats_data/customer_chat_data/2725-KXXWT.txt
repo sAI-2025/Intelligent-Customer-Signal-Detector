@@ -1,0 +1,17 @@
+Customer ID: 2725-KXXWT
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is significantly slower than my subscribed plan. I'm paying $90.75 per month for Fiber Optic internet and it's just not cutting it! 
+Agent: Thank you for contacting us. I apologize for the slow download speeds. Could you please provide your account details so we can investigate further?  
+Customer: Sure, my name is [Name], account number is [Account Number] and this is my first month with your service. 
+Agent: Ok, [Name]. We've noticed a few reports of slower than expected speeds in your area recently. Would you mind checking if any recent changes to your connection have occurred? 
+Customer: I haven't made any changes to the router or modem. It feels like something is wrong.  
+Agent: Thank you for providing this information. We will look into it and get back with an update soon. 
+Customer: Okay, thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, I'm still hoping for a faster resolution to my slow download speeds considering the high cost."
+Sentiment: Negative

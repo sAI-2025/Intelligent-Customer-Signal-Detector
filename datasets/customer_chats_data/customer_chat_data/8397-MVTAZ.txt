@@ -1,0 +1,17 @@
+Customer ID: 8397-MVTAZ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It seems slow and unstable. 
+Agent: Hello! My name is Alex, how can I help you today? 
+Customer: My speeds are really low compared to normal and it keeps dropping out.  I've been a customer for 34 months with Fiber optic internet and this issue started recently.
+Agent: I see, and you're on a month-to-month contract?  Can you tell me your account number as well?
+Customer: Sure, my account number is 12345678. 
+Agent: Thank you! Let me check our logs to see what's going on with your connection. 
+Customer: Thanks for looking into it.
+Agent: I've run some tests and we are seeing a few issues on your end. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for resolving my internet issue, much appreciated!  Hope this doesn't happen again."
+Sentiment: Positive

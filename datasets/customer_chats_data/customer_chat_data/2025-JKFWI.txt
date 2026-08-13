@@ -1,0 +1,25 @@
+Customer ID: 2025-JKFWI
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my upload speed. It seems much slower than expected for my plan.
+
+Agent:  I understand your frustration. Can you tell me what device and browser are you using to test the speeds? 
+
+Customer: I'm using my Macbook Air, and Chrome browser. My current download is about 50 MB/s, but upload speed is around 3-4 MB/s.
+
+Agent:  I see. Have you checked your router settings or connected a different device?
+
+Customer: It's been the same for years, no issues with other devices or network connections.
+
+Agent: Thank you for clarifying. I have some troubleshooting steps we can try to address this. Would you like me to walk you through those?
+
+Customer: Yes please. 
+
+Agent:  Okay, first let's check if your modem needs a reboot. If that doesn't resolve it, there might be other settings on the router. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the troubleshooting steps and hope they resolve my upload speed issues!
+Sentiment: Positive

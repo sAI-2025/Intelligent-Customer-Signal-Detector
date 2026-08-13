@@ -1,0 +1,27 @@
+Customer ID: 1273-MTETI
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with my internet speed. It seems to be very slow and there's a lot of lag while watching videos or playing games. 
+
+Agent:  I understand your frustration, sir.  Let's take a look into this.  Can you tell me your exact address?  
+
+Customer: Yes, it is [customer's full address].
+ 
+Agent: I see the details. Thanks. How long have you been experiencing these issues? 
+
+Customer: It started about a week ago, and it seems to be getting worse since then.   I thought my internet should be pretty good with fiber optic.  
+
+Agent:  We do offer high-speed fiber connectivity. Let's run some speed tests.  
+ 
+Customer: Okay, thank you. 
+
+Agent:  Okay, I have initiated a speed test. The results will be shared in your account dashboard shortly.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful process, thanks for getting to the bottom of my internet woes!
+Sentiment: Positive

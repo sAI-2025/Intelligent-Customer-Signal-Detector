@@ -1,0 +1,17 @@
+Customer ID: 9764-REAFF
+Topic: customer asks about early termination terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was wondering about early termination terms for my No internet plan. 
+Agent:  Certainly! Can you tell me your account number?
+Customer: My account number is 1234567890. 
+Agent: Your contract includes a 2-year commitment and standard early termination fees apply. The fee would be $100 for the next month's payment.
+Customer: So, I can cancel my plan after one month of the new contract without any penalties?
+Agent:  No, unfortunately not. We have a set 2 year contract term for No internet plans.
+Customer: Alright, thanks anyway.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I was hoping for some flexibility with my plan termination, but I understand the terms. Thanks for the information!
+Sentiment: Neutral

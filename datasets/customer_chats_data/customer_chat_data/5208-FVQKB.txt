@@ -1,0 +1,19 @@
+Customer ID: 5208-FVQKB
+Topic: family or shared line benefits not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need some help with my family or shared line benefits not working on my account. 
+Agent:  Hello! Thanks for reaching out. What's the issue you're experiencing? 
+Customer: My internet isn't connecting to our other devices and it seems like it's only affecting the shared lines, I was previously using a different plan with unlimited data but downgraded to a more budget-friendly option.  
+Agent:  I understand.  Can you tell me your account information, such as the last 4 digits of your phone number? 
+Customer:  Sure, it's...[account info] . 
+Agent:  Okay, thank you. I can take a look at your account and see what might be causing this issue. 
+Customer: Thanks! 
+Agent:  We should be able to get things sorted out for you shortly. 
+Customer: Great, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was quick and helpful, I feel much better about the issue now!"
+Sentiment: Positive

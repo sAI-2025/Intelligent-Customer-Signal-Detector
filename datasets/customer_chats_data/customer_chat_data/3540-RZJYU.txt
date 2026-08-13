@@ -1,0 +1,24 @@
+Customer ID: 3540-RZJYU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down. I can't connect to any websites or stream anything.
+
+Agent:  I understand your frustration, and I apologize for this inconvenience. 
+
+Customer:  This has been happening for hours now. Is there a known outage?
+
+Agent: We are currently experiencing a technical issue with our fiber optic network in your area. Please hold while we check the status of the issue.
+
+Customer:  I'm really hoping I can get online soon, thanks!
+
+Agent: A technician is being dispatched to your location now. We will keep you updated on the progress. 
+
+Customer: Okay, thank you for letting me know.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for getting this issue addressed quickly. I appreciate the update and hope to be back online soon!
+Sentiment: Positive

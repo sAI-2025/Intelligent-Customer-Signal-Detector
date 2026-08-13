@@ -1,0 +1,18 @@
+Customer ID: 8752-STIVR
+Topic: phone network connection disappearing intermittently
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need to talk to someone about my phone connection.  It keeps dropping in and out throughout the day. 
+Agent: Thank you for contacting us! Can you please provide your account number so I can look into this issue?
+Customer: My account number is 1234567890. 
+Agent: Alright, thank you. I see you have a fiber optic connection and are currently on a month-to-month contract.  Let me check the logs for any service interruptions.
+Customer: Okay, thanks. 
+Agent: We've identified some recent network outages in your area that may be causing intermittent connectivity issues.  We will send an engineer to investigate further.
+Customer: How long will it take?
+Agent:  I expect a technician to arrive within the next 24 hours. I will update you as soon as there's any news or changes.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me quickly, appreciate the updates and hopefully things are fixed soon!"
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 0733-VUNUW
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It's much slower than expected. 
+Agent: Hello! I'd be happy to help troubleshoot this issue.  Could you tell me your account details and what you were expecting from the upload speed? 
+Customer: Sure. My username is [username] and I'm currently on a month-to-month contract.  I was expecting around 10Mbps for upload, but it's closer to 3Mbps right now. 
+Agent: I see your account details here. Let me check the speeds we are seeing. Please hold! 
+Customer: Alright. Thanks 
+Agent: Thank you for contacting us. We have identified a potential issue with your DSL line causing slower upload speeds. We've logged a request to our technicians and they should be able to fix it within a few hours.  We appreciate your patience and understanding! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this resolved so quickly, I appreciate the prompt response and quick fix!
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 8290-YWKHZ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been very slow lately and seems unstable.  I've restarted my modem, router, and computer but it hasn't helped.
+Agent: I understand your frustration with the slow speeds. Can you tell me more about what device(s) are experiencing this issue? 
+Customer: It's happening on my laptop and phone. Everything seems to be running very slowly.
+Agent:  I will take a look at your account information now. You mentioned Fiber optic internet, is there anything unusual with the router location or recent changes made to the network setup? 
+Customer: No, nothing has changed recently. It's been working fine until about two weeks ago. 
+Agent: Alright, I am seeing some reports of a technical issue affecting your area at the moment. Let me see what we can do for you.
+Customer: Thank you.
+Agent:  I just wanted to let you know that this is something our engineers are aware of and working on as we speak. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's good to hear the issue is being addressed, I hope it gets resolved soon!
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 0754-UKWQP
+Topic: customer wants to update payment information
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I would like to update my payment information. My new credit card number is XXXXXXX-XXXX-XXXX-XXXX. 
+
+Agent:  I understand, thank you for providing your updated details. Is this for a month-to-month contract? 
+
+Customer: Yes, it is.
+
+Agent:  Great! We'll update your payment information immediately. Your monthly fee of $95.85 will be processed on the 10th of each month as usual.
+
+Customer: Thank you.
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks!
+Sentiment: Positive

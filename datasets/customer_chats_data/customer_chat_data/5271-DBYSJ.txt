@@ -1,0 +1,17 @@
+Customer ID: 5271-DBYSJ
+Topic: data service stops after plan change
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my data service has stopped working after I changed my plan last week. 
+Agent: I understand your concern, Mrs./Mr. [Last Name].  Can you please provide me with your account number?
+Customer: Yes, it's [Account Number]
+Agent: Thank you. Let's check on the issue.  I see there was a change to your plan and a payment hold is in place. 
+Customer: I think this might be connected to my plan change. 
+Agent:  Yes, sometimes changes can trigger temporary service outages. We will get this fixed for you right away.   
+Customer: Great, thank you so much! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in resolving my issue. Glad I was able to reach a solution quickly.
+Sentiment: Positive

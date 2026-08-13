@@ -1,0 +1,17 @@
+Customer ID: 1915-IOFGU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't connect to the internet. My wifi isn't working at all. 
+Agent:  I understand there may be an issue with your service. Can you please confirm your account information and the address where you are experiencing this problem?
+Customer: Sure, my name is John Smith. It's at 123 Main Street, Apt. B. 
+Agent: Thank you, Mr. Smith. I will check the status of your internet connection now. 
+Customer: Thanks!
+Agent:  It looks like there is a widespread outage in your area. We are working to restore service as quickly as possible. Please stay tuned for updates. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update. Hopefully it's resolved soon!"
+Sentiment: Positive

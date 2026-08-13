@@ -1,0 +1,17 @@
+Customer ID: 1846-XWOQN
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having frequent internet disconnections.  I have been a month-to-month customer since August. 
+Agent:  I understand your frustration with these disconnections.  I would like to know the specific device you are using and the type of connection you are experiencing.
+Customer:  My laptop.  It seems to be happening when I am trying to stream movies or use online banking.   
+Agent:  Let me have a look at your account details. 
+Customer:  Okay, thanks.
+Agent:  I've found that there's a minor issue with the fiber optic line in your area. We are currently working on it and will be able to resolve it soon.
+Customer: Thank you for letting me know.   
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for explaining the issue and for keeping me informed! I look forward to a stable connection once the fiber line is fixed.
+Sentiment: Positive

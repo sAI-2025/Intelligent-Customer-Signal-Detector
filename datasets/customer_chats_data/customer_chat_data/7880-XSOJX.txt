@@ -1,0 +1,24 @@
+Customer ID: 7880-XSOJX
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It seems completely down.
+
+Agent:  I understand there's an issue with your DSL internet connection. Can you please provide your account number?
+
+Customer: Yes, it's 123456789.
+
+Agent: Thank you for providing that information. I'm looking into the status of your service right now and will update you as soon as possible.
+
+Customer:  Okay, thank you.
+
+Agent:  I have determined there might be an issue with your connection today.  We are currently working on restoring it as quickly as possible. 
+
+Customer:  Great, thanks for letting me know.
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and kept me informed throughout the process. I appreciate their prompt attention to my issue.
+Sentiment: Positive

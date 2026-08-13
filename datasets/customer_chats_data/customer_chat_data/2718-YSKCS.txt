@@ -1,0 +1,18 @@
+Customer ID: 2718-YSKCS
+Topic: line transfer or replacement problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I just can't get my phone line to work and it seems like a transfer issue. 
+Agent: I understand you're having trouble with your service, Mr. Smith.  I can help with that. 
+Customer: Please! My internet has been down too, so this is really frustrating. 
+Agent: Can you tell me what the specific problem is, please? 
+Customer: I'm being transferred between departments and it seems like no one knows how to fix it. 
+Agent: Let's see... based on your details, I can try initiating a line transfer or replacement for you.  
+Customer: Great! Thank you so much.
+Agent: Please hold while I get that set up for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Finally got my phone service working after the frustrating transfers! Thanks for your help.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 0224-NIJLP
+Topic: equipment-related charge dispute
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm disputing a charge on my account. It was for equipment that I never received or used. 
+Agent: Hello! Thank you for reaching out to us.  What is your name and account number?
+Customer: My name is Sarah Johnson and my account number is 12345678.
+Agent:  I see a charge on record from your equipment order, which was placed in August of last year. 
+Customer:  No, I never ordered any equipment, and definitely not back then. 
+Agent:  I'm sorry to hear that. Can you tell me what type of equipment you were expecting? 
+Customer: It was a modem for my No internet service. 
+Agent: Thank you for providing this information. I am looking into the details of your account and will update you on our findings shortly.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This is frustrating, as it seems like the charge is completely unfounded."
+Sentiment: Negative

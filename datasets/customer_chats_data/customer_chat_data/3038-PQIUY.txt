@@ -1,0 +1,16 @@
+Customer ID: 3038-PQIUY
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my upload speed. It's much slower than what I expected. 
+Agent:  I understand your frustration. Could you please provide me with your account information and the exact upload speed issue? 
+Customer: My account is #123456789. The upload speed currently is around 1 Mbps, whereas it's supposed to be 10Mbps. 
+Agent: Thank you for that information. I will look into this further and try to resolve the issue as soon as possible. 
+Customer:  Hopefully that can be done quickly. 
+Agent: I am doing everything I can to ensure your service is optimized. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the quick response and effort to address my slow upload speed.
+Sentiment: Positive

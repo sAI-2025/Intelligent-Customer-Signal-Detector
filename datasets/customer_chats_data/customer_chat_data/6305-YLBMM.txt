@@ -1,0 +1,17 @@
+Customer ID: 6305-YLBMM
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I can't seem to connect to the internet at all. 
+Agent:  I apologize for the inconvenience, I understand you're experiencing a complete loss of service. Could you please confirm your account details? 
+Customer: Sure, my name is John Smith and my account number is 1234567890. 
+Agent: Thank you, John. Let me check on that. 
+Customer:  Is there a solution for getting this fixed right now?
+Agent: I am checking into the problem with your service right now. We'll get internet back up and running as soon as we can.
+Customer: Alright, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and kept me updated on the situation, which is appreciated during a frustrating time like this.
+Sentiment: Positive

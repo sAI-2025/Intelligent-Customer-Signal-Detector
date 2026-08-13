@@ -1,0 +1,27 @@
+Customer ID: 5073-WXOYN
+Topic: TV audio and video out of sync
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with the audio and video on my TV signal. It seems like they're out of sync. 
+
+Agent:  I understand your concern, thank you for reaching out to us. Can you tell me a little more about what model TV and modem you have? 
+
+Customer:  It's a Samsung TV with cable connection through the modem. I use DSL internet. 
+
+Agent: Okay, thanks for that information. Let me check our system on your account and see if there are any known issues.
+
+Customer:  Is there anything else I can do to help?
+
+Agent:  I believe we're going to need to schedule a technician visit as this is a technical issue. 
+
+Customer: Okay, thanks for the update! 
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The tech visit seems like the best solution given the complexity of the problem. Thanks for your help."
+Sentiment: Positive

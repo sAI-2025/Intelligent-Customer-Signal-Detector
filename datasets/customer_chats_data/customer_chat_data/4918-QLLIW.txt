@@ -1,0 +1,17 @@
+Customer ID: 4918-QLLIW
+Topic: customer questions unlimited data pricing
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I wanted to confirm my understanding of the unlimited data plan pricing. 
+Agent:  Hi there!  Let me help clarify your question about our unlimited data plans. 
+Customer: My current plan is a month-to-month contract and I'm paying $53.4 per month, but it seems like there are different options available?
+Agent: Right you are! Our monthly plans do vary in price and data allowance depending on your location and internet type.  Do you use DSL or fiber optic? 
+Customer: It's DSL. I'm just trying to figure out if the unlimited data plan is truly unlimited.
+Agent:  Absolutely! Our unlimited data plan does come with no data caps, so you can stream as much video content as you want. 
+Customer: Okay, thanks for clarifying that.
+Agent:  No problem at all! We hope this helps. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and cleared up any confusion I had about the unlimited data plan. Thanks!
+Sentiment: Positive

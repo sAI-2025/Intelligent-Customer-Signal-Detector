@@ -1,0 +1,18 @@
+Customer ID: 7945-HLKEA
+Topic: installation appointment problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to reschedule my installation appointment. My address changed last month. 
+Agent:  I understand! Let me pull up your account information. 
+Customer: Okay. Thanks. 
+Agent: Your contract is a one year plan and you have been with us for six years now. How would you like to proceed? 
+Customer: I'd like to get an appointment at the earliest, please.  
+Agent:  I can help with that! There are some openings this week. Would you prefer a morning or afternoon appointment?
+Customer:  Afternoon works best for me.
+Agent: Great, we will send you an email confirmation. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and efficient in finding a time that worked for me!"
+Sentiment: Positive

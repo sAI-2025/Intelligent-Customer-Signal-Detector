@@ -1,0 +1,17 @@
+Customer ID: 5980-BDHPY
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. It's really slow. 
+Agent: Hello!  I apologize for the slow connection.  Can you please tell me your account number?
+Customer: Sure, it's 1234567890
+Agent: Thank you. I see that you are on DSL.  Have you noticed any changes in internet speed during peak hours?
+Customer: Yes, definitely! It gets significantly slower around 6pm to 8pm every day. 
+Agent: I've noted the issue and will escalate it to our technical team. We may have some temporary network congestion during these times.
+Customer: Thank you for your help! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out! It's nice to know they're aware of the slow connection issues."
+Sentiment: Positive

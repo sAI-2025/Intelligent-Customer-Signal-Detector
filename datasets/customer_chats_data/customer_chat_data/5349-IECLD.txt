@@ -1,0 +1,17 @@
+Customer ID: 5349-IECLD
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some trouble with my Wi-Fi signal in some rooms of my house.
+Agent:  I understand you're experiencing weak Wi-Fi in certain areas. Can you tell me more about the specific rooms and what kind of devices are struggling? 
+Customer: It seems to be all over the first floor, especially near the kitchen and living room.  My laptop is having trouble connecting sometimes.
+Agent: I see. Is your router in a central location on the first floor?
+Customer: Yes, it's in the main hallway. 
+Agent: Let me check the signal strength and routing for you.  I’m going to make some adjustments.  
+Customer: Thank you!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and solved my issue quickly, much appreciated!"
+Sentiment: Positive

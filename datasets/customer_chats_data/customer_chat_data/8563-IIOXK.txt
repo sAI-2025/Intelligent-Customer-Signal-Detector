@@ -1,0 +1,24 @@
+Customer ID: 8563-IIOXK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't get online at all and my internet is completely down. 
+
+Agent:  I understand you are experiencing a complete loss of internet connection. Can you please tell me your account name or email address? 
+
+Customer: It's Sarah Smith. My account number is 1234567.
+
+Agent: Thanks, Sarah. I see your DSL service is down at the moment. Let me check on that and update your status.  
+
+Customer: Ok thanks.   
+
+Agent: We are currently working to resolve this issue for you. It might take a few minutes to get back online. 
+
+Customer: Okay, thank you for letting me know. 
+
+Agent: I apologize for the inconvenience. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the update and for your prompt help resolving the issue."
+Sentiment: Positive

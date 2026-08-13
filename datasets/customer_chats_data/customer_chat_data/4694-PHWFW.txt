@@ -1,0 +1,15 @@
+Customer ID: 4694-PHWFW
+Topic: customer wants to change contract type
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I was hoping to switch from my month-to-month contract to a yearly one. 
+Agent: Absolutely, I can help with that.  Which plan would you like to transition to? 
+Customer: I'm interested in the "Premium" package. 
+Agent: The Premium package comes out to $149.95 per month. Would you like to proceed with that change? 
+Customer: Yes, please! 
+Agent:  Your new contract will start on [date]. We’ll be sure to update your account accordingly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for making the switch so smooth and easy! I appreciate the help."
+Sentiment: Positive

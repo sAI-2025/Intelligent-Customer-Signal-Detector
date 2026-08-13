@@ -1,0 +1,19 @@
+Customer ID: 2845-HSJCY
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing really slow speeds during peak hours. My internet speed is barely functional. 
+Agent: Thank you for contacting us.  I understand that you're experiencing slow speeds. Can you please tell me your account information?
+Customer: Sure, my name is John and my account number is 1234567890. 
+Agent: Hello John, I’ve pulled up your account and noticed the network speed tends to slow down during peak hours for all our customers.  Are you experiencing problems with streaming or downloading?
+Customer: Yes, everything's sluggish, even simple tasks like checking emails and browsing websites are a struggle. 
+Agent: I apologize for the inconvenience this is causing you. We're currently working on improving network capacity for these times.  Do you mind if we schedule a time to check your connection speed?
+Customer: Sure, sounds good. What days work best for you?
+Agent: We can try connecting at 10 am tomorrow, how does that sound? 
+Customer: Great, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help and update on the slow speeds during peak hours.  It's good to know they are working on it."
+Sentiment: Positive

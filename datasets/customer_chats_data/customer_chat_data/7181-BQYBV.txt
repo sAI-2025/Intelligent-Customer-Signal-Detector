@@ -1,0 +1,17 @@
+Customer ID: 7181-BQYBV
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet speed has been really slow lately, especially during peak hours. 
+Agent: Hello! I understand you're experiencing slower speeds.  Can you tell me more about when this is happening and what kind of activity you're doing online?
+Customer: It seems to happen mainly on weekends between 7-9 PM. I am streaming movies and playing online games then. 
+Agent: Thank you for that detail! I'll look into this for you right away.  We've had a few reports about network congestion at peak times lately. Would you like me to run any speed tests?
+Customer: Yes, please if you can.
+Agent: Alright!  I'm running the test now and will let you know what we find. 
+Customer: Thanks
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it! I appreciate your help."
+Sentiment: Positive

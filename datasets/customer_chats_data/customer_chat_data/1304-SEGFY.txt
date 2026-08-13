@@ -1,0 +1,20 @@
+Customer ID: 1304-SEGFY
+Topic: service upgrade option missing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I was upgrading my internet service today and noticed that there's an option to upgrade to faster speeds under my plan.  Is this a standard feature? 
+
+Agent: Yes, our service upgrades are typically offered in the account management section of our website. 
+
+Customer: Okay, great. But can you tell me exactly what options I have available for upgrading?
+
+Agent: You're currently on our Silver plan, offering up to 150 Mbps download speed. We do offer faster speeds with our Gold and Platinum plans, but the cost may vary based on location and usage.  
+ 
+Customer: Hmm, that's helpful. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was informative and helpful, though I wish they could have given me a clearer idea of the specific upgrade options available to me.
+Sentiment: Positive

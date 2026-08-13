@@ -1,0 +1,23 @@
+Customer ID: 6244-BESBM
+Topic: new service not working after installation
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting my new service connected. The technician said everything was set up but it's not working. 
+
+Agent:  I understand your frustration. May I have your account number and the technician’s name for a quick check? 
+
+Customer: Sure, here it is. 1234567890; John Smith was his name. 
+
+Agent: Thank you, let me look into this. We'll get that connection sorted out.
+ 
+Customer:  Okay, thanks!
+
+Agent: I have located the issue and have expedited a technician to your location for further assistance. Please stay put, we will be in touch with an update shortly. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out so quickly - I really appreciate your help!
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 0866-QLSIR
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't seem to connect to the internet at all.  
+
+Agent: Hello!  I understand you're experiencing an outage.  Could you please provide your account number and address so I can check on the situation? 
+
+Customer:  Sure, it's [account number], my address is [address].
+
+Agent: Thank you. Let me take a look into that for you. 
+
+Customer:  Okay. 
+ 
+Agent:  I see the outage in your area and an estimated restoration time of [time] . We apologize for any inconvenience this may cause.
+
+Customer: Thanks! That makes sense. 
+ 
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks to the agent for quickly resolving my issue and providing helpful information about the outage.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 4077-CROMM
+Topic: incoming calls not connecting
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting through on my phone calls. They won't connect at all. 
+Agent:  I understand your frustration, let me take a look into this for you. 
+Customer: Thanks! I just started using the internet again yesterday and I haven't had any issues with it until now.
+Agent:  Okay, can you tell me your account number and the device you are trying to call from?
+Customer: Account Number is: XXX-XXXXXXX  I am calling from my iPhone 13. 
+Agent:  Thank you for providing that information! I'm investigating this issue now. We should have this resolved shortly. 
+Customer: Alright, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive, and the issue seems to be resolved quickly!
+Sentiment: Positive

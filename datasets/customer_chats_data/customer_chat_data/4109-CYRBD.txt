@@ -1,0 +1,20 @@
+Customer ID: 4109-CYRBD
+Topic: promotional pricing is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I don't understand the promo pricing for DSL internet anymore. 
+Agent: Hi there!  Thank you for contacting us. Could you please tell me which promotion you are referring to?
+
+Customer: The one advertised on your website about saving $10 a month, but that isn’t reflected in my bill.
+Agent: I understand.  It's possible the promo is not currently available for your account type and plan. 
+
+Customer: Well, it would be nice if we could get an accurate price estimate.
+Agent: Let me check your current plan details and pricing.  I’ll have an answer in a few minutes. 
+
+Customer: I appreciate it!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and informative, though it would be nice to have a clearer understanding of promotions and accurate pricing estimates before signing up for services.
+Sentiment: Neutral

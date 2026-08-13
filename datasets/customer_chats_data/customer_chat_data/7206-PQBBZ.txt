@@ -1,0 +1,19 @@
+Customer ID: 7206-PQBBZ
+Topic: customer asks about available promotional offers
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was hoping to find out about any current promotions or discounts. 
+Agent: Hello!  I understand you're looking for promotional offers. Could you please tell me your account details? 
+Customer: Sure thing. My name is John, and my account number is 12345678. I have a month-to-month contract, paying $70.2 per month for fiber optic internet.  I've been with your company for 11 months now. 
+Agent: Thanks, John! Based on your current plan and tenure, it looks like you might qualify for some special offers. Let me double-check those details. 
+Customer: Great, thanks so much!
+Agent: I just checked our database, and we do have a limited-time discount promotion available for long-term customers. 
+Customer: Really?  
+Agent: Yes! We're offering a 10% discount on the next billing cycle for those with a 12-month contract or longer. 
+Customer: Wonderful! Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Very helpful, thank you! The discount is great news."
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 7893-IXHRQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble connecting to the internet at my home. 
+Agent: Hello!  I understand you're experiencing internet problems. Can you please confirm your account details and location? 
+Customer: My name is John Smith. My account number is 12345678. 
+Agent: Thank you, John. We are currently seeing a service outage in your area. 
+Customer:  What can I do to get internet access back on? 
+Agent: Rest assured we're working diligently to restore connectivity as quickly as possible.  We expect it to be resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for keeping me updated! I appreciate your quick response and hopefully, my internet will be back up soon."
+Sentiment: Positive

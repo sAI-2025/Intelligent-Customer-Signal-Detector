@@ -1,0 +1,24 @@
+Customer ID: 7228-OMTPN
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is extremely slow and keeps dropping out. It's been happening constantly for the past few hours.
+
+Agent: I understand your frustration.  Could you please provide your account number or email address? 
+
+Customer: Sure, it's [Account Number]. 
+
+Agent: Thank you, [Account Number]. Let me take a look at your connection details and see what we can do about this for you. 
+
+Customer: Thanks! 
+
+Agent: I have found that there might be some temporary service issues in your area.  We are working on it now, but will update you with the progress. 
+ 
+Customer: Okay, great. Thank you for letting me know. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! Hopefully things will be back to normal soon."
+Sentiment: Positive

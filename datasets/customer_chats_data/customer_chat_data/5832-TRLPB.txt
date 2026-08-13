@@ -1,0 +1,17 @@
+Customer ID: 5832-TRLPB
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My internet speed has been extremely slow all day today, especially during peak hours. It’s really affecting my work and streaming. 
+Agent: I understand your frustration with slow speeds. Please tell me what device you're experiencing this on and what time of day the issue started?
+Customer:  I’m using my laptop, and it started around 1 pm today. 
+Agent: Thank you for that information. Can you check your modem settings to see if there are any issues with your DSL connection?
+Customer: I just checked, and it doesn't look like anything is wrong.
+Agent:  Have you considered using a wired connection instead of Wi-Fi during peak hours? It may help. 
+Customer: Thanks for the suggestions. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and offered some good advice, even if it didn't solve the issue entirely.
+Sentiment: Positive

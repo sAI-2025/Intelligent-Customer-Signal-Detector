@@ -1,0 +1,17 @@
+Customer ID: 8874-EJNSR
+Topic: customer reports unusually high data usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having trouble understanding my recent data usage bill. 
+Agent: Hello! Thank you for contacting us today. Could you please provide your account details?  
+Customer: Sure, here it is: 2134567890.  I've got a two-year contract and pay $25.2 per month.
+Agent: I see your account information now. We can certainly look into this high data usage for you.   
+Customer: It seems excessive.  My No internet plan doesn’t usually use that much! 
+Agent: Thank you for letting me know. I'm ready to investigate further.   How about we check your recent activity and see if we can pinpoint the source of this higher usage? 
+Customer: Okay, thanks. 
+Agent: Let me take a look into this for you…  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful to get some answers, I appreciate the agent's time and effort in investigating this!
+Sentiment: Positive

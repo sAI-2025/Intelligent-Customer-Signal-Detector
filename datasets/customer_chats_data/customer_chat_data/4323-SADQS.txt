@@ -1,0 +1,16 @@
+Customer ID: 4323-SADQS
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. It's really slow and laggy.  My ping is terrible too!
+Agent: I understand your frustration. Can you please provide your account details so I can look into this further? 
+Customer: Sure, it's [Account Number] under a month-to-month contract, $34.5 per month. My internet service is DSL.  
+Agent: Thank you for providing that information. We will investigate the issue and get back to you shortly with our findings. 
+Customer: Thanks!
+Agent: I'll be in touch soon to let you know what we find. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and I hope to hear about a resolution soon."
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 8865-TNMNX
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. The signal is weak and keeps dropping. 
+Agent: Thank you for contacting us, I understand your concern.  Could you please tell me your account number?
+Customer: It's #1234567890. 
+Agent: Thank you. We have a few customers experiencing similar issues in the area right now. 
+Customer:  Is there anything we can do to fix this? I need strong Wi-Fi for online work.
+Agent: We will look into it and see what the best solution is.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for your prompt response, I appreciate the quick effort to address the issue."
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 8580-QVLOC
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my subscribed plan. I am paying $92.45 per month and using DSL internet.  I've been a customer for 72 months.
+
+Agent: Hello! I understand your concern about your slow download speed. Let me check the details of your account. 
+
+Customer: Thanks, it has been so slow lately. It's frustrating.
+
+Agent: I can see that you are currently subscribed to our Basic package and have a DSL connection. Based on your usage history and subscription plan, we typically experience average speeds around 10-20 MBps.  
+
+Customer: Wow, that is much slower than my expectations! How do I get this resolved?
+
+Agent: We can work on boosting your speed. Would you like to talk about a possible upgrade or explore some troubleshooting steps?
+
+Customer: Okay, thank you for helping me with this. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and I appreciate the assistance in getting my internet speeds addressed!
+Sentiment: Positive

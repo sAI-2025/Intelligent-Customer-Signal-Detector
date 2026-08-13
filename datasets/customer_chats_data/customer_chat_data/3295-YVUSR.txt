@@ -1,0 +1,17 @@
+Customer ID: 3295-YVUSR
+Topic: calls dropping unexpectedly
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I just wanted to report that my internet call keeps dropping unexpectedly, it’s really frustrating. 
+Agent:  I understand your frustration, John. Can you please tell me your account number and what device you are using?
+Customer: Sure, my account number is #12345678. I’m using my laptop for calls.
+Agent: Thank you, John. Let me take a look into that. Could you describe the exact issue? Is it dropping audio, connection speed, or both? 
+Customer: Both, it sounds like there's no sound at all then the call drops. 
+Agent:  Okay, I see what’s happening here. We are experiencing some technical issues on our end with fiber connections. It should be resolved soon. 
+Customer: Okay, thank you for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, appreciate you getting back to me so quickly."
+Sentiment: Positive

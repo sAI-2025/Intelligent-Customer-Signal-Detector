@@ -1,0 +1,25 @@
+Customer ID: 9558-IHEZX
+Topic: customer requests escalation to specialist
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble connecting to my internet and I need help troubleshooting it. 
+
+Agent: Hello!  I understand you're experiencing issues with your internet connection. To assist you better, could you please provide your account number or the customer name on file?
+
+Customer:  My account number is 1234567890.
+
+Agent: Thanks for providing that information. I see you have a two-year contract and are currently paying $106.75 per month for fiber optic internet.
+
+Customer:  I've tried everything to fix it, but the connection is still bad.
+
+Agent: We understand your frustration, and we do want to help you get back online. I'll be happy to escalate this case to one of our specialist team members who can take a closer look at what might be causing the issue. 
+ 
+Customer: Thank you for that.
+
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and understanding, and I'm hopeful they can get my internet fixed soon.
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 9677-AVKED
+Topic: referral discount not applied
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm calling about my recent referral discount.  I referred a friend and haven't seen it applied to my bill yet. 
+Agent: Thank you for reaching out! I can certainly look into that for you. Please provide your account number so I can pull up your details. 
+Customer: My account number is [account number]. 
+Agent:  I see the referral code was used and the discount applied, but it's not showing in your current billing cycle. The reason we have to review this is that sometimes there are delays with payment processing for these promotions.  Would you like me to look into why this might be happening? 
+Customer: Yes, please do. 
+Agent: I am looking into this right now and will get back to you shortly. Thank you for your patience.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for taking the time to help me out - glad to see the discount applied!"
+Sentiment: Positive

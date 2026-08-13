@@ -1,0 +1,17 @@
+Customer ID: 4289-DTDKW
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I keep experiencing frequent internet disconnections lately.  
+Agent:  Hi! I'm sorry to hear that you're having trouble connecting.  Can you tell me more about when this happens and what devices are affected? 
+Customer: Mostly after a heavy download or streaming session.  Also, it seems to be happening on all our devices. 
+Agent: Okay, thanks for the details. I'll need to check your account and internet speed. 
+Customer: My contract is month-to-month, and I've been with you for four years now.
+Agent: Four years of service! I understand that this is a frustrating issue.  I'm looking into it right now.   
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient, and I appreciate them working through my issue."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 2309-OSFEU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down. Can't connect to anything. 
+Agent: I understand there might be an issue with your DSL connection. Let me check on that for you. 
+Customer:  I haven't had any outages before in this period of time. What should I do?
+Agent: Please hold a moment while I check the status of your account and service.
+Customer: Thanks
+Agent:  We have detected an outage on your DSL line. We're working to get things back up and running as quickly as possible. 
+Customer: Thank you for letting me know! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is a frustrating issue, but I appreciate the update and hope my connection is restored soon.
+Sentiment: Neutral

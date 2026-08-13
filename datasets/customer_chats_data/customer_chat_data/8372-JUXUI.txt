@@ -1,0 +1,25 @@
+Customer ID: 8372-JUXUI
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is significantly slower than my subscribed plan and I'm not sure why.  Is there an issue on your end? 
+
+Agent: We understand you're experiencing slow internet speeds. To troubleshoot this further, could you please provide us with your account details?
+
+Customer: Sure, my account information is [account number]. 
+
+Agent: Thank you for providing the account information. I am currently checking your speed and connectivity.
+
+Customer: Is there any way to speed up the connection? My streaming is lagging a lot.  
+
+
+Agent: Our technicians are working on optimizing your internet connection for optimal performance. We will reach out with an update as soon as possible. 
+
+Customer: Thank you!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and communicative, and I appreciate them keeping me updated while they worked to resolve the issue.
+Sentiment: Positive

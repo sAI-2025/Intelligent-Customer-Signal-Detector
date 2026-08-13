@@ -1,0 +1,28 @@
+Customer ID: 7349-ALMUX
+Topic: customer reports poor overall service experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just wanted to report that my overall experience with your service has been poor lately. 
+
+Agent:  I understand your frustration, and I'd like to help address this issue.  Can you please tell me a little more about what specifically hasn't been working for you?  
+
+Customer:  The internet speeds have been inconsistent, and customer service reps haven't been very helpful. My contract is two years old and it feels like we are stuck in the same spot with my slow speeds and inconsistent service. 
+
+Agent:  I apologize for the difficulties you've encountered. Let me take a closer look at your account details. 
+
+Customer: Thanks.   
+ 
+Agent:  I see that you have been consistently paying $65.6 per month for DSL internet, and you’ve been with us for over three years.
+
+Customer: Yes, I'm hoping to get some improvement since my service hasn't changed much in the past two years.
+
+Agent:  We offer a few options that might be beneficial for you, including upgrading your service package or exploring other connection types like fiber optics. 
+
+Customer: Thanks. 
+ 
+Agent: Thank
+
+----------------------------------------
+Feedback: While I appreciate the information and suggestions, it still feels like we're stuck in the same spot with my slow speeds and inconsistent service.
+Sentiment: Negative

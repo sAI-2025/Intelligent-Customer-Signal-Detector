@@ -1,0 +1,22 @@
+Customer ID: 8433-WXGNA
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It seems incredibly slow during peak hours.
+
+Agent:  I understand. Can you please provide your account details? 
+
+Customer: My name is John and my account number is 123456789. I also have a month-to-month contract and am paying $75.7 per month for Fiber Optic internet.
+
+Agent: Thanks John, we're seeing some network congestion around 7pm-9pm during peak hours.
+
+Customer:  Hmm, that sounds like it could be the culprit.
+
+Agent:  I apologize for the inconvenience. We are currently working on resolving this issue, and will update you with status as soon as possible.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the info, I hope they can get this resolved quickly."
+Sentiment: Positive

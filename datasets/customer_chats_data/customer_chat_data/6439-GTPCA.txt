@@ -1,0 +1,20 @@
+Customer ID: 6439-GTPCA
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing frequent internet disconnections lately and it's becoming extremely frustrating. 
+
+Agent:  I understand your frustration, let's get this sorted out for you. Could you please provide me with your account information so I can check on the connection?
+
+Customer:  Sure, my username is [Username] and my email address is [Email Address].
+
+Agent: Thank you, [Username].  We are currently looking into some network issues related to fiber optic internet connections. 
+
+Customer: It seems like it's happening with every other hour. What can I do?
+
+Agent: We will investigate the issue further and work on resolution.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for your quick response and update, I appreciate that they are working to resolve this issue!
+Sentiment: Positive

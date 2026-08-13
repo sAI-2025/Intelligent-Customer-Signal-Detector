@@ -1,0 +1,15 @@
+Customer ID: 6691-CCIHA
+Topic: music service activation problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble activating my music service. It says it's pending but I haven't received an activation code yet. 
+Agent:  I understand your concern, let me check on the status of your order. Could you please provide your account number or email address?
+Customer: My account is 1234567890 and my email is john.smith@email.com 
+Agent: Thank you for providing this information. I see that there was a slight delay in processing your activation code, but it should be available shortly.  
+Customer: Okay, thanks! 
+Agent:  Your music service should be activated by the end of today. We apologize for any inconvenience caused. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I'm glad my activation code is coming through soon. Thanks for resolving this issue.
+Sentiment: Positive

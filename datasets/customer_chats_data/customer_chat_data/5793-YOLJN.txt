@@ -1,0 +1,15 @@
+Customer ID: 5793-YOLJN
+Topic: downloaded music cannot play offline
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't play downloaded music offline! It says "Can't open file" when I try. 
+Agent: We're sorry to hear about this issue, sir. Please provide your account number and the song title or artist so we can look into it.
+Customer: 1234567890 (Account) - "Bohemian Rhapsody" by Queen
+Agent: Thank you, we'll take a closer look.  It appears there may be an issue with the downloaded file.  
+Customer:  Okay, thanks for looking into it.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive! I appreciate their prompt attention to this issue.
+Sentiment: Positive

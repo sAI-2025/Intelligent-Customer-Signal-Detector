@@ -1,0 +1,27 @@
+Customer ID: 9470-YFUYI
+Topic: live TV freezes during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My live TV is freezing up during playback. This has been happening on and off for a couple of days now. 
+
+Agent: I understand that your live TV service is experiencing intermittent freezing issues.  I'll need some more information to help you further. 
+
+Customer:  Sure, what info do you need? 
+
+Agent: What is your account number, and could you please tell me the specific channels you are having trouble with?  
+
+Customer:  My account number is X1234567890. Channel 10 and channel 4 are mostly affected.  
+
+
+Agent: Thank you for providing that information, I’ll look into this right away.
+ 
+Customer: Ok.  
+
+Agent:  I'm looking into your account. Please hold while I connect with our technical team. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It was good to get the issue resolved quickly, thanks!"
+Sentiment: Positive

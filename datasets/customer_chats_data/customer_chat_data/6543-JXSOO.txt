@@ -1,0 +1,17 @@
+Customer ID: 6543-JXSOO
+Topic: websites load slowly despite active connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble loading websites on my internet connection. 
+Agent:  I understand you're experiencing slow website load times. Can you tell me a little more about what's happening?
+Customer: My speeds are fine, but the pages just take forever to load. It's really frustrating!
+Agent: I can see your account details here and it looks like you have DSL internet with us. 
+Customer:  I thought our connection was good, is there a known issue with the service? 
+Agent:   We usually offer fast speeds through our DSL plan, but occasional slowdowns can happen. Would you mind checking for recent changes in your network settings or other potential causes for a slower connection?
+Customer: I'll do that, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and offered some troubleshooting tips, which should help me get this resolved.
+Sentiment: Positive

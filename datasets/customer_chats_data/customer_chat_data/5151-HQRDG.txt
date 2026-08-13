@@ -1,0 +1,16 @@
+Customer ID: 5151-HQRDG
+Topic: customer questions promotional offer terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I have a question about your promotional offer for DSL internet.  
+Agent: Good afternoon! I'd be happy to help you with that. What is your specific query about the promotion? 
+Customer: I was wondering what qualifies me for the free streaming service included in the offer.   
+Agent:  You're eligible for the free streaming service if you sign up for a DSL internet plan and choose a Month-to-Month contract, as well as maintain a good payment history and no outstanding balance. 
+Customer: Okay, that makes sense. Thanks!
+Agent: You're welcome! 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and clear in explaining the offer details.  Everything is now understood."
+Sentiment: Positive

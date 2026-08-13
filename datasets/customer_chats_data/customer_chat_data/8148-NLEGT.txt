@@ -1,0 +1,19 @@
+Customer ID: 8148-NLEGT
+Topic: movie video quality becomes blurry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello!  My movie video has become blurry lately. 
+Agent: Hi there! I apologize for the inconvenience with your picture quality.  I'd like to help get that fixed for you. Can you please tell me your account number?
+Customer:  456789-1234 
+Agent: Thank you, I'm checking on your service plan and account details now. 
+Customer:  The issue started after the last software update.
+Agent: Okay, I see where that might be happening. Let me just adjust your settings and give it a try. 
+Customer:   Thank you! It looks better now, but what if this happens again? 
+Agent:  We'll keep an eye on things for you. Feel free to reach out anytime with any further issues! 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help! I appreciate your quick response and effort in fixing the issue."
+Sentiment: Positive

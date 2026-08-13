@@ -1,0 +1,24 @@
+Customer ID: 3372-CDXFJ
+Topic: activation completed but service unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hello, I just finished activating my service but it still isn't working. 
+
+Agent:  Thank you for contacting us. What is your account number?
+
+Customer:  1234567890
+
+Agent:  I see the activation was successful, however, there seems to be an issue with service availability at this time.  We'll look into it right away. 
+
+Customer:  Okay, that's frustrating.
+
+Agent:  Rest assured, we are working on resolving this as quickly as possible. We will keep you updated.
+
+Customer:   Thank you, I appreciate the prompt response.
+
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated, I hope it gets sorted soon!"
+Sentiment: Positive

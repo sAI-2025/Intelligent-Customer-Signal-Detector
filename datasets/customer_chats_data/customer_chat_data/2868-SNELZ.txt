@@ -1,0 +1,23 @@
+Customer ID: 2868-SNELZ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been terrible lately. Ping is consistently over 300ms. Is there a known issue?
+
+Agent: I understand your frustration, and I'd like to help resolve this.  Can you provide the account name or number, so we can check on your service status?
+
+Customer: It’s [Account Name]
+
+Agent: Thank you for providing that information. We are currently experiencing a network issue with fiber optic connections in your area. 
+
+Customer: I've been paying $80.6 for this service for two months now. Is there any compensation for the poor connection?
+
+Agent:  I understand your concern, and I apologize for the inconvenience.  We will certainly look into this further to offer you a suitable resolution. We are currently working on it, but it will take some time. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate their acknowledgment of the issue, it's disappointing that there isn't a clear timeline or potential compensation for these ongoing service problems.
+Sentiment: Negative

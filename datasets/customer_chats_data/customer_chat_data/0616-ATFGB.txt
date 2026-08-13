@@ -1,0 +1,24 @@
+Customer ID: 0616-ATFGB
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet connection and high latency. It's making it difficult to watch videos online. 
+
+Agent:  I understand you're experiencing high latency. Can you tell me more about what exactly is happening? 
+
+Customer: Well, I'll start with the time I experience problems, usually during the evening hours. The ping fluctuates a lot and my internet speeds are slow at times. 
+
+Agent:  Okay, thanks for that information. To help diagnose the issue, could you tell me what device you're using to access your internet?
+ 
+Customer: My laptop. I use it mostly for watching videos on YouTube. 
+
+Agent:  I see. It sounds like there may be some network congestion during peak times. Have you tried restarting your modem and router? 
+
+Customer:  I'll give that a try thanks.   
+
+Agent:  You are welcome. If the issue persists, feel free to contact us again. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The solution was helpful and I appreciate the advice! Hopefully the problem will be fixed after restarting the modem."
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 6598-RFFVI
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My download speed is really slow, and it's frustrating. I have a 100 Mbps plan but am getting less than half that speed.  I just moved into my new place last week.
+Agent: Hello, thanks for reaching out! Could you please tell me your account details so I can take a look at the issue?
+Customer: Sure, my account number is XXX-XXXX-XXXX and my name is [name]. 
+Agent: Alright, thank you. I've pulled up your details and it seems like there might be some network congestion in your area.  I’ll escalate this to the network team right away. 
+Customer: Okay, thanks for looking into it.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting things sorted out quickly! Hopefully, I'll see a much faster download speed soon."
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 0702-PGIBZ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet keeps disconnecting randomly. It's been happening frequently lately. 
+Agent: I understand your frustration with the frequent disconnections.  Could you please provide me with your account details? 
+Customer: Sure, it's [Account Name] and my phone number is [Phone Number].
+Agent: Thank you for providing that information. I'm looking into your account now. 
+Customer: Okay thanks! 
+Agent: Let me check our logs and see what we can find about this issue.  
+Customer: Thanks, appreciate it. 
+Agent: We are currently working on a few outages in your area.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation about the outage, it's frustrating to still be experiencing frequent disconnections despite being told there are 'working on' a solution."
+Sentiment: Negative

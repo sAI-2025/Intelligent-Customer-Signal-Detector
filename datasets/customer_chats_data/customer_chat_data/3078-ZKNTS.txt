@@ -1,0 +1,18 @@
+Customer ID: 3078-ZKNTS
+Topic: customer requests escalation to specialist
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to escalate my issue to a specialist. My internet service has been down for several days. 
+Agent:  I understand your frustration. Can you please provide me with your account number and email address so I can access your details?
+Customer:  Here it is, [account number] and my email is [email].
+Agent: Thank you. I see you've been experiencing intermittent service for the past few days. 
+Customer: It's affecting my work from home and making it impossible to stay connected with family. 
+Agent:  I apologize for the inconvenience this has caused. Let me connect you with a specialist who can help further.
+Customer: Thank you!
+Agent:  Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful, thanks! I'm hoping to get back online soon.
+Sentiment: Positive

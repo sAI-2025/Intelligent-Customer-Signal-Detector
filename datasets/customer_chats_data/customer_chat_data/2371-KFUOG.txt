@@ -1,0 +1,17 @@
+Customer ID: 2371-KFUOG
+Topic: customer wants to upgrade service plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to upgrade my service plan.
+Agent:  Sure!  Could you please tell me which plan you are interested in? 
+Customer: The Unlimited plan.
+Agent:   The Unlimited plan is $149.95 per month, would that be correct for you?
+Customer: Yes, that's right. 
+Agent:  I can see your current service plan and see that it's a one-year contract. To proceed with the upgrade, I need to confirm your consent to waive any remaining balance on your existing plan.
+Customer: Okay, I do agree.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This process was quick and easy!  I'm excited to start using the Unlimited plan now.
+Sentiment: Positive

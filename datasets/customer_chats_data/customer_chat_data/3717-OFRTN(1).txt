@@ -1,0 +1,18 @@
+Customer ID: 3717-OFRTN
+Topic: customer questions unexpected data consumption
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello! My bill says I used over 20GB of data this month and I only use a little less than 5GB per week.  Is this possible?
+Agent: Thank you for contacting us. We're sorry to hear about the unexpected data usage. Can you please provide your account number or the email address associated with your bill?
+Customer: My account number is [account number] and my email address is [email address]. 
+Agent: Thank you, [customer name]. I can see that your contract has a limit of 15GB per month. It looks like there's an unexpected error in our system that might be causing this high usage.  
+Customer: Really? Can we fix it?
+Agent: Yes, absolutely! We will review the billing records and take care of the issue for you.  We are also happy to offer you a discount on your next bill as a gesture of goodwill. 
+Customer: Thank you so much! 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Really impressed with how quickly and efficiently they resolved the issue, especially the extra discount! 👍"
+Sentiment: Positive

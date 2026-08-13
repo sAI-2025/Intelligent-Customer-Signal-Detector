@@ -1,0 +1,30 @@
+Customer ID: 0533-BNWKF
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I’m having trouble with my internet connection. It keeps dropping out frequently. 
+
+Agent: Hello!  I apologize for the inconvenience. Could you please provide me with your account details so I can better understand the situation?
+
+Customer: Sure, it's [account number] and my name is [customer name]. 
+ 
+Agent: Thank you for providing that information. I see there’s been a few reports of slow speeds in your area recently.  
+
+Customer: Well, this isn't just slow, it’s inconsistent!   It's like the connection drops every 10 minutes or so. 
+
+Agent: I understand. Let me check on that for you. 
+
+Customer: Thank you.
+
+Agent:  I see a few scheduled maintenance activities in your area. 
+ 
+Customer: Okay, thanks.
+
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation about the maintenance, it's still frustrating to have such inconsistent service."
+Sentiment: Negative

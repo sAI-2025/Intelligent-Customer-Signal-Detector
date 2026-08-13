@@ -1,0 +1,19 @@
+Customer ID: 6303-KFWSL
+Topic: line transfer or replacement problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to transfer my service from my old home address to a new one. 
+Agent:  I understand you're having trouble transferring your service.  What is your new address?
+Customer: 123 Main Street, Anytown, CA 91234
+Agent:  Thank you for providing your new address.  Let me check the status of your account. 
+Customer: Can I get a replacement modem as well while I'm at it?
+Agent: We do offer a free replacement modem with any service transfer. Just let us know if you need one sent to you. 
+Customer: Great, that will help!   
+Agent:  I can process your request for the transfer and modem replacement right away.
+Customer: Thank you!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, making the service transfer process smooth and easy.
+Sentiment: Positive

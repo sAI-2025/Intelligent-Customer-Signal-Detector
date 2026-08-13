@@ -1,0 +1,17 @@
+Customer ID: 8404-GFGCZ
+Topic: TV streaming quality automatically decreases
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having some issues with my TV streaming quality lately. It seems like it’s been constantly buffering and dropping out. 
+Agent:  I understand your frustration. May I ask what model of device you're using to stream?  And is this happening across all your devices or just one specific one?
+Customer: I use my Roku streaming stick. It happens with both the shows and movies, and it’s not just one device. 
+Agent: Thank you for providing that information. Let me check our logs. Have you checked your internet speed recently to ensure it's within the typical range for streaming?  
+Customer: I did some checks and my DSL connection seems pretty good, but the quality is still bad. 
+Agent:  I'm going to put in a ticket for you now. We will review the details about your account, including your internet speed, and see if there are any other factors that might be impacting streaming quality.   
+Customer: Okay, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this issue escalated. Hopefully a solution can be found soon!"
+Sentiment: Positive

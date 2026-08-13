@@ -1,0 +1,19 @@
+Customer ID: 2382-BCKQJ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my Wi-Fi signal in my living room.  It’s very weak compared to other areas of the house. 
+Agent: Thank you for contacting us! I understand you're experiencing a poor Wi-Fi connection in your living room. 
+Customer:  That’s been happening for a few days now. Could there be any issues with our router or signal?
+Agent: Let me take a look at your account details and internet usage history to see if we can pinpoint the issue.  
+Customer: My online speed has been fine; I just don't get strong Wi-Fi in that room. 
+Agent: Okay, hold on a moment while I check my system… 
+Customer: Thanks! 
+Agent: We might have to run a network diagnostic test for your router and see if there’s an issue with the signal strength. 
+Customer: That would be great!   
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in finding the solution for my Wi-Fi issues, thanks!
+Sentiment: Positive

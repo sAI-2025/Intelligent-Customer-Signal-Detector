@@ -1,0 +1,20 @@
+Customer ID: 1264-BYWMS
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having frequent disconnections on my internet and it's really frustrating. 
+Agent:  I understand,  how long has this been happening? 
+Customer: For the past week or so. 
+Agent:  What is your modem/router model?
+Customer: It's a Netgear Nighthawk RAX120
+Agent:  Alright, let me check on that for you. Please hold while I look into this further. 
+Customer: Thanks!
+Agent:  I found a few things that could be causing the disconnections. Do you have any other details about where they are happening?
+Customer: It mostly happens when streaming or downloading large files.
+Agent: Thank you for your patience, and let me know if you need anything else. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and knowledgeable, and I appreciate them looking into the issue."
+Sentiment: Positive

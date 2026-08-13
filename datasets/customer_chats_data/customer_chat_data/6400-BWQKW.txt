@@ -1,0 +1,17 @@
+Customer ID: 6400-BWQKW
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with latency on my connection, it's been lagging a lot lately. 
+Agent:  I understand, let me take a look at your account and see what we can do to help resolve this. 
+Customer: Thanks for your help, I just moved from a different provider and haven't had this issue before.
+Agent: I will check your connection details and service history to find the cause of the latency.  
+Customer:  It’s frustrating since I rely heavily on my internet connection.  
+Agent:  I see some recent updates to your network infrastructure, could be contributing to the issue.   
+Customer:  Ok, thanks for looking into this!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me and helping troubleshoot this issue. I appreciate your efforts in finding a solution.
+Sentiment: Positive

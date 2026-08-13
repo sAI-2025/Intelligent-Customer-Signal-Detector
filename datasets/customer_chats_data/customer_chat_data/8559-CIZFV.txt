@@ -1,0 +1,15 @@
+Customer ID: 8559-CIZFV
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having frequent internet disconnections lately. 
+Agent: Thank you for contacting us!  I understand your concern about the frequent internet disconnections you've been experiencing. Can you please provide me with your account number and the specific dates and times when these issues occurred? 
+Customer: Sure, my account number is [account number]. It's happening most often between 8pm and midnight every night for the past few weeks. 
+Agent: I have noted that information down. We will investigate further to determine the cause of these disconnections. 
+Customer: Thanks! 
+Agent:  We are currently investigating this issue and we expect it to be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and I appreciate them taking ownership of the problem."
+Sentiment: Positive

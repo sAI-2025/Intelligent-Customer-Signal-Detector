@@ -1,0 +1,17 @@
+Customer ID: 7479-NITWS
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble connecting to the internet today. It seems to be very slow during peak hours. 
+Agent: Thank you for contacting us!  I can help with that. Can you please confirm your account details and what device(s) are experiencing issues? 
+Customer: Sure, my account number is [account number]. My laptop and smart TV are struggling the most. 
+Agent: Alright, I see the speed test results from your laptop and Smart TV are showing a significant drop in connection speed during peak hours.  
+Customer: Is there anything that can be done about this? 
+Agent:  We're currently working on network optimization to minimize slowdowns during peak times. We will also investigate the specific issues on your devices. 
+Customer: Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate their response and update about the ongoing investigation.  Hopefully it resolves the issue quickly.
+Sentiment: Positive

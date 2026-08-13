@@ -1,0 +1,19 @@
+Customer ID: 4720-VSTSI
+Topic: TV audio and video out of sync
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with the audio and video syncing on my TV. 
+Agent:  Hello! Thanks for reaching out to us. What model of TV are you using? 
+Customer: It's a Samsung LED Smart TV. 
+Agent: Okay, I see that you have a fiber internet connection. Can you please tell me more about the issue, specifically what kind of problem do you experience?  
+Customer:  The video and audio seem to be out of sync by a few seconds. 
+Agent: I understand, it's frustrating when your TV isn't playing correctly. Let me check on some troubleshooting steps for this issue.  
+Customer: Thanks!
+Agent: Try restarting your TV and router.  Let me know if this resolves the problem. 
+Customer: Okay, thanks
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The solution worked!  Thank you for your help. 😊
+Sentiment: Positive

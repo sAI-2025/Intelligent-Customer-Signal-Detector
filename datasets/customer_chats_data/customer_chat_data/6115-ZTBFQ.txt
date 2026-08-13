@@ -1,0 +1,19 @@
+Customer ID: 6115-ZTBFQ
+Topic: customer dissatisfied with support experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am really unhappy with my recent experience with customer service.  My DSL internet has been down all day. 
+Agent: I understand your frustration, and I'm sorry to hear about the ongoing issue with your DSL connection.  Can you please tell me your account number?
+Customer: It's 1234567890
+Agent: Thank you for providing your account information.  I'll be happy to help troubleshoot this issue. 
+Customer: I've been dealing with this for days! 
+Agent: Let me check the technical logs and see what we can do about getting your internet back online.
+Customer: Thanks, hopefully it's a simple fix.   
+Agent:  Based on the current status, there seems to be an issue with the equipment connection. I'll dispatch a technician to your location shortly. 
+Customer: Thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent did eventually help, it took way too long and felt like a constant cycle of "we're working on it" without real progress made.
+Sentiment: Negative

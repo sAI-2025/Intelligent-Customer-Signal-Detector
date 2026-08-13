@@ -1,0 +1,19 @@
+Customer ID: 2070-FNEXE
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some issues with high latency when using the internet.  It seems to be happening more and more lately. 
+
+Agent: Thank you for contacting us.  I'd be happy to look into this for you.  Could you please provide your account details? 
+
+Customer: My account number is [redacted]
+Agent:  A few moments, I'll pull up your account information now.
+
+Customer: Okay, thank you. 
+
+Agent:  We have a fiber optic connection here that may be the culprit with the latency.  I will connect you to our network specialists in a moment for further help.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and got me connected to the right people quickly."
+Sentiment: Positive

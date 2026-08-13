@@ -1,0 +1,16 @@
+Customer ID: 8149-RSOUN
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my Wi-Fi signal in the living room. 
+Agent: I understand you're experiencing a weak Wi-Fi signal in your living room.  What device are you using and what speeds are you seeing?
+Customer: My laptop's showing around 10 Mbps. It's fine in other rooms.
+Agent: Okay, thank you.  We can troubleshoot this further.  Would you mind checking the Wi-Fi router to see if there are any obstructions or signal interference? 
+Customer: I just did that and checked for dead spots but nothing seems to be the issue.
+Agent: Thank you for clarifying.  I'll escalate this issue to our technical team for a more in-depth analysis. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for your help! I hope they can figure out why my living room is so spotty.
+Sentiment: Positive

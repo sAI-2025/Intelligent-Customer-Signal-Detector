@@ -1,0 +1,18 @@
+Customer ID: 9688-YGXVR
+Topic: customer asks about contract expiration
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to know when my contract is expiring. 
+Agent: Hello!  Thank you for reaching out. To confirm your contract details, could you please provide me with your name and account number?
+Customer: Yes, my name is John Smith, and my account number is 123456789. 
+Agent: Thank you, Mr. Smith. Based on your Fiber optic plan and current monthly payment of $88.15, your contract has been active for 44 months.  It will be expiring on the [Date].
+Customer: That's helpful information. Can I renew or will it just stop?
+Agent: You're welcome. We offer a variety of options for contract renewal. Are you looking to continue with your current plan, or would you like to explore other possibilities? 
+Customer:  I think I might want to stay on the same plan, so can we make that happen? 
+Agent: Of course! We'll process your renewal and ensure it's set up by the end of the day.
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in providing me with the information I needed, and they were able to easily help me renew my contract!
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 3996-ZNWYK
+Topic: additional phone line cannot be activated
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm calling about my new phone line that I can't activate. It says it's stuck in a processing stage. 
+
+Agent:  I understand you're having trouble activating your new phone line. Can you please provide me with your account number and the phone number you would like to add? 
+
+Customer:  Sure, my account number is 1234567890 and I'm adding a landline for my house. 
+
+Agent:  Thank you. Let me check on that, I see your contract is active and we have no outstanding payments. 
+
+Customer: Oh good! Thank you.  I just hope it gets activated soon.  
+
+Agent:  No problem. We'll get this sorted out for you as quickly as possible. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient, and I appreciate their quick response.
+Sentiment: Positive

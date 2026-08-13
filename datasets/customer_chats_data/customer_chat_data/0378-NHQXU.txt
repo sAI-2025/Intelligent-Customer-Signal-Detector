@@ -1,0 +1,18 @@
+Customer ID: 0378-NHQXU
+Topic: downloaded music cannot play offline
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having an issue downloading music offline.  I can access it online fine but when I try to download, nothing happens. 
+Agent: Thank you for contacting us! Could you please tell me your account number and the type of device you're using?
+Customer: Here's my account number: [Account Number] and I'm using a MacBook Pro.
+Agent:  I see your account is active and your internet connection appears to be stable. We need to check the status of your download settings.  
+Customer: Okay. 
+Agent: Let me verify that for you. Just a moment.
+Customer: Thanks!
+Agent: I’ve looked into your account, and it appears there's a small issue with your download manager. This should be resolved now. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for fixing the issue so quickly!  It seems like my downloads are working smoothly now."
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 4317-VTEOA
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is so slow! It's barely even usable. I'm paying $50.75 per month but this isn't acceptable.
+
+Agent: We understand your frustration; let's look into getting that speed sorted out for you.  Could you please provide your account information or the customer number associated with your DSL plan? 
+
+Customer: Sure, my account number is [account number] and it's for a month-to-month contract.
+
+Agent: Thanks. I've checked your connection and found some potential issues with your DSL line. Let me check on those and see what we can do about boosting your speed. 
+ 
+Customer:  Okay, that sounds good. 
+
+Agent: We're working to resolve the issue now. We'll have someone contact you within the next hour with an update. 
+ 
+Customer: Great, thank you. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly!  I hope it works out soon.
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 8779-QRDMV
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I have a question about my Wi-Fi signal strength. It seems weak in certain rooms of my house. 
+Agent:  I understand. Could you please tell me your address and account number so I can check the connection details?
+Customer: Yes, my address is 123 Main Street and my account number is 456789. 
+Agent: Alright, thank you. I'm checking on the signal strength at your location now. 
+Customer:  Ok, thank you.
+Agent:  I've found some information about your DSL plan. We may be seeing interference from other sources or a signal drop in certain areas. Would you like me to suggest a few troubleshooting steps? 
+Customer: Yes please. 
+Agent:  We can try rebooting your modem, router and device, and see if that resolves the issue. It's worth trying first! 
+Customer: Okay, I will give it a try and let you know how it goes. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The troubleshooting steps were helpful, and I'm hopeful the weak signal is resolved with a reboot!
+Sentiment: Positive

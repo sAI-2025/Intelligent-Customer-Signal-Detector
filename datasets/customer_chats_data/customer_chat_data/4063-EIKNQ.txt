@@ -1,0 +1,18 @@
+Customer ID: 4063-EIKNQ
+Topic: unexpected data charges
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm getting charged $50 for data this month.  I only use my internet to email and browse websites, no streaming or gaming. 
+Agent: Hello! I understand you're concerned about your recent bill. Can you please tell me which plan you are on?
+Customer: I have the No Data plan. My monthly fee is $20.95
+Agent: Thank you for that information.  It seems there might be an error with your billing, as this data charge is unusual given your plan and usage history. 
+Customer: Thanks. Can you look into it?
+Agent: I'd be happy to investigate further. Please give me a few minutes while I check into the details of your account.  
+Customer: Okay.  
+Agent: Thank you for contacting us.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution! Thanks for looking into my data issue.
+Sentiment: Positive

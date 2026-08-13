@@ -1,0 +1,25 @@
+Customer ID: 1897-OKVMW
+Topic: customer unhappy with service reliability
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am calling because my internet service has been unreliable for the past few weeks. My speeds are much slower than what I pay for each month.
+
+Agent:  I understand your frustration with the recent service performance. Can you please provide your account information so I can look into this further? 
+
+Customer: Sure, my name is John Smith and my account number is 1234567890.
+
+Agent: Thank you, Mr. Smith. Let me take a look at your account details.  We are running some routine maintenance in the area, which can sometimes impact service speed. 
+
+
+Customer: That's not helpful! I need my internet to work consistently. 
+
+Agent:  I apologize for the inconvenience, and I will see what we can do about it. We have a team working on your issue, and there should be an update within 24 hours.
+
+Customer: Okay, thank you.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but the agent did offer some hope for resolution.
+Sentiment: Negative

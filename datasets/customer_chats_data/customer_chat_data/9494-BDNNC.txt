@@ -1,0 +1,17 @@
+Customer ID: 9494-BDNNC
+Topic: streaming stops while changing channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I just had my streaming suddenly stop while switching to a different channel. 
+Agent:  I understand your concern, what channel were you trying to switch to?
+Customer: I was switching from ESPN to Fox Sports.
+Agent: Let's take a look at your account details and see if anything is causing the issue.
+Customer: Thanks for looking into this!
+Agent:  I have located a potential cause on our end, we will be addressing it shortly. 
+Customer: Ok, thanks.  
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for resolving the issue so quickly! Hopefully this won't happen again.
+Sentiment: Positive

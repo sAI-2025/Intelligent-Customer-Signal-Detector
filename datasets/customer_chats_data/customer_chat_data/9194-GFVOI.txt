@@ -1,0 +1,15 @@
+Customer ID: 9194-GFVOI
+Topic: mobile data disconnects frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having problems with my mobile data disconnecting frequently. It seems to happen every few hours. 
+Agent:  I understand your frustration. Can you please provide me with your account number and the phone number associated with the issue?
+Customer: My account number is 12345678, and the phone number is (555) 123-4567.
+Agent: Thank you for that information. I see there's been a recent increase in network congestion in your area. 
+Customer: So what can be done to fix this? 
+Agent: We will escalate this issue and send a data plan upgrade notification.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the explanation about network congestion was helpful, I'd appreciate an update on when this might be resolved."
+Sentiment: Neutral

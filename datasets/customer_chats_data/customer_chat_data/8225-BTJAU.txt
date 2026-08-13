@@ -1,0 +1,22 @@
+Customer ID: 8225-BTJAU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down and I can't connect to anything! 
+
+Agent: I understand you're experiencing internet connectivity issues.  May I please have your account details and address so I can check on this for you?
+
+Customer: Yes, my account number is 1234567890, and my home address is 123 Main Street.
+
+Agent: Thank you. I'm looking into the issue now.  Let me know if you have any questions while I investigate.
+
+Customer: Okay, thank you.
+
+Agent: I am checking on your Fiber optic connection now and will keep you updated on our progress. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and updates regarding my internet issue.
+Sentiment: Positive

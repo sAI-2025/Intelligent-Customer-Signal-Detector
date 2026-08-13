@@ -1,0 +1,17 @@
+Customer ID: 2957-LOLHO
+Topic: TV application crashes
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting my TV app to work. It keeps crashing and restarting. 
+Agent: Thank you for contacting us!  I understand you're experiencing issues with your TV app. Can you please provide me with some more information about the specific problem you're encountering? 
+Customer:  Yes, I get a message saying "application failed to start" when I try to open it.  It happened after upgrading my firmware last week.  
+Agent: I see you upgraded your firmware recently. Could you let me know what TV and device you have?
+Customer: My TV is a Samsung 50" QLED, model number UN50Q60DAFXZA, and I'm using the app on my Android phone.
+Agent: Thank you for providing that information!  I will escalate your issue to our engineering team for further investigation. We are working on a fix for this particular issue.
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was helpful to know the problem is being investigated and I appreciate you keeping me updated.
+Sentiment: Positive

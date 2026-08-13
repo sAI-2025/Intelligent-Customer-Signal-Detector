@@ -1,0 +1,24 @@
+Customer ID: 4140-WJAWW
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having some problems with my internet speed lately. It seems to be slow during peak hours.
+
+Agent: Thank you for contacting us!  I understand you're experiencing slow speeds, especially during busy times. 
+
+Customer: Yes, it's been quite frustrating, sometimes barely usable.
+
+Agent: I can definitely help with that.  Could you tell me your account information and the specific time frame you noticed this issue?
+
+Customer: Sure, my account number is 1234567890. It's happening around 6 PM to 9 PM every day.
+
+Agent: Thank you! I'll look into it now.  I'll be sure to get back to you shortly with an update. 
+ 
+Customer: Okay, thank you.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the prompt response and quick action on this issue! Hopefully, I'll see a noticeable improvement soon."
+Sentiment: Positive

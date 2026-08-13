@@ -1,0 +1,25 @@
+Customer ID: 8201-AAXCB
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I've been experiencing some really high latency lately.  It's like playing a video game or watching movies takes forever. 
+
+Agent: Thank you for contacting us. I understand you're having trouble with latency.
+
+Customer: Yeah, it's been happening on all my devices and apps. My contract is month-to-month and I'm paying $60.35 a month.  I've been with your company for 25 months. 
+
+Agent: I see you are on DSL internet. Could you please tell me which device and how often this issue occurs?
+
+Customer: Mostly my laptop, but it happens on my phone too. It happens mostly when using the internet on my laptop while streaming videos or gaming online.
+
+Agent:  Okay.  I'd like to check your network connection speeds.  Can you please give me your account number? 
+
+Customer: My account number is (Account Number)
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and I appreciate them checking the network speed! Hopefully this resolves the latency issues quickly."
+Sentiment: Positive

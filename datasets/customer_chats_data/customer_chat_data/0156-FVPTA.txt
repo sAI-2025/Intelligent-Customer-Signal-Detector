@@ -1,0 +1,17 @@
+Customer ID: 0156-FVPTA
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I keep having internet disconnections lately. 
+Agent: Hello! I understand your frustrations with frequent disconnections.  Could you tell me a bit more about what's happening?
+Customer: It happens pretty frequently, especially during peak hours.  I use DSL and have been a customer for about 2 years now.
+Agent: Thank you for that information. We do see some issues with DSL speeds in certain areas. Let me check your account to see if there are any pending outages or technical problems.
+Customer: Okay, thanks!
+Agent: I'm reviewing your account and will get back to you as soon as possible. 
+Customer: Great. Thanks for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the update on the DSL issues, hopefully they can be resolved quickly."
+Sentiment: Neutral

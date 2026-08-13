@@ -1,0 +1,17 @@
+Customer ID: 3181-VTHOE
+Topic: customer wants to cancel service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I would like to cancel my DSL internet service. 
+Agent: Hello!  I understand you'd like to cancel your service.  Please confirm your account number and the last four digits of your Social Security Number. 
+Customer: Okay, here it is.  My account number is XXX-XXXX-XXXX, and my SSN is XXX-XX-XXXX.
+Agent: Thank you for providing that information.  You have a one year contract and are currently paying $51.05 per month. 
+Customer:  I'd like to cancel the service entirely, as soon as possible.
+Agent:  We understand.   Please know that cancellation fees will apply. We can process the cancellation immediately after confirming your request.  How do you want to proceed? 
+Customer: I want to pay for the remainder of my service before cancellation. 
+Agent: Absolutely, we'll ensure the remaining balance is settled within the next few days.  We're happy to help you with that! It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the agent helping me find a solution to cancel my service and settle the remaining balance.
+Sentiment: Positive

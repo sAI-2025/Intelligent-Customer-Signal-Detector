@@ -1,0 +1,22 @@
+Customer ID: 6348-SNFUS
+Topic: customer was charged after cancellation
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I just canceled my service on August 15th and was charged again today!  How can this be?
+
+Agent: Hello! Thank you for contacting us. We're sorry to hear about your billing issue.  Can you please tell me your account number? 
+
+Customer: It's [account number]. I was told my services would be canceled on August 15th.
+
+Agent:  I apologize, there seems to be a mistake with the cancellation. Let me check on that for you. 
+
+Customer: Thank you! 
+
+Agent: We are able to correct your billing. You should see no further charges from now on. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was quickly resolved, but I'm still surprised about the double charge."
+Sentiment: Neutral

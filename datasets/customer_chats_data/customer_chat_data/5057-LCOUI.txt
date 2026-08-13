@@ -1,0 +1,17 @@
+Customer ID: 5057-LCOUI
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet speed has been really slow lately, especially during peak hours. 
+Agent: I understand your frustration, let's try to troubleshoot this.  What device and time frame are you experiencing the slowdown on?
+Customer: My laptop, usually between 5pm and 9pm. It's like a snail crawling when people are using the internet at home.
+Agent: Okay, thanks for that information. Could you please tell me your account details so I can check your connection speeds? 
+Customer:  My account number is X12345678 and my monthly payment amount is $50.75.
+Agent:  I'm looking into this now.  We may have some temporary congestion in your area, but it shouldn't last long.
+Customer: Thanks for the help! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the quick response and explanation. Hopefully the speed issue resolves soon!"
+Sentiment: Positive

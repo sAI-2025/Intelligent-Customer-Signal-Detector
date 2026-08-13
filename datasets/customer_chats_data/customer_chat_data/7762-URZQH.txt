@@ -1,0 +1,27 @@
+Customer ID: 7762-URZQH
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my upload speed is much slower than expected. I'm consistently getting 20Mbps while my contract states 50 Mbps.  
+
+Agent: Thank you for reaching out to us! Can you please provide your account information so we can look into this further?  
+
+Customer: Sure, my name is [customer name], account number is [account number]. 
+ 
+Agent: I've located your account and found a few recent changes in our network. We are currently working on resolving the issue with your connection.   
+
+Customer: Thank you for letting me know. How long will it take to fix?  
+
+Agent: We anticipate having your speed restored within the next hour or two. 
+
+Customer: Okay, thanks.  
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for quickly resolving my slow upload speed issue! Appreciate the prompt response and update."
+Sentiment: Positive

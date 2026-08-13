@@ -1,0 +1,16 @@
+Customer ID: 8329-GWVPJ
+Topic: phone cannot connect to router
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting my phone to the internet on my fiber optic plan. 
+Agent: Hi there!  I understand you're experiencing connectivity issues with your phone line.  Can you tell me what type of device you're using?
+Customer: It's a standard cell phone, and it's not showing any connection at all. 
+Agent: Let's check the status of your service. Can I have your account number or your name on file to access your account information?  
+Customer: My name is John Smith and my account number is XXX-XXXX-XXXX. 
+Agent: Thank you, John. We can take a look at that now.  We'll get this resolved for you.  Please hold while we investigate. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quick to resolve the issue, thanks!"
+Sentiment: Positive

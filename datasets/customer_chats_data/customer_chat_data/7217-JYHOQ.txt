@@ -1,0 +1,15 @@
+Customer ID: 7217-JYHOQ
+Topic: selected movie unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, I'm trying to watch [Movie Name] but it's unavailable. Is there an issue with my subscription?
+Agent: Hi! I understand you're having trouble accessing [Movie Name].  Let me check on your account. 
+Customer: Thanks. My contract is month-to-month and I use DSL internet. 
+Agent:  I see your current plan and tenure, we apologize for the inconvenience. It looks like there might be a temporary issue with streaming availability. 
+Customer: Okay, that's understandable. When can I expect this to be fixed?
+Agent: We will update you as soon as we have more information on the issue.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for the update! I appreciate your prompt response and hope the issue gets resolved quickly.
+Sentiment: Positive

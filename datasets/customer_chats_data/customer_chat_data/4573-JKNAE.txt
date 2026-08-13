@@ -1,0 +1,24 @@
+Customer ID: 4573-JKNAE
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet.  It's completely out. 
+
+Agent:  I understand your concern.  May I have your account number please? 
+
+Customer: It's [account number]
+
+Agent: Thank you.  I'm looking into the outage now. Would you like me to provide an estimated time of resolution? 
+
+Customer: Yes, that would be great. 
+
+Agent:  We're currently experiencing a widespread internet service disruption in your area. We are working diligently to restore connectivity as quickly as possible. 
+
+Customer: Thanks for keeping me updated. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was helpful that they kept me updated on the outage and estimated time of resolution, especially since it's affecting a large area.
+Sentiment: Positive

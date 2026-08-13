@@ -1,0 +1,27 @@
+Customer ID: 0824-VWDPO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having trouble connecting to Wi-Fi in my living room and bedroom.  It seems like the signal is weak. 
+
+Agent: Thank you for reaching out! I'd be happy to help troubleshoot this issue. Could you please tell me your account number?
+
+Customer: Here it is - [redacted].
+
+Agent: Alright, thank you. I’m looking at your account and seeing that you have Fiber optic internet with us.  Do you have a signal booster installed in those rooms?
+
+Customer: No, just the router on the main floor. 
+
+Agent: Okay, well we can check to see if there's an issue with the network connection. Would you mind giving me a few minutes so I can look into it?
+ 
+Customer:  Sounds good. 
+
+Agent: Thank you for your patience! Just give me a moment while I investigate.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, appreciate the fast response!"
+Sentiment: Positive

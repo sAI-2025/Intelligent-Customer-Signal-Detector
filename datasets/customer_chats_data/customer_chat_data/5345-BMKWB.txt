@@ -1,0 +1,17 @@
+Customer ID: 5345-BMKWB
+Topic: unexpected increase in monthly bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble understanding my recent bill. It's much higher than usual. 
+Agent: Thank you for reaching out!  I understand your concern about your monthly bill increasing.  Can you tell me the exact amount on your most recent bill?
+Customer: $50.75 - it's way too high. I have no internet and I was paying $20.25 per month for the past eight months. 
+Agent: Let's take a look at your account.  It looks like there may be an error with the billing cycle or service activation.  
+Customer: Okay, please help me fix this. 
+Agent: I'm looking into it now. Please stay on hold for a moment so we can verify everything.  
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the agent's prompt attention to my issue, and hope the billing error is resolved quickly."
+Sentiment: Positive

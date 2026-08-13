@@ -1,0 +1,17 @@
+Customer ID: 3865-QBWSJ
+Topic: customer wants to remove unlimited data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I would like to cancel my unlimited data plan. 
+Agent:  I understand you're looking to downgrade your plan. Can you tell me a little more about why? 
+Customer: My son just moved out and I don't use as much internet anymore, so an unlimited plan is no longer necessary. 
+Agent:  Okay, no problem.  What is your preferred data cap? 
+Customer: Maybe 25GB? 
+Agent:  We have a 25GB plan that may suit your needs. It will cost $40.95 per month. 
+Customer: Thanks, I'll take it!
+Agent:  Wonderful! We can change your subscription to the 25GB plan. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks for helping me switch to a more affordable plan!
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 7233-DRTRF
+Topic: customer questions monthly service price
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was wondering if you could tell me what my monthly service price is going to be in the future. 
+Agent:  I can definitely help you with that information.  Based on your current plan and fiber optic internet, your monthly price is currently $102.40.
+Customer:  Thank you!  That's what I was hoping for. Can you give me an idea of any changes in the near future?
+Agent: We are always committed to keeping our pricing competitive.  However, there have been no recent price adjustments to your plan. 
+Customer: Okay, thanks. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in providing the information I needed. Thanks!
+Sentiment: Positive

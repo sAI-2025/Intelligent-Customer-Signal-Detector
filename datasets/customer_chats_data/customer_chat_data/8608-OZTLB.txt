@@ -1,0 +1,24 @@
+Customer ID: 8608-OZTLB
+Topic: customer reports unusually high data usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having a bit of trouble understanding my recent data usage.  It seems like it's much higher than usual. 
+
+Agent: Thank you for reaching out to us. Could you please provide your account number and the timeframe you are referring to?
+
+Customer: My account number is [redacted], and the high data usage occurred over the past two weeks. 
+
+Agent: I see what you mean, it appears there's been a surge in your monthly usage.  Can you tell me more about when this began to occur? 
+
+Customer: It seems like it started after I added a few streaming services on my phone, and also downloaded some large files. 
+
+Agent: Thanks for clarifying. We can look into that further. Could you let me know what devices are being used regularly?  
+
+Customer:  Mostly my smartphone and laptop. 
+
+Agent: Okay, we'll take a closer look at your usage patterns and provide more information soon. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this! I appreciate the quick response."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 5174-RNGBH
+Topic: customer cannot find expected self-service option
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I can't seem to find the option to adjust my billing cycle online. 
+Agent:  I understand you'd like to change your billing cycle.  May I ask what kind of service plan you have? 
+Customer: It's a month-to-month, $66.25 DSL internet plan. 
+Agent: Okay, and are you looking to switch to a different payment cycle, or do you just want to change the billing date?  
+Customer: I was hoping to set up automatic payments. 
+Agent: You can easily find that information in your account settings online. Let me know if you have any other questions.  
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent's instructions were helpful, but it would be even better if the process for setting up automatic payments was more clearly outlined on the website.
+Sentiment: Neutral

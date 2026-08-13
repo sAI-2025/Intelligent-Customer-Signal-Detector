@@ -1,0 +1,17 @@
+Customer ID: 0277-BKSQP
+Topic: customer requests compensation for poor service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm unhappy with the service I've been receiving lately. My internet has been slow and unreliable for weeks. 
+Agent:  I understand your frustration. Can you please provide a few details about the issue? Such as your account number or email address? 
+Customer: Sure, my account number is [account number] and my email is [email address].
+Agent: Thanks! I've checked your account and will have a technician look into the matter.  We do offer compensation for service outages. Let me know if you would like to discuss that further. 
+Customer: Thank you, but I just want the compensation for the recent slow internet speeds.
+Agent: I apologize again for the inconvenience. We are offering a discount on your next month's bill as compensation.  Would you like to proceed with that? 
+Customer: Yes please. That would be great. Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the resolution and appreciated the quick response."
+Sentiment: Positive

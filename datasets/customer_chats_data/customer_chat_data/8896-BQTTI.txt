@@ -1,0 +1,20 @@
+Customer ID: 8896-BQTTI
+Topic: new service activation delayed
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I just wanted to check on the status of my service activation. 
+Agent: Hi there!  I can definitely look into that for you.  What's your account number or name?
+Customer: My account is [account number]. It's been almost a week since I signed up and haven't had any updates. 
+Agent: Thank goodness you reached out! I see your service activation is currently delayed due to an unexpected system update, but we expect it to be active within the next 24 hours.  
+Customer: Okay, thanks. Do I get any credit for this delay? 
+Agent: We're always happy to help! As a courtesy, you will receive [credit amount] credited back to your account. 
+Customer: Perfect, thank you for that! 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was resolved quickly and the credit is appreciated!"
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 9919-YLNNG
+Topic: additional line missing from account
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I just checked my account online and noticed that I'm only on one internet line instead of two. 
+Agent: Hello!  I understand you have a concern about your service plan. Can you please tell me the account name or the phone number associated with it?
+Customer: My Account Name is [Account Name]. 
+Agent: Thank you for providing that information. I can see that you're on a month-to-month contract and have been using Fiber optic internet for 42 months.  Did you recently upgrade your plan or service?
+Customer: No, everything has stayed the same.
+Agent: Let me look into this for you then. Would you mind giving me your email address so I can send you a link to our help center?
+Customer: [Email Address]
+Agent: Thank you!  I'm going to check on this and get back to you shortly. 
+Customer: Great, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and I received answers quickly.
+Sentiment: Positive

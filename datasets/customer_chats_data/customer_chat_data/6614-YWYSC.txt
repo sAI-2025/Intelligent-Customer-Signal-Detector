@@ -1,0 +1,23 @@
+Customer ID: 6614-YWYSC
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm experiencing slow internet speeds during peak hours lately.
+
+Agent: I understand your concern.  Can you please tell me what devices you are using and when the speed issues occur? 
+
+Customer: It seems to be happening mostly in the evenings around 6 p.m.  I am using my laptop for work, then my cell phone later for personal use.
+
+Agent: Ok, thanks for the details. I'll look into possible network congestion. 
+   
+Customer: Thank you.
+
+Agent: I’ve checked your account and found no recent billing or service issues.  We will continue to monitor network traffic as it relates to this issue. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quick, and I appreciate them checking on the network congestion.
+Sentiment: Positive

@@ -1,0 +1,22 @@
+Customer ID: 8495-LJDFO
+Topic: customer wants to upgrade TV package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I would like to upgrade my TV package.
+Agent: Hi there!  I understand you'd like to explore our upgraded options. 
+Customer: My current plan is $108.95 per month and I’m on a month-to-month contract.
+Agent: Certainly, could you tell me what kind of channels you're interested in?
+Customer: I mainly want the news channels and some sports.
+Agent:  We have several packages that offer different tiers of coverage for those channels. Would you like to see them? 
+Customer: Yes please!
+Agent: Alright, let me pull up some options for you.
+Customer: Thank you!
+Agent: We have a few plans that fit your needs. Would you like more information on one of them or prefer to discuss further?  
+Customer: I’d appreciate it if you could give me the details on the most popular plan, please. 
+Agent: The "News & Sports" plan is our best-selling option and offers a wide selection of news channels and sports programming for $129.95 per month.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining the options and I appreciate their clear communication about pricing.
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 2530-FMFXO
+Topic: customer asks about upgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm looking to upgrade my internet plan. How much would a fiber speed plan cost? 
+Agent:  Of course! To get an accurate quote, could you tell me your current plan and location?
+Customer:  I have the 100 Mbps Fiber plan with a two-year contract and am currently paying $103.20 per month.
+Agent:  Okay, thanks for that. With your current plan and tenure, our upgrade options would be $129.99 for 500 Mbps or $169.99 for 1 Gbps. 
+Customer:  So, 500 Mbps is the cheapest?
+Agent:  Yes, for you specifically, that's correct! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the clear explanation of the upgrade options! I appreciate the cost-effective suggestion."
+Sentiment: Positive

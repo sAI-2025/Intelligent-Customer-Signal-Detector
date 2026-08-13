@@ -1,0 +1,27 @@
+Customer ID: 0691-IFBQW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just wanted to report that my internet connection has been very slow today. 
+
+Agent:  Hello! I understand you're experiencing slow speeds.  Can you please tell me your account number and what device you're using?
+
+Customer: Sure, it's [Account Number]. My laptop is connected via wifi. 
+ 
+Agent: Thank you for providing that information, [Customer Name]. We have been seeing a spike in traffic today, but I should be able to help you out with your connectivity concerns. 
+
+Customer:  Hopefully!
+
+Agent: Please give me a few minutes and we'll get this resolved.   
+ 
+Customer: Thanks, I appreciate the prompt response.
+
+Agent:  I'm now working on restarting your router and checking for any network issues. I should be able to have your connection back up in a few minutes. Thank you for contacting us.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting my internet back up, it feels much faster now!
+Sentiment: Positive

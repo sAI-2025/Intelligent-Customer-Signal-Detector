@@ -1,0 +1,17 @@
+Customer ID: 7225-CBZPL
+Topic: billing dispute or unexpected charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have a billing dispute regarding my recent statement. I don't recognize an extra charge on it. 
+Agent: Thank you for reaching out!  I understand your concern about the extra charges on your statement. 
+Customer: My internet bill is usually $94.80 per month and this one was $120.  Can you please explain the discrepancy? 
+Agent: I'm happy to help with that, sir. We can look into why there might be an unexpected charge. 
+Customer: Well, it seems like something has been added without my knowledge.
+Agent: Please allow me a moment while I investigate your account further.  
+Customer: Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in resolving the billing dispute."
+Sentiment: Positive

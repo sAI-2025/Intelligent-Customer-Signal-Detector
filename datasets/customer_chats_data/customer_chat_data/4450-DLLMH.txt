@@ -1,0 +1,17 @@
+Customer ID: 4450-DLLMH
+Topic: customer wants to update personal information
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I'd like to update my personal information on my account. 
+Agent:  Certainly! What information would you like to change?
+Customer:  I want to update my name and address.
+Agent:  No problem, I can help with that. Please let me know the new information you'd like to use. 
+Customer: My new name is Smith, and my address is [new address]. 
+Agent: Alright, thank you for providing those details. We will update your account accordingly. 
+Customer:  Great! Thanks so much.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks again for helping me with updating my information! Everything was handled smoothly and quickly.
+Sentiment: Positive

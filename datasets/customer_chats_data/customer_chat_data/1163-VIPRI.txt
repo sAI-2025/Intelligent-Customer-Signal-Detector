@@ -1,0 +1,32 @@
+Customer ID: 1163-VIPRI
+Topic: customer wants to cancel service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'd like to cancel my Fiber optic internet service. 
+
+Agent:  I understand. We can help with that process.  Could you please confirm your account number and the last four digits of your phone number?
+
+Customer: Sure, it's [Account Number] and the number is [Phone Number].
+
+Agent:  Thank you. Let me check your current contract information for any outstanding fees or penalties. 
+
+Customer:  I just signed a two-year contract back in 2021. I don’t want to be charged anymore after today.
+
+Agent:  You're currently on the two-year plan and have been with us for 65 months, so you'll be facing a $109.3 cancellation fee.   
+
+
+Customer: Okay. Can you help me cancel? 
+ 
+Agent: Absolutely! We can initiate your cancellation right now. To ensure everything is processed correctly, may I have a moment while I get the necessary details?  
+
+Customer: Okay. 
+ 
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful with information, the cancellation fee seems excessive given the length of my contract and the current market conditions.
+Sentiment: Neutral

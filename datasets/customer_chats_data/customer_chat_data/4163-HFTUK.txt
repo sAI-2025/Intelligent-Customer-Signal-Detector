@@ -1,0 +1,22 @@
+Customer ID: 4163-HFTUK
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet connection. It keeps disconnecting frequently. 
+
+Agent:  I understand your frustration.  Could you please tell me your account number and the exact issue you are experiencing?
+
+Customer: My account number is 1234567890. The disconnections seem random, and sometimes they last for a few seconds, but other times it's longer. 
+
+Agent: I can see your account details.  Our records show that the disconnections may be due to an issue with the modem or router. 
+
+Customer: Thanks! Let me know if you need me to do any troubleshooting on my end.
+
+Agent: We are working on a solution for you right away. You should have stable internet connection within 30 minutes at the latest.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and I appreciate their prompt attention to my issue."
+Sentiment: Positive

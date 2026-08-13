@@ -1,0 +1,27 @@
+Customer ID: 3389-YGYAI
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet speeds today. It's very slow during peak hours. 
+
+Agent:  I understand your frustration, I can certainly help you troubleshoot this issue. To start, could you tell me what kind of device you're using to access the internet? 
+
+Customer:  My computer and iPad, mostly. 
+
+Agent:   Alright, please confirm your account details so I can check on your service plan details. 
+
+Customer: Sure, my name is [redacted], and my account number is [redacted]. 
+
+Agent: Thank you for providing that information. Your internet speed is currently running at around 50% of the expected limit during peak hours.  
+ 
+Customer: Well that's a bummer! How can I get this fixed? 
+
+Agent: We will be able to adjust your speed priority on our end, and see if there are any issues with traffic during peak hours. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick help!  It seems like they're working on things to improve speeds."
+Sentiment: Positive

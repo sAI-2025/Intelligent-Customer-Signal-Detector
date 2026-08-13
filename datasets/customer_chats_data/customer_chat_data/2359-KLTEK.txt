@@ -1,0 +1,27 @@
+Customer ID: 2359-KLTEK
+Topic: customer asks about early termination terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm looking to terminate my contract early. How would I go about that?
+
+Agent:  Of course! We understand.  To best guide you through this process, could you please provide your account number and the reason for your early termination request? 
+
+Customer:  Account Number: 1234567890
+Reason: Moving to a new residence. 
+
+Agent: Based on your 41-month tenure and Month-to-Month contract, we'd be happy to assist you with early termination. There's a fee associated depending on the remaining term of your contract,  
+
+Customer: Okay, what is that fee? 
+
+Agent: The estimated fee for early termination would be around $XXX based on your current plan and remaining service period. 
+ 
+Customer: Alright, thanks!
+
+Agent: Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining the process and fees associated with early termination.
+Sentiment: Positive

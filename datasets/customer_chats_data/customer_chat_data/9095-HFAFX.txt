@@ -1,0 +1,18 @@
+Customer ID: 9095-HFAFX
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my upload speed. It's significantly slower than what I'm paying for. 
+Agent:  Hi there!  I understand you're experiencing slow upload speeds. To better assist you, can you please tell me your full address and the specific plan you are on?
+Customer: My address is [customer's address]. I have the Fiber Optic 100 plan.
+Agent: Thank you for providing that information.  I am checking the speed performance of your account right now. 
+Customer: It seems to be about half the speed I expected. Is there anything we can do?
+Agent:  Let me check on our network status, and I will update you with any relevant info.  
+Customer: Thanks for that.
+Agent:  I've checked the network, and it appears there may be a temporary service disruption in your area. We're currently working to resolve it. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is a frustrating situation, but I appreciate the update on the service issue!
+Sentiment: Negative

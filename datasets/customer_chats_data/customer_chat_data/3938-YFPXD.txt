@@ -1,0 +1,20 @@
+Customer ID: 3938-YFPXD
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm calling to understand what service plans are available on my account. 
+Agent:  Absolutely! Could you please provide your account number so I can access your information? 
+Customer: My account number is 1234567890.
+Agent: Thank you for providing that information, we have identified a few options available to you. Would you like me to explain the differences between our plans or just list them out?  
+Customer: I'd love to see the options, but what are the costs associated with each plan if I switch? 
+Agent: Of course! Our current plans vary based on internet speed and data limits. Could you tell me your average monthly data usage? 
+Customer: It's about 50GB on average.  
+Agent: Based on that, here's a breakdown of available plans. Would you like to move forward with one or would you like more information on our options?   
+Customer: I'd love to see what's available.  
+Agent: Sure! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and explained the plans clearly. Thanks!
+Sentiment: Positive

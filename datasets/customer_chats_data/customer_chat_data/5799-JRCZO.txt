@@ -1,0 +1,22 @@
+Customer ID: 5799-JRCZO
+Topic: additional service charge is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just got my bill and there's a service charge on it that's not clear. It's about $15 more than usual. Can you explain why?
+
+Agent:  Certainly, thank you for reaching out!   Can you please provide your account number or the date of the bill in question? 
+
+Customer: My account number is 1234567890 and the bill is dated July 1st. 
+
+Agent: Thank you, I'm checking on that now.  The additional charge is for the installation fee on a new TV service line that was added to your account on June 1st. 
+
+Customer: Thanks! So it wasn't an error on my end?
+
+Agent: Yes, there were details about this in the invoice but sometimes they can be missed. The total monthly cost for the new line will be $20.50. 
+  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: **"The explanation was clear and helpful! Thank you."**
+Sentiment: Positive

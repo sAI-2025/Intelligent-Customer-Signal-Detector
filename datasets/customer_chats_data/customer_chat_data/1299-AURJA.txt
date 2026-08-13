@@ -1,0 +1,17 @@
+Customer ID: 1299-AURJA
+Topic: movie playback fails on specific devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to play movies on my Roku TV. It just says “network error.” 
+Agent:  I understand your frustration! Let's troubleshoot this. Can you tell me what model of Roku TV you have and the specific movie title you were trying to watch? 
+Customer: It's a TCL, Model 40S320, I was trying to play "The Batman" 
+Agent: Thanks for that information.  I see there might be an issue with your Roku connection. Could you verify your signal strength and try connecting again?
+Customer: My signal is strong, just like it always has been. 
+Agent: Okay, I'll check our system records to see if we can pinpoint the issue. There may be a temporary server outage affecting some viewers. Would you prefer to wait for an update from us or continue troubleshooting on your end? 
+Customer:  I’ll wait, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your patience, I appreciate the helpful guidance."
+Sentiment: Positive

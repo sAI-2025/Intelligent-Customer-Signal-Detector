@@ -1,0 +1,18 @@
+Customer ID: 4074-SJFFA
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet at all!  It just keeps saying "Error 104".
+Agent: Hello, I understand you are experiencing difficulties with your internet connection. Can you please provide me with your account information? 
+Customer: My name is [customer name] and my account number is [account number]. I am on a month-to-month contract.
+Agent: Thank you for providing that information, [customer name].  I'm checking the service status and will get back to you as soon as possible.
+Customer: Thanks!
+Agent: We are currently experiencing a widespread DSL outage in your area. We apologize for this inconvenience. 
+Customer: Okay, thanks. When can I expect things to be back up?
+Agent: Our engineers are working hard to resolve the issue. We anticipate service restoration within the next couple of hours.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the outage and for the update!
+Sentiment: Positive

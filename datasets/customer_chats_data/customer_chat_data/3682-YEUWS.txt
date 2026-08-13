@@ -1,0 +1,17 @@
+Customer ID: 3682-YEUWS
+Topic: movies buffering during playback
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My movie isn't buffering properly and it keeps freezing up.  Help!
+Agent: I understand your frustration! Could you tell me what device you are watching on and the specific movie title? 
+Customer: iPhone, currently watching "The Batman".
+Agent: Thank you for providing that information.  I can see some reports of similar issues with this title lately.
+Customer: Really? Is there a fix?
+Agent: I'm working on identifying the issue for you. For now, you might be able to try restarting your device or the app.
+Customer: Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for your help, it seems like restarting helped with the buffering issues.
+Sentiment: Positive

@@ -1,0 +1,22 @@
+Customer ID: 8515-OCTJS
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is terrible, I'm barely able to stream videos on YouTube.  
+
+Agent: Hello! Thank you for contacting us. Can you please tell me your account number and what specific issue are you experiencing? 
+
+Customer: 1234567890, my download speed is significantly slower than advertised speeds. I'm paying $24.75 per month.  
+
+Agent: I see you have a two-year contract, and we do offer a promotional plan for this month with a guaranteed download speed of 5Mbps minimum.   
+
+Customer: That’s not what I signed up for! My speed has been consistently slower than advertised. 
+ 
+Agent: Thank you for contacting us.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was frustrating to deal with, and it's disappointing that my consistent slow speeds weren't addressed during the promotional period.
+Sentiment: Negative

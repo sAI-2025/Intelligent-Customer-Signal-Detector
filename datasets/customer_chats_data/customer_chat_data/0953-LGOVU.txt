@@ -1,0 +1,18 @@
+Customer ID: 0953-LGOVU
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having constant internet disconnections and my speeds are super slow. 
+Agent: Hello! Thank you for contacting us. Can you please provide your account details or order number so we can look into this? 
+Customer: Sure, my name is [customer name] and my account number is 12345678.
+Agent:  Thanks, [customer name]. I'll review the account and see what could be causing these issues. Let me just check...
+Customer:  Okay! 
+Agent: Alright, based on your DSL plan, we may have a local network issue that needs to be addressed.
+Customer: Thanks for checking that out.
+Agent: We should be able to resolve it by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out, it seems like we'll have stable internet soon!"
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 6366-ZGQGL
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is so slow today. It's almost unusable. 
+
+Agent:  I understand your frustration. I can help you troubleshoot this. 
+
+Customer: Is there a possibility that it could be an issue with the network during peak hours?
+
+Agent: Yes, it seems like you're experiencing slow speeds during peak usage times. 
+
+Customer: Thanks for clarifying!
+
+Agent: We may need to run some diagnostics on your connection.  We'll have our team check in and see if there are any updates available.   
+
+Customer: Great, thank you! 
+ 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and professional, and I appreciate them taking care of things so quickly.
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 0970-ETWGE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is very weak in the living room. 
+Agent: I understand your concern, can you please tell me the specific location and any troubleshooting steps you've already taken?
+Customer: It seems to be a general area issue. I was also hoping to get more speed as my contract price doesn’t seem worth it at this point
+Agent: I apologize for the inconvenience.  I would like to request some information regarding your router placement, as well as details about any recent changes to your setup. 
+Customer: The router is in the main hallway, and I haven't changed anything recently. 
+Agent: Thank you for that information. We will get this looked into immediately. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thankful to hear it'll be addressed quickly!  Hopefully the speed increase is a bit faster than I expected."
+Sentiment: Positive

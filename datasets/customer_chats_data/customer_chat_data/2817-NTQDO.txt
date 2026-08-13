@@ -1,0 +1,28 @@
+Customer ID: 2817-NTQDO
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It's slow and keeps dropping out.
+
+Agent:  I understand your frustration, please tell me more about what you're experiencing. 
+
+Customer: My download speeds are incredibly slow. The upload speed has been erratic too. For instance, this morning it was barely functional during a work call.
+
+Agent: Thank you for providing details, I want to help resolve this.  I can check your account and run some diagnostics.
+
+Customer: That would be great, thanks! 
+
+Agent: No problem at all. Just a moment while I check on your DSL connection.
+
+Customer: Thanks again!
+
+Agent:  The issue seems to be coming from the router's end. Let me update your service plan for faster speeds and connect you to our technician team.  
+
+Customer: Okay, thanks so much. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out! Much appreciated."
+Sentiment: Positive

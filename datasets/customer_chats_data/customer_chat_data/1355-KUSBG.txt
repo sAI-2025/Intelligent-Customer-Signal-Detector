@@ -1,0 +1,17 @@
+Customer ID: 1355-KUSBG
+Topic: remote or TV device cannot connect to service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't connect my remote or TV to service.  I keep getting an error message about connection issues. 
+Agent:  I understand your frustration. To help me diagnose this issue, could you please tell me your account number and what kind of device you're using? 
+Customer: My account number is 1234567890. I use a Roku streaming stick.
+Agent: Thank you for that information.  I see there may be some temporary service issues affecting your area.  Would you like me to explore other options or troubleshoot this issue further? 
+Customer:  Maybe we can resolve it over the phone.
+Agent: Yes, let's try that.   Please tell me a good time for a call back and I will connect you with a specialist. 
+Customer: Great!  How about 10 AM tomorrow?
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and we were able to resolve the issue over the phone. Thanks again!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 9317-WZPGV
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having some trouble with high latency during online gaming. 
+Agent:  Hello! Thanks for reaching out to us. To help troubleshoot this issue, could you please tell me your approximate location and the specific games you're experiencing lag in? 
+Customer:  I live in [City, State], and it mainly happens when playing Fortnite and Overwatch. 
+Agent:   I understand. We can look into that for you. Can you also provide your account information so we can access more details about your service connection?
+Customer: My username is (redacted), and my billing info is attached.  
+Agent: Thank you, I'll look into this now. 
+Customer:  Thank you! 
+Agent:   Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and responsive in addressing my gaming lag issue."
+Sentiment: Positive

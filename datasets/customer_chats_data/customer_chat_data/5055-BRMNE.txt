@@ -1,0 +1,24 @@
+Customer ID: 5055-BRMNE
+Topic: customer cannot find required account option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble accessing my account settings on the website. 
+
+Agent:  I understand your frustration. Can you please tell me what you are trying to access? 
+
+Customer: I need to change my billing address and update my payment method.
+
+Agent:  Let's get that done. Do you remember the name of your new residence or the street where you will be moving?
+
+Customer: My new address is 123 Main Street. 
+
+Agent:  Okay, thank you for that information. I can see your account and help with this process!
+
+Customer: Thank you so much! 
+
+Agent:  No problem at all, just let me know if you have any other questions or need assistance.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in resolving my issue! Thanks again.
+Sentiment: Positive

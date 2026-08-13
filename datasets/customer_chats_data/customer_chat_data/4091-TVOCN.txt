@@ -1,0 +1,17 @@
+Customer ID: 4091-TVOCN
+Topic: poor call quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble connecting to the internet, call quality is very poor.
+Agent: I understand your concern, [Customer Name].  I apologize for the connectivity issues you're experiencing. 
+Customer:  It's been happening on and off all day. It's making it hard to work from home.
+Agent:  Let me check our records to see if there are any service outages in your area.
+Customer: My internet speed is also significantly slower than usual. 
+Agent: I see, [Customer Name], thanks for providing that info! Let me connect you with a senior engineer who can assist with troubleshooting. 
+Customer: Okay thank you!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful the issue is being addressed and appreciate the quick resolution.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 8775-LHDJH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need help with my Wi-Fi signal in certain rooms of my house. It's very weak. 
+Agent:  Hi there! I understand you're having trouble with your internet signal. Can you tell me a little more about where these rooms are located and what kind of devices you have connected?
+Customer: In the living room, dining room, and hallway, mostly. My laptop is on the desk in the living room, my TV is in the dining room, and my phone is in my bedroom. 
+Agent: Alright, thanks for that info!  I can take a look at your account to see what's going on with your signal.   
+Customer: Thank you. 
+Agent: You're welcome! I will need to run some diagnostics to see if there are any issues with the service.  Do you mind if we try doing this over a phone call so we can troubleshoot more efficiently? 
+Customer: Yes, please. 
+Agent: Alright! Thanks for your patience and I'll be in touch shortly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and professional, and the phone call seems like a good idea to get to the bottom of this."
+Sentiment: Positive

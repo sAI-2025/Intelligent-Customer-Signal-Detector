@@ -1,0 +1,17 @@
+Customer ID: 3325-FUYCG
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my download speed. It seems significantly slower than usual. 
+Agent: Thank you for contacting us.  I understand your concern about your internet speeds. Please provide me with your account number and the specific issue you're facing.
+Customer: My account number is 1234567890. The download speed has been dropping significantly, it's barely half the speed I was expecting.
+Agent:  I see that your plan includes fiber optic internet. Is this a new issue or are you experiencing slow speeds consistently? 
+Customer: It started happening about two days ago.
+Agent: I'll look into it now and check if there is any maintenance going on in your area. 
+Customer: Thanks for looking into it.
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and reassuring, thank you!"
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 6140-QNRQQ
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't seem to get online. My internet is completely down. 
+
+Agent:  I understand your frustration, and I apologize for this inconvenience. To help me troubleshoot, could you please tell me your account number and the last time you were able to connect? 
+
+Customer: It’s 1234567890. The internet hasn't worked since about an hour ago. 
+
+Agent: Thank you. I'm looking into it now.  
+
+Customer: Can you give me any idea when I might expect service back up?
+
+Agent: Our technicians are currently on the case and have identified a possible issue with your fiber optic line. We expect service to be restored within the next hour, at the latest. 
+
+Customer: Okay, thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick update and resolution estimate, appreciate it!"
+Sentiment: Positive

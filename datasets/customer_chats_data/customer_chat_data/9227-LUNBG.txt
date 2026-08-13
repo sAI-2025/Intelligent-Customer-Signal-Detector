@@ -1,0 +1,17 @@
+Customer ID: 9227-LUNBG
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I am having trouble with high latency during usage. My ping is really bad and it’s making it difficult to play online games. 
+Agent:  I understand you're experiencing high latency, I apologize for the inconvenience this may cause. What device and what game are you playing on?  
+Customer: I'm using my laptop running Windows 10, I am playing Valorant. 
+Agent: I see, let me check your account details and connection speed. 
+Customer: Thanks! 
+Agent: Okay, we can see that you're currently subscribed to DSL service with a month-to-month contract. Your internet speed is around the average for this plan.  
+Customer: Well, it doesn’t seem as fast as I thought. My ping should be lower than what I am seeing right now. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the help, I still find the latency frustrating and unplayable for online games."
+Sentiment: Negative

@@ -1,0 +1,20 @@
+Customer ID: 9152-AMKAK
+Topic: previously resolved problem has returned
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having issues with my internet again. It's been dropping out constantly.
+
+Agent:  I understand your frustration, and I'd like to help you get this resolved. Can you please tell me your account number and the details of the issue?
+
+Customer: 1234567890, it's been disconnecting every few minutes. 
+
+Agent: Thank you for that information.  I see you had a previous support request regarding this issue about two weeks ago. Is the problem occurring again after your last resolution? 
+
+Customer: Yes, even though I contacted support before, it seems like the problem hasn’t completely resolved. 
+
+Agent: Let me look into that further for you. I will update you as soon as I get back to you.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Still experiencing frequent internet drops despite previous efforts to fix the issue."
+Sentiment: Negative

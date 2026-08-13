@@ -1,0 +1,20 @@
+Customer ID: 3810-DVDQQ
+Topic: internet service activation problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble activating my internet service. My activation code is 12345678. 
+
+Agent:  I see you have a two-year contract with us, and your payment method is on file.  Can you please confirm the address where you want the connection activated?
+
+Customer: Yes, it's at 123 Main Street, any time after 9am tomorrow works. 
+
+Agent: I’ve marked your service for activation at that address for tomorrow morning.   Your account is updated; can I assist with anything else?  
+
+Customer: Thanks! 
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks! 😊
+Sentiment: Positive

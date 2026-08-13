@@ -1,0 +1,16 @@
+Customer ID: 8327-WKMIE
+Topic: movie playback stops unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My movie playback just stopped unexpectedly.  I have a contract for one year and was watching a film when it crashed. 
+Agent: I understand your frustration. Can you please tell me your account number and the name of the movie you were watching? 
+Customer:  My account number is 1234567890.  It was "The Martian".   
+Agent: Thank you for providing that information. We'll investigate this issue with our system to ensure it doesn't happen again. 
+Customer: Thank you! 
+Agent: I apologize for any inconvenience this has caused, and thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly!  It's good to know they're looking into the problem.
+Sentiment: Positive

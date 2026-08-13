@@ -1,0 +1,17 @@
+Customer ID: 2826-DXLQO
+Topic: router or modem not responding
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't connect to the internet. My DSL modem and router aren't responding. 
+Agent:  I understand your concern. To troubleshoot this, could you please provide your account information or the last four digits of your phone number? 
+Customer: Sure. (account information)
+Agent: Thank you. I am seeing a slow signal on your account, let me check that for you...
+Customer: It's been like this all day. I can't do anything! 
+Agent:  I have checked the speed on your account and it appears to be coming through at a slow speed due to heavy usage in your area. We will escalate your case to our network team. 
+Customer: Okay, that's great. Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent did explain the issue and escalate it, I still wish there had been a more proactive solution to get my internet back up quickly sooner rather than later.
+Sentiment: Neutral

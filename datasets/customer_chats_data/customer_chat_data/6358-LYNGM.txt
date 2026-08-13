@@ -1,0 +1,17 @@
+Customer ID: 6358-LYNGM
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet keeps dropping out. It happens almost every hour and I can’t use it for work! 
+Agent:  I understand your frustration,  could you please provide me with your account information so I can look into this?
+Customer: Sure, my username is [Username] and my account number is [Account Number].
+Agent: Thank you for providing that information. I'm looking into the recent outages and will get back to you shortly. 
+Customer: Thanks!  
+Agent: We've identified a potential issue with your fiber optic connection and are working on it now.   I'll update you as soon as we have an estimated resolution time.
+Customer: Okay, thanks again! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for helping me resolve this issue.  Hopefully, the internet connection will be stable now.
+Sentiment: Positive

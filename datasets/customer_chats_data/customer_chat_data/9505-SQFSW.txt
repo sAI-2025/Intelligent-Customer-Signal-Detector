@@ -1,0 +1,18 @@
+Customer ID: 9505-SQFSW
+Topic: late payment inquiry
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I haven't received my bill yet and would like to inquire about my late payment. 
+Agent:  I understand you're concerned about a potential late fee. Please provide your account number so we can check the status of your payments. 
+Customer: My account number is 123456789.
+Agent: Thank you for that information, I see your monthly payments have been made on time. 
+Customer: Really?  I'm just unsure about a late fee notification.
+Agent: Let me double-check for any potential issues with billing or payment processing.  
+Customer:  Alright.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my issue, thank you!
+Sentiment: Positive

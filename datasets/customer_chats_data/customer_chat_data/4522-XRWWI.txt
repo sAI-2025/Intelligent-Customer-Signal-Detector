@@ -1,0 +1,18 @@
+Customer ID: 4522-XRWWI
+Topic: customer dissatisfied with support experience
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. My speeds are way slower than usual and it keeps dropping out. 
+Agent:  I understand your frustration. Can you please provide your account number and address? 
+Customer: Here it is. 456789
+Agent: I apologize for the inconvenience, let me check on this issue.
+Customer: Well, I don't know if that was the solution but when I called in before, there wasn't much help either.
+Agent:  I see some reports of service outages in your area. We are working to resolve them as quickly as possible.  
+Customer: Okay. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating that the issue wasn't resolved despite a previous call, but I appreciate the update on the outage.
+Sentiment: Neutral

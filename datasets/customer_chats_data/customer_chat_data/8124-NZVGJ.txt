@@ -1,0 +1,17 @@
+Customer ID: 8124-NZVGJ
+Topic: movie application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I am having trouble accessing the movie app on my TV. It keeps crashing. 
+Agent: Hello!  I understand you're experiencing a crash with the movie app.  Can you tell me what model TV you have? 
+Customer: Samsung Smart TV, Model UN55MU8000FXZA
+Agent: Thank you for that information. I'm checking on some details and will be right back with you. 
+Customer: Thanks!
+Agent: We've identified a known issue affecting some Samsung TVs with this model.  We're working on a fix as we speak, but in the meantime, try restarting your TV or disconnecting it from power for a few seconds. That may resolve the issue.
+Customer: Okay, I'll give that a shot. 
+Agent: Alright. Let me know if you need any further assistance. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and explained what to try.  I'm hoping the fix will be quick!"
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 6496-JDSSB
+Topic: phone service activated but not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to my phone service today.  The activation seems to have gone through but I can't get a call through. 
+Agent: Thank you for contacting us! What is your account name and the last four digits of your phone number?
+Customer: My account name is John Smith, and the last four digits are 1234. 
+Agent:  I see that your service is scheduled to activate on [Date] at [Time]. Let me take a look at the activation process. 
+Customer: Okay, thanks! 
+Agent: I've located the issue, it appears there was an error during the activation process. We'll have this resolved shortly.  We're working on getting your service up and running.  
+Customer: Alright, thank you for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's good to know they're working on the issue! Hopefully, I can get my phone calls soon."
+Sentiment: Neutral

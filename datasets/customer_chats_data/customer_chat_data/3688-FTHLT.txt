@@ -1,0 +1,26 @@
+Customer ID: 3688-FTHLT
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. The signal is very weak. 
+
+Agent:  I understand your concern. Can you please tell me the model of your router and what kind of devices you're trying to connect?
+
+Customer: It's a Netgear Nighthawk, and I'm trying to connect a laptop and two phones.
+
+Agent:  Okay. Thanks for that information. Let me see if there's anything we can do about the signal strength in your living room. 
+
+Customer:   It was fine before this week, it seems like something changed.
+
+Agent:  I can definitely help with that! We might need to check some settings on your router or consider a new location for your Wi-Fi access point. Would you mind if I walk you through some options?
+
+Customer: Yes, please. 
+
+Agent: Okay, let's troubleshoot this together.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and patient in resolving the issue. I appreciate their help!
+Sentiment: Positive

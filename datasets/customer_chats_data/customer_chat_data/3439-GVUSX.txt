@@ -1,0 +1,17 @@
+Customer ID: 3439-GVUSX
+Topic: frequent internet disconnections
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having a lot of internet connection issues lately and it's very frustrating. 
+Agent: Hello!  I understand your frustration with these frequent disconnections. Could you please tell me more about what kind of issues you are experiencing?
+Customer: It seems to be happening every hour or so. My speed is also really slow, even when I use a basic website.
+Agent: I apologize for the inconvenience. Let's take a look at your account details and see if we can pinpoint the issue.  I'm going to request information from our technical team. 
+Customer: Okay. Thanks. 
+Agent: No problem, please have patience while we resolve this for you. We should be able to get this sorted out within an hour or so. 
+Customer: Great!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help and quick response, the issue seems resolved now!"
+Sentiment: Positive

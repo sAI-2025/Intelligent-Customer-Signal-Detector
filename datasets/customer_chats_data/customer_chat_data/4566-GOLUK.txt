@@ -1,0 +1,17 @@
+Customer ID: 4566-GOLUK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I don't have internet service right now. My connection is completely down. 
+Agent:  I understand your issue, let me check on that.  Could you please tell me your account details and address?
+Customer: Sure, my account is [account number], and my address is [address]. 
+Agent: Thanks for providing that information.  We are currently experiencing a network outage in your area.  
+Customer: Oh no! What can I do about this? Is there an estimated time of restoration? 
+Agent: We're working on resolving the issue as quickly as possible. Our engineers are investigating, and we will provide updates as soon as they become available.   
+Customer: Great, thanks for letting me know.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated! Hopefully this gets resolved soon."
+Sentiment: Positive

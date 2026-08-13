@@ -1,0 +1,18 @@
+Customer ID: 5448-VWNAM
+Topic: incoming calls not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble connecting to my internet service.  It seems like calls aren't going through. 
+Agent: I understand your concern, and I'd be happy to help troubleshoot this issue. Please provide your account number so I can look into it further.
+Customer: Sure, it's [account number]. 
+Agent: Thank you for providing the information.  I'm seeing some signs of a possible network issue. Let me check on that while we continue troubleshooting.
+Customer: Okay, thanks.
+Agent: We are working to resolve this immediately. In the meantime, please try restarting your modem and router.
+Customer: I will. 
+Agent: Thanks for that!  We have confirmed the issue is resolved, and your service should now be working properly.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out quickly! Much appreciated."
+Sentiment: Positive

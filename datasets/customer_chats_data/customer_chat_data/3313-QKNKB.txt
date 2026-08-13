@@ -1,0 +1,22 @@
+Customer ID: 3313-QKNKB
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't seem to connect to the internet at all. My connection is completely gone!
+
+Agent:  I'm sorry to hear that your internet isn't working. Can you please provide me with your account details? 
+
+Customer: Sure, my name is [Name], and my account number is [Account Number]  My plan is a one-year contract for Fiber Optic internet. 
+
+Agent: Thank you. I see the service is currently down in your area. Our team is working on resolving this issue as quickly as possible.
+
+Customer:  Okay, thanks for letting me know.
+
+Agent: We'll keep you updated on the status of your connection.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's good to know that they're working on it, hopefully I can get back online soon!
+Sentiment: Positive

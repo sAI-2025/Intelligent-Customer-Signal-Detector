@@ -1,0 +1,24 @@
+Customer ID: 5392-AKEMH
+Topic: multiple lines affecting network quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet has been really slow lately and I can't get on any websites. 
+
+Agent:  I understand your frustration! I would like to take a look at your account details. Can you please confirm your full name and the last four digits of your phone number?
+
+Customer: Sure, my name is John Smith and the last four digits are 1234. 
+
+Agent: Thank you for providing that information, Mr. Smith. We're currently experiencing a widespread network issue affecting DSL customers in your area.  
+
+Customer:  Is there anything I can do about it? My work deadlines are coming up.  
+
+Agent:  I understand the concern. Let me check if there is any immediate action we can take to help you, and I will update you on our progress as soon as possible. 
+
+Customer: Thanks. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** "While it's frustrating to deal with slow internet during a busy work period, the agent was responsive and helpful."
+Sentiment: Neutral

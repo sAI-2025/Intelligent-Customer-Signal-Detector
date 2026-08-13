@@ -1,0 +1,18 @@
+Customer ID: 9253-QXKBE
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, my internet is completely down. I can’t connect to anything! 
+Agent: Thank you for contacting us.  Please tell me your name and account number so we can assist you further.
+Customer: John Smith, account #1234567890
+Agent: We're sorry to hear about the internet outage, Mr. Smith. I'm checking on it now. 
+Customer: Thank you!  My internet has been down for a few hours now and I can’t even check my email.  
+Agent: Alright, we’re working to get your service restored as quickly as possible. We are having issues with the fiber optic lines in the area.
+Customer: Hopefully it’s just a temporary outage?  It's been frustrating! 
+Agent: Yes, sir. I will keep you updated on the progress. Our technicians are working diligently to resolve this issue. Thank you for your patience.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent kept me informed and I appreciate their prompt updates.  Hopefully it's a quick fix!
+Sentiment: Positive

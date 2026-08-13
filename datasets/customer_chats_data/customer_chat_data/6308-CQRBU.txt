@@ -1,0 +1,28 @@
+Customer ID: 6308-CQRBU
+Topic: multiple-line pricing is unclear
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble understanding the pricing structure for multiple-line discounts. 
+
+Agent:  I understand your confusion. Our multiple-line discount is based on a specific plan and how many lines you have. Can you tell me which plan you are currently on?
+
+Customer:  I'm on the "Ultimate" fiber optic package, with internet only, for my home office setup. 
+ 
+Agent:  Thank you for clarifying. The "Ultimate" plan has its own pricing structure and discount for multiple lines. 
+ 
+Customer: So how much can I save when adding a second line to my account?  
+
+Agent:  Depending on your specific circumstances, you could potentially see savings of up to [amount]. 
+ 
+Customer:  Okay, that sounds good! How do I add a second line to my plan? 
+ 
+Agent:  It's easy! You can visit our website or contact us directly. 
+ 
+Customer:  Thanks for your help. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clear in explaining the pricing and discount options, making the process straightforward and easy to understand.
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 1724-BQUHA
+Topic: inconsistent internet connection quality
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It keeps dropping in and out. 
+Agent:  Hi there! I understand your frustration with the inconsistent connection quality. I’d be happy to help investigate this issue further. Please tell me a little more about what you have been experiencing.
+Customer: It seems like it's especially bad when streaming videos or downloading files.  
+Agent: Okay, thanks for that information.  I can see your account details and fiber connection is active. I’d recommend restarting your modem/router and your computer to resolve the issue. 
+Customer: I’ve tried that already, but it didn't seem to work. 
+Agent:  Are you experiencing any error messages or unusual behavior on your device?   
+Customer: My speed tests show fluctuating speeds between 5-10 Mbps. 
+Agent: I see. It might be a temporary network issue. I will check our systems for any ongoing maintenance or outages that could be impacting your service.  Let me know if you experience further issues, and we'll continue to work through this! 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us
+
+----------------------------------------
+Feedback: "While the agent was helpful, I'm still experiencing inconsistent speeds even after restarting everything."
+Sentiment: Negative

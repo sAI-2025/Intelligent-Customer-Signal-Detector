@@ -1,0 +1,18 @@
+Customer ID: 6688-UZPWD
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some serious lag issues lately when streaming content online. 
+Agent:  I understand your concern, can you tell me a bit more about what kind of latency you're experiencing? What kind of content are you trying to stream?
+Customer:  Mostly Netflix. It's taking forever for the buffering to finish and the video quality is terrible. I haven't had this issue before. 
+Agent:  Let me check on your connection status. Please allow a moment while I run a speed test. 
+Customer: Thanks, appreciate it! 
+Agent:  The test shows no issues with your internet speed or signal strength. However, there might be temporary congestion on our network during peak hours. 
+Customer: Ok, so is there anything we can do about it? 
+Agent:  We offer a variety of options for improving performance like optimizing settings and using our priority queue for critical applications. We also have a troubleshooting guide available online that you may find helpful. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was able to explain potential causes, I still haven't experienced consistent streaming quality despite no technical issues detected.
+Sentiment: Negative

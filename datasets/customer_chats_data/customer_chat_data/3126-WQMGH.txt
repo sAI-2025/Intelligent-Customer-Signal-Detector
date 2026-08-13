@@ -1,0 +1,17 @@
+Customer ID: 3126-WQMGH
+Topic: customer disputes a data usage charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I have a dispute on my bill from this month. My usage seems much higher than usual, and it's way more expensive than usual. 
+Agent:  I understand your concern, can you please tell me what date the bill was generated for and what the specific charges are that you are disputing?
+Customer: It's on the 10th of this month. The monthly charge is $52.15 but I think it’s too high.  My DSL usage seems unusually high, and my data usage usually averages between 3GB-4GB per month. 
+Agent:  I see that you are on a Month-to-Month contract and your DSL plan's monthly price is $52.15.  
+Customer: Is there any chance I can get this charge reviewed? My bill seems to be significantly higher than usual. 
+Agent: I can certainly take a look at your usage and billing history, just give me a few moments. 
+Customer: Thank you for your time!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the Agent's prompt assistance in reviewing my bill and hope to see a resolution soon."
+Sentiment: Positive

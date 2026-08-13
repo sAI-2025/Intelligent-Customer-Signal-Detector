@@ -1,0 +1,19 @@
+Customer ID: 5271-YNWVR
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! My upload speed is significantly slower than expected.  I'm running a video call right now and it's terrible. 
+Agent:  Hi there! I understand your concern about slow upload speeds. Could you please provide your account details so I can take a closer look?
+Customer: Sure, my name is John Smith and my account number is XXX-XXXX. My plan is Fiber and I've been with you for 68 months.
+Agent:  Thank you for providing that information, John. Let me check the status of your connection. 
+Customer: I just hope this issue can be resolved quickly.
+Agent:  I believe a speed test will help determine if there are any network issues. Would you like me to run one for you?
+Customer: Yes please. 
+Agent:  The results show a slight dip in your upload speeds, it should stabilize after a few minutes. 
+Customer: Thank you! I'll wait for the signal to improve. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and professional, and I appreciate the quick resolution of my issue.
+Sentiment: Positive

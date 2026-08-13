@@ -1,0 +1,18 @@
+Customer ID: 9565-DJPIB
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to my Wi-Fi in the living room. 
+Agent:  I understand! What kind of device are you using? And what speeds have you been experiencing?
+Customer: My laptop and phone; it just has a weak connection. Speed is slow.
+Agent: Okay, thanks for that info.  Can you tell me your account details or the account number associated with your service? 
+Customer: It's [Account Number]
+Agent: I see. We might have an issue on our end impacting the signal in certain areas of your home. 
+Customer: Oh, that's too bad! 
+Agent:  I'll escalate this to our technical team and get someone to take a look at it.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting the issue escalated, I appreciate your help!"
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 5701-SVCWR
+Topic: customer wants a lower monthly price before cancelling
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I'm looking to cancel my service due to price and want to see if there's any way to lower it before I do. 
+Agent:  Hi there!  I understand you're considering canceling your service due to the monthly rate. 
+Customer: My current plan is $24 per month with no internet package, and this is for just a single line. Is there a promotion available?
+Agent: We do have various promotions for different plans and packages. Could you tell me which features you'd like to use?
+Customer:  I only need basic phone service. 
+Agent:  Okay, I can help with that! Let me check our options for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in checking options, it seems unlikely a promotion would significantly reduce my current rate.
+Sentiment: Neutral

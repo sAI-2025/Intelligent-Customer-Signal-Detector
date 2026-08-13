@@ -1,0 +1,20 @@
+Customer ID: 4182-BGSIQ
+Topic: customer wants to upgrade TV package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to upgrade my TV package. 
+Agent:  Hi there! Thanks for reaching out. What kind of package are you interested in?
+Customer: I was thinking about the Premium package with the extra channels.
+Agent:  Absolutely! The premium package comes with more channels and features. How long is your current contract?
+Customer: My contract is month-to-month.
+Agent:  Okay, that's great information. Would you like to see what options are available for you and your budget? 
+Customer: Yes please
+Agent: We can certainly look into that!
+Customer:  Thanks.
+Agent:  Absolutely. I'll have an estimated price ready for you shortly. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Great, thanks for helping me find the right upgrade! Looking forward to hearing about the options."
+Sentiment: Positive

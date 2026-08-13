@@ -1,0 +1,18 @@
+Customer ID: 8277-RVRSV
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I keep losing my internet connection.  It happens frequently and it's really frustrating! 
+Agent:  I understand your frustration. Can you please tell me your account number and the specific device you are experiencing this on? 
+Customer: My account number is XXXXXXXXXX. The issue seems to be happening with my laptop.
+Agent: Thank you. I see there has been some recent network fluctuations in your area.  We will work on securing a solution for you. 
+Customer:  Thanks, that's good news!
+Agent:  I can offer an expedited upgrade for your current service plan. Would you like to proceed? 
+Customer: Yes please. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient, and the expedited upgrade sounds promising!
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 9430-FRQOC
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to my wifi during peak hours today. Speeds have been dropping and buffering.
+Agent:  I understand your frustration.  Can you please tell me which device are you experiencing slow speeds from?  Also, what is the current speed on your connection? 
+Customer: It seems like all devices are affected. My internet speed is around 50 Mbps right now, but it's dropping to a crawl during peak hours.
+Agent: I see. This sounds like a potential network congestion issue. We do have some traffic spikes at specific times.  Would you mind holding for a moment while I check your account details?
+Customer: Sure! 
+Agent: Thank you. It looks like your Fiber optic plan is currently active and we are running a standard speed of 100Mbps on your line.
+Customer: Wow, thanks! That's great to know.  Is there anything I can do about this slow speeds?
+Agent: Unfortunately, the speed fluctuations during peak hours are common in areas with high demand for internet services. We do offer various solutions that can help manage traffic spikes. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was helpful to understand the cause of the issue.  Thanks for the explanation!"
+Sentiment: Positive

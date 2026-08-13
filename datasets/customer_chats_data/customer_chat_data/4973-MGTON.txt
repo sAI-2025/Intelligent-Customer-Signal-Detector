@@ -1,0 +1,15 @@
+Customer ID: 4973-MGTON
+Topic: customer asks about contract expiration
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to know when my contract expires.  
+Agent: Hello! Thanks for reaching out. I can certainly help you with that. 
+Customer: My current plan is a two-year contract and it's been seven years and one month since we started using the service. 
+Agent: Okay, I see your account details here. Your contract expires in [Month] of [Year].  
+Customer: That's helpful! Thanks. 
+Agent: You're welcome! Have a great day! Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was very quick and easy to understand, thanks! 👍
+Sentiment: Positive

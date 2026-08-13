@@ -1,0 +1,20 @@
+Customer ID: 4710-FDUIZ
+Topic: website login not working
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My website login isn't working. I keep getting a blank screen and can't access my account. 
+
+Agent:  I understand that you're having trouble accessing your website. Can you please provide me with your full name and the email address associated with your account?
+
+Customer:  My name is John Doe, and my email is john.doe@email.com.
+ 
+Agent: Thank you, John. We are experiencing technical difficulties with our website login system at the moment. I am checking for updates on this issue now. 
+
+Customer: Okay, thanks for letting me know.  
+ 
+Agent:  Our engineers are working diligently to resolve this problem as quickly as possible. For any further updates, please visit our official website or follow our social media channels.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I'll keep an eye on your website and social media."
+Sentiment: Neutral

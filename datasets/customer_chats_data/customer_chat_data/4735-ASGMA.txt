@@ -1,0 +1,25 @@
+Customer ID: 4735-ASGMA
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need help with my internet connection. It's been slow and unstable lately. 
+
+Agent:  I understand your concern, how long has this been happening?
+
+Customer:  About a week now, really bad at times. My download speeds are way off.
+
+Agent: Please provide me with your account details, so I can take a closer look.
+
+Customer: Sure, here’s my name and account number. 
+ 
+Agent: Alright, thank you for providing that information. I'm going to check the status of your service right now. 
+
+Customer:  Thanks
+
+Agent:  I found some recent traffic spikes on your network. We may have a temporary outage in your area.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank goodness it was a temporary issue, I appreciate the quick resolution and explanation."
+Sentiment: Positive

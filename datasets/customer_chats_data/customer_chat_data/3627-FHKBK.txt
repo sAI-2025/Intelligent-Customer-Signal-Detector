@@ -1,0 +1,15 @@
+Customer ID: 3627-FHKBK
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is ridiculously slow! I can barely stream anything. My plan is supposed to be 100Mbps but it’s only averaging 25Mbps.
+Agent: Hello there, thanks for reaching out!  What’s your account name or email address so we can take a look? 
+Customer: My account name is John Doe and my email address is johndoe@example.com
+Agent: I have located your account and run a speed test. We're investigating the issue, will get back to you as soon as possible with updates.  
+Customer: Thanks for looking into it! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting started on this, hopefully I'll have faster speeds soon.
+Sentiment: Neutral

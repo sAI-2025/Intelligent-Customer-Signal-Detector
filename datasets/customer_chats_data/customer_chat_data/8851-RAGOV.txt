@@ -1,0 +1,17 @@
+Customer ID: 8851-RAGOV
+Topic: internet speed differs across devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My internet speeds are very inconsistent across different devices. Sometimes it’s super slow on my laptop, but fine on my phone. Is this normal? 
+Agent:  I understand your concern. Let's look into that. Could you please tell me which devices you're experiencing issues with and what kind of speed test results you've gotten? 
+Customer:  Okay, here’s the issue I'm having. My laptop is running super slow when streaming video. It's fine on my phone. 
+Agent: Thanks for providing more details. We often see variations in speeds due to different devices or network conditions. What type of connection are you using? 
+Customer:  It's DSL, like I mentioned earlier. 
+Agent: Okay, that’s helpful. Could you please run a speed test on your laptop and share the results with me? 
+Customer: Sure! I ran one already. My results say 2.5 Mbps download speeds and a 0.8 Mbps upload speed. Is this normal for DSL?
+Agent:  It seems like your current speeds might be slower than what you're used to, but 2.5
+
+----------------------------------------
+Feedback: This was helpful! Thank you for explaining the issues and walking me through next steps. 😊
+Sentiment: Positive

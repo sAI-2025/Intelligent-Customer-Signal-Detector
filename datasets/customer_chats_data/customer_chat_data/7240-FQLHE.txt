@@ -1,0 +1,18 @@
+Customer ID: 7240-FQLHE
+Topic: customer wants to remove unlimited data
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m calling about my data plan. Can I remove the unlimited data? 
+Agent:  Certainly! We can definitely assist you with that. To proceed, could you please provide your account number or email address?
+Customer: My account number is [Account Number].
+Agent: Thank you for providing your account information. It looks like you're currently on a month-to-month plan. 
+Customer:  Yes.
+Agent: We can adjust your plan to remove the unlimited data feature, so it'll cost $99.75 per month. Would that work for you? 
+Customer: Yes, thank you! 
+Agent: Absolutely! We’ve updated your plan and will begin billing accordingly. Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very efficient and helpful in getting my data plan adjusted.
+Sentiment: Positive

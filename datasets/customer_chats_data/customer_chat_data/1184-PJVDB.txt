@@ -1,0 +1,19 @@
+Customer ID: 1184-PJVDB
+Topic: customer cannot use data-intensive applications
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble using some of my data-intensive applications. They are constantly lagging and buffering. 
+Agent:  I understand your frustration, let's get this resolved. Can you tell me what specific apps are giving you trouble?  
+Customer: It’s primarily streaming services like Netflix and Amazon Prime Video. My speeds are also slower than usual. 
+Agent:  Thanks for providing that information. I can take a look at your account to see what might be causing this issue.
+Customer: Okay, thanks! 
+Agent: Based on my initial review, there doesn't seem to be any widespread outages in your area. Your connection should be sufficient. However, let me check your network settings for any potential issues. 
+Customer:  Okay, that would be great. Thanks! 
+Agent: I just completed a scan and found nothing immediately apparent. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it! Still experiencing some buffering issues but hopefully those will clear up soon."
+Sentiment: Neutral

@@ -1,0 +1,18 @@
+Customer ID: 1644-IRKSF
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping out frequently. 
+Agent:  I understand your frustration. Could you please provide me with your account details? 
+Customer: Sure, my name is [customer name], account number [account number] and my address is [address]. 
+Agent: Thank you for that information. I see there are a few reports of service disruptions in your area.  
+Customer: That's frustrating! It's been happening for the past couple of days. 
+Agent: Let me check on the status of your connection and get back to you shortly.
+Customer: Okay, thank you.
+Agent: We apologize for this inconvenience. I've checked your account and found a minor issue with your fiber optic line.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining the problem and getting it resolved quickly.
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 6457-GIRWB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having frequent internet disconnections and it’s been very frustrating.  
+Agent:  I understand your frustration, Sarah. How long have you been experiencing this issue? 
+Customer: For about an hour now. It started around 9pm last night. 
+Agent: I'd be happy to help troubleshoot that. Could you please provide me with your account information or the customer ID number on file?
+Customer: Here it is,  23457890 
+Agent: Thank you for providing the information, Sarah. Let me check our system and see if there are any known outages impacting service in your area. 
+Customer:  Thanks! 
+Agent: I'm checking on this now, and will be back with you shortly to provide an update. 
+Customer: Ok, thanks
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would have been reassuring to know a timeline for resolution."
+Sentiment: Neutral

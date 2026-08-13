@@ -1,0 +1,20 @@
+Customer ID: 2344-JMOGN
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow, pinging high at every game I play. It feels like I'm playing on dial-up! 
+
+Agent:  I understand your frustration. Can you tell me your account details and the specific device you're experiencing these issues?
+
+Customer: Sure. Account number is 12345678, using the Fiber optic connection. It started happening about a week ago. 
+
+Agent: Okay, I see your profile here and will look into the cause of this issue.  I have initiated some diagnostics on your account.  
+
+Customer: Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank you for looking into it! Hopefully we can get my internet speed back to normal soon."
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 2424-WVHPL
+Topic: customer wants to add another line
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I would like to add another line to my account. 
+Agent:  I understand you'd like to add a second line to your account?
+Customer: Yes, that’s correct. My current contract is month-to-month and the monthly cost is $74.70 for Fiber optic internet. 
+Agent:  Certainly, let me pull up your account details. 
+Customer: Thank you. I've been a customer for just one month. 
+Agent:  I see you're currently on a month-to-month plan with an outstanding balance of $0. 
+Customer: Alright. How much would it cost to add another line?
+Agent: Adding a second line will be $74.70 per month, just as the other line you have. 
+Customer:  That's great! 
+Agent:  I have everything I need to process your request. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in getting my second line added, thanks! 😊
+Sentiment: Positive

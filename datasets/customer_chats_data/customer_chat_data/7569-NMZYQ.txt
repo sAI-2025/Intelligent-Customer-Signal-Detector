@@ -1,0 +1,20 @@
+Customer ID: 7569-NMZYQ
+Topic: TV service unavailable despite active subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble accessing my TV service. It's not working.
+
+Agent: Thank you for reaching out to us.  I understand you are experiencing an issue with your TV service and it is important to get this resolved for you. 
+
+Customer:  My subscription is active, I’ve checked the settings on my remote and there are no error messages. 
+
+Agent:  I see your subscription is active, but let me check our records. Your contract is currently running for two years, is there anything else we can help with?  
+
+Customer: No, that's all. Thank you.
+
+Agent:  We will get this sorted out for you! It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: It was a quick and easy resolution to my issue. Thanks for your help!
+Sentiment: Positive

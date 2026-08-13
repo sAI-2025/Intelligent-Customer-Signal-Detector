@@ -1,0 +1,17 @@
+Customer ID: 3580-HYCSP
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet at all. Everything is completely down.
+Agent:  I understand your frustration, [Customer Name]. Let's get this sorted out for you. Can you please provide your account number and service address? 
+Customer: Sure, my account number is [account number] and I live at [address].
+Agent: Thank you. We are checking on the network status for your area. While we look into it, would you like to temporarily switch to a mobile hotspot?
+Customer:  I don't have a mobile hotspot available. 
+Agent:  We apologize for the inconvenience this may cause. I'll update you as soon as possible with the status. 
+Customer: Thank you.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the updates, even though it seems like a frustrating issue to have."
+Sentiment: Neutral

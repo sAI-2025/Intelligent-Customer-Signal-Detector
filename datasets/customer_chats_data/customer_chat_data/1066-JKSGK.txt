@@ -1,0 +1,15 @@
+Customer ID: 1066-JKSGK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. It's super slow, especially during peak hours. 
+Agent:  I understand your frustration. Can you please provide your account details for verification?
+Customer: My name is [redacted], and my account number is [redacted]. 
+Agent: Thank you for providing that information, [redacted]. We have logged a request to check on the network speed during peak hours. 
+Customer: Thanks! 
+Agent:  Our team will be looking into it and keep you updated on any progress. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was very efficient, I appreciate your quick response and updates!
+Sentiment: Positive

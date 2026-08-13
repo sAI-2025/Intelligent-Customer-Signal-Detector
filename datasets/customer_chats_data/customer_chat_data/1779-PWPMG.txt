@@ -1,0 +1,22 @@
+Customer ID: 1779-PWPMG
+Topic: websites load slowly despite active connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble loading websites on my computer.  They seem to be loading incredibly slowly even with a strong connection. 
+
+Agent: Hello! I understand you're experiencing slow website load times. Could you please provide your account information so I can take a closer look? 
+
+Customer: Sure, here it is. My name is [Customer Name], Account number [Account Number]  and my monthly payment of $114.65
+
+Agent: Thank you! We've run diagnostics and we see no issues with your fiber connection or device speed. However, I'm seeing some reports of recently launched website features that may be causing the delay. 
+
+Customer: Hmm, that sounds a little strange given my strong connection.  Is there anything else I can do?
+ 
+Agent: Let me check in with our technical team and get back to you soon with any updates.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the explanation about website features was helpful, it's disappointing that I'm still experiencing slow loading times despite a strong connection.
+Sentiment: Negative

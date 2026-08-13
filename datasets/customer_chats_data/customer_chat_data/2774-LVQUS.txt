@@ -1,0 +1,19 @@
+Customer ID: 2774-LVQUS
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my Wi-Fi signal is very weak in the living room. I've tried restarting the router, but it doesn't help. 
+Agent:  I understand your concern, ma'am. To troubleshoot this further, could you please provide your account number and the location of the living room? 
+Customer: Yes, my account number is 1234567890.  The living room is in the back of the house.
+Agent: Thank you for providing that information. I can see the account. Let me check on your signal strength and see if there are any potential issues.
+Customer: Okay, thank you.
+Agent: Just a moment. We're investigating your network connection now. 
+Customer: Thank you. 
+Agent:  I have confirmed some potential causes of the weak signal in certain rooms. I've adjusted the router settings to improve the signal strength and should be resolved shortly. 
+Customer: Oh, that's great!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, and the Wi-Fi issue is now resolved!
+Sentiment: Positive

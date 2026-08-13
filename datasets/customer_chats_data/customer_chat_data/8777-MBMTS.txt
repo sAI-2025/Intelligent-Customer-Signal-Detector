@@ -1,0 +1,24 @@
+Customer ID: 8777-MBMTS
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It's completely down.
+
+Agent:  I understand your concern, I am sorry to hear that. May I have your account information so I can check on it? 
+
+Customer: Sure, my name is John Smith and my account number is 1234567890.
+
+Agent: Thank you, Mr. Smith. I'm looking into the issue now.  
+
+Customer:   Is there an estimated time for a resolution?
+
+Agent:  I'll do my best to resolve this as soon as possible, it could be around 30 minutes. 
+
+Customer: Okay, thank you. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the quick response and estimated timeframe! Hopefully I can get back online soon.
+Sentiment: Positive

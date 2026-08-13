@@ -1,0 +1,17 @@
+Customer ID: 2359-KMGLI
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm not able to connect to the internet at all.  My connection is down completely. 
+Agent:  I understand your concern, I apologize that you're experiencing this issue.  Can you please provide me with your account information so I can check the status of your service?
+Customer:  Sure, my name is John Smith and my account number is 1234567890. 
+Agent: Thank you for providing the information, Mr. Smith.  I am seeing there's a service outage in your area.   
+Customer:  What can I do?  Do I need to wait or contact someone else?
+Agent: We are working on resolving the issue as quickly as possible and will notify you once it is resolved. 
+Customer: Thank you for letting me know, I appreciate that.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating to be left without internet connection, but I appreciate the update on the outage.
+Sentiment: Neutral

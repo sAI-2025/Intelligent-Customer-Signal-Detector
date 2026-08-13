@@ -1,0 +1,17 @@
+Customer ID: 1334-PDUKM
+Topic: customer cannot access premium movie content
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't access my premium movie content, it keeps saying 'error loading content'.
+Agent:  I understand your frustration. Can you please provide your account details and the exact error message? 
+Customer: Sure, my name is [Name], my account number is [Account Number] and the error message says "unable to connect to streaming server". 
+Agent: Thank you for that information. I'm checking on the issue with your premium movie access.  
+Customer: Thanks!
+Agent: We are having a technical issue impacting some customers.  We will have it resolved soon. Please stay tuned and let me know if you experience any other issues.
+Customer: Ok, thanks again
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response to my problem! Thanks for keeping me updated on the issue.
+Sentiment: Positive

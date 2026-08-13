@@ -1,0 +1,21 @@
+Customer ID: 4390-KYULV
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need help with my download speeds. They're significantly slower than my subscribed plan.  
+
+Agent: I understand your concern. Can you please provide your account details and the specific download speed issue you're facing? 
+
+Customer: Sure, here is my username and the monthly data usage is low.
+
+Agent: Thank you for providing that information. Let me check on this for you... 
+
+Customer: Thanks! I hope there are no issues with my connection.  
+
+Agent: I've checked your account, it seems there might be a network congestion issue in your area causing temporary slowness. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the explanation and quick fix! Much appreciated. 😊
+Sentiment: Positive

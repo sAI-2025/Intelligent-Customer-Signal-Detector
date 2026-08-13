@@ -1,0 +1,16 @@
+Customer ID: 6323-AYBRX
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am unable to access the internet. It's completely down. 
+Agent:  I understand your concern. Can you please provide your account number and the full address where you are experiencing this issue? 
+Customer: My account number is 1234567890. The address is 123 Main Street, Anytown, USA
+Agent: Thank you for providing that information.  I'm seeing a technical outage in your area. It should be resolved within the next hour or two. 
+Customer: Okay. Thanks for letting me know!  
+Agent: You're welcome. We apologize for any inconvenience this may have caused. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for keeping me updated on the outage and providing a timeframe for resolution!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 6240-EURKS
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speed. It seems significantly slower than what I'm paying for.
+Agent: Hello!  I understand your concern about your internet speeds. To help me diagnose the issue, can you please tell me your plan name and the specific download speeds you are experiencing?
+Customer: My plan is the $35/month DSL plan. Right now my downloads are around 2 Mbps, which feels much slower than what I'm used to. 
+Agent:  Thank you for that information. We can troubleshoot this. Let me check your account details and service history...
+Customer: Okay. 
+Agent: Based on your recent usage data, there might be a temporary network congestion in your area. Let me see if we can adjust the priority of your connection. 
+Customer:  Great! Thank you.  
+Agent:  I've adjusted your connection priority and should see an improvement within the next few hours.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining what might be causing the slow download speeds, and I appreciate them adjusting my connection priority.
+Sentiment: Positive

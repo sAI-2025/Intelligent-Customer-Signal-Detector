@@ -1,0 +1,15 @@
+Customer ID: 0071-NDAFP
+Topic: customer wants to cancel service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I want to cancel my service.
+Agent:  I understand you would like to cancel your service, may I ask for your account number? 
+Customer: 1234567890 
+Agent: Thank you, based on your account information we have a two year contract. Would you like to continue with the cancellation process or would you be interested in exploring options to potentially modify your service agreement?
+Customer: I just want to cancel my service. 
+Agent:  I can do that for you, it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful but ultimately unable to completely fulfill my request, which was a simple cancellation."
+Sentiment: Negative

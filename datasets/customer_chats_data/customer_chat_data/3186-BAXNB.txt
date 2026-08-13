@@ -1,0 +1,22 @@
+Customer ID: 3186-BAXNB
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet has been really slow lately, especially during peak hours. It's making it hard to work and watch movies. 
+
+Agent: I understand your frustration, I’d be happy to look into this for you. Can you tell me what the speeds are like now?  Also, when do you usually experience slower speeds?
+ 
+Customer: Speeds are about half of what they were at the beginning of the month. It gets much worse around 8pm and 10pm.
+
+Agent: Thank you! I'll take a look into your account and see if there's anything that might be causing the issue.  I'm going to check the network congestion levels too.   
+ 
+Customer: Ok, thanks for looking into it. 
+
+Agent: No problem at all! We’ll get this sorted out for you.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was helpful to have the issue addressed and will hopefully be resolved soon!
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 6176-YJWAS
+Topic: online support tools not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My online support tools are not working properly today. I can't access my billing information or manage my account settings. 
+Agent:  I understand you're having trouble accessing your online tools. Please let me know what specific issues you're facing and if you have a browser error message or code number. 
+Customer:  It seems like the site is unresponsive. I'm getting a blank screen when I try to access the login page. 
+Agent:  I see that you've been experiencing this issue. Please try accessing your account through a different device and browser, in case it's an issue with your current setup. 
+Customer:  I just tried both my laptop and phone. Nothing is working.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is frustrating! I hope the team can get this issue resolved quickly so I can access my account information again.
+Sentiment: Negative

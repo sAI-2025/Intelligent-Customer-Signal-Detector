@@ -1,0 +1,17 @@
+Customer ID: 2659-VXMWZ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been significantly lower than my subscription plan says it should be. I’ve checked my router and modem, but there's no obvious issue. 
+Agent:  I understand your frustration. Could you please provide your account information so we can check on the details?
+Customer:  Sure, here it is: (account number) - (name). 
+Agent: Thank you for providing that information. Let me take a look into this for you. 
+Customer: I'm hoping to get back to my usual speed and experience. 
+Agent: We will definitely do our best to troubleshoot this issue for you. 
+Customer:  Thanks! 
+Agent: You’re welcome, please let me know if any further details come up while we work on your case. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient process to resolve my internet speed issues. Thanks for the help!
+Sentiment: Positive

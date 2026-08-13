@@ -1,0 +1,22 @@
+Customer ID: 6502-KUGLL
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about upgrading my plan and what might be best for me. 
+Agent: Hello!  Could you tell me a little more about your current usage? 
+Customer: Mostly just browsing, streaming occasional videos, and checking emails.
+Agent: Okay, based on your DSL internet connection and existing plan, we have a couple of options. Would you like to hear about those?
+Customer: Sure. 
+Agent: We've got the standard plan, which is $69.95/month, but also a premium option at $84.95/month. 
+Customer: Hmm, I'm not sure yet.
+Agent:  We can always discuss it further if you have any other questions! 
+Customer: Just let me know what would be most optimal for my needs. 
+Agent: Alright, to help me understand your needs better, do you use a lot of bandwidth during peak hours?
+Customer: Not really, just occasional streaming. 
+Agent:  Okay, based on that, the standard plan should be suitable. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate their clear explanation. I'll likely stick with the standard plan since my bandwidth usage isn't heavy.
+Sentiment: Positive

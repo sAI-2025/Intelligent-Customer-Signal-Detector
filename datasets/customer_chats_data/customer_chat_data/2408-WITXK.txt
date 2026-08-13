@@ -1,0 +1,17 @@
+Customer ID: 2408-WITXK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down. I can't even load a basic webpage.  It's been like this all morning.
+Agent: I understand your frustration. Can you please provide your account number and address for further assistance? 
+Customer: Sure, it's [Account Number] at [Address]. 
+Agent: Thank you for the information. Let me check on the service status for your area and get back to you shortly. 
+Customer: Okay, thanks.  
+Agent: I have checked, it appears there may be a temporary outage in your area due to some repairs. We're working to resolve it as quickly as possible. 
+Customer:  That's alright, what can I expect? 
+Agent: We anticipate the service should be restored within the next hour or so. We apologize for any inconvenience this may cause. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! I appreciate you letting me know about the outage and ETA."
+Sentiment: Positive

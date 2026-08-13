@@ -1,0 +1,27 @@
+Customer ID: 7785-RDVIG
+Topic: price differs from advertised plan
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I'm having an issue with my billing, it seems like the advertised plan price is different. 
+
+Agent:  I understand your concern about the pricing discrepancy. Can you please provide me with your account information so I can look into this further?
+
+Customer: Sure, my name is [name], and my account number is [account number]. My monthly payment is $19.30 for the [month-to-month] plan.
+
+Agent: Thank you for providing that information, [name].  I noticed the advertised price varies from your current billing. 
+ 
+Customer: I'm confused.
+
+Agent:  Would you like me to explain the pricing structure?  It’s possible that there was a misunderstanding with our advertising and promotions.
+
+Customer: Yes please.
+
+Agent:  Our standard plan offers [details of advertised plan]. The [advertised plan] comes at $29.99, this is for [monthly bill period]. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for clarifying the pricing! I appreciate your help in explaining the differences."
+Sentiment: Positive

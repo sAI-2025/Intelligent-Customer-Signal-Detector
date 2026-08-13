@@ -1,0 +1,24 @@
+Customer ID: 2187-LZGPL
+Topic: price differs from advertised plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I noticed the price on my monthly bill is different from what was advertised online for the same plan. 
+
+Agent:  I understand your concern, let me check our records and see what's going on.
+
+Customer: Thanks! My DSL service hasn't changed in the last seven months, so I didn't realize this discrepancy happened. 
+
+Agent: Okay, I can confirm there were price adjustments applied to some plans recently, which may have affected yours.  
+
+Customer:  How can I get a clearer idea of what the new price is?
+
+Agent:  The plan you have was upgraded from a basic DSL package, and the new price reflects that change. 
+
+Customer: So, my current bill should be accurate now, correct?
+
+Agent: Yes, we've updated your account to reflect the new pricing structure. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and clear! I appreciate how you explained the price changes and why my bill is what it is now.
+Sentiment: Positive

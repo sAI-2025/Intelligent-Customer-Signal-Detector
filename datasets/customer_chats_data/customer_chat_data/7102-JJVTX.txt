@@ -1,0 +1,18 @@
+Customer ID: 7102-JJVTX
+Topic: network device overheating
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My network device has been getting really hot lately.  Is there a known issue?
+Agent: I understand your concern. Could you please provide me with your account information and device model for faster assistance? 
+Customer: Sure, my name is John Smith and the device is a Netgear Nighthawk 6-stream router (model R7000).  
+Agent: Thank you, John. I've found a few reports of similar issues with this specific router model overheating when used in high traffic environments.  
+Customer: Hmm, that makes sense. What can I do about it?
+Agent: We have several solutions to address the overheating issue. Would you prefer to update the firmware or get a replacement device? 
+Customer: A replacement would be great, thanks.  
+Agent: No problem! I'll process your request for a new router right away. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Overall, the agent was helpful and efficient in resolving my issue with the overheating router."
+Sentiment: Positive

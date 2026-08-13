@@ -1,0 +1,17 @@
+Customer ID: 0939-YAPAF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble uploading large files online. 
+Agent: Hello!  I understand you're experiencing slower upload speeds than usual. Can you please tell me more about what is happening? 
+Customer: It's especially slow when I'm trying to download a video file from Google Drive. 
+Agent: Okay, that's helpful information. Let me check on your account.  
+Customer: My internet plan is Fiber optic and it's been working fine for the past 35 months. 
+Agent: Thank you. I see there have been some recent maintenance in the area. We may need to adjust your speeds temporarily. 
+Customer: That would explain it, thanks. 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful and quick with explanations for the slower upload speeds. Thanks for getting this sorted!
+Sentiment: Positive

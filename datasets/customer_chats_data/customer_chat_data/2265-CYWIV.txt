@@ -1,0 +1,17 @@
+Customer ID: 2265-CYWIV
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Hello!  I understand you're experiencing weak Wi-Fi signal in your living room. Can you tell me a bit more about the issue? 
+Customer:  The speed is very slow and intermittent. It seems like the signal only works in certain areas.
+Agent: Okay, thanks for that information. I can check on our records to see if there's any known issues with your area or service line.
+Customer: Well, it’s been a problem since we moved here! 
+Agent:  I understand how frustrating this must be. Let me take a look at your account details and see what I can do to help. 
+Customer: Thanks. 
+Agent: I have checked the signal strength, there is not an issue with our service line or equipment in your area. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for looking into it!  It's nice to know the issue won't linger."
+Sentiment: Positive

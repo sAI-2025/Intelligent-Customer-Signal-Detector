@@ -1,0 +1,18 @@
+Customer ID: 5995-WWKKG
+Topic: customer wants to dispute a previous payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm disputing a recent payment that I didn't authorize. 
+Agent:  Hi there! What's your account name?
+Customer: It's Smith, Robert. 
+Agent: Thank you, Mr. Smith. Can you tell me what the issue is with this payment?
+Customer: I received a charge for $198, but I had no internet service at that time. 
+Agent: Let me see your account details.  
+Customer: My contract was terminated last year and my bill should be $0. 
+Agent: Thank you for providing that information. We will investigate this discrepancy and resolve it by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for quickly addressing my dispute, I appreciate your prompt resolution!
+Sentiment: Positive

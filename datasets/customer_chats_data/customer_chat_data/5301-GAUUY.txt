@@ -1,0 +1,15 @@
+Customer ID: 5301-GAUUY
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I am experiencing extremely high latency/ping while streaming movies. It’s unusable. 
+Agent:  I understand your frustration, let's get this sorted out for you. Could you please provide your account details and the exact time frame when you've experienced these issues? 
+Customer: Sure. My account is [customer_name] and it's a month-to-month contract. I’m using fiber optic internet at my residence.  It started yesterday evening. 
+Agent:  Thank you for providing that information.  We're actively working on resolving any network issues causing the high latency. We are also checking your speeds with our system to see if anything is unusual in your connection. 
+Customer: Ok, thanks. 
+Agent:  I'll update you once we have a solution.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response! Hopefully they can fix this soon."
+Sentiment: Positive

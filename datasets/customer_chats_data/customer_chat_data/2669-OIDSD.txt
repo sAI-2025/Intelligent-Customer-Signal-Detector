@@ -1,0 +1,18 @@
+Customer ID: 2669-OIDSD
+Topic: customer wants to upgrade TV package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'd like to upgrade my TV package.  
+Agent: Thank you for reaching out! I can definitely assist with that. 
+Customer: My current package is a basic one and I am paying $100.05 per month. 
+Agent:  I see your account details. What kind of package are you interested in?  
+Customer: Something with more channels, especially sports.  Is there an upgrade that would include those? 
+Agent: We have several options available that offer a wider selection of channels, including sports! 
+Customer: Great! I'd prefer to stay on fiber optic internet. 
+Agent: Absolutely! Let me confirm the details and we can get you set up with your new package.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and knowledgeable, explaining my options clearly.
+Sentiment: Positive

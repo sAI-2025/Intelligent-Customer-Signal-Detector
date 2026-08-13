@@ -1,0 +1,18 @@
+Customer ID: 4102-HLENU
+Topic: additional phone line cannot be activated
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to activate an additional phone line on my account. 
+Agent: Absolutely!  I can help with that. What's your account number and name?
+Customer: My account number is XXX-XXXX, and my name is John Smith.
+Agent: Thank you for providing those details, John. We will need to verify the information before proceeding with activation. 
+Customer: I have all the necessary information on hand.
+Agent:  Okay, John. Let's get that done. It may take a few minutes for your phone line to be activated. Please let me know if you have any questions in the meantime.
+Customer: Thanks! 
+Agent: No problem at all, John. I will update your account with activation status once complete. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick and easy activation process!"
+Sentiment: Positive

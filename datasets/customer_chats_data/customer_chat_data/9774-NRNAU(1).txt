@@ -1,0 +1,17 @@
+Customer ID: 9774-NRNAU
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having a lot of trouble getting online. My connection is extremely slow and has lots of lag.
+Agent: I understand your frustration, sir. Could you please provide me with your account information so I can take a look at your connection status? 
+Customer: Of course, my username is "JohnSmith," and my account number is 12345678.
+Agent: Thank you, John.  I've checked your details and it looks like there might be an issue with the DSL line quality in your area. 
+Customer: Oh, that makes sense. 
+Agent: I'm going to escalate this to our network team right away for a potential repair or upgrade. 
+Customer: That sounds good. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was very helpful and reassuring. Thanks for getting things sorted out!
+Sentiment: Positive

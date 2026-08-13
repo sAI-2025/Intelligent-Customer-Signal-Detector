@@ -1,0 +1,19 @@
+Customer ID: 4565-NLZBV
+Topic: customer cannot change service online
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble changing my service online.  I just want to upgrade to a faster speed plan.
+Agent: Thank you for contacting us! I can certainly help with that. What's your current account information?
+Customer: My username is [username]. My account number is [account number], and I have a two-year contract.
+Agent:  I see your details, let me look into this for you in a moment. 
+Customer: Thanks! 
+Agent: You should be able to update your service plan from the website. Let me know if there's an issue. 
+Customer: I tried but it just keeps loading. 
+Agent:  I see there may be a technical issue on our end, hold on a moment and I’ll have someone look into this for you.
+Customer: Okay!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in explaining how to change my service online, the site still isn't working properly despite the issue being acknowledged.
+Sentiment: Negative

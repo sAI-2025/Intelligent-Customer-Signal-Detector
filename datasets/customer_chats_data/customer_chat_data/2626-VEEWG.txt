@@ -1,0 +1,15 @@
+Customer ID: 2626-VEEWG
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is significantly slower than expected. It's barely half what I paid for. 
+Agent:  I understand your frustration, let me check on this for you. Could you please provide your account information? 
+Customer: Sure, my account number is 1234567890 and the email address associated with it is john.smith@email.com. 
+Agent: I see the details, thank you.  Your speed might be affected by recent network congestion or a slow connection to your router.
+Customer: Hmm, what can I do about that?
+Agent: We're running some tests on our servers to address potential issues. We'll contact you within 24 hours with an update and the steps to improve your speed.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response, although it would be helpful to know how long I can expect this slow connection to last.
+Sentiment: Neutral

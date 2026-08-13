@@ -1,0 +1,17 @@
+Customer ID: 6769-DYBQN
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I was wondering why my internet is so slow this evening? 
+Agent:  I understand your concern. Our network does tend to experience heavier traffic during peak hours. 
+Customer:  That's okay, just curious when that would be. 
+Agent: It usually gets busier between 6pm and 10pm. 
+Customer: Thank goodness I don't do anything that needs high speed after 8pm. 
+Agent: Of course! Are there any specific activities you experience slower speeds on? 
+Customer: Just browsing the web, nothing else. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the information! It's helpful to know when to expect slower speeds.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 7593-XFKDI
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It appears completely unavailable. 
+Agent:  I understand your concern, I'd be happy to help. Can you please tell me your account number and the last few hours of activity?
+Customer: My account number is XXX-XXXXXXX. I haven't been able to connect since this morning.
+Agent: Thank you for that information. Let me check on the status of your DSL connection. 
+Customer:  That would be great, thanks!
+Agent: It seems there's a temporary service disruption affecting some customers in your area. We are currently working to resolve it and expect the issue to be resolved within the next hour or so.
+Customer: Okay, that's good to know. How can I stay updated on this?
+Agent: You will receive an email notification once the issue is resolved. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and clearly communicated the situation.  I appreciate their prompt response and updates!
+Sentiment: Positive

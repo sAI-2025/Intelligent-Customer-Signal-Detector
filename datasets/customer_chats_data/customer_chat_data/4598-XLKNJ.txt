@@ -1,0 +1,16 @@
+Customer ID: 4598-XLKNJ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is very slow. It’s significantly lower than expected. 
+Agent:  I understand your concern. To help me troubleshoot this issue, could you please provide your account information? 
+Customer: Sure, my account number is X-XXXX-X and my name is John Doe. 
+Agent: Thank you, John. I'm checking on the speed test results for your location now.  
+Customer: Okay, thanks.
+Agent:  Let me know if you have any other questions. We’re here to help! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and prompt in addressing my issue."
+Sentiment: Positive

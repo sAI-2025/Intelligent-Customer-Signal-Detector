@@ -1,0 +1,17 @@
+Customer ID: 7244-KXYZN
+Topic: movie audio and video synchronization problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with the audio and video syncing on my streaming service. 
+Agent: I understand.  Can you please provide your account details, such as your name and email address?
+Customer: Sure, my name is John Smith and my email is johnsmith@email.com.
+Agent: Thank you, John.  I've accessed your account and see a recent update related to network connection issues. 
+Customer: That might be it, I'm on No internet connection.
+Agent: Let me investigate that further. We can try resetting your router or perhaps re-install the app. 
+Customer: Thanks! 
+Agent: Please let me know if you experience any further problems after trying these steps. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping with my streaming issues!  Hopefully this will fix everything."
+Sentiment: Positive

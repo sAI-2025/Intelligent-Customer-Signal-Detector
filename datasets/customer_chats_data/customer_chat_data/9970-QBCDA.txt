@@ -1,0 +1,18 @@
+Customer ID: 9970-QBCDA
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with my upload speed. It's much slower than expected. 
+Agent:  Hello! I'd be happy to help troubleshoot this for you. Could you please provide your account information so I can check your speeds?
+Customer: Sure, it's [account number]
+Agent: Thank you. I see that your plan is a month-to-month agreement and you are currently paying $19.7 per month. 
+Customer:  I just signed up for the basic package six months ago. How much should my upload speed be?
+Agent: You're on our standard speeds, which offer a base upload speed of 5 Mbps. It's possible your speed may fluctuate depending on factors like network congestion. 
+Customer: Hmm, this is frustrating.  I need to get this done ASAP. 
+Agent: I understand your frustration. Let me escalate this and connect you with a specialist who can provide additional support. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it would be nice to have some concrete steps on how to resolve the issue beyond "escalating."
+Sentiment: Neutral

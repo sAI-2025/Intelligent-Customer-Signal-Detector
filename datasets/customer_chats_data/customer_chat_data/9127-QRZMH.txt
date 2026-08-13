@@ -1,0 +1,17 @@
+Customer ID: 9127-QRZMH
+Topic: router cannot connect to internet
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't get online with my DSL router. It keeps saying "Connection Failed". 
+Agent:  I understand your frustration, let's troubleshoot this. Could you please provide your account number and the full error message?
+Customer: Here it is - 1234567890; The error message says: "Limited internet connection available" 
+Agent: Thank you for providing that information. Let me check on your modem settings and router configuration.  
+Customer: Okay, thank you. 
+Agent: I see there's a minor issue with your network adapter. Please restart your router and modem and try again. 
+Customer: It's working now! Thanks so much! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and resolved the issue quickly, thanks to their clear troubleshooting steps!
+Sentiment: Positive

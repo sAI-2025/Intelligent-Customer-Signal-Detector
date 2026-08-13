@@ -1,0 +1,25 @@
+Customer ID: 0310-SUCIN
+Topic: service does not meet advertised expectations
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to speak to someone about my internet service. My speed is incredibly slow and inconsistent. It just isn't meeting what the advertised speeds are. 
+
+Agent:  I understand your frustration, [Customer name]. We offer a range of plans designed with different needs in mind. Could you tell me which plan you are currently on?
+
+Customer: I signed up for the "High Speed" package a year ago. My monthly cost is $84.80. 
+
+Agent: Let's take a look at your account details. Do you recall having any speed tests conducted recently? 
+
+Customer:  Yes, I ran one last week and it was significantly slower than advertised.
+
+Agent:  I see that the speed test results are not matching the advertised speeds. We offer a standard speed guarantee. Would you like me to explore some options for you?
+
+Customer: Yes please.
+
+Agent: I'm happy to help with getting this resolved for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate your quick response and helpful solutions, thanks!"
+Sentiment: Positive

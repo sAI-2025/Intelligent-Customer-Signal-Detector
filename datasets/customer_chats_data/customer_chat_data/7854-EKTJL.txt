@@ -1,0 +1,16 @@
+Customer ID: 7854-EKTJL
+Topic: customer wants to downgrade service plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'd like to downgrade my service plan.
+Agent: Certainly!  To assist you best, could you please tell me which plan you would prefer to switch to? 
+Customer: The Basic plan. 
+Agent: The basic plan is $10.9 per month. Would that be the desired change?
+Customer: Yes, thank you. 
+Agent: Excellent! Your downgrade will be processed automatically and reflected in your next bill cycle.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for making the switch to the Basic plan so easy. 😊"
+Sentiment: Positive

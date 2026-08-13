@@ -1,0 +1,15 @@
+Customer ID: 9840-DVNDC
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having issues with my internet speed today. It's incredibly slow during peak hours.
+Agent:  I understand you're experiencing slow speeds during peak times. Can you tell me your account details so I can investigate further? 
+Customer: Sure, it's 4523ABC. I have a month-to-month contract for $80.5 per month, and my internet is Fiber optic. 
+Agent: Thank you.  I'm looking into your account now. We may be experiencing some network congestion at this time due to higher usage. 
+Customer: Thanks! 
+Agent: I'll keep you updated on the status of your case, but it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and keeping me informed.  😊
+Sentiment: Positive

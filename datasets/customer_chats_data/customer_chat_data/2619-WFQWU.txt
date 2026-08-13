@@ -1,0 +1,18 @@
+Customer ID: 2619-WFQWU
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's super slow during peak hours. 
+Agent: I understand your concern, please tell me what device and what you are doing when it happens.
+Customer:  I'm using my laptop for work on Zoom calls. It seems like everything is loading so much slower than usual.
+Agent: Please provide the router model and the IP address of the internet connection. 
+Customer: Sure, here's the router model: TP-Link Archer C6. The IP address shows "192.168.1.1"
+Agent: Thank you for providing that information.  We are currently investigating this issue with our network team. 
+Customer: Okay. I appreciate your help. 
+Agent: We will be in touch within the next hour to update you on the status of the investigation. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response, thanks for taking my issue seriously!
+Sentiment: Positive

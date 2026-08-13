@@ -1,0 +1,15 @@
+Customer ID: 5186-PEIZU
+Topic: calls dropping unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having issues where my calls drop frequently. 
+Agent:  I understand you're experiencing call drops. Can you tell me your account details and what type of device you're using?
+Customer: Sure, it's [Account Name], number [Phone Number]. Using an iPhone 14 Pro Max.  
+Agent: Thank you for the information. I am looking into this now. 
+Customer: Thanks! 
+Agent: We'll get this resolved as quickly as possible. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for your help, the call drops have been resolved! 😊
+Sentiment: Positive

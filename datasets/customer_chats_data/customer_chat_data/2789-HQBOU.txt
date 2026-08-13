@@ -1,0 +1,18 @@
+Customer ID: 2789-HQBOU
+Topic: customer questions unexpected data consumption
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I was surprised to see my data usage jump up so much this month. 
+Agent: Hi there! Thank you for reaching out to us.  I can definitely help you understand your data usage. What's the issue exactly? 
+Customer: My phone bill is unusually high. I have been using the internet normally, but it seems like a lot of data was used up unexpectedly. 
+Agent: Can you please tell me what kind of device you are using and also what you usually do online to give us more context? 
+Customer: I'm mostly on my computer to read email and check news online.  I don't download or stream anything other than videos from YouTube once in a while. 
+Agent: Thank you for that detail. It sounds like your usage might be related to the increased streaming content. You may need to adjust your data limit. Would you like me to review your current plan?  
+Customer: Yes, please do. 
+Agent: Absolutely! Let's take a look at your details and see what options we have for you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining the cause of my increased data usage and finding potential solutions.  I appreciate their assistance!
+Sentiment: Positive

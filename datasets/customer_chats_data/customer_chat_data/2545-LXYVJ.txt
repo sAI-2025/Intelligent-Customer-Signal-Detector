@@ -1,0 +1,17 @@
+Customer ID: 2545-LXYVJ
+Topic: customer wants to update personal information
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to update my personal information on my account. 
+Agent: Sure! What kind of change are you looking to make? 
+Customer: My address has changed recently. I'd like to update that and maybe my phone number too.
+Agent:  I can certainly help with that. Would you mind providing your new address and phone number, please? 
+Customer: Okay, here it is. (Provides address and phone number)
+Agent: Thank you for the information! 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in updating my information quickly."
+Sentiment: Positive

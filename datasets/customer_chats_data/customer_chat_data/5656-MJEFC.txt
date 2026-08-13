@@ -1,0 +1,20 @@
+Customer ID: 5656-MJEFC
+Topic: customer is dissatisfied with contract terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm unhappy with my current contract terms.  
+Agent: Hi there! Can you tell me a little more about why you're not happy? 
+Customer: I've been paying $48.15 per month for two years and the internet speed is still slow. 
+Agent: I understand your frustration. What specifically are your concerns about the speeds?  
+Customer: It's difficult to work from home because of it, and I’m considering switching providers if we can’t find a solution that meets my needs. 
+Agent: We would certainly like to find a solution for you. How long have you been with us specifically? 
+Customer: 42 months.   
+Agent:  I see.  Let me look into your contract and options for changing or upgrading. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the investigation, it still feels like a long shot to get my needs met with this provider."
+Sentiment: Negative

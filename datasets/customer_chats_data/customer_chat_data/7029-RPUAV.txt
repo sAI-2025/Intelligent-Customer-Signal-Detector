@@ -1,0 +1,25 @@
+Customer ID: 7029-RPUAV
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble getting a strong Wi-Fi signal in my living room.  
+
+Agent: Thank you for contacting us!  I can certainly help with that. Can you tell me your account details and the specific area you're experiencing the issue? 
+
+Customer: My account number is XXXXXXXXXX, and I live on the second floor. It seems like the signal is weak in all rooms except my bedroom.
+
+Agent: Okay, thanks for that information. I'll check our records to see if there are any network congestion reports or known issues affecting your area. 
+ 
+Customer:  Okay. Thank you. 
+
+Agent:  No problem at all!  I've located a few similar reports in the area and will make note of it for our team to address potential solutions. We may need to run a signal booster test for your area, depending on those issues. 
+ 
+Customer: Okay, thank you.
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response and helpful explanation!  Hopefully they can get this sorted soon."
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 0080-OROZO
+Topic: customer questions taxes or regulatory fees
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I have a question about taxes or regulatory fees on my monthly bill. 
+Agent:  I understand your concern. To clarify, are you referring to state sales tax or any additional federal/local regulations?
+Customer: It's the sales tax on the service. My contract doesn't mention it. Is this standard practice?
+Agent:  Yes, some states have a sales tax added to internet services. This varies depending on your location and state laws. 
+Customer: Well that’s just unfair! I thought internet access was meant to be affordable. 
+Agent:   I understand your frustration. Please provide me with the state where you are located so I can check the specific details for your account.  
+Customer: It's [State Name] 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the information was helpful, it's frustrating to see sales tax added to internet access without a clear explanation in the contract.
+Sentiment: Negative

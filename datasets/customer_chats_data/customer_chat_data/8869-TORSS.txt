@@ -1,0 +1,19 @@
+Customer ID: 8869-TORSS
+Topic: customer wants to downgrade internet plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I would like to downgrade my internet plan. My contract is still active and I'm paying $60.35 per month for DSL. 
+Agent:  I understand you're looking to change your plan, can you please tell me what specific plan you are interested in?
+Customer: I was hoping to go from the DSL to a different package.
+Agent:  Do you have a particular speed or features in mind? 
+Customer: We just need a more basic internet service, and maybe some reduced data.  
+Agent: Let me look into our available plans for you. 
+Customer: Thanks!
+Agent:  Our basic plan with 10 Mbps speeds is $35 per month. Would that work for you?   
+Customer: That seems like a good option, I appreciate it. 
+Agent:  Excellent! We can adjust your account to that new plan today. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for helping me switch plans! The new service sounds perfect.
+Sentiment: Positive

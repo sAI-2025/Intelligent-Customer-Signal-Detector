@@ -1,0 +1,28 @@
+Customer ID: 7932-WPTDS
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't connect to the internet at all.  It's been down for hours.
+
+Agent: Hi there! I understand you're experiencing trouble with your DSL service. 
+
+Customer:  That's right. My whole house is completely without internet. It's very frustrating.
+
+Agent:  Let me see what's going on with your account and connection. What's the full address of your residence?
+
+Customer: 123 Main Street, Anytown, USA
+
+Agent: I'm checking for any service outages in that area.  We have some reported issues at this moment.
+
+Customer: Okay... what can be done? It's my work day!
+
+Agent: I apologize for the inconvenience. We're working to resolve it as quickly as possible. We'll keep you updated on the status of your service. 
+
+Customer: Thanks, I really appreciate it. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the update and prompt response. Hopefully this gets fixed soon!"
+Sentiment: Positive

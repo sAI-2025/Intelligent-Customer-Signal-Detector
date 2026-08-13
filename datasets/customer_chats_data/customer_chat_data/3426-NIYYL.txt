@@ -1,0 +1,17 @@
+Customer ID: 3426-NIYYL
+Topic: customer cannot complete device setup
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble setting up my new device. 
+Agent: Hi there! What is your issue with setting up the device?  
+Customer: The Wi-Fi connection isn't working and it keeps saying "Network not found."
+Agent: Let me double check what might be causing the problem. Please tell me your account details so I can verify your services. 
+Customer: My name is Robert, my account number is XXXXXXXXXX.   
+Agent:  Thank you, Robert. I've connected to your account and see there is a possible issue with your DSL connection. We'll take care of that for you. 
+Customer: Thank you, good to hear! 
+Agent: No problem at all, Robert. It should be fixed within the next hour or so.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this resolved quickly, appreciate the fast and friendly service!"
+Sentiment: Positive

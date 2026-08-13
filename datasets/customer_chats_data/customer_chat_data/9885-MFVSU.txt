@@ -1,0 +1,18 @@
+Customer ID: 9885-MFVSU
+Topic: songs take too long to load
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my music streaming. Some songs are taking way too long to load.
+Agent:  I understand your frustration. What song or genre are you experiencing issues with?
+Customer: Mostly pop and rock. My usual service seems fine except for those specific songs. 
+Agent: Let me check on that for you. Could you please provide your account details, including the full name and address associated with it?
+Customer: Sure, it's [name] at [address].  
+Agent: I see this is a DSL connection. Have you tried restarting your modem or router? 
+Customer: Yes, but no luck. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would be nice to have more troubleshooting steps offered before requesting personal info like my address."
+Sentiment: Neutral

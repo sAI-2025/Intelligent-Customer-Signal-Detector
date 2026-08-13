@@ -1,0 +1,23 @@
+Customer ID: 9821-POOTN
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, my internet is completely down. I can’t connect to any websites or stream anything. 
+
+Agent:  I understand your concern. What is your account name and service address?
+
+Customer: My account name is John Smith, and the address is 123 Main Street, Anytown, USA. 
+
+Agent: Let me check on your connection status.  We'll look into this right away. 
+
+Customer: Thanks for checking.  It’s been like this all day.
+
+Agent: I can see you have fiber service and that your speed is currently unavailable. We will send a technician out as soon as possible to diagnose the issue. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was handled professionally, and I appreciate the prompt response even though it's been an ongoing problem all day.
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 4847-QNOKA
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some problems with my internet speed. It's been really slow lately. 
+
+Agent:  I understand your frustration! Can you please tell me a bit more about what is happening? When did the issues start and what device are you using to connect?
+
+Customer: It started a few days ago, mainly when streaming videos. I have a laptop on wifi. 
+
+Agent:  Okay, thank you. Could you let me know your account details or the customer ID for verification purposes?
+
+Customer: My name is John Smith, and my account number is 1234567890.
+
+Agent: Thank you for providing that information, John. I'm going to check on your connection now. 
+
+Customer:  Thanks!
+
+Agent: Let me know if there are any updates or questions.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in resolving my internet speed issue. Thanks!"
+Sentiment: Positive

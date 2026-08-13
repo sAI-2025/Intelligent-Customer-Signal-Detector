@@ -1,0 +1,17 @@
+Customer ID: 5148-HKFIR
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble downloading files. My internet speed is way slower than my subscription plan says it should be. 
+Agent: Thank you for reaching out to us, we understand your frustration.  What's your account number and the service address? 
+Customer: 1234567890, 123 Main Street
+Agent: I'm checking on that now. Can you also tell me what kind of device and network connection you are using to check the download speed?  
+Customer: Laptop with Wi-Fi, my neighbor’s router is connected for testing. It's around 5mb/s. 
+Agent: Thank you for providing that information. Our records indicate your plan offers a maximum download speed of 10 mb/s. We are going to look into this further.  Would you like me to check on the potential cause?  
+Customer: Yes, please. 
+Agent: I'm investigating the issue now. Please be patient as we work through it. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this! Hopefully, the problem gets fixed soon."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7989-VCQOH
+Topic: mobile data disconnects frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My mobile data has been disconnecting frequently lately.  It's happening more often than usual, even on a good connection. 
+Agent: I understand your frustration with frequent disconnects. Please tell me a little bit more about this issue. When did it start happening?
+Customer: It started about two weeks ago. Since then, my data has been dropping constantly.
+Agent: I see you have a month-to-month contract. Is your DSL connection working normally as well? 
+Customer: Yes, the DSL is fine.  I just get inconsistent data on my phone.
+Agent: Thank you for your input. Let me check on your account and see if there are any possible solutions to this issue. I'll have someone reach out to you shortly. 
+Customer: Alright, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response, hope the problem gets resolved soon!
+Sentiment: Positive

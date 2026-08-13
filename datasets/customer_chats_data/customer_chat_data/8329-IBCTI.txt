@@ -1,0 +1,23 @@
+Customer ID: 8329-IBCTI
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to my Wi-Fi at my apartment. 
+
+Agent:  I understand. Could you please tell me your address? 
+
+Customer: My address is 123 Main Street, Apt 4B. 
+
+Agent: Thank you. I see there might be a few signal issues in the building.  
+ 
+Customer:  Really, I thought it would be fine here.
+
+Agent: Let me check on our records and see if we have any updates. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate your help, even though it seems like there are persistent issues in the building.
+Sentiment: Neutral

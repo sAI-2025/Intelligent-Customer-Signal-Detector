@@ -1,0 +1,17 @@
+Customer ID: 6461-SZMCV
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble accessing my internet at peak hours today. It seems much slower than usual.
+Agent: Thank you for contacting us, we apologize for the slow network speed. 
+Customer:  I've been experiencing this issue on and off for a few weeks now. Is there anything that can be done?
+Agent: We understand your frustration, our support team is working to resolve any connectivity issues due to high traffic during peak hours.
+Customer: Could you give me an estimated timeframe when the speed will improve? 
+Agent: We are actively addressing the issue and expect a resolution within the next few hours, but we'll keep you updated if anything changes.  
+Customer: Okay, thanks for letting me know.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating that this issue persists despite being promised an update.
+Sentiment: Negative

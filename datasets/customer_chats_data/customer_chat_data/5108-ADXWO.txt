@@ -1,0 +1,17 @@
+Customer ID: 5108-ADXWO
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, my internet speed has been super slow lately, especially during peak hours.  It's really frustrating when I can't stream movies or work from home properly.
+Agent: Thanks for reaching out! I understand your frustration.  What's your account number so I can take a look? 
+Customer: It's 1234567890, thanks.
+Agent: Alright, I have a quick question. Are you on the Fiber Optic plan, and what is your current speed? 
+Customer: Yes, I am. My speed is usually around 100 Mbps but it drops to like 5 Mbps during peak hours. 
+Agent: Thank you.  I see some recent reports of network congestion during peak hours. We're working on improving our infrastructure and we'll keep you updated. 
+Customer: Okay, thanks for the info.
+Agent: I hope this helps!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is helpful to know, though it's frustrating that network congestion seems to be a recurring issue.
+Sentiment: Neutral

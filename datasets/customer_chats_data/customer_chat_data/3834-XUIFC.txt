@@ -1,0 +1,17 @@
+Customer ID: 3834-XUIFC
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been really slow and unstable lately.  It's making it impossible to work from home. 
+Agent: I understand your frustration. Could you please tell me your account number? 
+Customer: It is [Account Number]
+Agent: Thank you, [Account Number]. We will take a look into this for you. 
+Customer: Can we expect an improvement by the end of today?
+Agent:  I'll try my best to get it sorted out quickly. We are currently experiencing some minor network outages but I'm confident we can resolve your issue soon. 
+Customer: Great, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response and for working on getting this fixed! Hopefully it resolves quickly."
+Sentiment: Positive

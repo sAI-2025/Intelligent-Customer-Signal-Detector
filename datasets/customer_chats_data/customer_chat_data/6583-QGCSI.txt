@@ -1,0 +1,15 @@
+Customer ID: 6583-QGCSI
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet in my living room.  The signal is very weak. 
+Agent: Thank you for contacting us! We understand your concern about the Wi-Fi signal strength. Can you please tell me more about your location and device? 
+Customer: My living room is on the second floor, I have a laptop and phone. 
+Agent:  Okay, we're investigating the issue. Could you try restarting your modem or router? 
+Customer: Okay, Thank you. 
+Agent: No problem! Let us know if that doesn't resolve the issue. We will also be looking into it for you.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate their prompt response! The weak signal resolved after restarting my modem, so thanks.
+Sentiment: Positive

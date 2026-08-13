@@ -1,0 +1,26 @@
+Customer ID: 2351-RRBUE
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey! My internet is down completely. Can I get some help? 
+
+Agent: Hi there, how can I assist you today?  
+
+Customer: Yeah, my internet isn't working at all.  I just started a new contract and it's been down for like 2 hours. 
+
+Agent:  I understand that the internet outage is frustrating. May I know your account number, please? 
+
+Customer: It's [Account Number].   
+ 
+Agent: Thanks!  Let me check on this for you. 
+
+Customer:  Thanks!
+
+Agent:  An update has arrived, we are currently working to resolve the issue. We will keep you informed once it's back up and running. Thank you for contacting us. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and updates; hopefully, this issue gets resolved soon!"
+Sentiment: Positive

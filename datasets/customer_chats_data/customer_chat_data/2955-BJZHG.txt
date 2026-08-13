@@ -1,0 +1,16 @@
+Customer ID: 2955-BJZHG
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing frequent internet disconnections. 
+Agent:  Hello! I understand you're having trouble with your connection. May I have your account information to look into this further? 
+Customer: Sure, it's [Account number] and my name is [Name].
+Agent: Thank you for that info, [Name]. We do have a history of occasional disconnections on the Fiber optic plan. 
+Customer:  That's frustrating. I just want to be able to work from home!
+Agent: We can certainly take a look into this and see what we can do. We'll aim to fix it by the end of the day.
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back with me so quickly, I hope the issue gets fixed soon!
+Sentiment: Positive

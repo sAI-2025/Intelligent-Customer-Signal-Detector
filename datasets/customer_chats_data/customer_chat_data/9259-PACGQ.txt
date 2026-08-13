@@ -1,0 +1,18 @@
+Customer ID: 9259-PACGQ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is really slow and keeps disconnecting. 
+Agent: I apologize for the inconvenience, can you please confirm your account details? 
+Customer: Sure, it's [Name], DSL plan.  My bill amount is $62.65.
+Agent: Thank you for providing that information, I understand you're having trouble with connectivity. 
+Customer:  It started happening a few hours ago and has been happening off and on.
+Agent: I can definitely help you troubleshoot this issue.  Can you tell me more about what specifically is occurring? 
+Customer: It seems like the speeds are really low and it keeps going in and out. 
+Agent: Thank you for your patience, we want to get this resolved as soon as possible. Let's try a few troubleshooting steps.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, hopefully the issue gets fixed quickly!"
+Sentiment: Positive

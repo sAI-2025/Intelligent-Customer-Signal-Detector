@@ -1,0 +1,17 @@
+Customer ID: 8844-TONUD
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I just wanted to check on my download speeds. They seem really slow lately. 
+Agent: Hello!  I'm happy to help you with that. Can you please provide your account information or the service address? 
+Customer: Sure, my name is John Smith and my account number is 1234567890. I signed up for the 50Mbps plan.
+Agent: Thank you, John.  I can see here that you're currently on a month-to-month contract for our Fiber Optic service at $96.65 per month. 
+Customer: So far so good but my speeds are nowhere near the advertised speeds. 
+Agent: Absolutely, I understand your concern. I’m going to look into this further and see what's causing the slowdowns. 
+Customer: Thanks for looking into it. 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "I appreciate the quick response and update - hopefully, my speeds improve soon."
+Sentiment: Positive

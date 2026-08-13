@@ -1,0 +1,17 @@
+Customer ID: 3669-OYSJI
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet speed today. It's significantly slower than what I expected.
+Agent: Hi there!  I understand your concern about your upload speed. May I ask for a little more information? 
+Customer: Sure, my current speed is around 2 Mbps. That’s far below the promised 5 Mbps. 
+Agent: Thank you for providing that detail. It's possible your DSL line might be experiencing some congestion or interference.  Let me check that out for you.
+Customer: Ok.
+Agent: The speed test results show a slight dip in signal strength, but generally consistent. I’ll recommend running a temporary speed test to verify the issue and report back. 
+Customer: Thank you for your help!
+Agent: You're welcome! We appreciate you reaching out.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's prompt response and efforts, even though it seems like a temporary fix is needed to address my internet speed issues.
+Sentiment: Neutral

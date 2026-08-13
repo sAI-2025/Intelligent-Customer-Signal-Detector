@@ -1,0 +1,21 @@
+Customer ID: 8627-ZYGSZ
+Topic: customer questions unlimited data pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble understanding my data usage plan. Can you explain the unlimited data pricing? 
+
+Agent:  Sure! We offer unlimited data with our Fiber optic plans at $78.9 per month. Does that answer your question?
+
+Customer:  Okay, thanks.  I was confused about how it worked specifically. Do I need to worry about over-consuming data?
+
+Agent:  Absolutely not! With unlimited data, you're free to use as much data as you want without worrying about exceeding limits or incurring extra charges. 
+
+Customer:  That's great.  Thanks for the clarification. 
+
+Agent:  You're welcome! Thanks for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for clearing things up, it was much appreciated!"
+Sentiment: Positive

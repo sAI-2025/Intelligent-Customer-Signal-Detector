@@ -1,0 +1,18 @@
+Customer ID: 5766-FTRTS
+Topic: customer asks about downgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm trying to downgrade my plan and was hoping for a discount. 
+Agent:  Hello! We can definitely help you with that. How long have you been a customer?
+Customer: I've been with the company for about two years now. My contract is still active, paying $84.45 per month for DSL internet.
+Agent: I see your contract information and tenure.  I understand you want to downgrade to save money. 
+Customer: Yes, is there a way to get a discounted rate? How do we go about it?
+Agent: We offer a variety of plans with different speeds and pricing. Would you like me to show you some options?
+Customer: Sounds good.  
+Agent:  Let's take a look! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Overall, the agent was helpful but could have been more transparent about available discounts."
+Sentiment: Neutral

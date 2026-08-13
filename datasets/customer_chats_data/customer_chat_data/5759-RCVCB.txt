@@ -1,0 +1,17 @@
+Customer ID: 5759-RCVCB
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my download speed is much slower than what I subscribed to. It's been under 5 Mbps consistently.
+Agent:  I understand your concern regarding your slow download speeds.  Can you please provide me with your account details and the specific location where you are experiencing issues?
+Customer: Sure, my name is Emily and account number is 1234567890. The speed problems are in the city of Seattle, Washington. 
+Agent: Thank you, Emily! I've checked your account and see that there may be some technical issues affecting your area currently.  We apologize for this inconvenience. 
+Customer: Thanks for looking into it.  Is there a solution to speed up my connection?
+Agent: We are working on resolving these issues as quickly as possible. You can check the status of your service at [link].  
+Customer: Okay, thanks.  I will wait and see what happens. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the update - hopefully this gets resolved soon!"
+Sentiment: Positive

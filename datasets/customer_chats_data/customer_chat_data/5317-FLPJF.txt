@@ -1,0 +1,17 @@
+Customer ID: 5317-FLPJF
+Topic: customer reports unusually high data usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my data usage has been incredibly high lately and I'm worried about exceeding my limit. Is there anything I can do to get a better understanding of this? 
+Agent: Hello!  I understand your concern. Can you please tell me your account details so I can take a closer look at your billing history?
+Customer: Sure, it's [account number]. My name is [name] and my contract duration is two years. 
+Agent: Thank you, [name].  Your DSL plan comes with limited data, and I see that you've been using quite a bit recently. Would you like to explore options for managing your usage? 
+Customer: Yeah, maybe. My usual browsing, streaming, and downloads are all pretty standard.  Is there any way to avoid exceeding my limit without changing my plan?
+Agent: We can definitely look into that for you. We do offer data-saving tips and resources on our website if you'd like. 
+Customer: That would be great! Thanks
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for your help, the information provided was clear and helpful in understanding my usage pattern!
+Sentiment: Positive

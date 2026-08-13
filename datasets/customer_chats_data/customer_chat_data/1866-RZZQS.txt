@@ -1,0 +1,17 @@
+Customer ID: 1866-RZZQS
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I’m having trouble uploading files to my work server.
+Agent:  I understand your concern, Mr. Smith. Could you tell me your exact address so we can access your account details? 
+Customer: 123 Main Street, Anytown, USA.
+Agent: Thank you for providing that information. Let's take a look at your connection speeds. We also might need to check if there are any recent changes on your plan or billing that could affect it.
+Customer: I haven't noticed any changes recently. 
+Agent:  I’ll investigate further and get back to you shortly with my findings. 
+Customer: Thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, the issue hasn't been resolved yet despite their investigation.
+Sentiment: Neutral

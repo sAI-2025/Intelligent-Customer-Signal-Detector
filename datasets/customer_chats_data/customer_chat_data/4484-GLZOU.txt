@@ -1,0 +1,16 @@
+Customer ID: 4484-GLZOU
+Topic: one phone line has no service
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! My phone line has been completely down for hours. I can't make calls or texts! 
+Agent:  I understand your frustration. Can you please provide me with your account number and the address where the phone line is located?
+Customer: Sure, my account number is 1234567890. My phone line is at 123 Main Street.
+Agent: Thank you! I'm checking on the status of your service. 
+Customer:  Have you been able to find any information yet? Is there an estimated time for when the issue might be resolved? 
+Agent: I have confirmed a technical issue impacting your line. It will be resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated!  I appreciate you letting me know when I can expect it to be back up."
+Sentiment: Positive

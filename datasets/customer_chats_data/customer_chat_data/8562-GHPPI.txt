@@ -1,0 +1,17 @@
+Customer ID: 8562-GHPPI
+Topic: customer is considering switching providers
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm looking at switching internet providers. 
+Agent:  I understand. May I ask what specifically is making you consider a change?
+Customer: My current provider isn't giving me good speeds. 
+Agent: I apologize for the inconvenience. We offer high-speed plans with strong customer reviews.
+Customer: My monthly cost is also higher than other options, even on month-to-month.  
+Agent: Our pricing structure emphasizes value and reliability. Would you like to compare our plans? 
+Customer: I’m just looking around at my options before making a decision. 
+Agent: We appreciate you choosing us for your internet needs. Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'll have to consider other options, as the pricing and speeds weren't quite what I was hoping for.
+Sentiment: Negative

@@ -1,0 +1,18 @@
+Customer ID: 1452-VOQCH
+Topic: device repeatedly loses connection
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there!  My internet keeps dropping out. It's been happening all day. 
+Agent: Hello! I understand your frustration with the dropped internet connection. Could you please provide me with your account details and what device(s) are experiencing this issue?
+Customer: Sure, my name is John, and it’s been happening on my laptop. 
+Agent: Thank you, John.  My apologies for the inconvenience.   Can you tell me when the connection drops and how long it takes to reconnect?
+Customer: It happens every 20 minutes or so. I am also on Fiber optic internet.
+Agent: Alright, John.  I will check your account details now and see if there's anything we can do to resolve this.  Please hold while I look into this for you.
+Customer: Okay. 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, thanks! 😊
+Sentiment: Positive

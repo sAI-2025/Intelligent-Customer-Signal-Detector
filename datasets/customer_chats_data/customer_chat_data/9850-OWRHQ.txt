@@ -1,0 +1,27 @@
+Customer ID: 9850-OWRHQ
+Topic: certain TV channels unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting certain TV channels.  I can't seem to find them on my guide. 
+
+Agent: Thank you for reaching out! I understand you're experiencing some issues with your channel selection. Can you tell me which channels you are unable to access?
+
+Customer: It's the History Channel and the Science Channel.  They just aren't showing up anymore, even after a reboot.
+
+Agent: Let me check on that for you. I see that you have fiber internet service. 
+
+Customer: Yes, it was easy to set up and get started with.
+ 
+Agent:  I believe there may be an issue on our end affecting these channels. We'll look into this right away. 
+
+
+Customer: Thank goodness! What’s the status? 
+
+Agent: There's been a reported technical issue with some local channel feeds.  We will have them back up and running soon. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting these channels fixed, I appreciate your prompt and helpful service! 😊
+Sentiment: Positive

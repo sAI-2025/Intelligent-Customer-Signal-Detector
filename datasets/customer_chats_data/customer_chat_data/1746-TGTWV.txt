@@ -1,0 +1,21 @@
+Customer ID: 1746-TGTWV
+Topic: internet connection slow or unstable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My internet connection has been very slow and unstable for the past couple of hours. 
+
+Agent: I understand your frustration, I'm sorry to hear about the connectivity issues.  Could you please provide me with your account information or the service address where this issue occurs? 
+
+Customer: Sure, my account number is [insert account number] and the issue is occurring at [insert street address]. 
+
+Agent: Alright, thank you. I'm checking on the fiber lines at your location to see if any maintenance was performed recently.
+
+Customer:  That would be great. Thank you for your help.
+
+Agent: No problem, we are working towards a solution. We will have this resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for getting this sorted out so quickly!  I appreciate the update and hope to see stable internet soon.
+Sentiment: Positive

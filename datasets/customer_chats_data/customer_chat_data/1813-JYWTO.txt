@@ -1,0 +1,17 @@
+Customer ID: 1813-JYWTO
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering if there are any new service plans available that would be a better fit. 
+Agent: Hello!  I understand you're looking to explore some possible options. Can you tell me what aspects of your current plan might be improved? 
+Customer: Mostly, the speed feels too slow at times for my online gaming and streaming needs. 
+Agent: I see. Our fastest Fiber optic plans offer speeds up to [insert specific speed].  Would you be interested in upgrading or considering a different service altogether? 
+Customer: Hmm, I'll look into that. Thanks.
+Agent: No problem at all! We can go over the details if you'd like. 
+Customer: Yeah, that would be great. 
+Agent: Let me know what you decide. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate the information about speed options.  I think I'll go with the faster plan!
+Sentiment: Positive

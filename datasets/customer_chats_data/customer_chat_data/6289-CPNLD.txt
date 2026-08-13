@@ -1,0 +1,22 @@
+Customer ID: 6289-CPNLD
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I need to report frequent internet disconnections lately. 
+
+Agent: Hello! Thanks for reaching out. Can you tell me your account number and a bit about what's been happening?
+
+Customer: My account number is [account number].  It happens randomly throughout the day. 
+
+Agent: Okay, let me check on that. I see you have DSL service with us. Would you mind telling me more about when the disconnections are occurring?
+
+Customer: Mostly during the evenings and weekends.
+
+Agent: Thank you for providing that information. We will look into this further.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick response, but I hope they can resolve the internet issues soon as it's impacting my work/leisure time.
+Sentiment: Neutral

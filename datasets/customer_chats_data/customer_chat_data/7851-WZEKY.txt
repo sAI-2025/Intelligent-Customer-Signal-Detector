@@ -1,0 +1,17 @@
+Customer ID: 7851-WZEKY
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having a lot of internet disconnections lately. My speed is also really slow. 
+Agent:  I understand your frustration. Can you please provide your account information so we can look into this further?
+Customer: Sure. It's [customer name] and my account number is [account number]. 
+Agent: Thank you, [customer name]. I see there are some recent disconnections reported on your account.  Let me check the status of your Fiber connection.
+Customer: Okay, great!
+Agent:   I have located a service outage affecting your area. We should be able to get it fixed within 2 hours. 
+Customer: Thanks for letting me know. 
+Agent: You're welcome. Please let us know if you have any further issues. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was great! Thanks for the quick update and explanation, it makes things a lot clearer. 😊
+Sentiment: Positive

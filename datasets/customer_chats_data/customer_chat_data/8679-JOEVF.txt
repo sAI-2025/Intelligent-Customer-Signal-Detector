@@ -1,0 +1,16 @@
+Customer ID: 8679-JOEVF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my upload speed. It's much slower than expected. 
+Agent: I understand your frustration. What is your current upload speed?
+Customer:  It's around 15 Mbps, but that's far lower than what I was promised at $59.4 a month. 
+Agent:  Let me check on your account details. We typically offer speeds up to 20 Mbps with our DSL package. 
+Customer: Thanks!  I had no idea. 
+Agent: There is also an issue with the connection in your area, which may be causing slow speeds. I will send a technician to your location. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out quickly and explaining everything clearly!  I appreciate the help."
+Sentiment: Positive

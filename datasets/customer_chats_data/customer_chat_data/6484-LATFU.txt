@@ -1,0 +1,16 @@
+Customer ID: 6484-LATFU
+Topic: customer wants to remove unlimited data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I would like to cancel my unlimited data plan.
+Agent:  I understand your request. Please confirm your account details so we can process this. 
+Customer: My account number is XXXXXXXXXX.
+Agent: Thank you. Is there anything else I can help you with today?
+Customer: No, that's all. Just cancel my unlimited plan. 
+Agent:  I have canceled your unlimited data plan. We will be processing your refund for the remaining balance, and it should take about 10 business days to complete.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The cancellation process was quick and easy, thank you."
+Sentiment: Positive

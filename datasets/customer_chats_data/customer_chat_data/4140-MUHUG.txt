@@ -1,0 +1,17 @@
+Customer ID: 4140-MUHUG
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet connection is very slow today.  It's been dropping in and out constantly all day. 
+Agent: I understand your frustration with the slow connection. Could you please provide me with your account details so I can troubleshoot this issue further?
+Customer: Sure, my account number is [account number]
+Agent: Thank you. I see your account is a month-to-month contract and you're currently on fiber optic internet.  I'm checking into the connection speed now. 
+Customer: That would be great, thanks. 
+Agent: The connection seems to be stable at this moment. We are seeing no reports of widespread outages in your area. 
+Customer: Okay, that's good. Thanks for your help!
+Agent:  You’re welcome! Let me know if you have any other questions. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your help resolving the issue!  I appreciate the quick response and explanation.
+Sentiment: Positive

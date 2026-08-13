@@ -1,0 +1,24 @@
+Customer ID: 8413-YNHNV
+Topic: data unavailable despite active plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble accessing my data. It says it's unavailable even though I have a plan and am already paying. 
+
+Agent:  I understand your frustration. Could you please confirm your account details? 
+
+Customer: Sure, my account number is XXX-XXXX-XX and the last four digits of my billing address are 1234.
+
+Agent: Thank you! Let me check on this for you. 
+
+Customer: Okay.  I've been a loyal customer for years now. 
+
+Agent: I apologize for any inconvenience caused. I can see that your data plan is active and you’re still under your contract. 
+
+Customer:  Thank you for checking!  
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and resolved my issue quickly, thanks to their thoroughness and professionalism!
+Sentiment: Positive

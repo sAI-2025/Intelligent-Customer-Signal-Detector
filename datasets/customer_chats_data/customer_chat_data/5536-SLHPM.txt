@@ -1,0 +1,24 @@
+Customer ID: 5536-SLHPM
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is incredibly slow, it's barely functional. I'm getting less than 10Mbps on a good day.
+
+Agent:  I understand your frustration. We can look into this for you.  Could you please tell me your account information and the specific issue with your upload speed?
+
+Customer: My name is John, my account number is 1234567890. I'm experiencing slow upload speeds, and it is much lower than what we agreed upon. 
+
+Agent:  Thank you for providing that information, John. We have a record of your monthly Fiber optic plan and the speed guarantee under our terms. It seems like there might be an issue with the network connection.
+
+Customer: I've been using this internet service for five years now. Is it possible to upgrade my plan? 
+
+Agent:  We can definitely look into that, John. We can check your current data plans and see what options are available based on your needs and location. 
+
+Customer: Thank you!
+ 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a quick and easy process to resolve my issue!  The agent was professional and helpful throughout.
+Sentiment: Positive

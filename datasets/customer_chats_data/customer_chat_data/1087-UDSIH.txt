@@ -1,0 +1,18 @@
+Customer ID: 1087-UDSIH
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I keep losing my internet connection frequently. It disconnects randomly. 
+Agent: Hi there!  I understand you're having trouble with your internet connection. Let me ask you a few questions to help figure out what's happening. 
+Customer: Sure, it happens a lot. Mostly when streaming or playing online games.  
+Agent: Thanks for that info. I see your account is month-to-month and your plan includes 100 Mbps internet. 
+Customer: That's right. Is there anything I can do to fix this? 
+Agent:  I'd be happy to help with troubleshooting the issue! Have you checked your router for any issues or have you been experiencing this on multiple devices? 
+Customer: Just my laptop and phone. It seems like a problem specific to them, maybe it’s hardware related. 
+Agent: I can certainly look into that.  Will get back to you shortly. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "While the agent was helpful, hopefully this issue with my devices will be resolved quickly."
+Sentiment: Neutral

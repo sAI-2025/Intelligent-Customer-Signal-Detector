@@ -1,0 +1,17 @@
+Customer ID: 4918-FYJNT
+Topic: customer cannot receive verification calls
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble receiving verification calls to complete my account setup.  
+Agent: Thank you for contacting us. I understand that you're experiencing difficulties with the verification process. 
+Customer: I have been using fiber optic internet for five and a half years now.  I am on a month-to-month contract.
+Agent: Let me check your account details. Could you please confirm your full name and address? 
+Customer:  John Smith, 123 Main Street, Anytown, USA. 
+Agent: I've located your account information. We'll send an SMS verification code to your phone number shortly.
+Customer: Thank you!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and the process was resolved quickly."
+Sentiment: Positive

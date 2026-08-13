@@ -1,0 +1,17 @@
+Customer ID: 7426-RHZGU
+Topic: billing information unavailable online
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My billing info is not showing online. I can't find my payment information or account details. How can I access it? 
+Agent:  I understand your concern. To help you with this, could you please provide me with your name and account number?
+Customer:  My name is Jane Smith, and my account number is 12345678. 
+Agent: Thanks for that information, Ms. Smith. I've accessed your billing details now.
+Customer: Great! Can you please tell me what the next due date will be? 
+Agent: Your next payment is due on the 10th of this month.
+Customer: Thank you!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quickly resolved my issue. Thanks!"
+Sentiment: Positive

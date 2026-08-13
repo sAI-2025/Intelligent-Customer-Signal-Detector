@@ -1,0 +1,16 @@
+Customer ID: 5804-LEPIM
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my Wi-Fi signal. It's very weak in certain rooms of my house. 
+Agent:  I understand your frustration. Can you please tell me which rooms are experiencing the weakest connection? 
+Customer: In the living room and dining room.  Internet is just okay there but I can barely stream a movie. 
+Agent:  Thank you for that information. Let's take a look at your account setup to see if there's anything we can adjust in order to optimize your signal strength.
+Customer: Okay, thank you. 
+Agent: No problem, I will be checking on that now and get back with you as soon as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and got to the bottom of my issue quickly.  Thanks!
+Sentiment: Positive

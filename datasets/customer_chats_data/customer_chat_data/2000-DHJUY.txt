@@ -1,0 +1,25 @@
+Customer ID: 2000-DHJUY
+Topic: promotional discount missing from bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just checked my bill and there was no promotional discount on it like I expected. 
+
+Agent:  Hi there! We'd be happy to look into that for you. Could you please provide your account number? 
+
+Customer: Sure, here it is. 21457890. 
+
+Agent: Thank you! I see you are currently on our 2-year plan with DSL internet and have been a loyal customer for over seven years.  Would you like me to go through your promotional options? 
+
+Customer: That would be great, thank you.
+
+Agent: We do have a few ongoing promotions available that might apply to your account, so I'd be happy to walk you through them.
+
+Customer:  Thanks!
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the agent's help in finding relevant promotions. Hopefully, this will lead to future savings!"
+Sentiment: Positive

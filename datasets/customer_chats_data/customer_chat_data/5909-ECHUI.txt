@@ -1,0 +1,21 @@
+Customer ID: 5909-ECHUI
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than expected. I'm on the $56.25 plan and using DSL. It's been slow for a week now. 
+Agent:  I understand you are experiencing slow internet speeds, how long have you noticed this happening? 
+Customer: For about a week, it's like I'm stuck at 1-2 Mbps, even though my subscribed speed is 50 Mbps. 
+Agent:  Let me check the details for your account.  
+Customer: Thank you.
+Agent: Your DSL plan does have limitations on speed and bandwidth. We can definitely see that it's not meeting your needs, I apologize for the inconvenience. 
+Customer: No worries.   
+Agent:  I will ensure that we address this issue and get you a faster connection. How would you like to proceed? 
+Customer: Can I upgrade my plan to something faster? 
+Agent: Yes, we have some plans with higher speeds available. What are your priorities regarding speed?
+Customer: Just need it fast enough for streaming and working from home!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and I appreciate the swift response to my issue!"
+Sentiment: Positive

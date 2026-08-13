@@ -1,0 +1,16 @@
+Customer ID: 9851-QXEEQ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is really slow and unstable lately.  It's driving me crazy! 
+Agent: I understand your frustration, I am sorry to hear that your internet connection has been acting up.  Could you please tell me the specific issue you are experiencing? 
+Customer: Whenever I try to browse the internet or stream a show on Netflix, it lags and drops completely. 
+Agent:  I have checked your account and there seems to be no outages reported in our system.  Is your connection still slow after restarting your modem and router? 
+Customer: Yes, it's still slow!  Did you check the signal strength or something like that? 
+Agent: Let me review your service details and I'll look into any possible issues.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating to see my connection problems persist after troubleshooting steps. Hoping for a quicker resolution."
+Sentiment: Negative

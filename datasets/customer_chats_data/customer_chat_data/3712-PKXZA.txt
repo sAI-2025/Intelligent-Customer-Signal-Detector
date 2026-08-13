@@ -1,0 +1,15 @@
+Customer ID: 3712-PKXZA
+Topic: customer cannot complete device setup
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble setting up my new device.  I've followed the instructions but I can't complete the setup process. 
+Agent:  I understand you're having trouble setting up your device.  Can you tell me what specific issue you are encountering? 
+Customer: The connection keeps dropping and the Wi-Fi isn't getting strong enough to connect. 
+Agent:  Let's try troubleshooting this together. Please ensure your router is properly placed and within range of the device, and let's reboot both the device and the router.
+Customer: Okay, I'll do that now. 
+Agent:  Great!  If you still experience problems after rebooting, please provide your account information so we can assist further.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The troubleshooting steps helped resolve the issue, thanks!"
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 9281-PKKZE
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I've been having trouble with my internet connection. It keeps dropping out frequently. 
+Agent: Hello! I understand your frustration. Could you please tell me a little more about what's happening? 
+Customer:  It seems to happen mostly during peak hours in the evening. My DSL is pretty old, but haven't had any problems before. 
+Agent: We apologize for this inconvenience. I can certainly look into that for you. Do you have your account number handy?
+Customer: Sure, it's [account number].  
+Agent: Alright, I see your account details and current plan. Let me check on some of the DSL troubleshooting steps. 
+Customer: Great, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quick to resolve my issue. Hopefully this solves the frequent outages!"
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 4450-MDZFX
+Topic: internet service interruption after payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to get online at all. My internet is down and it's been like this for about an hour now. 
+Agent: I understand your concern,  we do appreciate you contacting us!  Could you please provide me with your account number or the name on your account? 
+Customer: Sure, my account number is XXXXXXX-XXXXX. My name is John Smith and I've had this service for over 60 months.
+Agent: Thank you, John. I see that your payment was processed successfully today, but there seems to be an issue with the internet service itself.  I will need a moment to look into it.
+Customer: Okay.  Thanks! 
+Agent:  We're working on restoring your internet connection as quickly as possible. We apologize for any inconvenience this may cause.
+Customer:  All right, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully they can get my internet back online soon."
+Sentiment: Neutral

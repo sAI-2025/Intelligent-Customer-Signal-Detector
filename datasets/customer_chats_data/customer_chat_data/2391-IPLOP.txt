@@ -1,0 +1,16 @@
+Customer ID: 2391-IPLOP
+Topic: customer questions unlimited data pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was hoping to learn more about your unlimited data plan.
+Agent: Certainly!  We do offer an unlimited data plan for $89.99 per month. 
+Customer:  How does that compare to my current plan?
+Agent: It's a good question, it will be cheaper than what you're paying now. How long have you been with us?
+Customer: I've been a customer for over five years now!
+Agent: Wow, congratulations on that milestone. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was helpful and the agent was very friendly and efficient.  I appreciate the information about switching to the unlimited plan."
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 8548-AWOFC
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hey, my internet connection has been really slow lately. I haven't had this issue before.
+Agent: Hi there!  I understand your concern about the slow internet speeds.  Can you tell me a little more about what kind of issues you're experiencing? 
+Customer: It's taking ages to load websites, even simple ones, and sometimes it drops completely.  It feels really unreliable lately. 
+Agent:  We apologize for any frustration this may cause!  I can check your account details.  Is this on a month-to-month plan or is it part of a longer contract?
+Customer: It's a month-to-month plan. I signed up about six years ago, and paid $63.85 per month.
+Agent: Okay, thank you for that info.   I see your DSL connection has been slower than usual. 
+Customer: Thanks, but really, it's just been frustrating!  Do you have any suggestions?
+Agent: We can look into possible troubleshooting steps or offer a temporary increase in bandwidth if needed.  Is there anything else I can assist with today? 
+Customer: Just let me know what we can
+
+----------------------------------------
+Feedback: The agent was very helpful and I appreciate the offered solutions. It's nice to feel like my concerns are being addressed.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7198-GLXTC
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet speed has been really slow during peak hours lately. It’s frustrating because I rely on it for work. 
+Agent:  I understand your concern! I can help with that. Could you please provide me with your account information so I can check the details? 
+Customer: Sure, here it is. My name is John Smith and my account number is [redacted]. 
+Agent: Thank you, John. Based on our records, we're seeing a slight increase in network traffic during peak hours.  
+Customer: That explains why it's been so sluggish! 
+Agent:  I'll be able to address this issue for you. How about I put you down for an expedite ticket?
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the prompt response and quick action to resolve my slow internet speeds. Thanks!"
+Sentiment: Positive

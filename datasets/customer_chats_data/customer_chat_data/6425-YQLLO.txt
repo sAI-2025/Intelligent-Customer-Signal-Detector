@@ -1,0 +1,20 @@
+Customer ID: 6425-YQLLO
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't get online at all. My internet is completely down. 
+Agent: Thank you for contacting us!  I understand you’re having trouble with your internet connection. Can you please tell me your account number? 
+Customer: Sure, it starts with A01234... 
+Agent: I see that you are a long-time customer with one year contract and paying $105.95 per month for Fiber Optic internet.  Do you have any error messages or details on what seems to be the issue? 
+Customer: Just saying there’s no connection at all, nothing's working.
+Agent: I'm sorry to hear that. Let me check our system and see if we can resolve this. Please hold.
+Customer: Thanks for your help. 
+Agent: It appears a technical issue may be affecting the Fiber Optic service in your area. We are actively working on resolving it as quickly as possible.  We will keep you updated with any changes or progress. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** "Thanks for letting me know about the technical issue, hope they get this resolved soon!"
+Sentiment: Positive

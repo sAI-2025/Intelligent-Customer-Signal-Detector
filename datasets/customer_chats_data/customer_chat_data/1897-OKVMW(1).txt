@@ -1,0 +1,18 @@
+Customer ID: 1897-OKVMW
+Topic: customer unhappy with service reliability
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet has been down all morning and I can't work! 
+Agent:  I understand your frustration. Can you please provide your account number so we can look into this further? 
+Customer: Sure, it's 1234567890. 
+Agent: Thank you for providing that information. We are currently investigating the issue with your service and will update you as soon as possible.  
+Customer: Is there a way to get back online? I am on a deadline!
+Agent: We're working diligently to restore service, we understand how important this is to you. 
+Customer: Thank you for your efforts.  
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly - I really appreciate the update and hope my internet comes back on soon!
+Sentiment: Positive

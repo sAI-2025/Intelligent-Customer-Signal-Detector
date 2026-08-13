@@ -1,0 +1,17 @@
+Customer ID: 3621-CHYVB
+Topic: service installation incomplete
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My service installation was incomplete.  I haven't received all of the equipment I ordered.
+Agent: Hello! I understand you're having trouble with your service installation. Could you please provide me with your account information and the specific missing equipment? 
+Customer: Account number is [account number].  The technician brought a modem, but not the router. 
+Agent: Thank you for that information. We'll make sure to send out the missing router as soon as possible. You can expect it within [estimated delivery timeframe] days.
+Customer: Great! I appreciate your help.
+Agent: Is there anything else I can assist you with today? 
+Customer: No, thanks!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting the missing router sorted out!  I really appreciate your quick response and helpfulness.
+Sentiment: Positive

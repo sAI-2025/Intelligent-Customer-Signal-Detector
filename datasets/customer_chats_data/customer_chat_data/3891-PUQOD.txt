@@ -1,0 +1,27 @@
+Customer ID: 3891-PUQOD
+Topic: customer wants to upgrade service plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'd like to upgrade my internet plan.  I'm currently on a month-to-month contract and pay $59.2 per month for DSL. 
+
+Agent: Thank you for contacting us! May I ask what specific plan you're interested in upgrading to? 
+
+Customer: Something with faster speeds, maybe like your "Ultra" plan.
+
+Agent:  We do have an Ultra plan available. It offers significantly faster download and upload speeds.  Would you like me to explain the details of that plan for you?
+
+Customer: Yes please. 
+
+Agent: Sure! The Ultra plan comes with a speed boost up to 500 Mbps, unlimited data, and no additional fees for setup. Would you like to proceed with an upgrade to the Ultra plan?  
+
+Customer: Yes please! 
+
+Agent: Wonderful! To get started, I'd just need your account information and confirm if you are ready to pay the monthly price of $89.99
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining the plan options and made the upgrade process smooth.
+Sentiment: Positive

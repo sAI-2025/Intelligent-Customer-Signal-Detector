@@ -1,0 +1,17 @@
+Customer ID: 8745-PVESG
+Topic: activation completed but service unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My service has been down since activation.  My contract is up to date and I'm paying $41.1 a month.
+Agent: Hi there!  I understand you are experiencing issues with your service even after activation. 
+Customer: I've tried restarting the modem and router, but no luck. DSL connection seems fine.
+Agent: Let me check on your account details to see what might be causing the issue.  Please allow a moment while I look into this.
+Customer: Thank you! 
+Agent: Your service has been activated, however we're currently experiencing high volume and some outages may be affecting connectivity.
+Customer: I've been a loyal customer for over five years, this is my first outage!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation of the outages, it's disappointing to experience my service down after such a long loyalty with your company.
+Sentiment: Negative

@@ -1,0 +1,18 @@
+Customer ID: 2737-WFVYW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is very slow and unstable lately.  It's frustrating since I rely on it for work. 
+Agent: I understand your frustration, I'm sorry to hear about your connectivity issues. Could you please tell me a little more about what you've been experiencing?
+Customer: Yes, the speeds are extremely low even with regular browsing. It seems to be happening mostly during peak hours.
+Agent: Thank you for sharing those details. Let me check your account and see if there are any outages in your area. 
+Customer: I appreciate that.  
+Agent:  I'm looking into it now, please allow me a few minutes. 
+Customer: Ok. Thanks.  
+Agent:  We found some potential network congestion in your area due to ongoing maintenance. We'll need to address this issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's good to know the issue is being addressed and I appreciate the update."
+Sentiment: Positive

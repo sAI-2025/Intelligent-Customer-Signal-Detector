@@ -1,0 +1,18 @@
+Customer ID: 8840-DQLGN
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having a lot of internet connection problems lately. It seems like it keeps disconnecting. 
+Agent: Hi there! I understand you're experiencing some issues with your internet connectivity.  Can you please tell me more about the frequency and duration of these disconnections?
+Customer: It's happening almost every hour, sometimes lasting several minutes.  It started after they upgraded our router last month.
+Agent: Thank you for providing that information. I want to assure you we are dedicated to ensuring your seamless internet experience. 
+Customer: What can be done about it?   I am on a month-to-month contract and pay $100.5 per month for fiber optic internet.  
+Agent: I'll definitely investigate this further. Let me take a look at your account details and see what options are available. 
+Customer: Thank you.
+Agent: Absolutely!  We may need to run some diagnostic tests on your network to determine the cause. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient process, I'm hopeful for a speedy resolution to my internet issues.
+Sentiment: Positive

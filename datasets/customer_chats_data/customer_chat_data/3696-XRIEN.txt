@@ -1,0 +1,23 @@
+Customer ID: 3696-XRIEN
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It keeps dropping and buffering.
+
+Agent: Hello! I understand you're experiencing issues with your DSL connection.  What is the exact issue you are facing? 
+
+Customer: The speed is slow and the connection keeps dropping.  I can barely watch a YouTube video.  
+
+Agent:  I apologize for the inconvenience. To help me diagnose this, could you please tell me your service address and your account number?  
+ 
+Customer: My service address is 123 Main St, and my account number is XXX-XXXXXXX.
+
+Agent: Thank you for providing that information. I'm checking on the speed of your connection now.  We will get this sorted out. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly!  It looks like the problem is fixed now, much appreciated.
+Sentiment: Positive

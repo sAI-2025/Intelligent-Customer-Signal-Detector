@@ -1,0 +1,22 @@
+Customer ID: 4701-AHWMW
+Topic: customer cannot access included music service
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I can't seem to access the music service. It says it's not available? 
+
+Agent:  I apologize for this inconvenience, I'd be happy to help. Could you please confirm your account details and your current internet connection type?
+
+Customer: Sure, my name is [Customer Name], I have DSL, and my monthly payment is $54.55. My account tenure is 55 months.
+
+Agent: Thank you for providing that information, [Customer Name].  I'm seeing a few potential issues with your access to the music service. 
+
+Customer: Okay, what can I do about it?
+
+Agent:  Our team is currently investigating the issue and will try to have it resolved within the next hour or so. We’ll send you an email once we have more information. 
+  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the update, although I'm still hoping for a quicker resolution."
+Sentiment: Neutral

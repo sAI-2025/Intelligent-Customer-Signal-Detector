@@ -1,0 +1,30 @@
+Customer ID: 4081-DYXAV
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet connection has been really slow lately. It seems to be dropping in and out a lot too.
+
+Agent:  I'm sorry to hear about your recent internet issues, I can help you with that! 
+
+Customer: Thanks for taking my call. Can we work on getting this fixed? 
+ 
+Agent: Absolutely. Please confirm your account number and service address, so I can check your account details.
+
+Customer: My account number is 1234567890 and my address is 123 Main Street, Anytown, USA.  
+
+Agent:  Thank you for providing that information. Let's get started on troubleshooting this issue!
+ 
+Customer: Great!
+ 
+Agent: I've checked your account and it looks like there might be a temporary network congestion issue affecting DSL users in your area.
+   
+Customer: Okay, thanks for letting me know about that!  Do you have any recommendations?
+
+Agent: We are working on resolving the problem.  We can also offer a special discount on your next month's bill if this keeps happening. Would you like to accept this? 
+
+Customer: Thanks
+
+----------------------------------------
+Feedback: The agent was helpful and informative, even with the network issue explanation. I appreciate the offered discount for future service.
+Sentiment: Positive

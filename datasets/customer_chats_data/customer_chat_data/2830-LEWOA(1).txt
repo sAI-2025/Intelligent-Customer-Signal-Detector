@@ -1,0 +1,20 @@
+Customer ID: 2830-LEWOA
+Topic: refund inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to inquire about a refund for my service. 
+Agent:  I understand you're looking for a refund. Can you please tell me your account number and a brief summary of why you're requesting it?
+Customer: My account number is 12345678, and I'm requesting a refund due to a technical issue that caused significant downtime. 
+Agent:  I see. Thank you for providing the details. Let me check the status of your request further. 
+Customer: Please let me know what steps are needed next.
+Agent: We will need to investigate this further. Once we have all the information, we can process a refund. 
+Customer: Ok, thank you.
+Agent: Thank you for contacting us.  
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and effort to help resolve this issue.
+Sentiment: Positive

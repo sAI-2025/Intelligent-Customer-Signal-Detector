@@ -1,0 +1,17 @@
+Customer ID: 0248-PGHBZ
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having a lot of trouble connecting to your network.  It's extremely slow and there is a lot of lag. 
+Agent: I understand you're experiencing high latency issues. Can you please provide your account information for me? 
+Customer: Sure, my name is Bob Miller, Account number [redacted].   My contract is two years old and I've been a customer for over 67 months.  I'm paying $92.45 per month. 
+Agent: Thank you, Bob. Based on your account details, let me check the status of your connection speed. 
+Customer: It's like I can barely watch Youtube! 
+Agent: I see a couple issues with your network speed and latency at the moment.  Let me run some diagnostics to diagnose the problem. 
+Customer: Alright, thank you very much. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this resolved quickly! Hopefully this gets fixed soon."
+Sentiment: Positive

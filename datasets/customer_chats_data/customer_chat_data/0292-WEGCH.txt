@@ -1,0 +1,17 @@
+Customer ID: 0292-WEGCH
+Topic: unexpected phone service charges
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just received my bill and it seems like there were some unexpected charges. 
+Agent:  I understand your concern. Can you please provide me with your account number so I can look into this for you?
+Customer: Sure, my account number is [account number].
+Agent: Thank you. Based on your monthly plan of $86.2, I can see that there were charges for long-distance calls and overage data usage. 
+Customer: Can I get those charges waived?  I haven't used any extra services lately.
+Agent:  Unfortunately, our policies state we cannot waive charges unless they are caused by technical errors. However, I can offer you a discount on your next bill to compensate for this unexpected billing. 
+Customer: Hmm, I'll consider it.  Thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining the charges but I'm still disappointed that waiving them wasn't possible.
+Sentiment: Negative

@@ -1,0 +1,24 @@
+Customer ID: 5204-QZXPU
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet at all! My service has been down since this morning. 
+
+Agent: Hello, I understand your internet is unavailable right now.  What's your account number and address?
+
+Customer: 123456789, 45 Oak St
+
+Agent: Thank you for providing that information. We're currently investigating the issue on your end. 
+
+Customer:  Can you give me an estimated timeframe when I can expect service to be restored? 
+
+Agent:  We are working quickly on resolving this issue and anticipate service to be back online within the hour. 
+
+Customer: Thanks, that helps. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update! It's good to know they're working hard to get my internet back.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7218-HKQFK
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with my upload speed. It seems to be significantly slower than what I was expecting. 
+Agent:  I understand your concern. Could you please provide me with your account information and the exact speeds you're seeing?
+Customer:  Sure, here it is. Account number [redacted] and I'm getting around 5Mbps upload speed when I should be at 100Mbps or more. 
+Agent: Thank you for that information.  I can certainly take a look into this. Let me check the network connection on your account.
+Customer: Okay, thanks. 
+Agent:  The fiber optic connection is working well, and based on our records, you should be seeing speeds around 100Mbps. 
+Customer: Wow, that's great to hear. My internet speed has been unusually slow lately. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for your help resolving my issue!  I really appreciate the quick response and solution.
+Sentiment: Positive

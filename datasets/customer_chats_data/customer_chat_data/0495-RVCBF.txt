@@ -1,0 +1,15 @@
+Customer ID: 0495-RVCBF
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, my internet is completely down and I can’t access any of my work emails. 
+Agent: Hello! I understand your internet connection is down.  Can you please provide your account information or service address?
+Customer: Sure, my name is John Miller, and my account number is 1234567890. My address is 123 Main Street.  
+Agent: Thank you for providing your details, Mr. Miller. I can see that your fiber optic service is currently experiencing an outage in your area. We’re working to get it back online as soon as possible. 
+Customer: When can I expect my internet to be back up and running? 
+Agent:  We are actively investigating the cause of the outage and anticipate restoring service within the next hour. We will keep you updated with any further information. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thank goodness the issue is being addressed, hopefully I'll get my internet back soon!"
+Sentiment: Positive

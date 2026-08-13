@@ -1,0 +1,17 @@
+Customer ID: 9242-TKFSV
+Topic: customer unhappy with service reliability
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet service has been down for the past 3 hours now.  I can't work and I'm behind on bills.  
+Agent: I understand your frustration, John. What is your account number?
+Customer: 12345678
+Agent: Thank you for providing that information, John. Let me check on the status of your service outage.
+Customer: This has been a recurring issue since we signed our contract two years ago. I'm paying $65/month and it hasn't been consistent. 
+Agent: I apologize for the inconvenience this has caused you, John.  We will look into your account and see what can be done to improve service reliability.
+Customer:  I just need a reliable internet connection for my job.  
+Agent: I understand, John. We are currently investigating the cause of your outage.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While I appreciate the investigation and timeline, it's disappointing that this issue has persisted for so long despite repeated billing for unreliable service.
+Sentiment: Negative

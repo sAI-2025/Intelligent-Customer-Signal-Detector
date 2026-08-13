@@ -1,0 +1,24 @@
+Customer ID: 4537-DKTAL
+Topic: high latency or ping during usage
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My internet connection is so slow! I can barely watch YouTube videos or stream music without buffering. 
+
+Agent:  I understand your frustration. We're currently experiencing high latency issues with DSL users in your area. Can you provide me with your account details?
+
+Customer: Sure, my email is [email address] and my account number is [account number].
+
+Agent: Thank you for providing that information. I will be checking on the status of your connection now. 
+
+Customer:  That's really frustrating! Is there anything I can do to speed things up?  
+
+Agent: You're experiencing high latency during peak hours, which affects all users in the area. We are working with our providers to resolve the issue as soon as possible.
+ 
+Customer: Okay, thanks for letting me know. Hopefully it gets fixed soon!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update on the internet issue; hopefully, things will get resolved quickly.
+Sentiment: Neutral

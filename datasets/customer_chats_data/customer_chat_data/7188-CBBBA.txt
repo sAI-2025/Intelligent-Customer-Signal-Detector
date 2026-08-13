@@ -1,0 +1,18 @@
+Customer ID: 7188-CBBBA
+Topic: mobile data disconnects frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my mobile data disconnecting frequently.  It's been happening almost constantly lately.
+Agent: Thank you for reaching out to us! I understand your concern about frequent disconnections. Can you please provide me with your account number or the name on the account? 
+Customer: My account number is 1234567890.  
+Agent:  I see that you have a one-year contract, and we're sorry to hear about this issue with your mobile data.
+Customer: It seems like I'm paying $95.5 per month for service that's not working properly.
+Agent: We can definitely look into this further. Could you please tell me what device you are using? 
+Customer:  My phone is an iPhone.
+Agent:  We're looking into your account now and will get back to you shortly. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's prompt response, but I still haven't resolved the issue with my mobile data despite their investigation.
+Sentiment: Negative

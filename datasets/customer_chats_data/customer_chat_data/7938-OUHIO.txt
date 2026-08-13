@@ -1,0 +1,24 @@
+Customer ID: 7938-OUHIO
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than what I expected. It's barely 5Mbps when it should be around 20-30. Is there anything you can do to help?
+
+Agent: Hi there! Thank you for reaching out.  I understand your concern about the slow upload speed. Can you please provide your account information so we can investigate further?
+
+Customer: Sure, my account name is "JohnDoe987" and my email address is johndoe@email.com 
+
+Agent: Thank you, John. I'm looking into this now. Just give me a moment while I check on the details. 
+
+Customer: Ok, thanks!
+
+Agent:  The fiber optic connection in your area seems to be experiencing some temporary issues. We are working to resolve them as quickly as possible. You can expect an upload speed of approximately 20-30 Mbps within the next hour.  
+   
+Customer: Thanks for letting me know.  I appreciate it!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for the update and quick resolution! I appreciate your help with getting my internet back to normal speed.
+Sentiment: Positive

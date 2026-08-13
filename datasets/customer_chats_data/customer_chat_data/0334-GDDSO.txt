@@ -1,0 +1,17 @@
+Customer ID: 0334-GDDSO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I need help with my Wi-Fi signal. It seems weak in certain rooms of my house. 
+Agent:  I understand your concern, I'm happy to assist you.  Could you tell me the specific room and some details about the issue?
+Customer: Well, it’s mostly the guest bedroom. Sometimes, I get a drop-off for internet. 
+Agent:  Thanks. We can check if there are any issues with your router placement or other network connections. 
+Customer: Okay. Thanks for looking into this!
+Agent: No problem.  I'm checking on that right now.  Let me know what I find. 
+Customer: Thank you, I appreciate your help.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for quickly helping me with the Wi-Fi! It seems much better now."
+Sentiment: Positive

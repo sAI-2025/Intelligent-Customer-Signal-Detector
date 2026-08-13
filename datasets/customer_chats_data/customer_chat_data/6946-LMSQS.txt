@@ -1,0 +1,20 @@
+Customer ID: 6946-LMSQS
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having a problem with my internet connection. It keeps disconnecting frequently.
+Agent:  I understand your frustration, Ma'am. Could you please provide your account information so I can look into this further? 
+Customer: Sure, my name is Eleanor and my account number is XXX-XXXXXXX.  
+Agent: Thank you, Ms. Eleanor. Let me check on your service status and internet connection history. 
+Customer: My internet has been down for the last two hours.
+Agent:  I've located a few reports of similar issues affecting your area. We are working on a resolution, Ma'am. 
+Customer: Well, that's just frustrating! 
+Agent:  I apologize for any inconvenience this may cause. I will update you as soon as we have an estimated time frame for the service restoration. 
+Customer: Thank you.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and kept me updated, but it's still frustrating to experience a two-hour internet outage with no real resolution timeframe yet.
+Sentiment: Negative

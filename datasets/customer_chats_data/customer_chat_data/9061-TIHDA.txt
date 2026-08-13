@@ -1,0 +1,23 @@
+Customer ID: 9061-TIHDA
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is very slow and keeps dropping out.  It's been happening all afternoon. 
+
+Agent: I understand your frustration. I'm sorry to hear about the connectivity issues. Can you please provide me with your account information or any error codes?
+
+Customer: It's my name, [customer name] and my account number is [account number].  I also get a "Network Not Available" message on my computer monitor 
+
+Agent: I see what you mean. Let me check our logs for your account. 
+
+Customer: Thank you!
+ 
+Agent:  The outage in your area appears to be caused by a temporary fiber line issue. We're working with it and will have the connection restored shortly. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the outage, I appreciate the update!
+Sentiment: Positive

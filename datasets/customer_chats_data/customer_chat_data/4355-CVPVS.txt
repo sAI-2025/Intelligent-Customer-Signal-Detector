@@ -1,0 +1,28 @@
+Customer ID: 4355-CVPVS
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my Wi-Fi signal is very weak in the living room and bedroom lately.
+
+Agent: Thank you for contacting us!  I'd be happy to help troubleshoot this issue. 
+
+Customer: I’ve restarted my modem a couple of times already, but nothing seems to work.
+
+Agent: Could you please tell me your internet plan and what kind of devices are connected?
+
+
+Customer: It is the basic fiber plan, and there are two computers, two phones, and a smart TV all plugged into it. 
+
+Agent: Alright, thanks for that information.  I'm going to send some troubleshooting steps over to you. 
+
+Customer: Great, I appreciate it.  
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The troubleshooting steps seemed helpful and hopefully will resolve the issue."
+Sentiment: Positive

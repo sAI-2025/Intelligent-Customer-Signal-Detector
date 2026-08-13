@@ -1,0 +1,17 @@
+Customer ID: 6328-ZPBGN
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is super slow today.  Ping is high. 
+Agent: I understand you're experiencing slow speeds and high latency. May I ask your account number?
+Customer: 1234567890 
+Agent: Thank you, John. Let me check the status of your connection.
+Customer: This has been going on for hours!  What can be done to speed it up? 
+Agent: We're looking into the issue now and will let you know when we have an update.
+Customer: Okay, thanks.
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: It took a while for someone to acknowledge my problem and provide an estimated resolution time.
+Sentiment: Negative

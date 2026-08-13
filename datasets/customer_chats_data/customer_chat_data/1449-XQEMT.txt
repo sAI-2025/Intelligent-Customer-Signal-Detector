@@ -1,0 +1,17 @@
+Customer ID: 1449-XQEMT
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet connection is really slow and unstable. 
+Agent:  I understand you're having trouble with your internet speed and connection stability. Can you tell me a little more about what's happening? 
+Customer: I can barely stream anything. The speeds are consistently under 10 Mbps. 
+Agent:  I see, let's take a look at your account details. What is your current service plan? 
+Customer: It's the basic plan for $19.8 per month. 
+Agent: I apologize for the inconvenience. We're currently experiencing some network issues that might be causing these problems.  We'll get this sorted out for you shortly.   
+Customer: Thank you. 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The resolution is appreciated, thanks for letting me know about the network issues."
+Sentiment: Neutral

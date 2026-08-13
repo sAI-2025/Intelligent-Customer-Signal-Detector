@@ -1,0 +1,18 @@
+Customer ID: 0787-LHDYT
+Topic: customer wants to upgrade music service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I was hoping to upgrade my music service today.  
+Agent: Hello! Thank you for reaching out. Can you tell me what kind of plan you're interested in? 
+Customer: I'd like the premium plan with unlimited downloads and offline listening.
+Agent: Absolutely, we can definitely do that. It will be an increase in price to $35 per month, but it will provide you with all the features you've mentioned and more!  
+Customer: Okay, sounds good. 
+Agent: Just a quick question – are you currently on a month-to-month contract?
+Customer: Yes, I am.
+Agent: Great, we can process your upgrade right now! 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient with the upgrade process!
+Sentiment: Positive

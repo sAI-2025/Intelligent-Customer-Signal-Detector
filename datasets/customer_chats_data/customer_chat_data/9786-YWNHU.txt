@@ -1,0 +1,19 @@
+Customer ID: 9786-YWNHU
+Topic: referral discount not applied
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just want to make sure I’ve been credited with my referral discount. 
+Agent: Hi there!  I'd be happy to help with that.  Can you please provide your account number?
+Customer: 1234567890
+Agent: Thank you! Let me check on your account history. 
+Customer: I’m a long-time customer, been here for almost 7 years and I've always paid on time. 
+Agent:  I see that you have been with us for six and a half years. 
+Customer: I just want to make sure the discount was applied. 
+Agent:  A referral discount can sometimes take a little while to process, especially if there are changes in your plan details. 
+Customer: Oh, okay thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for clarifying; I appreciate the explanation about processing times."
+Sentiment: Positive

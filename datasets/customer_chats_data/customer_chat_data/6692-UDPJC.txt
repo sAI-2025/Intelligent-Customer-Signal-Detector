@@ -1,0 +1,28 @@
+Customer ID: 6692-UDPJC
+Topic: customer wants to upgrade internet speed
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'd like to upgrade my internet speed.  Is that possible? 
+
+Agent:  Hi there!  Absolutely, we can help with that. What kind of speed increase are you looking for?
+
+Customer:  I was thinking about upgrading from the 100 Mbps speed to something a bit faster, maybe 250 Mbps or higher. 
+
+Agent:  Okay, I see you're on our fiber optic plan and have been with us for over a year. We do offer upgrades! Let me check the availability in your area.
+
+Customer: Thank you!
+ 
+Agent:  We've got options for you!  How about 250 Mbps?
+
+Customer: Yes, that sounds good!
+
+Agent:  Awesome, we can upgrade you to 250 Mbps and adjust your bill accordingly. Would you like me to proceed with the change?
+
+Customer: Yes please.
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm very happy with the quick and easy upgrade process!  Thanks for the smooth experience.
+Sentiment: Positive

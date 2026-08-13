@@ -1,0 +1,19 @@
+Customer ID: 3719-TDVQB
+Topic: customer asks about downgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I need to downgrade my plan. My contract is two years old and I don't use the internet anymore. 
+Agent:  Of course! We can definitely help you with that. What type of plan are you currently on? 
+Customer: No internet package, it's just TV only. It was $18.95/month.
+Agent: I see, and your current plan has been $18.95 for two years now. 
+Customer: So, can you help me downgrade my cost to the cheapest? 
+Agent:  Absolutely, we do have a number of plans available under our TV only service. How about switching to one of those with no internet?
+Customer: Okay, I'll take that. Thank you! 
+Agent: You're welcome! We can get this done for you in just a moment. 
+Customer:  Okay 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and easy! The agent was helpful and got me the cheapest plan I needed. 😊
+Sentiment: Positive

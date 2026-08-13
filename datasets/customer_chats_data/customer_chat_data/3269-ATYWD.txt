@@ -1,0 +1,19 @@
+Customer ID: 3269-ATYWD
+Topic: customer wants to upgrade service plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'd like to upgrade my service plan.
+Agent: Hello! Thank you for contacting us.  I understand you're looking to upgrade your service plan. 
+Customer: Yes, I'm currently on the $95.65 plan and would like a faster speed option.
+Agent: Absolutely! Can you please provide me with your account details?
+Customer: Sure. My name is [customer name], and my account number is [account number].
+Agent: Thank you for that information, [customer name]. I can see your current plan. 
+Agent: Let me show you our upgraded plans. Would the $120 per month plan with faster internet speed interest you?
+Customer: Yes, I think so.
+Agent: Great!  I'll process the upgrade for you.  Please let me know if there are any other questions or concerns. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, making the service plan upgrade process a breeze.
+Sentiment: Positive

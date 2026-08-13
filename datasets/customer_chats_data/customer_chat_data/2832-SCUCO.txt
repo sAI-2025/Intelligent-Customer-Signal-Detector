@@ -1,0 +1,17 @@
+Customer ID: 2832-SCUCO
+Topic: incoming calls not connecting
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting my calls through.  
+Agent: I'd be happy to help troubleshoot this! Could you please provide your account number? 
+Customer: Sure, it's [Account Number]. 
+Agent: Thank you. I see there might be a problem with the connection on your end. 
+Customer: Can you tell me what's going on and how long I should expect to wait for service to be restored?
+Agent:  We are currently working on resolving this issue. We will contact you as soon as it is resolved.
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the update and will keep an eye out for news about my service restoration!
+Sentiment: Positive

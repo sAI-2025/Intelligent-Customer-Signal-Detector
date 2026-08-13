@@ -1,0 +1,15 @@
+Customer ID: 3653-NCRDJ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the Wi-Fi in certain rooms of my house. 
+Agent:  I understand your concern! Can you please tell me which rooms are experiencing the weak signal and what devices you're using? 
+Customer: It's mostly the bedrooms and living room. My laptop and phone seem to struggle, but it works fine in the kitchen. 
+Agent: I'll ask our network team to check the signal strength there. Would you mind checking your router settings just to make sure everything is configured correctly? 
+Customer: Thanks! 
+Agent:  No problem. We may be able to resolve this issue quickly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and I'm hopeful the signal issues will be resolved soon!
+Sentiment: Positive

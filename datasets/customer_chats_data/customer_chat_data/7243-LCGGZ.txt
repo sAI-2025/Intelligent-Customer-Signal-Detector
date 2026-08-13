@@ -1,0 +1,17 @@
+Customer ID: 7243-LCGGZ
+Topic: network becomes slow during peak hours
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I need help my internet is super slow during peak hours. 
+Agent: Hello! I understand that you're experiencing slow speeds during peak times.  
+Customer: Thanks, it was fine before today but now when I use the network during evening traffic it’s like a snail race.
+Agent:  I apologize for the inconvenience. Can you please tell me your account details or your current location? 
+Customer: Sure, my account number is 1234567890 and I am in London, UK. 
+Agent:  Okay, thanks! Let's check on that. 
+Customer: Thank you
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a helpful experience, although it would be nice to have an idea of what caused the slow internet speeds during peak hours.
+Sentiment: Neutral

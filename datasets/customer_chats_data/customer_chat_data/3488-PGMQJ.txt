@@ -1,0 +1,24 @@
+Customer ID: 3488-PGMQJ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is super slow today. I can barely watch videos or load websites. 
+
+Agent:  I understand your frustration with the slow connection, I'm sorry to hear that. Could you please provide me with your account details?  
+
+Customer: Sure, my name is John Smith, and my account number is 1234567890. 
+
+Agent: Thanks for that information, John.  I’d be happy to help troubleshoot the connection. Is this issue happening on all devices or just one specific one?  
+ 
+Customer: It seems to be impacting everything. Even my smart TV is slow. 
+
+Agent: Ok, I see. Let me check your account for any reported issues from other users in your area.
+
+Customer: Thank you.
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** The agent was very helpful and efficient in addressing my internet issues.
+Sentiment: Positive

@@ -1,0 +1,19 @@
+Customer ID: 9029-FEGVJ
+Topic: customer wants to apply an available offer
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I want to apply an offer for my plan. 
+Agent: Certainly! May I confirm your account details, please?
+Customer: Yes, it's [account number].  It's a month-to-month contract. I pay $79.30 per month for Fiber optic internet. I've been with the company for 32 months. 
+Agent: Thank you for that information. We have an offer available for your plan, it may benefit you depending on your needs.
+Customer:  Great!  Can you tell me what the details are?  
+Agent:  Of course. The offer provides [Offer description]. Would you like to know more about it? 
+Customer: Yes, please.
+Agent: [Details of offer, including possible savings] Would you like me to apply this offer? 
+Customer: Thank you. I'd like that done! 
+Agent:  No problem at all. We will process your change and update your payment plan accordingly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a very helpful and smooth experience, thanks to the agent's clear explanation of the offer!
+Sentiment: Positive

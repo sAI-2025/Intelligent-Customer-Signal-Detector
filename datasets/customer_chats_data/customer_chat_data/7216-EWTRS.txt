@@ -1,0 +1,22 @@
+Customer ID: 7216-EWTRS
+Topic: playlist fails to load
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble loading my playlist on your website. 
+
+Agent:  I understand. Can you please tell me which device and internet connection you're using?
+
+Customer: My computer is connected to Fiber optic internet via a laptop. 
+
+Agent: Thank you for the info. Have you tried restarting your browser or clearing the cache? 
+
+Customer: I did that, but it still doesn't work.   
+
+Agent:  I see. Let me check on this issue and get back to you shortly.
+  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for helping!  It seems like the problem persisted despite clearing my cache.
+Sentiment: Neutral

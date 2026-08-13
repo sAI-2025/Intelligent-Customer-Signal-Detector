@@ -1,0 +1,20 @@
+Customer ID: 8861-HGGKB
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is so slow today, it’s barely functional. I'm paying for a 100 Mbps plan but it feels like 5.
+
+Agent:  I understand you are having trouble with your internet speeds. Can you please provide your account information or the order number?
+
+Customer: Sure, my account info is [account details].  I've been on this plan since last October and I’m pretty frustrated.
+
+Agent: Thank you for providing that information. Based on what you've told me, we'll need to investigate further. 
+
+Customer: Okay.
+
+Agent: We'll look into the issue with your download speeds and try to resolve it as quickly as possible.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's willingness to look into this, hopefully I'll see a noticeable improvement soon.
+Sentiment: Neutral

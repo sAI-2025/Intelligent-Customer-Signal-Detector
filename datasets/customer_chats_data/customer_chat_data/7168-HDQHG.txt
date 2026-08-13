@@ -1,0 +1,24 @@
+Customer ID: 7168-HDQHG
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is incredibly slow. I am currently subscribed to a 50 Mbps plan but it feels like I'm barely getting 10.  What can be done?
+
+Agent: Hello! Thank you for contacting us. I understand your concern regarding the slower-than-expected download speeds. 
+
+Customer: I started my month-to-month contract 36 months ago, and I am paying $19.2 per month. Is there a reason for this slow speed?
+
+Agent:  Let me take a look at your account details. Could you please verify your account information and the location of your modem/router? 
+ 
+Customer: My modem/router are both connected to the same Wi-Fi network, my address is [address], and my account number is [account number].
+
+Agent: I see your account details.  I'm checking into this right now. We do have a technical issue with some customers experiencing slower speeds in your area. 
+ 
+Customer: Okay.  When can I expect my internet to be back to normal speed? 
+
+Agent: Thank you for contacting us.  We are working on fixing the issue and hope to have your
+
+----------------------------------------
+Feedback: Feedback: This is a frustrating situation, but thank you for keeping me updated.
+Sentiment: Negative

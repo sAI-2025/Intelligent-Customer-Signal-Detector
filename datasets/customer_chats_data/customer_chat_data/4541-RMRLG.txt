@@ -1,0 +1,23 @@
+Customer ID: 4541-RMRLG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down!  I can’t connect to anything. 
+
+Agent: I understand there may be a service interruption. Can you please provide your account number and address for verification?
+
+Customer: Sure, my account number is 1234567890, and I live at 123 Main Street. 
+
+Agent: Thank you for that information.  I'm checking the status of your internet connection. Please wait a moment while we investigate further.
+
+Customer: Ok. Thanks!  
+
+Agent: We're working on this now. It may take some time to resolve, but I'll keep you updated. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated, the service seems to be back up!"
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 6686-YPGHK
+Topic: songs take too long to load
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with song playback on my streaming service. The songs take way too long to load. 
+Agent:  I understand your frustration, let me check your account details for you.
+Customer: Sure, I have a fiber optic internet plan. My monthly price is $85.50 and I've been a customer for 47 months. 
+Agent: Okay, thank you. Let me take a look at the connection speed.  I’m seeing that your download speeds are slightly below average. 
+Customer: So what should I do?
+Agent: We can get you on the right track with some troubleshooting steps or we may need to upgrade your plan. 
+Customer: Maybe a faster internet plan would be best. 
+Agent:  I’m happy to help with that, let me check our available plans and options for you.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The solution was helpful, but the slow loading speeds were frustrating."
+Sentiment: Negative

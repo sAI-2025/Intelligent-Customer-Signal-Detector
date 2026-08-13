@@ -1,0 +1,16 @@
+Customer ID: 8610-WFCJF
+Topic: music streaming quality is poor
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi!  I was hoping to get some help with my music streaming quality lately. 
+Agent: Hello! What's causing your concern? 
+Customer: It's been choppy and I have very strong internet connection via Fiber.
+Agent: I understand. Could you tell me what kind of device and plan you are using for streaming?
+Customer: My phone, my Apple TV 4K and the monthly plan is $95.6 per month.
+Agent: Thank you. We'll look into this issue right away and get it resolved by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly!  I appreciate the prompt action and hope the quality improves soon.
+Sentiment: Positive

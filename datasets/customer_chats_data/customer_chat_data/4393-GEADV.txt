@@ -1,0 +1,19 @@
+Customer ID: 4393-GEADV
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My internet connection has been very slow and unstable lately. It's making it impossible to work from home.
+Agent:  Hello! I understand your frustration with the poor connectivity.  Can you please provide me with your account information or your address so I can look into this further? 
+Customer: Sure, my name is John Doe. My account number is 12345678 and my address is [John Doe's Address].  
+Agent: Thank you, John.  I see you have a Fiber optic plan with us.   Let me check the network status for your area...
+Customer: Okay, thanks!  
+Agent:  I've reviewed your account, there are no reported outages in your region.  Could you tell me what device and internet browser you're using? 
+Customer: I'm using my laptop with Chrome. 
+Agent: Okay, John.   Let me run some diagnostic tests...
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and professional in getting to the bottom of the issue.
+Sentiment: Positive

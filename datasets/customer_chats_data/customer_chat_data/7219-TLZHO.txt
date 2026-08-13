@@ -1,0 +1,16 @@
+Customer ID: 7219-TLZHO
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having a lot of internet disconnections lately.
+Agent: Hello! My name is Alex, how can I assist you today? 
+Customer:  It's been happening for the last couple of weeks and it's really disruptive to my work.
+Agent:  I understand that's frustrating. Can you please tell me a bit more about what's happening? For example, when does this typically occur and is there a specific device or activity that seems to trigger these disconnections? 
+Customer: Mostly in the evening after 8pm. And it happens during video calls with my clients.  
+Agent: Thank you for sharing that information. We will definitely investigate this further. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful to know they're taking steps to address this issue, hopefully a resolution is reached soon."
+Sentiment: Neutral

@@ -1,0 +1,20 @@
+Customer ID: 5393-RXQSZ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much lower than expected. I was expecting speeds closer to 100 Mbps, but I’m only getting around 30 Mbps.  
+
+Agent: I understand your concern. Can you please provide me with your account information and the specific location where you are experiencing this issue?
+
+Customer: Sure, my account details are [redacted].  I'm located in San Francisco.  
+ 
+Agent: Thank you for providing that information.  Let me check on the status of your connection. I am seeing some latency issues in the area.  It looks like we might need to send a technician to diagnose and fix any underlying issues.
+
+Customer: Okay, thanks.  I look forward to hearing from you. 
+
+Agent: I will be reaching out to schedule an appointment with you. We'll do our best to get your upload speeds back up to the speed tier you’re subscribed to. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into this and scheduling a technician visit!  I appreciate your help getting my internet fixed.
+Sentiment: Positive

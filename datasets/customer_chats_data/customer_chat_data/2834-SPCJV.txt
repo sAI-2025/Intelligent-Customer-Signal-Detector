@@ -1,0 +1,23 @@
+Customer ID: 2834-SPCJV
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble connecting to Wi-Fi in my living room.  The signal just isn’t strong enough. 
+
+Agent: Thank you for contacting us!  I understand you're experiencing weak Wi-Fi in your living room. May I ask what type of device you are using?
+
+Customer: It’s my laptop, a MacBook Pro. 
+
+Agent: Could you please provide me with your account number and the name on the account?
+
+Customer: My account number is XXXXXXXXXX and the name is John Smith.
+
+Agent: Thank you for providing that information! I can take a look into this issue for you.  
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful, but would have been more helpful if they had a solution or plan to resolve the problem immediately.
+Sentiment: Neutral

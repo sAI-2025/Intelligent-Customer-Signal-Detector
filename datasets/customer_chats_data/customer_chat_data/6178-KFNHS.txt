@@ -1,0 +1,24 @@
+Customer ID: 6178-KFNHS
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble streaming movies lately. My ping is really high and it’s frustrating. 
+
+Agent:  I'm sorry to hear that! Can you please tell me what your internet plan is and what device you're using?
+
+Customer: It's the fiber optic package, $78.3 per month, a standard plan. I'm using my gaming PC. 
+
+Agent: Okay, thanks for that info. Have you checked if any other devices are using your bandwidth or network? 
+
+Customer:  I’ve cleared all caches and restarted the router. No change. 
+
+Agent: We can check on your connection speeds. Is there a specific website or application causing this issue?
+
+Customer: Mostly Netflix, but sometimes even Twitch. It's just inconsistent. 
+  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, I still haven't been able to solve the problem. Hopefully a more detailed troubleshooting will help."
+Sentiment: Neutral

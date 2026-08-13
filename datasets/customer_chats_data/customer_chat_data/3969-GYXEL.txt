@@ -1,0 +1,20 @@
+Customer ID: 3969-GYXEL
+Topic: customer wants to upgrade TV package
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to upgrade my TV package. Can you walk me through the options?
+Agent: Certainly!  What kind of content are you interested in watching most? 
+Customer: Sports and some movies. 
+Agent: Okay, we have a few packages that would be suitable for you. Let me show you the options...
+Customer: Great, thanks!
+Agent:  You can explore those here. Would you like to proceed with upgrading now or would you prefer to discuss further?
+Customer:  Let's see what you recommend. 
+Agent: Based on your current package and internet plan, our most cost-effective upgrade is the Sports & Entertainment package for $99/month.
+Customer: Okay, sounds good! Can I sign up online? 
+Agent: Yes, absolutely! We can do that with a few clicks through our website.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in recommending the right TV package for me.
+Sentiment: Positive

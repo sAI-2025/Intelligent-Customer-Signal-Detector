@@ -1,0 +1,20 @@
+Customer ID: 0813-TAXXS
+Topic: songs stop unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there! My internet keeps cutting out randomly while I'm listening to music. 
+
+Agent:  I understand your frustration. Could you please tell me what type of device and plan you have?
+
+Customer:  It's on my Roku TV and I have the $77.8 per month service with DSL internet.
+
+Agent:   Thank you for that information. We'll look into this issue to see if there are any technical issues affecting your connection. 
+
+Customer:  Okay, thanks. I hope it gets fixed soon!
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly, and hopefully this will be sorted out soon!"
+Sentiment: Positive

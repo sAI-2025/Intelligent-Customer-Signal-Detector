@@ -1,0 +1,17 @@
+Customer ID: 2108-XWMPY
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet connection. It keeps slowing down and dropping in and out. 
+Agent:  I apologize for the inconvenience. To help me troubleshoot this issue, could you please tell me your account number or email address? 
+Customer: My account number is XYZ12345.
+Agent: Thank you, XYZ12345. Can you tell me a little more about where this issue is occurring? Is it just the speed or is it dropping in and out entirely?
+Customer:  It's both. The speed has been slow for a while, but now it's completely dropping out every few minutes. 
+Agent: Okay, I see that you have DSL internet service. Please try restarting your modem and router, if possible, and let me know if the issue persists after doing so.
+Customer:  Okay, I will try that. Thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a helpful process, but I'm still experiencing slow speeds and frequent dropouts even after restarting my modem/router.
+Sentiment: Negative

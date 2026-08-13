@@ -1,0 +1,25 @@
+Customer ID: 1423-BMPBQ
+Topic: high-speed data appears to be throttled
+Customer Status: Joined         
+----------------------------------------
+
+Customer: My internet speed is very slow and I can barely get on websites. Is there a problem? 
+
+Agent:  I understand your concern! We want to ensure your connection stays strong.  Can you please provide your account number?
+
+Customer: Sure, it's [Account Number].
+
+Agent: Thank you. I'm checking the details of your plan and speed.  I see there may be some data throttling for now. 
+
+Customer: Really? What can we do about it?
+
+Agent: We'll investigate this further and get you back up to full speed. 
+   
+Customer: Thanks!
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for your help getting my internet back on track!
+Sentiment: Positive

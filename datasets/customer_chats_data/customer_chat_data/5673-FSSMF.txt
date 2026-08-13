@@ -1,0 +1,17 @@
+Customer ID: 5673-FSSMF
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey I'm having trouble connecting to the internet, it's completely down. 
+Agent:  I understand you're having an issue with your DSL connection. Can you please provide me with your account details so I can look into this further? 
+Customer: Sure, my name is [customer name], and my account number is [account number].
+Agent: Thank you for providing that information. Let me check the system status...
+Customer: Thanks! Is there anything else I should know?
+Agent:  There isn't anything on our end regarding your account but we are experiencing a temporary outage affecting all customers in your area at the moment. 
+Customer: Okay, thanks for letting me know.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! I appreciate that you let me know about the outage."
+Sentiment: Positive

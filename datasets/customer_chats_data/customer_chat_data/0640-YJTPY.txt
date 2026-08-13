@@ -1,0 +1,17 @@
+Customer ID: 0640-YJTPY
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My ping is so high, I can't even load websites!
+Agent: I understand your frustration.  I'd be happy to help troubleshoot this issue. 
+Customer: Thanks! What should I do? 
+Agent: To start, please provide your account number and the specific device you are using. 
+Customer: Here it is. Thanks! 
+Agent: Thank you for providing that information. We’ll look into this right away. 
+Customer: Thanks again. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and I feel much more hopeful about getting my connection issues resolved now.
+Sentiment: Positive

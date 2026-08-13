@@ -1,0 +1,18 @@
+Customer ID: 1624-WOIWJ
+Topic: streaming device disconnects repeatedly
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having trouble connecting to my streaming device. It keeps disconnecting repeatedly.
+Agent:  I understand your frustration, let me get started with troubleshooting. Can you please tell me what device and operating system are you using? 
+Customer: Samsung Smart TV running Android TV. 
+Agent: Okay, thanks. Let's try restarting your streaming device and router. 
+Customer: Done that, but the problem persists.  
+Agent: I see a few reports regarding this in our system for Fiber users. Did you happen to update any software or apps recently?
+Customer: No. 
+Agent:  Alright, let me check on the fiber connection. Please hold.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the troubleshooting steps were helpful, I'm still having intermittent connectivity issues."
+Sentiment: Negative

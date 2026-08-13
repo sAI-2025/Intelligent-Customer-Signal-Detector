@@ -1,0 +1,17 @@
+Customer ID: 6298-QDFNH
+Topic: damaged network equipment
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm experiencing intermittent internet outages and poor speeds.  I think my router might be damaged. 
+Agent: We understand your frustration with the issues you're facing. Can you please provide your account details or order number? 
+Customer: Sure, it's [Account Number] and my name is [Name]. 
+Agent: Thank you for providing that information. Let me check on the status of your router and see if we can help get things back to normal. 
+Customer:  Would you mind checking if there are any scheduled maintenance activities happening near my location?
+Agent: I'll be happy to look into that for you. Let me know what else I can assist you with. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help, I appreciate the quick response and effort to diagnose the issue!"
+Sentiment: Positive

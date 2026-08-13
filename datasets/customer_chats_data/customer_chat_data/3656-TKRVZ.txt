@@ -1,0 +1,18 @@
+Customer ID: 3656-TKRVZ
+Topic: customer wants to change contract type
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'd like to change my contract type from month-to-month to a longer-term one. 
+Agent:  Absolutely! May I confirm your account details and what contract term you're interested in?
+Customer: My account is [account number], and I'm looking for a [contract length] plan. 
+Agent:  We have several options available, including [mention contract plans]. What's the specific price range you were considering? 
+Customer: Around $75-$80. 
+Agent:  Great! The [plan name] option at $75 would meet your requirements. Would that work for you?
+Customer: Yes, that's perfect. 
+Agent:  Fantastic! I've updated your account with the new contract and will send confirmation shortly. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Quick and easy process, thanks!"
+Sentiment: Positive

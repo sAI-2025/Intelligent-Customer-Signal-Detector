@@ -1,0 +1,15 @@
+Customer ID: 0023-XUOPT
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm experiencing frequent internet disconnections. My speeds are also very slow lately. 
+Agent:  I understand you're having trouble with your internet connection, Sarah.  Can you please tell me what specific times you're experiencing these issues?
+Customer: It seems to be happening mostly during the evening hours and weekends. I don't have any problems during the daytime.
+Agent: Thank you for that information. I can check our system logs and see if there are any outages reported in your area, or if there's anything else we can do to help. 
+Customer:  I hope so! It's been frustrating to say the least. 
+Agent: We appreciate your patience.  We will look into this for you. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopeful that the issue will be resolved soon, thanks!"
+Sentiment: Positive

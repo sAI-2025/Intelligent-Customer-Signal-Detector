@@ -1,0 +1,27 @@
+Customer ID: 9880-TDQAC
+Topic: customer asks about upgrade pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm looking to upgrade my internet service and was hoping to get some pricing information. 
+
+Agent:  Certainly! May I ask what kind of upgrades you're interested in?
+
+Customer:  I'd like to switch from DSL to fiber optic.
+
+Agent:  Of course! Fiber optic plans are available, and we have a special introductory rate for those upgrading from DSL with a two-year contract. 
+
+Customer: How much does it cost?
+
+Agent: The monthly fee would be $105. 
+
+Customer: Hmm, that's a bit expensive.  How about the standard rate? 
+
+Agent: In that case, we have a $90 plan with speeds comparable to fiber optic, and you'd need to renew your contract before this promotion ends.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful in explaining the options, the price point for fiber optic feels too high compared to other providers in my area.
+Sentiment: Negative

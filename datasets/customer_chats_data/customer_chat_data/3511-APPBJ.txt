@@ -1,0 +1,17 @@
+Customer ID: 3511-APPBJ
+Topic: internet service interruption after payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is down and I haven't received any notification about service interruptions.  
+Agent: We apologize for the inconvenience. Can you please confirm your account number and address? 
+Customer: [Account Number] is [Account Address]. 
+Agent: Thank you. Let me check on your Fiber optic connection, it appears there might be an issue with your billing. It was a recent payment, was everything paid off?
+Customer: Yes, I paid for the full month yesterday.  
+Agent: We have just confirmed your payment and will now investigate further. 
+Customer: Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting to the bottom of this!  It was frustrating not knowing why my internet went down.
+Sentiment: Positive

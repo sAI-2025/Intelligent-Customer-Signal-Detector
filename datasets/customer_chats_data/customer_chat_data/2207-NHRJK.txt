@@ -1,0 +1,17 @@
+Customer ID: 2207-NHRJK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet has been super slow lately, especially during peak hours.  It's almost unusable. 
+Agent: I understand your frustration with the slow internet speeds. Can you please tell me what device and how you are using the internet?
+Customer: It's my laptop, but it's pretty much the same on my phone too. 
+Agent: Thank you for that information.  We apologize for the inconvenience this is causing. 
+Customer: I really need to be able to work from home.   
+Agent:  I will check your connection and see what we can do to help.  
+Customer: Thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent seemed helpful, it's still frustrating that my internet hasn't been reliable enough to work from home.
+Sentiment: Neutral

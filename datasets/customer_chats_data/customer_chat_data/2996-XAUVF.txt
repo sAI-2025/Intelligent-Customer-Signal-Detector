@@ -1,0 +1,19 @@
+Customer ID: 2996-XAUVF
+Topic: customer wants cheaper service options
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was hoping to explore cheaper service options on my plan. 
+Agent:  Hello! I understand you're looking to save some money on your monthly bill. 
+Customer:  I've been with the company for seven years now and currently pay $40.05 per month. My internet is DSL, and it's starting to feel like a lot.
+Agent: We offer several different plans, including options with faster speeds for less than your current plan. 
+Customer:  That would be great! I'd love to find something that matches my needs but also fits within my budget.
+Agent: Let me check our plans and see what we can offer you. What is the speed of your internet currently? 
+Customer: It's DSL, it's fairly slow for streaming movies and video calls.
+Agent: I found a plan with a faster speed for $25 per month.  Would that interest you?
+Customer: Wow! That sounds incredible. Thank you so much for your help. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was an absolute lifesaver, thanks so much for helping me find a better plan! 😊
+Sentiment: Positive

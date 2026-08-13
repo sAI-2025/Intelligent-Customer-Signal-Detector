@@ -1,0 +1,17 @@
+Customer ID: 5533-NHFRF
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet at my home. 
+Agent: Hello!  I understand you're experiencing slow connection speeds. What is your full name and address? 
+Customer: My name is John Smith, and my address is 123 Main Street.
+Agent: Thank you, John. I have a record of your account here. Can you please tell me what specific issues you are having?  
+Customer: It's really slow. Videos aren't loading properly, emails are taking forever to send.  I just want to get back online! 
+Agent: I apologize for the inconvenience. We can take a look at your account details and see if there's anything we can do to improve your internet connection.   
+Customer: Thanks. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Finally got connected, thanks for the help!  😊"
+Sentiment: Positive

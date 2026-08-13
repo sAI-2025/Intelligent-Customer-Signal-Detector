@@ -1,0 +1,22 @@
+Customer ID: 4633-MKHYU
+Topic: songs stop unexpectedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet keeps cutting out. I was watching a video and it just stopped! 
+
+Agent:  I understand your frustration, I'd be happy to help troubleshoot this issue. Can you please provide me with your account details, such as the email address or the name associated with your account?
+
+Customer: Sure, my email is john.doe@email.com. 
+ 
+Agent: Thank you for that information.  Based on your recent activity, it appears there's a temporary network interruption affecting your service in the area. We are working to resolve this issue as quickly as possible.
+ 
+Customer: When can I expect things to be back to normal?
+
+Agent: We should have everything back up and running within the next hour or so.  We apologize for any inconvenience this may have caused.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me, I appreciate the quick update and hopefully things will be back to normal soon!
+Sentiment: Positive

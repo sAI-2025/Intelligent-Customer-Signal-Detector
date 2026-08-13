@@ -1,0 +1,17 @@
+Customer ID: 1518-VOWAV
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I just wanted to report my internet connection has been really slow and unstable lately. 
+Agent:  Hello there, thanks for reaching out! Can you tell me a little more about what you're experiencing? 
+Customer: Mostly lag when streaming video and downloading files. It's been going on for about the past two weeks.
+Agent: Okay, I understand.  What is your account information?
+Customer: It's [Account Name], month-to-month, and $74.65 per month with DSL service. 
+Agent: We apologize for the disruption. Let me check on this and see what can be done. 
+Customer: Thank you!
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly, hope my internet speeds improve soon!"
+Sentiment: Positive

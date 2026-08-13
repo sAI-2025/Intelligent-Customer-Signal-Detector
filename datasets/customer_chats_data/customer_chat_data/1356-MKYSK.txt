@@ -1,0 +1,21 @@
+Customer ID: 1356-MKYSK
+Topic: poor TV picture quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am having trouble with the picture quality on my TV lately. It's been fuzzy and streaky. 
+Agent:  I understand your concern about the picture quality. Can you tell me more about what you are experiencing? What model of TV do you have? 
+Customer: It's a Samsung 55 inch QLED TV, I've had it for about a year and a half now. 
+Agent: Thank you for providing that information.  I can see there may be an issue with your connection as well. Could you please run a speed test to make sure it’s not the internet?  
+Customer: I'll do that right now.
+Agent: Okay, let me know the results and we will go from there. 
+Customer: It shows my internet speed is okay.
+Agent:  I understand. We'll need to check on your TV settings as well. Can you tell me what channel you are viewing? 
+Customer: I am watching ESPN.  
+Agent: Okay, let me check the channels and see if that’s causing any issues.
+Customer: Thanks!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and thorough in trying to troubleshoot my issue, and they got me on the right track!
+Sentiment: Positive

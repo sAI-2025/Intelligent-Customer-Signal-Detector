@@ -1,0 +1,25 @@
+Customer ID: 6599-CEBNN
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am experiencing frequent internet disconnections. It's been happening for the past few days. 
+
+Agent:  I understand your frustration,  [Customer Name].  To help me troubleshoot this issue, can you please tell me your account information? 
+
+Customer: Sure, my name is John Smith and my account number is 1234567890.  My billing address is [address] and I have fiber optic internet.
+
+Agent: Thank you for that information, Mr. Smith. I will need to check your service status. 
+
+Customer: What can I do to help you with this?
+
+Agent: Let me look into the system. It appears there may be a network issue in your area, John.  We are working on fixing it now.
+
+Customer: Oh, that's great! Thanks.
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update, I appreciate you letting me know about the network issue and will hopefully be back online soon.
+Sentiment: Positive

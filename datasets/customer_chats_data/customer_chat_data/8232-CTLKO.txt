@@ -1,0 +1,17 @@
+Customer ID: 8232-CTLKO
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. The signal is very weak. 
+Agent: Thank you for contacting us.  I apologize for the inconvenience. Can you please tell me your account number and what modem/router are you using?
+Customer: My account number is XXXXXXXXXX, I have a Netgear Nighthawk router.  
+Agent: I understand, let me check on this for you. 
+Customer: Thanks.  
+Agent: Alright, I'm checking on your signal strength and connection speed in the living room right now.  
+Customer: Great!
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thankful for the quick response and resolution to my Wi-Fi issue!
+Sentiment: Positive

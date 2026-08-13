@@ -1,0 +1,16 @@
+Customer ID: 4189-NAKJS
+Topic: movie catalog does not match subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't seem to find any of my favorite movies on the catalog. My subscription is still active. 
+Agent:  I understand your frustration. Could you please provide me with your account details, including your subscriber ID and phone number? 
+Customer: Here they are. 
+Agent: Thank you for that information. Let's take a look at your account history. 
+Customer: Hmm, I noticed the catalog isn’t showing the latest releases.  It just has old movies, what happened?
+Agent: Based on our records, there seems to be an issue with the latest movie additions being reflected in your account. We are working to resolve this as quickly as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the agent's prompt response and explanation, it would have been helpful to know when I can expect the latest releases to be added back.
+Sentiment: Neutral

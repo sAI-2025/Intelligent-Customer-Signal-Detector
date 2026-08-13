@@ -1,0 +1,16 @@
+Customer ID: 7508-KBIMB
+Topic: streaming stops while changing channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! My streaming keeps stopping while I'm changing channels on my TV. 
+Agent:  I understand you're having trouble with streaming interruptions. Can you please tell me your account details and what specific channel you are trying to switch between?
+Customer: Sure, it’s [account number]. It’s happening on the ESPN app. When I change from one channel to another, it cuts out. 
+Agent:  I've checked our logs and confirmed a few recent network issues in your area that could be causing this. Let me see what we can do. 
+Customer: Okay, great.  
+Agent: We’re working on the issue now. It should be resolved within the next hour. Meanwhile, you can try connecting to Wi-Fi if possible for uninterrupted streaming. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update and solution! Hopefully it'll stay smooth after this outage.
+Sentiment: Positive

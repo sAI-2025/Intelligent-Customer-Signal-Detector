@@ -1,0 +1,18 @@
+Customer ID: 3823-KYNQY
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to your service.  It feels like there's a huge delay whenever I try to use the internet.
+Agent: Hello! I understand you're experiencing high latency during your usage. Can you please tell me a bit more about what device and software you're using? 
+Customer: Yes, it's happening on my laptop. I'm using Chrome.  I think it started after the update last week.
+Agent: Okay, thank you for that information. Let me check our system logs for any recent service outages or configuration changes. 
+Customer: Is this a common issue? 
+Agent: We typically don't experience high latency issues with our network, but we do have occasional spikes that are usually temporary.  I'm checking the latest updates to see if there's anything going on.
+Customer: Thank goodness! 
+Agent: Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It seems like the issue is resolved, thanks for your help!"
+Sentiment: Positive

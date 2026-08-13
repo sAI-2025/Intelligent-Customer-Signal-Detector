@@ -1,0 +1,18 @@
+Customer ID: 2911-UREFD
+Topic: internet speed differs across devices
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet speed. It's slow on my laptop but fine on my phone and TV. 
+Agent:  I understand your frustration. Let's try to troubleshoot this together. Could you tell me which devices are experiencing the slow speeds? 
+Customer:  My laptop, phone, and smart TV. Laptop is the slowest. 
+Agent:  Okay, thanks. Have you checked for any recent changes or updates on your devices? 
+Customer:  No, haven't made any changes recently. Just noticed it this morning. 
+Agent:  It sounds like it might be a problem with the DSL connection. I can run some tests to check that. 
+Customer:  That would be great. Thank you.
+Agent:  Of course, let me get started on that right now.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and professional, and the issue seems resolved!
+Sentiment: Positive

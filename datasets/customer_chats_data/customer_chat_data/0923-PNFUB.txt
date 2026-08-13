@@ -1,0 +1,15 @@
+Customer ID: 0923-PNFUB
+Topic: customer wants to change movie package
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I would like to change my movie package to one with fewer channels. 
+Agent:  Sure!  I can definitely help you with that. Could you tell me which movie channel package you're looking at? 
+Customer: The "Essentials" package sounds good. 
+Agent:  Great choice!  Your new monthly rate would be $69.75, and it includes the Essentials channels only.  
+Customer: That works out well. Thanks for your help. 
+Agent:  You're welcome! We'll ensure you're set with your new package. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and easy process, thanks for the helpful assistance!
+Sentiment: Positive

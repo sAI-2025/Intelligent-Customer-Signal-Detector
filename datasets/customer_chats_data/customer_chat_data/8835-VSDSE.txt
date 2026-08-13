@@ -1,0 +1,17 @@
+Customer ID: 8835-VSDSE
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is slower than usual and I can barely load web pages.  My plan is 100 Mbps Fiber optic.
+Agent: Thank you for reaching out to our support team! May I have your account details so we can investigate this further?
+Customer: Sure, my name is [redacted] and my account number is [redacted]. 
+Agent: Alright, [redacted], I'm going to check on the speed test results.
+Customer:  Thank you. 
+Agent: The data shows your download speed is currently at 50 Mbps. We are investigating potential network issues in your area. 
+Customer: Thanks for looking into it.
+Agent:  We apologize for the inconvenience, [redacted]. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for investigating! I'm glad to hear you're working on fixing the issue."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 1043-YCUTE
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My download speed is really slow. It's not what I'm paying for. 
+Agent:  I understand your concern. Can you please tell me your account details and which speeds you are experiencing?
+Customer: Sure, my name is Sarah and my account number is 1234567890. The download speed feels much slower than the 10 Mbps I'm supposed to get for $25.15/month. 
+Agent: Thank you, Sarah. It looks like there might be a technical issue with your connection today. We can look into that for you right now. 
+Customer: Awesome! Thanks for helping me out.  
+Agent: No problem at all. I'll check it out and get back to you shortly. 
+Customer: Okay, thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Great service getting my issue resolved quickly, thanks!"
+Sentiment: Positive

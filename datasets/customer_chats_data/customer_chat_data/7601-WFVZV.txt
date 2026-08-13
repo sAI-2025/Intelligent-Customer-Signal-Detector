@@ -1,0 +1,17 @@
+Customer ID: 7601-WFVZV
+Topic: frequent internet disconnections
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I’m having trouble connecting to the internet constantly. It disconnects every few minutes! 
+Agent:  I understand your frustration with frequent disconnections.  Can you please tell me your account details so I can look into this for you?
+Customer: Sure, it's [customer name], my account number is [account number] and I’m on a month-to-month plan. 
+Agent: Thank you! Let me check the connection status and router settings. 
+Customer: Thanks! 
+Agent: Based on the details, your internet seems to be experiencing intermittent issues. We will send out a technician to diagnose the problem. 
+Customer: Okay, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, I appreciate the prompt response and plan to monitor the connection following the technician visit.
+Sentiment: Positive

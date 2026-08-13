@@ -1,0 +1,24 @@
+Customer ID: 4145-UQXUQ
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's very slow and keeps dropping out. 
+
+Agent:  I understand your frustration. To help me troubleshoot this issue, could you please provide your account details?
+
+Customer: Sure, my name is John Smith and my account number is 1234567890.
+
+Agent: Thank you, John. I've checked your account and noticed a temporary service disruption in your area.
+
+Customer: Oh, that explains it!  I am on the monthly plan. Is there a timeframe for when this will be fixed?
+
+Agent: We are working to restore your connection now. You can expect speeds back to normal within 30 minutes. 
+ 
+Customer: Thank you so much for helping me with this!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in getting my internet back up and running.
+Sentiment: Positive

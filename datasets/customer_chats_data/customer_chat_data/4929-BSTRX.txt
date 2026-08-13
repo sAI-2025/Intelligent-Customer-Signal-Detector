@@ -1,0 +1,28 @@
+Customer ID: 4929-BSTRX
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble connecting to the internet, it keeps dropping in and out. 
+
+Agent: Hi there!  My name is Amy.  I understand you're experiencing internet disconnections. Can you tell me a little more about what's happening?
+
+Customer: It seems like every few minutes, I lose connection completely.  It started after the last software update.
+
+Agent: Thank you for that information. I will need to ask some questions to help diagnose the problem. 
+
+Customer: Sure, I can do that. 
+
+Agent: Okay. What is your account number? And how long have you been experiencing these disconnections? 
+
+Customer: My account number is [account number].  I've had the issue for about a week now. 
+ 
+Agent: Thank you for letting me know. We can investigate this further and see what we can do to help. 
+
+Customer: Thanks, I appreciate that. 
+
+Agent: Okay, I will have someone reach out to you shortly to troubleshoot the problem.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly!  Hopefully this gets resolved soon."
+Sentiment: Positive

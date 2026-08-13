@@ -1,0 +1,21 @@
+Customer ID: 8668-KNZTI
+Topic: new service activation delayed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to check on the status of my new service activation. It was supposed to be active yesterday but it hasn’t been yet. 
+
+Agent:  Hi [Customer Name], I understand you're concerned about your new service activation. Please provide me with your account number so I can check the status for you. 
+
+Customer: Account #456789 
+
+Agent: Thank you, [Customer Name]. I see your service is still in the activation process. It should be activated by tomorrow.  
+
+Customer: Ok, thanks.  
+
+Agent: No problem, [Customer Name]. If you have any further questions or concerns, please don't hesitate to reach out. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update!  I appreciate your help resolving this issue.
+Sentiment: Positive

@@ -1,0 +1,24 @@
+Customer ID: 1501-SGHBW
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I am having trouble connecting to the Wi-Fi in my living room. The signal is very weak and unreliable. 
+
+Agent:  I understand your frustration, I'm sorry about the connection issues you're experiencing! Could you please tell me which modem/router model you have? 
+
+Customer: It's a Netgear Nighthawk R7000.
+
+Agent: Thank you for that information.  Let me check on that for you.  Could you also try restarting your router, and see if that helps? 
+   
+Customer: Done! But the signal hasn't improved.
+
+Agent: I apologize again for the inconvenience. There may be an issue with the Wi-Fi signal in your specific area. We can escalate this to our technical support team.  Let me connect you to one of them now. 
+
+Customer: Thank you!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While it was helpful that I was connected with a tech person, the signal issue still hasn't been resolved.
+Sentiment: Negative

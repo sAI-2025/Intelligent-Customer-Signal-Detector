@@ -1,0 +1,15 @@
+Customer ID: 0488-GSLFR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room.  Signal is weak and intermittent. 
+Agent: Hello! Thank you for contacting us about your Wi-Fi signal. Can you please tell me your account number?
+Customer: 1234567890 
+Agent: Okay, thank you. I see there are a couple of reports of similar issues in the area with our Fiber service.  
+Customer: Is there anything we can do to improve it?
+Agent: We're working on potential solutions to address these signal fluctuations. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for the update, I appreciate your prompt response and efforts to resolve this issue."
+Sentiment: Positive

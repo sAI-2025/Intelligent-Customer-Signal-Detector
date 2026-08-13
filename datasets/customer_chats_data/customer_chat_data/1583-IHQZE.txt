@@ -1,0 +1,23 @@
+Customer ID: 1583-IHQZE
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I was just wondering why my internet is so slow during peak hours? It seems to be unusable. 
+
+Agent: Hello!  I'm sorry to hear about your experience with our network speeds.  Could you please tell me the service plan and address you're currently using? 
+
+Customer: My plan is called Fiber Unlimited, and I live at 123 Main Street. 
+ 
+Agent: Thank you for that information!  I see that you've been experiencing slower than usual speeds during peak hours.   Would you like to be escalated to a specialist?
+
+
+Customer: Yes, please. 
+
+Agent: Just hold on while I connect you with someone from our technical team.  
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was much faster and more helpful than I expected! Thanks for getting me connected with a specialist.
+Sentiment: Positive

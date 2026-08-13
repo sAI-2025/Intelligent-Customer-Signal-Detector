@@ -1,0 +1,26 @@
+Customer ID: 5995-OIGLP
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speed. It's significantly slower than what I'm paying for. My plan is 10Mbps.
+
+Agent: Thank you for reaching out to us. Could you please tell me your account information and the exact speeds you're experiencing?
+
+Customer: My name is John Smith, account number 123456789. The download speed seems around 2-3 Mbps. I was paying $56.65 per month for DSL internet.  
+
+Agent: We understand that this is frustrating. Based on your account information, we noticed your plan is not a fiber optic connection. 
+
+Customer: Right, it's DSL, and I just want to get my speed back up. It's been like this for the last two weeks.
+
+Agent: We apologize for the inconvenience. We'll run a speed test and see what we can do. 
+
+Customer: Okay. 
+Thank you!
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me, the speed issue seems resolved after the tech support ran a test.
+Sentiment: Positive

@@ -1,0 +1,32 @@
+Customer ID: 5206-HPJKM
+Topic: hardware configuration problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble connecting to my DSL internet service. My modem lights aren't green and it says there is an error. 
+
+Agent: Hi! We can definitely help you with that.  Can you tell me your account number or the last four digits of your phone number?
+
+Customer: Here's my account number, 1234567890.
+
+Agent: Thank you. Let me check on this for you.  
+
+Customer: I am having trouble connecting to my DSL internet service. My modem lights aren't green and it says there is an error. 
+
+Agent: We can run some diagnostics to see what could be causing the issue. Just a moment please... 
+ 
+Customer: Alright, thanks. 
+
+
+Agent:  The connection appears to be blocked because your DSL hardware may not be compatible with your internet plan. 
+
+Customer: Thank you. So what can I do? 
+
+Agent: We'll need to send you a replacement modem and router that are compatible with your plan. Let me know if you have any other questions.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the help! This is much better understood now. 😊
+Sentiment: Positive

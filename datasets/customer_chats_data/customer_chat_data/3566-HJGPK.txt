@@ -1,0 +1,23 @@
+Customer ID: 3566-HJGPK
+Topic: TV audio and video out of sync
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there! I just want to report that my TV audio and video are out of sync. It's been happening for about an hour now. 
+
+Agent:  I understand your concern,  Please provide me with your account number and the device you are using.
+
+Customer: My account number is [account number] and it's on a month-to-month contract.
+
+Agent: Thank you for providing that information. I see that you have DSL internet. Can you let me know what model of TV you are currently using? 
+
+Customer: It's a Samsung Smart TV.
+
+Agent:  Okay, thank you. Let's investigate this issue further. Please hold while I check the system for your specific case. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It took a little longer than expected to get resolution, but the agent was helpful and communicative throughout the process.
+Sentiment: Neutral

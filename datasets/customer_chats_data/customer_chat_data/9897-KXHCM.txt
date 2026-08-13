@@ -1,0 +1,16 @@
+Customer ID: 9897-KXHCM
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm having some terrible lag issues while playing online games.  My ping is really high, like 200ms sometimes!
+Agent: I understand your frustration with high latency.  May I ask what device you are using to play the game? Also, what’s your internet speed showing on our website? 
+Customer: It’s my gaming laptop running on WiFi. My download speeds are around 150 Mbps according to the website. 
+Agent: Thanks for that info.  I'll take a look at your connection and see if there is any potential issue with the network. 
+Customer: I hope you can help! 
+Agent: We will have someone checking in within an hour on this, they should be able to resolve it quickly. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, hopefully my game won't be lagging too much during the check-up!"
+Sentiment: Neutral

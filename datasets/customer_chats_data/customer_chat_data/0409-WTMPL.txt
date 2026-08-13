@@ -1,0 +1,18 @@
+Customer ID: 0409-WTMPL
+Topic: customer cannot access subscribed TV channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I can't seem to access my subscribed TV channels on my TV anymore. 
+Agent: Hello!  I apologize for the inconvenience. To help me troubleshoot this issue, could you please provide your account number and which channels specifically you are unable to access?
+Customer:  My account number is [Account Number] and I'm having issues with ESPN+, Starz, and AMC+.
+Agent: Thank you for that information. Let me check the system... 
+Customer: Okay, thanks.
+Agent:   I see that your subscription details are accurate, but there was a recent network maintenance update that might be causing some temporary connectivity issues.  We're currently working on resolving this. 
+Customer: That's helpful to know!
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was quick and informative, and I appreciate the update about the network maintenance issue.
+Sentiment: Positive

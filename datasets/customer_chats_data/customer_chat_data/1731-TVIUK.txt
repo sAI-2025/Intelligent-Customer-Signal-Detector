@@ -1,0 +1,24 @@
+Customer ID: 1731-TVIUK
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been extremely slow this evening, especially during peak hours. 
+
+Agent: I understand your concern.  Could you please provide me with your account information so I can take a look at your connection details?
+
+Customer: Sure. My name is John Smith and my account number is 12345678. 
+
+Agent: Thank you, John. I've reviewed your account, and it appears there might be some network congestion during peak hours. 
+
+Customer:  Well that explains why everything seems to be crawling!  
+
+Agent: We are currently working on improving our network capacity. While we work on a solution, can you try disconnecting any devices that are not absolutely necessary for your online activities?  
+
+Customer: Thanks, I'm going to check the settings on my smart tv. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and informative, providing clear explanations and solutions even though the issue was complex.
+Sentiment: Positive

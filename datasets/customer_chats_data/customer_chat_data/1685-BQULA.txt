@@ -1,0 +1,18 @@
+Customer ID: 1685-BQULA
+Topic: customer questions taxes or regulatory fees
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have a question about my tax/regulatory fees on my monthly bill. They seem higher than usual this month. 
+Agent:  I understand your concern, could you please provide me with your account number? 
+Customer: Sure, it's XXX-XXXX.
+Agent: Thank you for providing that information.  Your taxes and regulatory fees are based on our average annual usage, which is higher than usual this month due to increased data transfer compared to previous months. 
+Customer: Oh, I didn't realize it was so variable. 
+Agent:  Yes, monthly data usage varies. Would you like me to explain the billing process in more detail?
+Customer: Yes, please.
+Agent: Of course! You can find a breakdown of our fees on our website and your account information page. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for walking me through it, I appreciate the explanation of the variable billing.
+Sentiment: Positive

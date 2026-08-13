@@ -1,0 +1,20 @@
+Customer ID: 9462-MJUAW
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble getting a good connection lately. It seems like there’s high latency or ping whenever I try to browse the web.
+Agent:  I understand you're experiencing issues with latency. Can you please tell me your IP address and what device you're using? 
+Customer:  My internet address is [IP Address].  I'm using my laptop.
+Agent:  Alright, thanks. I'm looking into the connection on your end now. 
+Customer: Thank you.
+Agent:  Give me a moment to check this out, and I'll be sure to let you know what I find.
+Customer:   Okay. 
+Agent:  The connection seems to be within standard latency levels.  However, we do see some recent spikes in traffic on your line. 
+Customer:  What can I do?
+Agent:  I'd recommend checking for any updates to your modem or router software. You can also check the speed of your DSL service by visiting our website and looking at your account details. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining what could be causing my slow connection, and I appreciate the troubleshooting steps!
+Sentiment: Positive

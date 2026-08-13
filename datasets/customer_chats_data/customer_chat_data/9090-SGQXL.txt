@@ -1,0 +1,17 @@
+Customer ID: 9090-SGQXL
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down. I can’t access emails or stream TV shows. 
+Agent:  I understand your concern. Can you please confirm your account name and service address for me? 
+Customer:  My account name is [Account Name] and my address is [Address]. 
+Agent: Thank you, [Account Name]. I'm investigating the issue now. Please let me know if you have any other questions while we work through this. 
+Customer:  How long will this take to fix?
+Agent: We'll be able to restore your internet service shortly. There may be some temporary downtime, and our engineers are working hard to resolve it as quickly as possible. 
+Customer: Okay, thank you. I appreciate the update.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the prompt updates! Hope my internet is back up soon."
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 5052-PNLOS
+Topic: customer wants to cancel a service or add-on
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'd like to cancel my service. It's been 3 months and I’m not satisfied with the speeds.
+Agent:  I understand. To help me process your cancellation, could you please confirm your account number? 
+Customer:  It's [Account Number]
+Agent: Thank you for providing that information. We'll be happy to cancel your service as per your request. Please note that your last month’s bill will be processed on the [Date of billing cycle].   
+Customer: Okay, great. 
+Agent: Is there anything else I can assist you with today?
+Customer: No, thanks.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for helping me cancel my service! The process was quick and easy.
+Sentiment: Positive

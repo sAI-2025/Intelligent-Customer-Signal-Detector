@@ -1,0 +1,17 @@
+Customer ID: 5159-YFPKQ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is slower than what I'm paying for and I'm pretty frustrated. 
+Agent: Hello! Thank you for contacting us.  I'd be happy to help investigate this issue. Can you please provide your account details?
+Customer: Sure, my name is John Smith and account number is 12345678. My plan is the $75.8/month Fiber internet plan. 
+Agent: Thank you, John. I see your subscription information matches what we have in our system. Let me check on the download speed issue for you.  We'll do our best to help get it resolved.
+Customer: Great! Thanks.
+Agent: Please allow a few moments while I check and then I will be able to offer some solutions. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and efficient, thank you!  Hopefully the speed issue gets resolved soon.
+Sentiment: Positive

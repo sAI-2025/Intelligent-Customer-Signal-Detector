@@ -1,0 +1,17 @@
+Customer ID: 5035-PGZXH
+Topic: installation or activation fee dispute
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I am disputing a fee on my recent bill. It seems like it was an activation fee that wasn’t explained at all when I signed up. 
+Agent: I understand you are disputing an activation fee on your bill. Can you please provide me with the invoice number or account details so I can look into this for you?
+Customer: Invoice Number [redacted]
+Agent: Thank you. I'll be reviewing your account now and will get back to you shortly regarding the next steps. 
+Customer:  Is there a time frame for when I might hear back? 
+Agent: We aim to respond within 24 hours or sooner depending on the complexity of the issue, but we're looking into this right now.   
+Customer: Okay. Thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and will be waiting for the outcome.
+Sentiment: Neutral

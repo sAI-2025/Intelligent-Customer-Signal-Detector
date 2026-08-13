@@ -1,0 +1,27 @@
+Customer ID: 0506-LVNGN
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet is completely down, and I can’t access any websites or emails. 
+
+Agent:  I understand your concern about your internet service being unavailable. Can you please tell me your account number?
+
+Customer:  789456-1234
+
+Agent: Thank you for providing that information. Let me verify the status of your service.
+
+Customer: I've been having this issue since earlier today, and it's frustrating. 
+
+Agent: We apologize for the inconvenience. Please hold while I check on your account. 
+ 
+Customer:  Okay.
+
+Agent: The fiber optic line is currently down due to a network outage in your area. We are working diligently to resolve this issue. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the fiber outage and for providing updates on the situation!
+Sentiment: Positive

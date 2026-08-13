@@ -1,0 +1,19 @@
+Customer ID: 7673-BQGKU
+Topic: inconsistent internet connection quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my internet connection. It keeps dropping in and out. 
+Agent:  I understand your concern. Can you please provide me with your account number?
+Customer: 1234567890
+Agent: Okay, thanks. What is the specific issue you are experiencing? Are you getting error messages or slow speeds?
+Customer: Yes, there's a lot of lag and buffering. Sometimes it just shuts off completely for a few minutes.
+Agent:  I see that your contract is up to date and we have confirmed your location. Let me look into this further. 
+Customer: Okay, thanks.
+Agent: I've checked your connection and there seems to be an issue with the local fiber infrastructure. We apologize for the inconvenience. 
+Customer: Thank you for letting me know.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for resolving my internet issues, appreciate the quick response."
+Sentiment: Positive

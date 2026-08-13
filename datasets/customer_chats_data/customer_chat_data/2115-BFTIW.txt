@@ -1,0 +1,17 @@
+Customer ID: 2115-BFTIW
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to my WiFi in certain rooms of my house. 
+Agent: Hello!  I understand your concern about your Wi-Fi signal strength. Can you please tell me which rooms are affected?
+Customer: It seems like the bedrooms on the first floor are weak. The living room and kitchen have strong signal.
+Agent: Thanks for providing that information. We can definitely take a look at your account details to see if there's any issue with the router placement or configuration. 
+Customer: I have it set up in the main router, so I don't think there is an issue with the placement.  
+Agent: Alright, let me check on that for you.
+Customer: Thanks!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient in addressing my WiFi issues."
+Sentiment: Positive

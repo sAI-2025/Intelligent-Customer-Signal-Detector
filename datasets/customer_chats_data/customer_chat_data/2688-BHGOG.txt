@@ -1,0 +1,17 @@
+Customer ID: 2688-BHGOG
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet connection, it's very slow and has high latency. 
+Agent:  I understand your frustration. Can you please tell me a little more about what's happening? What device are you using to access the internet? Is this only during specific times of day or always?
+Customer: Just checking emails and browsing websites, mostly in the evenings. 
+Agent: I see. We do sometimes experience high traffic during peak hours. Do you have any other devices connected to your network at the time? 
+Customer:  Just my laptop and phone. 
+Agent: Thank you for that information. Let me check into this further.  Could you please provide your account number or email address so I can access your specific details? 
+Customer: My account number is 1234567890.
+Agent: Thank you, 1234567890. We'll investigate this for you and get back to you soon with a resolution.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and prompt in addressing my issue. I look forward to the resolution.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 6038-GCYEC
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. My connection is completely down. 
+Agent:  I understand there's an issue with your DSL connection. Can you please provide me with your account information?
+Customer: Sure, it's [account number]. My name is Michael and I have a month-to-month contract.
+Agent: Thank you, Michael. Let me check on the status of your service for you now. 
+Customer:  Thank you. 
+Agent: We see that there appears to be an outage in your area. Our engineers are working to resolve it. 
+Customer: Alright.
+Agent: I apologize for the inconvenience this may cause. I will update you on any progress we make and let you know when your service is restored.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the outage!  I'm looking forward to getting back online.
+Sentiment: Positive

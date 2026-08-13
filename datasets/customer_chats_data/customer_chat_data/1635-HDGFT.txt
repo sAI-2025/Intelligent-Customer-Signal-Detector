@@ -1,0 +1,15 @@
+Customer ID: 1635-HDGFT
+Topic: customer reports incorrect account details
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need to update my account details - the email address and phone number are wrong. 
+Agent: I understand you're having trouble with your account details. Can you please provide me with your full name, current email address, and phone number so we can access your account? 
+Customer: Sure, here it is.  
+Agent: Thank you. Let's update your information now.
+Customer: Okay.  
+Agent: Your account will be updated shortly. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The process was quick and easy, thanks!
+Sentiment: Positive

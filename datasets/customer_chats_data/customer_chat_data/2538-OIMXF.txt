@@ -1,0 +1,24 @@
+Customer ID: 2538-OIMXF
+Topic: incoming calls not connecting
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I haven't been able to get through to your customer service line. 
+
+Agent: Hello!  I apologize for the trouble. We are experiencing some high call volume today. Could you please tell me your account number?
+
+Customer: Sure, it’s [Account Number]. 
+
+Agent: Thank you. I can see that you have a month-to-month contract and pay $24.7 per month for DSL internet.  Have you tried rebooting your modem and router?
+
+Customer: Yes, but still no luck.
+
+Agent: Okay, I'm checking on the status of your line. We are working to resolve this issue as quickly as possible. 
+
+Customer: Thanks!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It took a while to get through but the agent was helpful and informative, thanks!"
+Sentiment: Positive

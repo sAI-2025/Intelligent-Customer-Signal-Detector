@@ -1,0 +1,24 @@
+Customer ID: 0841-NULXI
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speed. It seems to be significantly slower than what I've been paying for. 
+
+Agent:  I understand your concern. To help me troubleshoot this issue further, could you please tell me your DSL modem model and the specific details of your internet plan?
+
+Customer: My modem is a Motorola MB8600. I am subscribed to the $35.55/month plan with 25 Mbps download speed.  
+
+Agent: Thank you for providing that information. Let's check your connection status. Could you please run a speed test while I look into this?
+
+Customer: Sure, running one now...
+
+Agent: Alright, we can see the download speed is currently around 10-15 Mbps.
+
+Customer: Thanks!
+
+Agent:  We will investigate further to address any potential issues with your connection. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and got my issue resolved quickly, thanks! 😊
+Sentiment: Positive

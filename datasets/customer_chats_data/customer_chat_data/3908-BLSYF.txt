@@ -1,0 +1,15 @@
+Customer ID: 3908-BLSYF
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my internet speed has been very slow today, especially during peak hours. 
+Agent: I understand your frustration. Can you please tell me what device and location you are experiencing this on?
+Customer: My laptop, at home.  I'm seeing significant lag when streaming movies. 
+Agent: Thanks for that information. Our network engineers are currently investigating possible issues during peak hours. 
+Customer: Ok. I hope it gets fixed soon, as my family and I rely on a stable internet connection for work/school.  
+Agent: We apologize for the inconvenience. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for the update!  Hope the issue gets sorted out quickly."
+Sentiment: Positive

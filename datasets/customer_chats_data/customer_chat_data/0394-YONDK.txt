@@ -1,0 +1,17 @@
+Customer ID: 0394-YONDK
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet has been disconnecting frequently lately.  It's so frustrating! 
+Agent: I understand your frustration, we want to ensure a smooth online experience. Can you tell me more about when these disconnections are happening and if there's anything specific triggering them? 
+Customer: It seems to happen mostly during peak hours. And sometimes after downloading large files.  
+Agent: Thank you for providing that information! We can investigate further. Have you tried restarting your modem/router? 
+Customer: Yeah, I did, but it didn't help much.
+Agent: Let me check some logs and see what we can find. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's good to know they are looking into the problem, hopefully this gets resolved soon."
+Sentiment: Neutral

@@ -1,0 +1,24 @@
+Customer ID: 8917-FAEMR
+Topic: customer questions unlimited data pricing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I have a question about your unlimited data plan. Can I get more details on how it works? 
+
+Agent:  Of course! Our unlimited plans include high-speed internet access with no throttling and free data roaming in select countries.  How long have you been a customer?
+
+Customer: Two years, my monthly cost is $19.85 but I've never used the internet at home.  
+
+Agent: We understand. If your household doesn’t require high-speed internet access, perhaps our basic plan would be more suitable for you. 
+ 
+Customer: I just want to make sure it's unlimited data. Is there a way to get a full picture before I switch?
+
+Agent:  Absolutely! Our website has detailed information on all of our plans and their features. You can also speak with one of our customer service representatives for more personalized advice. 
+   
+Customer: Thank you, that’s helpful!
+    
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and answered my questions clearly.  I appreciate the clear information on your website!
+Sentiment: Positive

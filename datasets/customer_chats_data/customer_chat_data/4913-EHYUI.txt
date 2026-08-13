@@ -1,0 +1,17 @@
+Customer ID: 4913-EHYUI
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I keep experiencing frequent internet disconnections lately.
+Agent:  I understand your frustration, Ms. [Last Name].  What has been happening specifically? 
+Customer: My Wi-Fi keeps dropping out, especially during streaming video and online gaming.
+Agent:  Let's take a look at your account details to see if there are any service issues that might be impacting your connection. 
+Customer: My internet is through Fiber optic. I’ve been a customer for five years now. 
+Agent: Thank you for providing that information, Ms. [Last Name].  I'll check our system for the recent history of disconnections and see what we can do to help.   
+Customer: Thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the agent's willingness to investigate, it would be helpful if they could provide an estimated timeline for resolution.
+Sentiment: Neutral

@@ -1,0 +1,16 @@
+Customer ID: 6036-TTFYU
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having constant internet disconnections all day long. 
+Agent: Thank you for contacting us. Can you please provide your account information and the device experiencing these issues?
+Customer: Sure. My name is John, my account number is [account number]. And it seems to be happening on my laptop. 
+Agent: We understand this is frustrating John. Please hold while we check on the connection for your device.  
+Customer: Alright. Thanks.
+Agent: Thank you for waiting! It appears there are some temporary network issues affecting your area. We're working on resolving them as soon as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, it's good to know I won't be paying for an un-used connection while the issue gets resolved."
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 3419-SNJJD
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is significantly slower than my subscribed plan. I've been using Fiber optic internet for 65 months and paying $105.25 per month. 
+Agent: Hello! Thank you for contacting us. What's your account number, please?
+Customer:  XXXX-XXXX-XXXX
+Agent: Thanks! I'll take a look at your connection details. Is there a specific time or activity where you notice the slowest speeds?
+Customer: It seems to be happening during streaming activities and downloading large files on my computer. 
+Agent: Thank you for clarifying that. Let me check for any known outages in your area.  
+Customer: That sounds good. 
+Agent: Don't worry, we'll have a resolution by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and reassuring, I appreciate their prompt response and positive outlook on resolving the issue."
+Sentiment: Positive

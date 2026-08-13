@@ -1,0 +1,17 @@
+Customer ID: 1439-LCGVL
+Topic: unexpected increase in monthly bill
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I just got my bill and it’s much higher than usual. My monthly payment is $19.2 and this month it's over $40!  What happened? 
+Agent: Hello! Thank you for contacting us. We noticed a significant change in your bill. Can you please confirm the billing date and plan information?
+Customer: It’s been exactly one year since I signed on to this contract, my monthly payment is always $19.2, and now it’s over $40! 
+Agent:  Your monthly rate hasn't changed. We need to check your service details for the increased charges. Please provide your account number for verification.
+Customer: My account number is [redacted]. 
+Agent: Thank you! Upon reviewing your account, there seems to be an error with our billing system. I will escalate this to our billing department and have them review it. We will adjust your bill accordingly, please allow a couple of business days for the update.  
+Customer: Great, thank you so much. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for quickly resolving my issue!  I appreciate your prompt attention and help.
+Sentiment: Positive

@@ -1,0 +1,15 @@
+Customer ID: 6507-DTJZV
+Topic: customer wants to cancel entire service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I would like to cancel my service.  I've been a customer for 13 months now and I'm unsatisfied with the DSL speed and reliability.
+Agent: I understand your frustration. To proceed with cancellation, could you please provide your account number?
+Customer: 456789012
+Agent: Thank you. Your service will be cancelled effective [date]. We apologize for any inconvenience.  Your final payment is due on the [date]. 
+Customer: Okay. Thanks. 
+Agent: Please let me know if you have any further questions. Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the prompt cancellation, it would be helpful to have more information about my remaining bill balance and potential payment options.
+Sentiment: Neutral

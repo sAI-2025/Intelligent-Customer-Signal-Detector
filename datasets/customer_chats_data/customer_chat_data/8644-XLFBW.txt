@@ -1,0 +1,16 @@
+Customer ID: 8644-XLFBW
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. It's been really slow and laggy. 
+Agent:  I understand your frustration, sir. Could you please provide me with your account details so I can take a closer look? 
+Customer: Sure. My name is John, and my account number is 123456789. 
+Agent: Thank you, John. I'm seeing some reports of high latency in your area. We're currently working to resolve the issue.  
+Customer: Thanks. When will this be fixed?
+Agent: Our engineers are actively addressing the problem and we expect a resolution within the next few hours. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update, I appreciate the quick response!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 9846-GKXAS
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my subscribed plan. I’m getting around 10 Mbps down when my plan is advertised as 100 Mbps. Is there a reason for this?
+Agent: Hello! Thank you for contacting us. I'd be happy to look into your internet speed issue.  Please provide me with your full name and account number so I can access your details. 
+Customer: My name is John Smith, and my account number is 1234567890.
+Agent: Thank you, John. I see your plan is for 100 Mbps fiber optic internet.  Are you experiencing this issue on all devices or just one?  
+Customer: It's happening across all devices. 
+Agent: Let me check the network congestion levels and speeds from our servers. We may have some recent updates that could be affecting your download speed. 
+Customer: Thank you for checking it out.   
+Agent: I apologize for the inconvenience, John.  We are going to investigate further on this issue. Your internet service is currently running at 100 Mbps as per your plan and there shouldn’t be any problems with speed
+
+----------------------------------------
+Feedback: It's good to know the agent is investigating, but I hope they can provide more concrete solutions beyond just "investigation" for a slower download than advertised.
+Sentiment: Negative

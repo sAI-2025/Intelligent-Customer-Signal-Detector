@@ -1,0 +1,18 @@
+Customer ID: 6024-RUGGH
+Topic: customer cannot access subscribed TV channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble accessing my subscribed TV channels.  I can't seem to get past the login screen.
+Agent: I understand your concern. Can you please provide me with your account number and service address? 
+Customer: Sure, it’s [account number] and my address is [address]. 
+Agent: Thank you for that information, [customer name]. I'm looking into this now.  
+Customer:  How long will this take? 
+Agent: It should only take a few minutes to resolve this.  
+Customer: Okay, thanks! 
+Agent: I hope this helps and thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient in resolving my issue quickly.
+Sentiment: Positive

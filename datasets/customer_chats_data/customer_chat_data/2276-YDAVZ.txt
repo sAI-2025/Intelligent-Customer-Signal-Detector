@@ -1,0 +1,18 @@
+Customer ID: 2276-YDAVZ
+Topic: audio cuts out repeatedly
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having issues with my audio cutting out repeatedly on my calls. 
+Agent:  I understand that you're experiencing audio problems. Can you please tell me your account number and the specific device you're using? 
+Customer: My account number is 1234567890, and I use a laptop.
+Agent:  Okay, thank you. We're currently aware of some widespread technical issues affecting audio quality on our network. We apologize for any inconvenience this may cause.
+Customer: Is there anything I can do to fix this? My calls are crucial for business. 
+Agent:  We understand the urgency. Our technicians are working to resolve these issues as quickly as possible.  
+Customer: Thank goodness!
+Agent:  Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the technical issues, I appreciate your response and hope they get fixed soon!
+Sentiment: Positive

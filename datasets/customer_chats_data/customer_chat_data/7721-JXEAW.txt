@@ -1,0 +1,25 @@
+Customer ID: 7721-JXEAW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, my internet is super slow today. I can't even load a webpage. 
+
+Agent: Hi there!  I'm sorry to hear that your internet connection is slow. To troubleshoot this issue, could you please tell me your account details? 
+
+Customer: Sure, it's [redacted], and the contract month-to-month, I pay $41.05 per month. 
+
+Agent: Thank you for providing that information.  I see your DSL connection is running slow. Can you describe what kind of devices are you using to connect? 
+
+Customer: It’s just my laptop.
+
+Agent: Okay, thanks. Let me check some things on my end and I'll get back to you in a few minutes.
+
+Customer:  Okay, thank you!
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the help, hopefully this gets resolved soon!"
+Sentiment: Positive

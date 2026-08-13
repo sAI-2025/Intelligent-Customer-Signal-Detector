@@ -1,0 +1,24 @@
+Customer ID: 1353-LJWEM
+Topic: frequent internet disconnections
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having constant internet disconnections lately. My speed is just so slow and unreliable. 
+
+Agent: I understand your frustration! Can you tell me what type of device you are using to connect?
+
+Customer:  My laptop, and a few times, my phone too. 
+
+Agent:  Let me check our records for DSL users in your area.  It might be an issue with the line itself.
+
+Customer: I hope it's not! 
+ 
+Agent: It seems there have been some recent outages reported on your specific line. We will work to fix this right away.   
+
+Customer: Thanks, appreciate that.
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the prompt response and update on the internet outage issue.
+Sentiment: Positive

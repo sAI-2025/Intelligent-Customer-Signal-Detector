@@ -1,0 +1,17 @@
+Customer ID: 8404-VIOMB
+Topic: downloaded movie cannot play
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just downloaded a movie from your platform, but it won't play. 
+Agent:  I understand there might be an issue with the download. Can you please tell me which movie and the error message you are receiving?
+Customer: It's "The Irishman".  I get a message that says "Unable to open file." 
+Agent: Thank you for providing that information. Could you please try restarting your device or checking your internet connection?
+Customer: I did both, but it's still not working. 
+Agent: My apologies for the inconvenience. Let me check on this for you.  
+Customer: Thanks!
+Agent: We will look into it further and get back to you shortly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It's frustrating that a downloaded movie still won't play after troubleshooting. Hopefully, this issue gets resolved quickly."
+Sentiment: Negative

@@ -1,0 +1,24 @@
+Customer ID: 6885-PKOAM
+Topic: service installation incomplete
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just finished my service installation and it seems incomplete. The tech didn’t connect the modem to the outside wiring and they left a big gap in the cable box cover. 
+
+Agent:  Hello! My name is Sarah, how can I help you today? 
+
+Customer:  Yes, well, the tech was supposed to install DSL internet, but he didn't finish it properly. It seems like there is no proper connection between the modem and the outside wiring. 
+
+Agent:  I understand your frustration. Let me take a look at your account details. Could you please tell me your account number?
+
+Customer:  It's 1234567890. 
+
+Agent: Thank you for providing that information, I can see the missing connection on your installation report. We'll dispatch another technician immediately to complete the installation. 
+ 
+Customer: Ok thanks! 
+
+Agent:  You're welcome!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The quick resolution and timely follow-up are appreciated, thank you!
+Sentiment: Positive

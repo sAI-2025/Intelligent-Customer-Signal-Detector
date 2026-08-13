@@ -1,0 +1,17 @@
+Customer ID: 9576-ANLXO
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm experiencing complete internet outage.  Everything is off.
+Agent: Hello! I understand your concern. Could you please confirm your account name and address so I can check on the service? 
+Customer: Sure, my account name is John Smith and my address is 123 Main St, Anytown, USA.
+Agent: Thank you, John.  I'm looking into this now. Let me know if there are any other details that could be helpful. 
+Customer: No, that's all I have for now.
+Agent:  The fiber optic network is experiencing technical difficulties at the moment. An engineer has been dispatched to your location and will be there shortly. Our apologies for this inconvenience! 
+Customer: Thank you, I appreciate it. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response and explanation, although frustrating to experience an internet outage."
+Sentiment: Neutral

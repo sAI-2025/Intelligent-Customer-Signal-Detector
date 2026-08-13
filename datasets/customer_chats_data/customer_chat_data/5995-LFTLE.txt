@@ -1,0 +1,16 @@
+Customer ID: 5995-LFTLE
+Topic: websites load slowly despite active connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I’m having trouble loading websites on my internet connection. 
+Agent:  I understand your concern. Could you please tell me a little more about this issue? For example, what kind of websites are you having trouble with? Are there specific pages that load slower than others? 
+Customer: It's happening with almost every website, even the simple ones.
+Agent:  I see. Have you tried restarting your modem and router? This often fixes connection issues.
+Customer: Yes, I did that already, but it didn’t work.
+Agent: Thank you for letting me know.  We can take a closer look at your account. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into this further, but unfortunately the issue persists."
+Sentiment: Negative

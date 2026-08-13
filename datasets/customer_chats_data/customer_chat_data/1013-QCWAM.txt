@@ -1,0 +1,22 @@
+Customer ID: 1013-QCWAM
+Topic: audio cuts out repeatedly
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet keeps cutting out every few minutes. It's been happening all day. 
+
+Agent: I understand your concern.  Please tell me your account number and which device you are having trouble with.
+
+Customer: Sure, it's [account number], and the issue is happening on my laptop.
+
+Agent:  Let me check into that for you.  I see there haven't been any recent outages reported in your area. 
+ 
+Customer: Okay.  Thanks.
+
+Agent: I am going to run a test speed check now.  We will see what we can do.
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and efficient, even though the issue persists. Hopefully, the speed test reveals the cause of the problem."
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 1447-GIQMR
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  My internet connection is incredibly slow. It's taking forever to load websites and play games. 
+Agent: I understand your frustration. Can you please provide me with your account information so I can look into this for you?
+Customer: Sure, my username is [Username] and my email is [Email]. 
+Agent: Thank you for that information,  [Username]. Let me check on your connection speed and latency right now.
+Customer: I'm just frustrated because it's like the internet doesn't even exist.
+Agent: We are experiencing some network fluctuations in our area due to high traffic. I am checking the connectivity logs for you. 
+Customer: Okay, thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation about the network issues, it would be nice to have an estimated time frame for when things should return to normal.
+Sentiment: Neutral

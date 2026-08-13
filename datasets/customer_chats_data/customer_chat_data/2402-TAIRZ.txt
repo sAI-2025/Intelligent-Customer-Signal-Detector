@@ -1,0 +1,19 @@
+Customer ID: 2402-TAIRZ
+Topic: customer considers cancelling service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm thinking about canceling my internet service.
+Agent: I understand.  What seems to be the reason for considering cancellation? 
+Customer: My job changed, and I don't need all of the bandwidth anymore. 
+Agent: We offer flexible plans.  I can review your current contract if you'd like. 
+Customer: Yeah, that would be great.   
+Agent: Sure! Your monthly fee is $80.05 for fiber optic internet. You have been a loyal customer for over three years.
+Customer: It just seems like it's time to move on. 
+Agent: I understand.  We can certainly help you with the cancellation process. Would you prefer to do this via email or call? 
+Customer: Email would be fine. Thank you. 
+Agent: Absolutely! We will send an email confirmation of your cancellation and address any remaining billing questions.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in providing information about my plan options, and the cancellation process was smooth.
+Sentiment: Positive

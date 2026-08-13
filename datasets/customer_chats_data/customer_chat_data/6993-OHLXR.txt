@@ -1,0 +1,20 @@
+Customer ID: 6993-OHLXR
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, I'm having trouble with my download speed lately. My plan is 100Mbps but it feels like I'm only getting around 50 Mbps. Is this normal?
+
+Agent: Hello! Thank you for contacting us.  I understand your internet speeds are slower than expected. Can you please provide your account details, so I can check on the issue?
+
+Customer: Sure, my name is [customer_name] and my account number is [account_number].
+
+Agent:  Thank you, [customer_name]. I've reviewed your account and it appears there might be a temporary network issue in your area. We will investigate this further.
+
+Customer: Thanks for looking into it. Do you know when the speed may improve? 
+ 
+Agent: We expect to have your speeds back to normal by the end of the day.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for getting this issue looked into!  I appreciate the update about it being fixed.
+Sentiment: Positive

@@ -1,0 +1,26 @@
+Customer ID: 1352-VHKAJ
+Topic: unlimited data feature not working
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble accessing my unlimited data plan. It seems like it's not working properly.
+
+Agent: Hi [customer name], thank you for reaching out to us. 
+
+Customer:  My DSL internet has been consistently strong but the "unlimited" feature is not connecting me at all?  
+
+Agent: I understand your frustration, [customer name]. Let's troubleshoot this together. Could you please confirm your account number and the specific issue with the data plan? 
+
+Customer: Sure, my account number is [account number]. My internet connection seems to be dropping frequently and it's not connecting me to the web.  
+
+Agent: Thank you for providing that information. I see a few reports of similar issues in your area with your DSL service. We are working on a fix. 
+
+Customer: Okay, thank you!
+
+Agent:  We will update you once we have an update. Thank you for contacting us. 
+    
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the update, it would be helpful to know when the issue might be resolved."
+Sentiment: Neutral

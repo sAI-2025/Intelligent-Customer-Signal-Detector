@@ -1,0 +1,18 @@
+Customer ID: 4143-OOBWZ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is much slower than my subscribed plan! I'm only getting around 5 Mbps when I should be at least 100.  
+Agent: Thank you for contacting us, I understand your concern about the low download speed. 
+Customer: Could you help me troubleshoot this? 
+Agent: Certainly, I would like to know if you have checked your device and network settings recently.
+Customer: Yes, everything is as it should be.
+Agent: We're currently experiencing some technical issues with fiber connection.  
+Customer: Oh no! Thanks for letting me know. Is there an estimated timeframe when this issue will be resolved? 
+Agent:  We are working on resolving the issue now and we expect to have a resolution by the end of the day.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's frustrating that the slow download speeds are due to technical issues, but thanks for the update and estimated resolution time.
+Sentiment: Neutral

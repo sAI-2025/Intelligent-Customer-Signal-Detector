@@ -1,0 +1,17 @@
+Customer ID: 8782-LKFPK
+Topic: customer wants to apply an available offer
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I would like to apply for the current Fiber Boost offer. 
+Agent: Absolutely!  I can help with that. What's your account number?
+Customer: It's XXXXXXXXXX.   
+Agent: Thank you. The Fiber Boost offer is currently available and suitable for your plan. Would you like me to process it?
+Customer: Yes, please. 
+Agent: I have processed the Fiber Boost offer and will be updating your billing cycle accordingly.  Your new monthly rate will be $80.4. 
+Customer: Thank you!
+Agent: You're welcome! Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a smooth and quick process, thanks! 😊
+Sentiment: Positive

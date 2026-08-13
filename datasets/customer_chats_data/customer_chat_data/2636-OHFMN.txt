@@ -1,0 +1,17 @@
+Customer ID: 2636-OHFMN
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having trouble connecting to the internet. It's super slow and has a high latency. 
+Agent:  I understand your frustration. Can you please tell me what device you are using and if you've noticed any specific patterns with your connectivity? 
+Customer: I'm on my desktop, and it seems like it happens more during the evening hours.
+Agent:  Have you tried restarting your modem or router to see if that helps? 
+Customer: Yeah, that didn't work.
+Agent:  Let me check on our system status for DSL connections right now. I'm sorry for the inconvenience. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful, it would have been nice to see a faster resolution to the problem."
+Sentiment: Neutral

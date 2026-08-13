@@ -1,0 +1,17 @@
+Customer ID: 7359-PTSXY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my upload speed is significantly slower than I expected.
+Agent: Hello! I understand your frustration about your upload speed. Please tell me more about the issue. 
+Customer: My speeds are averaging around 1Mbps when it should be at least 5Mbps based on what I'm paying for and the advertised speeds online.
+Agent: Thank you. Could you please provide your account details? 
+Customer: Account Number: [account number]  
+Agent: Alright, thanks. Let me check your connection here and see if we can identify any issues that might be causing this.   
+Customer: Thanks.
+Agent: I'm looking into it now. Please stay connected and let me know if you have any questions in the meantime. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was resolved quickly and efficiently, appreciate your help!"
+Sentiment: Positive

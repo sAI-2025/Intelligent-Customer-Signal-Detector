@@ -1,0 +1,17 @@
+Customer ID: 0968-GSIKN
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent: Hello! I understand you're experiencing a weak Wi-Fi signal.  Can you please tell me your account details?
+Customer: Sure, it's [Account Number]. My name is Alex and I just started my month-to-month contract this past week. 
+Agent: Okay, Alex. Thank you. I see that you have Fiber optic internet. We can definitely look into this for you.  
+Customer: Great! Thanks for your help. 
+Agent:  I'm checking on the signal strength in your living room now.
+Customer: Excellent, thank you!
+Agent: No problem at all, Alex. I'll let you know once I have an update.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and efficient, and resolved my Wi-Fi issue quickly!
+Sentiment: Positive

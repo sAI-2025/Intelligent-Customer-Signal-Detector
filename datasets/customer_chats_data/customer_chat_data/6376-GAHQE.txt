@@ -1,0 +1,18 @@
+Customer ID: 6376-GAHQE
+Topic: website form fails during submission
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble submitting my website form. It keeps saying there was an error. 
+Agent: Hello!  I understand your form isn't completing properly. Can you please tell me what kind of issue you are seeing?
+Customer:  The page just freezes and then gives me an error message. My internet is strong and stable.
+Agent: I see, let's try to troubleshoot this together. Could you describe the specific error message? 
+Customer: It says "Connection to server failed". What can I do?
+Agent:  I will need a little bit more information about what browser and operating system you are using.
+Customer:  Chrome on Windows 10.  Is there an update for the form? 
+Agent: Thank you for providing that information! We're currently working to resolve this issue.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate them letting me know they're working on the issue. Hopefully, it gets resolved soon.
+Sentiment: Positive

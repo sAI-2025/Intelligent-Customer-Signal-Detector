@@ -1,0 +1,24 @@
+Customer ID: 8042-JVNFH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my Wi-Fi signal is really weak in the living room and bedroom. I was wondering if there’s a way to improve it? 
+
+Agent:  I understand your concern, we'd be happy to help you with that! Could you please provide your account details? 
+
+Customer: Sure. My name is [name], my contract number is [number] 
+   and my billing address is [address].
+
+Agent: Thank you for providing the information.  I’ve checked your account and noted down the weak signal issue in certain rooms. I will need to check your router settings for potential solutions. 
+
+Customer: Great, thanks! 
+
+Agent: No problem at all. I'll be connecting with our technicians shortly to explore possible solutions. We also offer a speed boost service if you’re interested. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient process to get my Wi-Fi issue addressed!
+Sentiment: Positive

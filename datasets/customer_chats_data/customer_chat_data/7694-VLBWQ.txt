@@ -1,0 +1,20 @@
+Customer ID: 7694-VLBWQ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having frequent internet disconnections today.
+Agent: Hi there! My name is Kevin, how can I help you?
+Customer:  I've been experiencing constant drops throughout the day and it's very frustrating. 
+Agent: I understand your frustration, let me take a look into this. Could you please provide your account details like your address or customer ID?
+Customer: Sure, my name is Sarah and my account number is 12345678.
+Agent: Thank you, Sarah. Let's check our records on your account.
+Customer:  I've only had this problem for a couple of days now. 
+Agent: We're seeing some network congestion reported in your area. Is there anything specific that is causing the disconnections? 
+Customer: No idea. 
+Agent: We will send someone out to check on your connection. It might be a temporary issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for looking into it, Kevin!  Hopefully the network congestion gets resolved soon.
+Sentiment: Positive

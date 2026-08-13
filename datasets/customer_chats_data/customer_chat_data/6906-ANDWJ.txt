@@ -1,0 +1,17 @@
+Customer ID: 6906-ANDWJ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, I'm having some serious issues with lag or latency when using my internet. 
+Agent:  I understand your frustration. Can you tell me a little more about what kind of usage you're experiencing this on?
+Customer: Mostly streaming Netflix and playing online games. Ping spikes up to 300ms during these activities, which is unacceptable.
+Agent:  I see. We've had reports of some intermittent high latency issues in the past month or so with our Fiber optic network. 
+Customer: Hmm, that's not good. I was hoping to avoid this.
+Agent:  Let me check your account details and run a diagnostics on your connection. We might need to adjust your settings for optimal performance.
+Customer: Alright, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help, hope the issue gets resolved quickly!"
+Sentiment: Positive

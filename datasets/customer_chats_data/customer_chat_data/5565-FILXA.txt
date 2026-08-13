@@ -1,0 +1,17 @@
+Customer ID: 5565-FILXA
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is so slow!  It's barely usable. 
+Agent: I understand your frustration. Could you please provide me with your account information?
+Customer: Sure. It's [account number]. 
+Agent: Thank you, [account number] . Let me check for any outages or service issues affecting your connection speed. 
+Customer:  I checked the speed test and it's much slower than my plan promises. 
+Agent: I see a discrepancy between your subscribed package and your current download speeds. Our Fiber optic plans come with guaranteed minimum download speed, could you please check for any recent changes to your router or modem? 
+Customer:  No, everything is set the same as before. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: **Feedback:** "While I appreciate the troubleshooting steps, it seems like there's a disconnect between what's advertised and what I actually experience."
+Sentiment: Negative

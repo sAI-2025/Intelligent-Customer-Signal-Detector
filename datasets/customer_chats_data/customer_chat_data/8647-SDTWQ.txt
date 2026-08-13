@@ -1,0 +1,17 @@
+Customer ID: 8647-SDTWQ
+Topic: payment method update failed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there, I'm having trouble updating my payment method on my account. 
+Agent:  I understand your issue, let me ask a few questions to help resolve it. What is the issue you are experiencing?
+Customer:  My card has been declined and it says "Payment Method Update Failed". 
+Agent:  We will look into this for you. Can you please provide me with your account number or any other relevant information about the payment method you'd like to use?
+Customer:  52487-6931, I'm using my same card that was used to pay last month. 
+Agent:  Thank you for providing that information. We'll investigate this and get back to you as soon as possible. 
+Customer:  Okay. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully it gets resolved quickly, thanks for your help."
+Sentiment: Neutral

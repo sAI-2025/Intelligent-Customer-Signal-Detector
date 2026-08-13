@@ -1,0 +1,18 @@
+Customer ID: 8784-CGILN
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is terrible! It’s way slower than what I’m paying for. I’ve been having a hard time streaming videos and gaming lately.
+Agent:  I understand your frustration,  can you please tell me the exact speeds you're getting and your subscribed plan details? 
+Customer:  My speed is about 10Mbps when my plan is 100Mbps! My contract is month-to-month and I’m paying $99.85 per month for Fiber optic service. This has been an ongoing issue for a few months now. 
+Agent:  I apologize for the inconvenience, let me check on that while you're with me. We have recently had some network issues with fiber connections, but your plan should be covering speeds of up to 100 Mbps down. 
+Customer:  Okay, thank you! I just hope it gets fixed soon as this is affecting my work and entertainment. 
+Agent:  I'll check on the status of the issue for you. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it still seems like there are ongoing network issues that need to be resolved promptly.
+Sentiment: Neutral

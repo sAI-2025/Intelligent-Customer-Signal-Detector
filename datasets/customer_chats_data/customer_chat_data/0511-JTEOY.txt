@@ -1,0 +1,24 @@
+Customer ID: 0511-JTEOY
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I need some help with my Wi-Fi signal in my living room. It's very weak and unusable most of the time. 
+
+Agent: Hello! Thank you for contacting us.  I understand your concern about the Wi-Fi in your living room. Can you please tell me more about what type of devices you are using? 
+
+Customer: I have a laptop, my phone and smart TV all connected to the Wi-Fi.
+ 
+Agent:  Okay, thanks for that information. I'd like to check on your router and signal strength. Could you try accessing your router settings via a computer or mobile device? 
+
+Customer: Done, it shows there is a strong signal in other rooms, just not in the living room.
+
+Agent:  I see.  We will need to look into this further. We may have to check for any interference or network configuration issues with your modem.  
+ 
+Customer: Ok, thank you! 
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for helping me get my Wi-Fi working again! I appreciate the quick response and effort."
+Sentiment: Positive

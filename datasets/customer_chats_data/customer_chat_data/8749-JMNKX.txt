@@ -1,0 +1,17 @@
+Customer ID: 8749-JMNKX
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is much slower than expected. I’m paying $93.8 a month and was expecting better speeds. 
+Agent:  I understand your concern. We're sorry for the inconvenience. Can you please provide your account number or the name on the account? 
+Customer:  My account number is #1234567. My name is Mary Smith. 
+Agent: Thank you, Mary. Let me run a speed test for you and check on your internet connection history.  
+Customer: Ok. 
+Agent: We see some slight fluctuations in speeds over the past month. The upload speeds should be around 10-15 MB/s based on our fiber optic service.
+Customer: Well, that’s not what I expected. 
+Agent:  I understand that you're unhappy with the speed and we are willing to help.  Please let me know if there is anything else I can do for you. Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the explanation about speeds is helpful, I still don't feel this level of service justifies the price point.
+Sentiment: Negative

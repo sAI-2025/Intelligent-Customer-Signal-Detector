@@ -1,0 +1,23 @@
+Customer ID: 9540-JYROE
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, my upload speed is much slower than expected. I'm paying $70.1 a month and have fiber optic internet. 
+
+Agent:  I understand your concern, please tell me what your current upload speed is and when you noticed the decrease?
+
+Customer: My actual upload speed is only 5 Mbps. The speed test on my phone shows around 15-20 Mbps expected.
+
+Agent: Thank you for providing that information. Let's investigate this issue further. I will need to check your account details to see if there are any recent network updates or issues.
+
+Customer: Okay, thanks. 
+
+Agent:  I have reviewed your account and noticed a recent service upgrade may be the cause of the lower upload speed. This is temporary and should improve by tomorrow. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update, I'm hoping the speed will improve as promised."
+Sentiment: Positive

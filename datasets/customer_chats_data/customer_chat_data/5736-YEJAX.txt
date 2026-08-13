@@ -1,0 +1,17 @@
+Customer ID: 5736-YEJAX
+Topic: repeated playback errors during movies
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I keep getting playback errors when watching movies on my plan, it’s happening almost every time.
+Agent:  I understand that you're experiencing playback issues while watching movies. To help troubleshoot, could you please tell me your device, the movie title and the error message you are seeing?
+Customer: It's a Samsung Smart TV, I can't remember the exact movie name, but it’s an action thriller with lots of explosions. The error message just says "Network connection interrupted."
+Agent:  I see that you have DSL internet for your home, and you mentioned this started happening recently. Could you please try restarting your modem and router? 
+Customer: Alright, I'm doing that now.
+Agent:  You can also check your bandwidth usage to see if there's a high demand on the network. This might help understand why you are experiencing playback issues. 
+Customer: Okay, thanks! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful the agent helped point me in the right direction; hopefully the restart will fix it!"
+Sentiment: Positive

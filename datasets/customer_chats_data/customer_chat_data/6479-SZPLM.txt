@@ -1,0 +1,24 @@
+Customer ID: 6479-SZPLM
+Topic: calls failing from specific locations
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble making calls from my location lately. 
+
+Agent:  I understand you're experiencing issues with call quality from your specific area. Could you please provide your address so I can take a look?
+
+Customer:  It's [customer's address].  My contract is for two years and I pay $19.45 per month.
+
+Agent: Thank you. I'm investigating the issue now. It sounds like there might be an ongoing issue in that specific location with our network infrastructure. 
+
+Customer: Okay, thanks for looking into it. 
+  
+Agent:  I will keep you updated on my findings. We should have this resolved by [date]. Thank you for contacting us. 
+
+
+   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the update! I appreciate your prompt response and effort to resolve this network issue.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 3969-JQABI
+Topic: customer wants to upgrade internet speed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'd like to upgrade my internet speed.  
+Agent:  Certainly! We can certainly explore options for you. May I ask what your current plan details are? 
+Customer: My plan is a month-to-month DSL contract with $65.25/month.
+Agent: Alright, we have several plans available, some offer faster speeds and lower data caps. 
+Customer:  I'd like something faster, but still within the budget I pay now.
+Agent:  We have a few options around that price range. Let me pull up those plans for you...
+Customer: Sounds great! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and offered some good options, and I'm happy to hear about the faster speeds available within my budget.
+Sentiment: Positive

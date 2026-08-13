@@ -1,0 +1,18 @@
+Customer ID: 5143-WMWOG
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I can’t seem to get online, is there a problem? The speeds are incredibly slow. 
+Agent:  I understand you're having trouble connecting. Could you please provide your account number and a brief description of the issue you're experiencing? 
+Customer: Sure. My Account Number is X1234567. I'm getting high latency, ping spikes, and slow load times. 
+Agent: Thank you for providing this information. Can you tell me what device you're using to access your internet?
+Customer: It’s my laptop.
+Agent:  I can see that your monthly payment is active. I apologize for the inconvenience; there may be a temporary issue with your service. 
+Customer: Thank goodness, I thought I might have messed something up! 
+Agent:  Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Relief that it was just a temporary problem, thanks for the quick response!
+Sentiment: Positive

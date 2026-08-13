@@ -1,0 +1,22 @@
+Customer ID: 5656-JAMLX
+Topic: customer asks about contract expiration
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I just wanted to check on my contract expiration date.
+
+Agent:  Hi there!  I can certainly help with that. What's your account number? 
+
+Customer: It's [account number].
+
+Agent: Your two-year contract will expire on [date]. Is there anything else I can assist you with today? 
+
+Customer: Thanks! Just checking to see if it’s the same expiration date as my last bill.
+
+Agent:  Yes, your next bill will reflect that expiry date.  Please let us know if you have any other questions. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick and clear info! My bill is now a lot easier to understand."
+Sentiment: Positive

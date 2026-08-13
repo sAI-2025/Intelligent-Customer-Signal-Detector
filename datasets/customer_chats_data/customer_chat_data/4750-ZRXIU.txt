@@ -1,0 +1,20 @@
+Customer ID: 4750-ZRXIU
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed is extremely slow during peak hours today.
+
+Agent: I understand your concern, let me check on your account and investigate further. 
+
+Customer:  It's been like this for the last few hours. It's difficult to work from home.
+
+Agent:  I see there are a couple of customers experiencing similar issues in your area. Our engineers are working on resolving it.
+
+Customer: I hope it gets fixed soon. Thank you! 
+ 
+Agent:  We appreciate your patience, and we will keep you updated as they make progress. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful to hear the engineers are working on it. Hopefully it's resolved soon!"
+Sentiment: Positive

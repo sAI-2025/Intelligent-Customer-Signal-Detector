@@ -1,0 +1,19 @@
+Customer ID: 6804-GDMOI
+Topic: customer received a better competitor offer
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I recently received an offer from a competitor that has significantly lower pricing on their fiber optic internet. 
+Agent: I understand your concern and would be happy to review your current plan and options for you.  What is the specific detail of the competitor's offer you are referring to? 
+Customer: Their price is $85 per month for the same speed and data limits as mine. 
+Agent: Let me check our pricing structure. Thank you for staying with us, we value your loyalty. 
+Customer: I’ve been a customer for over six years.
+Agent:  I appreciate that. I'm happy to explore ways to make your plan more competitive.
+Customer: I just want the same speed and data as before for $85 per month. 
+Agent: I understand. We may not be able to match that specific price point, but we can explore other options for you.  Would you like me to go over our current deals? 
+Customer: Yes, please.
+Agent: Our most popular plan is the [Plan Name], which offers similar speeds and data with a $95 monthly rate. We also have a discount program that could potentially bring
+
+----------------------------------------
+Feedback: I appreciate the agent's effort to explore alternatives, but it seems like their standard pricing doesn't quite meet current market competition.
+Sentiment: Neutral

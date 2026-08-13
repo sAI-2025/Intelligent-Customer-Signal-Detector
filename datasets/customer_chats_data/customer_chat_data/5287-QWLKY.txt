@@ -1,0 +1,17 @@
+Customer ID: 5287-QWLKY
+Topic: family or shared line benefits not working
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having trouble with my family or shared line benefits. 
+Agent: Hi there! Thank you for contacting us, I understand you're having some difficulty with your benefits.  Can you please provide your account details so I can assist you further? 
+Customer: Sure, my name is Eleanor Smith and my account number is 1234567890.
+Agent: I see your information here, Eleanor.  Let me take a look at the benefits issue. 
+Customer: My family line hasn't been working for days. We can't even connect to each other on calls or streaming.
+Agent: I see that you're on a month-to-month plan and pay $105.1 per month for fiber optic internet.  What specific issue are you facing? 
+Customer: I'm concerned about the impact this is having on our family's communications, especially in times of need when we rely on each other.
+Agent: We apologize for the inconvenience and frustration this has caused.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for your help! It's frustrating to have no communication with my family, but I appreciate the quick resolution."
+Sentiment: Positive

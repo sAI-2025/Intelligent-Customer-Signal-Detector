@@ -1,0 +1,20 @@
+Customer ID: 8625-AZYZY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is slower than expected. I'm paying $104.65 for Fiber optic internet and have been a customer for 24 months.
+
+Agent:  I understand your concern, please provide me with your account information so I can investigate further.
+
+Customer: Account number is XXX-XXXX-XXXXXXX. My name is John Doe.
+
+Agent: Thank you, John. Let's check on the status of your connection and see what we can do. 
+
+Customer:  Okay.
+
+Agent:   We will look into this issue right away and I expect to resolve it by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for looking into this, it's appreciated! Fingers crossed for a faster upload speed."
+Sentiment: Positive

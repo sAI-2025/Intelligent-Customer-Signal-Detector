@@ -1,0 +1,15 @@
+Customer ID: 8348-HFYIV
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is incredibly slow today and I can barely stream any video. 
+Agent:  I understand you're experiencing slower than usual speeds. Can you tell me your plan name and location?
+Customer: My plan is the Essential DSL plan and it’s my first time ever using internet.
+Agent: I see, thanks for the information!  We do have a high volume of users with our DSL plans today. 
+Customer:  Is there anything I can do to fix this right now?
+Agent: We'll look into your account further and ensure it's running smoothly. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate you looking into the issue, but the slow speeds haven't improved yet.
+Sentiment: Negative

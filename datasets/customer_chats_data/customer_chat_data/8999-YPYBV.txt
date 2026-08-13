@@ -1,0 +1,16 @@
+Customer ID: 8999-YPYBV
+Topic: customer reports incorrect account details
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need to update my account information online, but it seems like something is wrong. My address and phone number are incorrect on the website. 
+Agent:  I understand you're having trouble updating your account details online. Please tell me what specifically needs to be changed.
+Customer: It says my phone number is "unknown." I just moved recently.
+Agent:  Let me look into this for you. Could you please confirm your current address and new phone number? 
+Customer: My old address was 123 Main St, Anytown, USA. The new one is 456 Elm Rd, Anotherville, USA.  The phone number is (555) 123-4567.
+Agent: Thank you for that information. I will update your account details shortly. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This was a quick and easy fix! Thanks for helping me get my info updated."
+Sentiment: Positive

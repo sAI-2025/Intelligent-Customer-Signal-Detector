@@ -1,0 +1,17 @@
+Customer ID: 8640-SDGKB
+Topic: mobile data becomes unusually slow
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! My mobile data has been incredibly slow lately. It used to be fine.
+Agent:  I understand your concern, I'm happy to help. Can you please tell me what specific issues you're experiencing with the speed? 
+Customer: Mostly just browsing and streaming on my phone. It seems extremely slow compared to what it used to be.
+Agent: Thank you for that information. To diagnose this issue further, could you please provide your account number or name?
+Customer: My account number is XXX-XXXX. Thanks! 
+Agent: I've logged in and checked your account.  Your speed tests indicate a slight network congestion. We can look into possible solutions to improve your experience. 
+Customer: That sounds good, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick resolution! Hopefully the network congestion issue gets fixed soon.
+Sentiment: Positive

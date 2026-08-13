@@ -1,0 +1,18 @@
+Customer ID: 3662-FXJFO
+Topic: customer cannot find required account option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello! I can't seem to find my account settings on your website. 
+Agent:  I understand you're having trouble accessing your account settings. Can you tell me which specific feature or setting you are looking for?
+Customer: I need to change my payment method online, but the option is missing in the menu.
+Agent:  I see that you are currently on a two-year contract with us and have been using our No Internet service. 
+Customer:  Yes, that's correct.
+Agent: Let me check this for you, please hold. 
+Customer:  Okay
+Agent: I found the setting for changing your payment method. You should be able to do so now. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: I appreciate the quick resolution! Thanks for helping me find my payment settings.
+Sentiment: Positive

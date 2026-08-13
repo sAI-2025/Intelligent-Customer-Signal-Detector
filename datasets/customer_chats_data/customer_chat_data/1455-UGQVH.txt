@@ -1,0 +1,15 @@
+Customer ID: 1455-UGQVH
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having a lot of trouble with my internet connection lately. It keeps disconnecting frequently, even when it’s not busy. 
+Agent:  I understand your frustration. Let me take a look at your account.  
+Customer: Thanks for that. My contract is month-to-month and I’ve been paying $98.50 per month. Is there something specific I should do to help you diagnose the problem?
+Agent: We have had a lot of reports on recent issues with our fiber optic network, I'll check into it right now. 
+Customer:  Great! Thanks for your help. 
+Agent: No problem at all, we’re here to help. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was very helpful and kept me updated on the progress. Thanks!"
+Sentiment: Positive

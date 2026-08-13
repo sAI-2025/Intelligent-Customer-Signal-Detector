@@ -1,0 +1,19 @@
+Customer ID: 1565-RHDJD
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey! My internet is down completely and I can't connect to anything.  
+Agent: Hello there! I understand you're experiencing an outage. Please provide your account information so I can check on it for you. 
+Customer: Sure, my account number is 1234567890. 
+Agent: Thank you. Let me look into the details of your Fiber optic connection... 
+Customer:  I've been experiencing this issue for the past hour or so.  
+Agent: I see there are some network issues in your area right now, but we should have it fixed soon!
+Customer:   Hopefully, I'm trying to work from home and this is very disruptive. 
+Agent: I’m so sorry about the inconvenience. We will update you once it’s back online. 
+Customer: Thank you.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know, hopefully things will be resolved soon!"
+Sentiment: Positive

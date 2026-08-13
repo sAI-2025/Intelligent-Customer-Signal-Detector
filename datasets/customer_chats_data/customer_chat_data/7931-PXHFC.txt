@@ -1,0 +1,26 @@
+Customer ID: 7931-PXHFC
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, my internet download speed is very slow today. I'm on a $62.3 plan and it's not what I expect.
+
+Agent:  I understand you are experiencing slower than expected download speeds. Can you please tell me your location and the device you are using? 
+
+Customer: My location is [location],  and I'm using my laptop.
+ 
+Agent: I see a service outage in your area. We have been working to resolve it but it could take some time.
+
+
+Customer:  I’ve had this issue for hours now, and it’s impacting work. Is there any way to speed up the download?
+
+Agent: Yes, we can check your account to see if there is anything else that needs to be done on our end. 
+ 
+Customer:  Thank you! 
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Frustrating that I've been without internet service for hours now, especially with work deadlines looming.
+Sentiment: Negative

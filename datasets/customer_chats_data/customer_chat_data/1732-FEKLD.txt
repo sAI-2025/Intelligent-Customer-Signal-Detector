@@ -1,0 +1,22 @@
+Customer ID: 1732-FEKLD
+Topic: connection drops when multiple devices connect
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet keeps dropping out, especially when multiple devices are connected. I've been experiencing this issue for a few days now. 
+
+Agent: I understand your frustration.  Can you tell me which devices are typically causing the disconnections? 
+
+Customer: It seems like anything from my laptop to my smart TV is triggering it, but not consistently.
+
+Agent: Let's check your modem and router settings. Could you please confirm your IP address and MAC address? 
+
+Customer:  Here they are. Thank you for your help!
+ 
+Agent: I have checked the connection and will run some tests to see if we can resolve this issue. We may need to upgrade your service plan.   
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, I appreciate the quick response. Hopefully, the new plan works!"
+Sentiment: Positive

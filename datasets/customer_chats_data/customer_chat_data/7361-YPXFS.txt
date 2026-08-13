@@ -1,0 +1,19 @@
+Customer ID: 7361-YPXFS
+Topic: device compatibility problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I can't connect to the internet. My device isn't compatible. 
+Agent:  I understand your concern, [Customer Name]. To better assist you, could you please tell me what type of device you are trying to use? 
+Customer: It's a laptop.
+Agent: Thank you for clarifying that.  Your DSL service plan is compatible with laptops.
+Customer: I'm still having problems. Is there something else I can do to troubleshoot this?  
+Agent: Let me double-check your account and modem settings; are you sure you have the correct connection details entered in your device? 
+Customer: Yes, everything seems right.
+Agent: Okay, sometimes minor configurations can cause issues. Have you tried restarting both your laptop and the modem/router? 
+Customer: Yeah, no luck.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm still frustrated that I couldn't resolve the issue despite troubleshooting steps.
+Sentiment: Negative

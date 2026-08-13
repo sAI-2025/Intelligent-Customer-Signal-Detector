@@ -1,0 +1,17 @@
+Customer ID: 8221-EQDGL
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is super slow right now.  I just finished a 1 hour video and it took forever!
+Agent: I'm sorry to hear you are experiencing slow speeds. Can you tell me what plan you have subscribed to?
+Customer: I am on the $61.0/month package with DSL internet.
+Agent: Thank you for that information.  I will check your account and see what we can do about this. 
+Customer:  Hopefully it gets fixed soon! 
+Agent: I'm checking for any known issues with your service area, and will update you on the progress. 
+Customer: Thanks!  I really need to download some files today. 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thank you for getting back to me so quickly, I appreciate the prompt attention.
+Sentiment: Positive

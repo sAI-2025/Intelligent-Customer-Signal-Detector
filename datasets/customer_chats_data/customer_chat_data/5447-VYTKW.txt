@@ -1,0 +1,18 @@
+Customer ID: 5447-VYTKW
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, my internet is really slow this evening, especially during peak hours. 
+Agent:  I understand you're experiencing slow speeds, and I'd like to help troubleshoot that for you. What kind of devices are you using?
+Customer: Mostly just browsing the web and checking emails on our laptops. 
+Agent: Have you tried restarting your router and modem? That sometimes helps with speed issues.
+Customer:  I did that but nothing changed.
+Agent: Let's check if there are any service outages in your area. Would you mind providing your account number and address, so I can confirm the status of your DSL connection? 
+Customer: Sure, it’s [redacted]. 
+Agent: Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's disappointing that restarting my router didn't help with the slow speeds despite the agent's suggestions.
+Sentiment: Negative

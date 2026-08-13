@@ -1,0 +1,22 @@
+Customer ID: 6017-PPLPX
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm having trouble connecting to the internet. It says there's a problem. 
+
+Agent:  Hi [Customer Name], I see your account is currently experiencing issues with internet connectivity. Can you please provide your address or location for me to confirm?  
+
+Customer:  I'm at [Customer Address].  
+
+Agent: Thank you, I'll take a look into this now. 
+
+Customer:  Is there any ETA for the issue getting resolved? 
+
+Agent: We are working on resolving the issue and expect it will be resolved by the end of the day.  
+    
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated! I appreciate you getting this sorted out so quickly."
+Sentiment: Positive

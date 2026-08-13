@@ -1,0 +1,18 @@
+Customer ID: 2499-AJYUA
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm unable to connect to the internet at all. 
+Agent: Thank you for contacting us, may I have your account details please?
+Customer: Sure, my name is John Smith and my account number is 1234567890.  I am on a two-year contract and pay $110.8 monthly.
+Agent: John, we're experiencing some widespread internet outage in your area at the moment. We are working to get it restored as quickly as possible. 
+Customer: How long will this be?
+Agent: The estimated restoration time is around three hours but we are constantly updating our status page for customers.  Would you like me to send you that link? 
+Customer: Please do, thanks.
+Agent: You're welcome, John. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was frustrating to be disconnected without clear communication about the outage and time frame for resolution.
+Sentiment: Negative

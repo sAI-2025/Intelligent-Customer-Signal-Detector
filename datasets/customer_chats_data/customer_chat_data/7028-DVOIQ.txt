@@ -1,0 +1,24 @@
+Customer ID: 7028-DVOIQ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet.  It keeps dropping out frequently. 
+
+Agent:  I understand your frustration, let me check on your account. What is your full name and address please?
+
+Customer:  Robert Smith, 123 Oak Street.
+
+Agent:  Thank you Mr. Smith, I see you're currently on a month-to-month Fiber optic plan and have been with us for 35 months. Let me look into this further.
+
+Customer:  Is there anything else I should do?
+
+Agent:  I just need to run some diagnostic tests.  Please allow me a few minutes while we troubleshoot the issue.  We'll get your internet back up and running in no time. 
+
+Customer: Thank you. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quickly resolved my internet problem, I appreciate their assistance."
+Sentiment: Positive

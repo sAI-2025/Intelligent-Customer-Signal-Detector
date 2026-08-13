@@ -1,0 +1,23 @@
+Customer ID: 6458-CYIDZ
+Topic: billing information unavailable online
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't seem to find my billing information online. It was just updated last month and it should be available on my account page. 
+
+Agent:  I understand your frustration, Mr./Ms. [Last Name].  Let me check for you. 
+
+Customer: Thank you!
+
+Agent: Please allow a few moments while I look into this for you.  My apologies for any inconvenience. 
+
+Customer: No problem at all.  Have a good rest of the day! 
+
+Agent:  I've located your billing information. It is available here on this platform. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks so much for getting back to me quickly and helping me find my billing info! 😊
+Sentiment: Positive

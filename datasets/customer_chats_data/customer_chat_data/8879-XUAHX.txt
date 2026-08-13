@@ -1,0 +1,19 @@
+Customer ID: 8879-XUAHX
+Topic: phone cannot connect to router
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't connect to the internet on my phone and get a message saying the modem is disconnected. 
+Agent: Thank you for contacting us. To help troubleshoot this issue, could you please provide your account number?
+Customer: It's [Account Number]
+Agent:  I see there are some updates about your service plan that might be affecting connectivity. 
+Customer: What kind of updates?
+Agent: We recently updated our billing and account information for your Fiber Plan and it looks like the modem connection is affected by this change. 
+Customer: Okay, what do I need to do to fix this?
+Agent:  I'd recommend restarting your modem and router, then check if that helps. If not, we can work on a quick solution over phone call
+Customer: Alright, I will do that. Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful to understand the issue and the potential solutions were explained clearly.
+Sentiment: Positive

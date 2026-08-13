@@ -1,0 +1,17 @@
+Customer ID: 8075-GXIUB
+Topic: device repeatedly loses connection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need help connecting to internet. My device keeps losing connection. 
+Agent:  I understand your frustration. Can you tell me what type of device and model you are using? 
+Customer:  It's a Samsung Galaxy phone, model number SM-G781B.
+Agent:  Thank you. I see there might be some service issues on your end. Could you try resetting your network settings? 
+Customer:  I did that but it didn’t help!
+Agent: Let me check the account and see if we have any known outages in your area. 
+Customer: Thank you for checking.
+Agent: I just wanted to let you know there is a temporary outage affecting some areas. Your service should be restored soon.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! Hopefully my connection will be back up soon."
+Sentiment: Positive

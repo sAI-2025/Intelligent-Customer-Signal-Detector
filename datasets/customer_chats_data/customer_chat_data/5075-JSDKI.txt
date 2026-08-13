@@ -1,0 +1,17 @@
+Customer ID: 5075-JSDKI
+Topic: customer cannot access subscribed TV channels
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't seem to access any of my subscribed TV channels. 
+Agent: I understand you're having trouble accessing your subscription channels. Can you please provide your account number and email address?
+Customer: Sure, here it is.  2014875693; [email protected] 
+Agent: Thank you for that information. Let me check on the issue.
+Customer: I'm getting a message about my subscription status not being active. 
+Agent: Can you please confirm if your payment has been made for this month?
+Customer: Yes, I paid yesterday. 
+Agent:  I see your payment was processed successfully. We have some temporary issues with our streaming platform that may be causing the problem. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for clarifying the issue and getting to the bottom of it! I appreciate the update on the temporary platform issue.
+Sentiment: Positive

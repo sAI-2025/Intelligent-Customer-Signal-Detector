@@ -1,0 +1,24 @@
+Customer ID: 7240-ETPTR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to Wi-Fi in my bedroom and living room.  The signal is really weak there. 
+
+Agent: Hello! I'm sorry to hear you are experiencing such spotty Wi-Fi. 
+
+Customer: Thanks for the help. I just moved into this house a few months ago, could that be a factor?
+
+Agent:  It's certainly possible. Could you tell me your account details and which room has the weakest signal?
+
+Customer: My account number is 1234567890.  The living room and bedroom have no signal, but it's strong in the kitchen and dining area. 
+
+Agent: I see, thanks for that information. We can take a look into your router placement and signal strength. 
+
+Customer: Wonderful! Thanks so much!
+ 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and clearly explained the next steps.  Hopefully this resolves the Wi-Fi issues!"
+Sentiment: Positive

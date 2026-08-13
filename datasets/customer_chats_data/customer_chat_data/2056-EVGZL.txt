@@ -1,0 +1,18 @@
+Customer ID: 2056-EVGZL
+Topic: customer wants cheaper service options
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm looking to downgrade my plan and save some money. Can you suggest any cheaper options?
+Agent:  Absolutely! We have a few plans that might fit your needs better. 
+Customer: My current plan is the $105.75 Fiber optic internet plan. It's been one year. 
+Agent:  Okay, we can definitely explore some alternatives for you. How does reducing your speed or data limit sound?  
+Customer: I don't think I need that much speed, my use case is pretty standard.
+Agent:  We have a couple of plans with slower speeds and lower data caps that could be more suitable. 
+Customer: Ok, how about those options? 
+Agent: Let me pull up some details on those plans for you and we can go over the differences. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me find a more affordable plan!  It was helpful to get your suggestions."
+Sentiment: Positive

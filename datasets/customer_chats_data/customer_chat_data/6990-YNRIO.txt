@@ -1,0 +1,17 @@
+Customer ID: 6990-YNRIO
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! I'm having constant internet disconnections lately. It happens frequently, every few hours.
+Agent:  I understand your frustration. What is your account number and the address where you experience these disconnections? 
+Customer: My account number is 1234567890 and it’s at 123 Main Street.
+Agent: Thank you for providing that information. I'll look into this further.  Have you recently made any changes to your network equipment or have there been any other unusual events?  
+Customer: No, nothing new has been installed or changed on my end.  It's just been happening regularly and randomly. 
+Agent: Thank you for that information. I'm going to check your service plan and see what the cause of these intermittent disconnections may be. 
+Customer: Okay, thanks!
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "I appreciate the prompt response and effort to resolve this issue. Hoping to hear back soon about a solution."
+Sentiment: Positive

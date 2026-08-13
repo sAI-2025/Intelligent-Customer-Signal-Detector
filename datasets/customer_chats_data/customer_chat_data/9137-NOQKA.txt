@@ -1,0 +1,19 @@
+Customer ID: 9137-NOQKA
+Topic: customer cannot change service online
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I am having trouble changing my service online and need assistance. 
+Agent:  Hello! I see you're trying to change your plan online. Can you please provide me with your account number?
+Customer: Yes, it is 1234567890. 
+Agent: Thank you for that information. It looks like your service is on a month-to-month contract.
+Customer: So I can't change the plan online?  It just doesn't allow me to.
+Agent:  I understand, sir. We do not offer self-service changes for monthly contracts at this time. 
+Customer:  Ok, thank you. 
+Agent:  Would you like me to schedule a call with one of our customer service representatives so we can assist you further? 
+Customer: Yes please.
+Agent: Absolutely! It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: While I appreciate the agent's willingness to help, it would be beneficial if online self-service for monthly contracts were an option in the future.
+Sentiment: Neutral

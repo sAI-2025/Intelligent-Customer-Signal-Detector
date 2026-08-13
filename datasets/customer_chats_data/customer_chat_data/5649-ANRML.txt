@@ -1,0 +1,18 @@
+Customer ID: 5649-ANRML
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet speed. It seems to be much slower than what's expected for my plan. 
+Agent: Hi there!  I understand you're experiencing slow speeds. Could you please provide me with your account details, such as the username and the last few digits of your phone number?
+Customer: Sure, here it is. My username is [username] and the last four digits of my phone number are [number]. 
+Agent: Thank you for providing that information. I've checked your account and it appears you may have exceeded your data limit for the month. 
+Customer: Really? 
+Agent:  I can certainly help with speeding up your download speeds, but there will be a charge to unlock faster data. Would you like me to walk through that process with you?
+Customer: Yes, please. 
+Agent: Let's get started. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the explanation about exceeding the data limit was helpful, I would have appreciated a more proactive approach from the beginning regarding troubleshooting potential network issues rather than just pointing to a limit.
+Sentiment: Negative

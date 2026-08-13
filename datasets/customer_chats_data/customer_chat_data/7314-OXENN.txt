@@ -1,0 +1,22 @@
+Customer ID: 7314-OXENN
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is way slower than what I'm paying for. I just started my Fiber optic plan two months ago and it's never been this slow. 
+
+Agent:  I understand your frustration. Can you please provide me with your account details and the specific speeds you are seeing?
+
+Customer: Sure, my account name is [Account Name] and the download speed is around 2 Mbps.  The plan is supposed to be 100 MB/s.
+ 
+Agent: Thank you for providing those details. Our Fiber optic service typically delivers speeds of up to 100 MB/s. I would recommend checking if your router is properly connected and set up correctly.
+
+Customer: I have checked everything, my router is working fine.  
+
+Agent:  I apologize for the slow speed and inconvenience you're experiencing. Thank you for contacting us. 
+  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent offered helpful suggestions, it seems unlikely this issue will be resolved quickly given my experience with the slow speeds even after checking everything.
+Sentiment: Negative

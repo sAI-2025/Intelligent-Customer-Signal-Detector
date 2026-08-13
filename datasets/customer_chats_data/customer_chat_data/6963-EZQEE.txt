@@ -1,0 +1,21 @@
+Customer ID: 6963-EZQEE
+Topic: certain TV channels unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I can't seem to get any of the ESPN channels.  
+Agent: Hello! I understand that you're having trouble accessing certain TV channels. My name is Sarah. 
+Customer: Yes, I just got the usual cable bill and noticed several ESPN channels are unavailable.   
+Agent:  I apologize for this inconvenience.  Could you please provide your account number or subscriber ID?
+Customer: It's [account #]. 
+Agent: Thank you! Let me check on that, and we can see what options we have available to you. 
+Customer: That would be great.  
+Agent: I'm looking into it now. Please hold while I look into this for you...
+Customer: Thanks.
+Agent: ...We may need to do some technical troubleshooting. We'll get you back up and running in no time! 
+Customer: Okay, thank you. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and kept me informed throughout the process.
+Sentiment: Positive

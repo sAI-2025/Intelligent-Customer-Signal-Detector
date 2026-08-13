@@ -1,0 +1,25 @@
+Customer ID: 1024-VRZHF
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hi, I'm having trouble connecting to the internet. It seems really slow and there's a lot of lag. 
+
+Agent: I apologize for the slow connection you are experiencing. To troubleshoot this further, could you please provide your account information or the IP address?
+
+Customer: My account details are [account number] and my IP address is 192.168.1.100. 
+
+Agent: Thank you for that information. I can see some recent spikes in latency on your network. 
+
+Customer:  Ok, what can be done about it?
+ 
+Agent: We'll be running a network diagnostics test to check the cause of the latency. It should take about an hour or two. 
+
+Customer: Thanks!
+
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into the issue and providing updates.  I hope this gets resolved soon."
+Sentiment: Positive

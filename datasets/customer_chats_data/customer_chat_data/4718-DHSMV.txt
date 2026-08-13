@@ -1,0 +1,24 @@
+Customer ID: 4718-DHSMV
+Topic: music application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, my music app keeps crashing and I can't listen to my playlists!  It started happening after yesterday's update.
+
+Agent: Hello! We're sorry to hear you're experiencing crashes with your music application. 
+
+Customer: What should I do? Is there a known issue? How about checking for updates on my end?
+
+Agent: Thanks, we can look into that.  Could you tell us what kind of device you're using and the operating system?
+
+Customer: I use an iPhone 13 Pro running iOS 16.2.
+
+Agent: Okay, thanks. We are currently investigating a possible issue with that version of iOS causing some app crashes. 
+
+Customer:  Well, that's frustrating! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It's disappointing to hear that the update caused issues, but I appreciate knowing there's an investigation underway.
+Sentiment: Neutral

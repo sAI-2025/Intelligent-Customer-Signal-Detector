@@ -1,0 +1,17 @@
+Customer ID: 5676-CFLYY
+Topic: installation or activation fee dispute
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm disputing my installation fee on a new DSL connection. It seems high for the services provided. 
+Agent:  I understand your concern, and I apologize for any confusion regarding your fees. 
+Customer:  My contract is two years old, and I believe there should be no charge as it was already included in the initial cost of my service.
+Agent: I can look into that for you. Could you please provide your account number or customer ID?
+Customer: My account number is [account number].
+Agent:  I've found a record for your DSL connection. It appears there were no installation fees at the time of signing your contract. 
+Customer: Thank you! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and quickly resolved my issue. Thanks!"
+Sentiment: Positive

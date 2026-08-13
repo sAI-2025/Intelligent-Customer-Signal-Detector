@@ -1,0 +1,17 @@
+Customer ID: 4176-RELJR
+Topic: router lights showing unexpected status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my router lights. They're showing an unexpected status. 
+Agent:  I understand you are experiencing difficulties with your router lights, let me assist you further.  Please tell me what the router lights are displaying? 
+Customer: The lights are constantly flashing red and orange.  It wasn't doing this before.  
+Agent: I see.  What is the model of your router? 
+Customer: It's a Netgear Nighthawk AC1900.  
+Agent: Thank you for providing that information.  Could you please run a quick network diagnostics test and let me know the results? 
+Customer:  I am waiting on the results... (after several minutes)   The diagnostics show there is an issue with your connection. 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Finally got some resolution, appreciate the help!"
+Sentiment: Positive

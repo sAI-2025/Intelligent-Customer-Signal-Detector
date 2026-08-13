@@ -1,0 +1,29 @@
+Customer ID: 5320-BRKGK
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I want to know about your service plans. My current plan is 2-year old, and I'm paying $75.8/month.  I use DSL internet for my home.
+
+Agent: Hello! Thank you for reaching out. We can definitely look at some options for you.  What are some of the key things you like about your current service plan? 
+
+
+Customer: It's been working fine, just wondering what other choices I have. 
+
+Agent:  Based on your contract and DSL internet usage, we offer several plans with different speeds and features. Would you be interested in seeing the plans for speed tiers or perhaps our best value options?
+
+
+Customer:  I'm not too sure, I'd like to see what's available.
+
+Agent:  Let me pull up some examples of your plan choices and details. 
+
+**Customer:** Ok thank you!  
+
+Agent:  Okay, here are a few plans that offer similar speeds to your current plan, with potential savings in monthly cost. Would you prefer to see the pricing breakdown for one of these plans or would you like me to explain them further?
+
+
+Customer: I'm good with
+
+----------------------------------------
+Feedback: "Thank you for helping!  I appreciate the information."
+Sentiment: Positive

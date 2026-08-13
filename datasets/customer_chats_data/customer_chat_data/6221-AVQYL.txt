@@ -1,0 +1,19 @@
+Customer ID: 6221-AVQYL
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having issues with my upload speed. It's significantly slower than expected for a $73.25 plan. 
+Agent: Thank you for reaching out!  I understand you're experiencing slow upload speeds. Can you please tell me your location and the specific device you're using?
+Customer: I am in [City, State], and I'm accessing the internet with my laptop.
+Agent:  Okay, let me check our records on this. 
+Customer: My contract is month-to-month, just got it about two months ago. 
+Agent: We do use fiber optic internet for your plan, so we are able to provide a very fast connection. Do you have any trouble browsing the web or streaming?  
+Customer: Mostly when I try to upload files.
+Agent:  I'll go ahead and initiate a speed test now while checking into this issue with our network team. 
+Customer: Great, thanks for the help! 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, I appreciate your prompt response."
+Sentiment: Positive

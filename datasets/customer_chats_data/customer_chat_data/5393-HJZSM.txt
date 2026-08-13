@@ -1,0 +1,24 @@
+Customer ID: 5393-HJZSM
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is very slow today. I'm subscribed to the 50Mbps plan and my speeds are barely getting above 10Mbps. 
+
+Agent:  I understand you're experiencing slow download speeds. I'd be happy to look into this for you. Can you tell me your account information, so I can check on your connection? 
+
+Customer: Sure, it's [Account Number] and my full name is [Full Name]. 
+
+Agent: Thanks for that, [Full Name].  I've checked your DSL settings and there doesn't appear to be any known outages in the area. However, we are experiencing some general slowdowns today due to heavy traffic. 
+
+Customer: I still think this is a bit unacceptable for my $76.3 monthly payment.
+
+Agent: We understand.  We can investigate further into your speed and see if there's something else going on with your connection. Is there anything else we can help you with today?
+
+Customer: Just looking to get my speeds back up. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's efforts, but still a bit disappointed with the slow speeds even after investigation.
+Sentiment: Neutral

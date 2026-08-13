@@ -1,0 +1,20 @@
+Customer ID: 2379-GYFLQ
+Topic: referral program question
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I need clarification on your referral program! How can I get a discount if I refer someone? 
+
+Agent:  Referrals work by you sharing your unique referral link with friends or family and they sign up for an internet plan.  If the new member stays subscribed for six months, you'll receive a $100 credit on your next bill!
+
+Customer: Great, thanks! 
+
+Agent: Let me know if you have any other questions. 
+ 
+Customer: No worries! I understand now. Thanks again. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the clear explanation! This program is a nice incentive.
+Sentiment: Positive

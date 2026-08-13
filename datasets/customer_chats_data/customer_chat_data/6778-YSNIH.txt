@@ -1,0 +1,17 @@
+Customer ID: 6778-YSNIH
+Topic: network device overheating
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I have a problem with my internet connection. It seems like my network device is overheating. 
+Agent:  I understand. May I ask what model of modem or router you are using? 
+Customer: It's a Cisco DPC250.
+Agent: Thank you. Could you please tell me your account number so I can check on the status of your service?
+Customer:  It's [account number].  
+Agent: Alright, thank you. We'll look into that for you shortly. 
+Customer: Okay. 
+Agent: Let me know if you have any other questions in the meantime. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and I appreciate the quick response!
+Sentiment: Positive

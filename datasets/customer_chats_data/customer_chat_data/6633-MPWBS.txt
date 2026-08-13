@@ -1,0 +1,24 @@
+Customer ID: 6633-MPWBS
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet today. It's really slow during peak hours.
+
+Agent: I understand your concern, [Customer Name].  I can see you're experiencing slower speeds during peak times. 
+
+Customer:  Thanks! It makes it hard to work from home. 
+
+Agent: Let me check on that for you. What time does this seem to be happening?
+
+Customer: About 5 PM - 7 PM. Seems like everyone else is trying to use the internet then. 
+
+Agent: I will look into your account and see if there's a potential issue with our network during that time frame. 
+
+Customer:  Thanks!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quick to acknowledge my problem, which helped ease my frustration."
+Sentiment: Positive

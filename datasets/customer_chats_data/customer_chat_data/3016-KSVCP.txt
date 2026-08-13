@@ -1,0 +1,18 @@
+Customer ID: 3016-KSVCP
+Topic: customer reports unusually high data usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having a weird issue with my data usage. My bill says I used 15GB in a month when I only download videos and emails. Is there something wrong?
+Agent: Hello! Thank you for contacting us. Can you tell me your account number?  
+Customer: Sure, it's [redacted]. 
+Agent: Let me check that information for you. Based on your account details, it seems like you have a potential data usage issue that could be due to a few things. We can help you troubleshoot it! 
+Customer: Okay, that sounds good. 
+Agent: I will explain the situation and we'll see how to proceed. Please wait while I investigate further...
+Customer: Thanks for your help! 
+Agent: Thank you for contacting us.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful in trying to solve my data issue, but it would be useful if there were more information on how to avoid similar issues in the future."
+Sentiment: Neutral

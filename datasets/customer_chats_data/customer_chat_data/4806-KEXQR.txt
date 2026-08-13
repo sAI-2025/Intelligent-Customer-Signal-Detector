@@ -1,0 +1,24 @@
+Customer ID: 4806-KEXQR
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with my Wi-Fi signal in the bedroom.  It's pretty weak and makes streaming video impossible.
+
+Agent: Thank you for reaching out to us! I'd like to help investigate this. Could you please provide your account information or service address so I can look up your plan details? 
+
+Customer: Sure, my account number is [redacted] and the address is [redacted].
+
+Agent: Thanks for that information.  I see your Fiber Optic internet is on a month-to-month contract at $79.90 per month.  Let me check if there are any known issues with service in your area. 
+
+Customer:  That sounds good, thanks!
+
+Agent: I'm checking the signal strength now.  We may need to run some tests on our network equipment. We will get back to you shortly.
+
+Customer: Thanks for that. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks, it seems like things are getting sorted out!  I appreciate the help.
+Sentiment: Positive

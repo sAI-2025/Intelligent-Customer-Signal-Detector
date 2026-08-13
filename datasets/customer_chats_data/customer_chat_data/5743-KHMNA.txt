@@ -1,0 +1,28 @@
+Customer ID: 5743-KHMNA
+Topic: internet service interruption after payment
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I was hoping to get some information about my internet service. 
+
+Agent:  Hello!  My name is Mike, how can I help you? 
+
+Customer: Well, my internet has been down for the past hour and a half, and it doesn't seem like anyone else in the neighborhood is having the same issue.  
+ 
+Agent:  I understand your frustration. Let me pull up your account information to see what's going on.
+
+Customer: I just paid my bill last week. 
+
+Agent: Okay, you have a two-year contract with us at $25.55 per month. We don't typically issue service interruptions unless there is an issue with the account itself.  
+
+Customer: Well, it wouldn’t hurt to check if anything's going on on your end. 
+ 
+Agent: I've been checking and it looks like a fiber line might be down in your area. We're working to fix it as quickly as possible. 
+
+Customer: Thank you. 
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful, but it would have been nice to know the estimated time of service restoration."
+Sentiment: Neutral

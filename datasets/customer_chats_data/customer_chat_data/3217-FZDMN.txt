@@ -1,0 +1,27 @@
+Customer ID: 3217-FZDMN
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I’m having trouble with my download speed. It’s much slower than what I’m paying for.  
+
+Agent: Thank you for contacting us! What is your account number? 
+
+Customer:  It's [Account Number]
+
+Agent: Let me double-check your plan details and see what we can do to help. 
+
+Customer: Thanks, I hope it gets resolved soon.
+
+Agent: Your Fiber Optic internet package has an average download speed of X Mbps. Please be advised that this is a standard speed. 
+ 
+Customer:  I thought it was supposed to be closer to Y Mbps? 
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation, my expectation was closer to the advertised speeds for my plan.
+Sentiment: Negative

@@ -1,0 +1,24 @@
+Customer ID: 2546-KZAAT
+Topic: referral reward missing
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble claiming my referral reward for signing up new customers.  I haven't received it yet, and I thought the reward was supposed to be automatically credited to me. 
+
+Agent:  Thank you for reaching out!  Can you please provide your account information like name and customer ID number?
+
+Customer: Sure, my name is John Smith, and my account ID is 1234567890.
+
+Agent: Thank you, John. I've checked your account and confirmed that the referral reward was correctly awarded to you on [date].  
+
+Customer: Hmm, so it wasn't an issue with the process?
+
+Agent:  It appears there might be a delay due to our recent system update. 
+I will look into this further and have it resolved by the end of the day.
+
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me quickly, and I appreciate your update on the issue."
+Sentiment: Positive

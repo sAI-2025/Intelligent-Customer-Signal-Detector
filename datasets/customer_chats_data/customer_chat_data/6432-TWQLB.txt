@@ -1,0 +1,16 @@
+Customer ID: 6432-TWQLB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet keeps disconnecting frequently, it's so frustrating! I get kicked off all the time. 
+Agent:  I understand your frustration, I am sorry to hear about this issue. Please provide me with your account details and a description of the problem so I can assist you further.
+Customer: Sure. My name is John Smith and my account number is 1234567890. It's been happening since yesterday. The internet frequently disconnects, even when I'm just browsing the web or checking email.
+Agent: Thanks for providing that information, John.  I see you are on a month-to-month contract and have been with us for five months. Let me check if there is anything we can do to resolve this issue. 
+Customer: Thank you.
+Agent: I believe your Fiber optic connection might be experiencing some issues due to the weather conditions. We're currently working to address it.  I will keep you informed of the progress. Please let me know if you have any other questions or concerns in the meantime. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the update on the issue, hopefully a solution can be found soon as this disconnection is really impacting my work."
+Sentiment: Negative

@@ -1,0 +1,22 @@
+Customer ID: 6942-LBFDP
+Topic: router cannot connect to internet
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting to the internet. My router isn't showing any connection, and my modem is blinking red. 
+
+Agent:  I understand, can you tell me your account number and a little bit about your issue? 
+
+Customer: Sure, it's **1234567890**  and I think I might have messed with the settings on the router. 
+ 
+Agent:  Alright, let's see if we can get this fixed for you. Just to verify, did you make any changes to your router settings recently?
+
+Customer:  Yes, I tried switching from a different Wi-Fi network and then to my own.  
+
+Agent: Okay, I'm going to guide you through some steps to troubleshoot the issue. 
+  
+Agent: Your internet connection has been restored! Let me know if you run into any issues later. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and got my internet back up quickly. Thanks! 😊
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 4367-NUYAO
+Topic: unlimited data feature missing from account
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to know why my data limit is still active despite paying for unlimited? 
+Agent: Thank you for reaching out to our support team.  We can certainly look into that for you.  Please provide your account number and the name on the account so we can confirm it for you.   
+Customer: Sure, here’s the account number [account number] and my name is John Smith. 
+Agent: Thank you, John. We have a few questions to ask, but I will be able to look into this issue. Please allow us a moment.
+Customer: Okay, thanks.
+Agent: Your data limit has been removed from your account for your two year contract. You'll be charged $25.75 per month as usual. 
+Customer:  Okay, that makes sense. Thank you.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution to my issue. Thanks!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 8040-MNRTF
+Topic: music streaming quality is poor
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble streaming music on your platform. Quality is really poor even though my internet speed is great. 
+Agent:  I understand you're experiencing audio quality issues while streaming. Can you please provide me with your account details so I can look into this further?
+Customer: Sure, my name is John Smith and my account number is XXXXXXXXXX. 
+Agent: Thank you for providing that information, John. Let me check on the issue.  We've noticed a recent increase in reported issues. 
+Customer:  Hope it gets sorted out soon! 
+Agent:  I'm working on this now and will get back to you as soon as I have an update. 
+Customer: Thanks for your help.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response, hope the issue gets resolved quickly!"
+Sentiment: Positive

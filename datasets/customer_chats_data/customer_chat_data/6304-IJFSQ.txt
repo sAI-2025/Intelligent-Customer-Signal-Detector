@@ -1,0 +1,24 @@
+Customer ID: 6304-IJFSQ
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having trouble with my internet connection. It keeps disconnecting frequently. 
+
+Agent:  I understand your frustration, I am sorry to hear that!  What is the issue you are experiencing?
+
+Customer: My connection drops every few minutes. It's frustrating when I'm trying to work or stream.
+
+Agent: Can you tell me your account information and what type of device you are using? 
+
+Customer:  My account number is 1234567890, it's a month-to-month contract with DSL internet, I've had the service for about three months.
+
+Agent: Thank you for providing this information, I will be able to take a look into your account and investigate further.  
+
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quickly got to the root of the issue. Hopefully, a resolution is found soon!"
+Sentiment: Positive

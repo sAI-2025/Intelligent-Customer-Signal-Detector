@@ -1,0 +1,28 @@
+Customer ID: 0748-RDGGM
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm experiencing high latency/ping while streaming on my laptop. 
+
+Agent:  I understand your concern, and I apologize for the inconvenience this is causing. Let me verify some information about your account. What is your account name or service address?
+
+Customer: My account name is James Smith.  Service address is 123 Main Street.
+
+Agent: Thank you, Mr. Smith.  I'll check on that now and get back to you with an update in a few moments.   
+
+
+ Customer: Okay, thanks.
+ 
+ Agent: I'm sorry for the delay but there seems to be an issue with your connection due to high traffic in the area. We are working on addressing this immediately.  
+
+Customer: Alright, I appreciate that.
+ 
+ Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and appreciated, thank you!
+Sentiment: Positive

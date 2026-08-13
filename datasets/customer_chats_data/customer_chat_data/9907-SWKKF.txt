@@ -1,0 +1,19 @@
+Customer ID: 9907-SWKKF
+Topic: damaged network equipment
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I think my DSL modem is damaged. It’s not connecting to the internet at all.
+Agent:  I understand your concern, what's your account number? 
+Customer: 1234567890
+Agent:  Thank you, I'm checking on the status of your modem. 
+Customer: Can you help me diagnose it? It’s been down for hours. 
+Agent:  We'll get that sorted out as quickly as possible. 
+Customer: Thank you, I hope I don't have to wait too long. 
+Agent: We are working on replacing your modem now and should be able to restore connectivity soon. 
+Customer: Okay, thank you for the updates.  
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting my internet back up and running! Appreciate the quick response."
+Sentiment: Positive

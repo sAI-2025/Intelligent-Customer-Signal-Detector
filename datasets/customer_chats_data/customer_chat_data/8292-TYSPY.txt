@@ -1,0 +1,17 @@
+Customer ID: 8292-TYSPY
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to Wi-Fi in my living room.  The signal is very weak. 
+Agent: Thank you for contacting us! I understand your concern about your Wi-Fi signal.  Can you please tell me the approximate location of your living room and what type of modem you have?
+Customer: My living room is on the right side of the house, near the back door.  I'm using the standard modem that came with my DSL service. 
+Agent: Alright, I see your account details. We may need to check some signal strength settings.  Would you like me to walk you through those? 
+Customer: Okay. Thank you!
+Agent: (After navigating a few menus) The issue seems to be caused by an interference from another device in the area. I have adjusted the Wi-Fi parameters for better coverage. 
+Customer: Great! Thanks, that worked.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks again for helping me get my Wi-Fi working properly!"
+Sentiment: Positive

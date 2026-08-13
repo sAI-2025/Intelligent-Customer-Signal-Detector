@@ -1,0 +1,23 @@
+Customer ID: 4020-KIUDI
+Topic: mobile data disconnects frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need some help with my mobile data. It keeps disconnecting frequently. 
+Agent:  Hello! What's your name and account number?
+Customer:  My name is John Smith and my account number is 1234567890.
+Agent: Thank you, John.  Let me check on that for you. I see your contract is month-to-month and you're currently paying $19.85 per month. 
+Customer: Well, it's been frustrating since starting my service six months ago. 
+Agent:  I understand how frustrating this can be. I’m going to need to take a look at your account details to see what might be causing the issue.
+Customer: Alright.
+Agent: Please hold while I check on your mobile data plans and usage patterns. 
+Customer: Thank you
+Agent:   We should be able to get this sorted out for you within minutes.  Thank you for contacting us. 
+
+
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and efficient in resolving my mobile data issue!
+Sentiment: Positive

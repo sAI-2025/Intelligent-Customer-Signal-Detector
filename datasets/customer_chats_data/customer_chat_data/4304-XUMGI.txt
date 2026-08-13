@@ -1,0 +1,20 @@
+Customer ID: 4304-XUMGI
+Topic: customer wants to change contract type
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'd like to change my contract type.
+Agent:  Hello! I can definitely help you with that. Could you tell me your account number? 
+Customer:  Sure, it's [Account Number].
+Agent: Thank you. You currently have a two-year contract and pay $75.15 per month for DSL internet. 
+Customer: I would like to switch to the unlimited plan.
+Agent: The unlimited plan is priced at $120.00 per month. Are you sure about this change? 
+Customer:  Yes, I'd like to proceed with the unlimited plan. 
+Agent:  I can do that for you. We will need to update your payment information and billing details. 
+Customer: Alright.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the process was a little complicated, I appreciate the agent's patience and helpfulness in getting me switched to the unlimited plan!
+Sentiment: Positive

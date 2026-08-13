@@ -1,0 +1,27 @@
+Customer ID: 0022-TCJCI
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection is very slow and unstable.  I can barely get on any websites. 
+
+Agent: I understand you're having trouble with your internet speed, Ms./Mr. [Last Name].  May I please have your account number? 
+
+Customer: Sure, it’s #1234567890.
+
+Agent: Thank you.  I see that you are on a DSL plan and have been a customer for over 45 months.  Let me check the status of your connection.
+
+Customer: Oh my goodness.  It's been so slow all day, I can barely use it!
+
+Agent: Alright, let me take a look at your account. We will get to the bottom of this for you.
+
+Customer: Thank you so much.
+
+Agent: Don’t worry; we’ll have it resolved by the end of the day. 
+
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank goodness!  I appreciate your prompt and helpful assistance."
+Sentiment: Positive

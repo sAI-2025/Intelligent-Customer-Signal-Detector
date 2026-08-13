@@ -1,0 +1,22 @@
+Customer ID: 9788-HNGUT
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am experiencing extremely high latency. It's nearly impossible to play online games and stream videos.
+
+Agent: Hi there!  I understand you're having trouble with your internet speed. Please give me your account information so I can take a closer look. 
+
+Customer: Sure, my account number is XXX-XXXX-XXXX. My name is John Smith. 
+
+Agent: Thank you, John. What device are you using to connect?  
+
+Customer: Laptop and a gaming console. The latency spikes occur on both. 
+
+Agent: I'm looking into your account now and it looks like you might have an issue with the router. Let me just get that information for you...
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful, thanks for checking!  I hope the router issue gets resolved soon so I can play online games without lag.
+Sentiment: Positive

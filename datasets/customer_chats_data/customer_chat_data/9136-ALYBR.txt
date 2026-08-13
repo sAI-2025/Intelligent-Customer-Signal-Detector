@@ -1,0 +1,17 @@
+Customer ID: 9136-ALYBR
+Topic: TV streaming performance worsens during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My streaming service is so slow tonight, especially during peak hours. Can this be fixed? 
+Agent: I understand your frustration.  Could you please tell me what device and channel are you having trouble with?
+Customer: It's mainly the Netflix app on my smart TV.  I get buffering every few minutes.
+Agent: I see that it's during peak hours.  I'll make note of this for our team to investigate further. 
+Customer: Thanks. How much longer will it be before things improve?
+Agent: We are looking into the issue with your streaming performance.   We hope it will be resolved soon, and thank you for your patience. 
+Customer: Alright.  Thanks for helping!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for checking on the buffering issues. Hopefully it's fixed soon!
+Sentiment: Positive

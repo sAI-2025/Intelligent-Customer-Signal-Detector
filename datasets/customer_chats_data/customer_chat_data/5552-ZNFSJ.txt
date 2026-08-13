@@ -1,0 +1,20 @@
+Customer ID: 5552-ZNFSJ
+Topic: phone network connection disappearing intermittently
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my internet connection. It keeps dropping in and out intermittently.  
+
+Agent: Hello! I understand you are experiencing intermittent connectivity issues with your DSL service. Can you please provide me with the account number associated with your phone line? 
+
+Customer:  Yes, it's [account number].   
+
+Agent: Thank you.  I’ve been looking into this and will have someone reach out to you shortly.
+
+Customer: Okay, thank you!
+
+Agent: I appreciate it. Let me know if you have any other questions. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution, thanks!
+Sentiment: Positive

@@ -1,0 +1,16 @@
+Customer ID: 4760-XOHVN
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to Wi-Fi in my living room. 
+Agent:  I understand your concern about the weak Wi-Fi signal. Could you please provide me with your account number and the specific location where you are experiencing issues? 
+Customer: Sure, it’s [account number]. The main problem is the living room.
+Agent: Thank you for that information. I've checked our records and it looks like there might be a signal issue in that area.  
+Customer: Okay, thanks! 
+Agent:  I will escalate this issue to our network engineers to resolve it as quickly as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for resolving the Wi-Fi issue so quickly!  It's much appreciated."
+Sentiment: Positive

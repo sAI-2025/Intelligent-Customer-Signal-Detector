@@ -1,0 +1,24 @@
+Customer ID: 0067-DKWBL
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I am having a lot of trouble with latency while using the internet. My ping is consistently high and it's making it impossible to play online games. 
+
+Agent:  I understand your frustration, Sir. We'll need to take a closer look at your connection to determine the cause of the high latency. What is your exact address?
+
+Customer: 123 Main Street, Anytown, USA. 
+
+Agent: Thank you, Sir. I can pull up your account information and access our records.  
+   
+Customer: My DSL service has been very slow since the last update, 
+
+Agent: We're aware of a recent issue with some users experiencing higher than usual latency during peak hours.  We've deployed a fix. 
+
+Customer:  Thank you for your help!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and informative, and the explanation about the update being to blame is reassuring."
+Sentiment: Positive

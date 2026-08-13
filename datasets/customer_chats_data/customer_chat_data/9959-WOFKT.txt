@@ -1,0 +1,17 @@
+Customer ID: 9959-WOFKT
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I am having trouble connecting to the internet.  It appears completely unavailable. 
+Agent: Thank you for contacting us! I understand this is an issue. Can you please provide your account number and address? 
+Customer: My account number is XXX-XXX-XXXX and my address is [address].
+Agent: I see your account details, thank you. We're experiencing some network issues in the area. 
+Customer: What can I expect for a resolution time? 
+Agent: Our engineers are working on resolving it as quickly as possible.  We'll keep you updated via email about the estimated timeframe. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the update! Hopefully they get this resolved soon."
+Sentiment: Positive

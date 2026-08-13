@@ -1,0 +1,17 @@
+Customer ID: 2886-KEFUM
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I am having trouble with my Wi-Fi signal in some rooms of my house. 
+Agent: Hello!  I understand you're experiencing a weak Wi-Fi signal in certain areas. Can you tell me which rooms are affected and what kind of device you're using? 
+Customer: In the bedrooms, it's very slow. I am on my laptop, mostly for work.
+Agent: Thank you for that information.  I can look into your account details to see if there are any known outages or network restrictions in those areas. Let me check that for you... 
+Customer: Okay, thanks. 
+Agent:  No problem! I'm checking on the signal strength and will get back to you with an update shortly. 
+Customer: Great, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and I appreciate the prompt updates."
+Sentiment: Positive

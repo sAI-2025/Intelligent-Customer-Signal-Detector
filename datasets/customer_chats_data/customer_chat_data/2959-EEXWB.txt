@@ -1,0 +1,17 @@
+Customer ID: 2959-EEXWB
+Topic: music streaming uses unexpected data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm getting unusually high data usage this month. My usual limit is 20GB, but it's already over 40GB. Is there a reason for this?
+Agent:  I understand your concern. Could you please provide me with your account details so I can check your usage history and plan?
+Customer: Sure, my account number is 1234567890. My monthly payment is $50.9. 
+Agent: Thank you. Based on your DSL internet connection, the high data usage may be due to streaming music continuously for an extended period.
+Customer: I've been listening to my favorite podcasts and artists all week!  
+Agent: We're happy to help you with understanding your data usage. Could you tell me more about where this increase in data usage is coming from? 
+Customer: Mostly Spotify, but also some YouTube viewing during the evening.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the explanation and it makes sense! Thanks for helping me understand my data usage better.
+Sentiment: Positive

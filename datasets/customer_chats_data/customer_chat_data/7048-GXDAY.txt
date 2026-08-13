@@ -1,0 +1,17 @@
+Customer ID: 7048-GXDAY
+Topic: customer wants a lower monthly price before cancelling
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm thinking about cancelling my service. Is there any way to lower my monthly price?
+Agent: Hello! Thank you for reaching out.  I understand you're looking to reduce your monthly cost. 
+Customer: My current rate is $106.4 and I've been a loyal customer for 39 months with Fiber Optic internet. 
+Agent:  Certainly, I can check our pricing options for you. Would you like to continue the conversation via chat or on a call?  
+Customer: Let's do this via chat, please.
+Agent: I'm happy to assist you through chat. 
+Customer: Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was helpful to get information on pricing options, although a lower rate would be appreciated given my long-term loyalty.
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 4078-SAYYN
+Topic: activation completed but service unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just finished activating my service, but it’s not working yet. 
+Agent:  Hi there! We're sorry to hear that your service isn't active yet. Could you please confirm your account number and the issue you're experiencing?
+Customer: Sure, my account number is [account number]. I can’t connect to the internet, it’s not working. 
+Agent:  Thank you for providing that information. Please check your modem connection as well, make sure there are no issues with its wiring.
+Customer:  I checked, everything seems fine on the modem end.  
+Agent:  Okay, we'll look into this issue now. It should be resolved within a few hours. 
+Customer: Okay, thanks for your help!  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into the problem; I hope it gets fixed quickly."
+Sentiment: Positive

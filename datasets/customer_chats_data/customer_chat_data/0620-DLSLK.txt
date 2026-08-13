@@ -1,0 +1,18 @@
+Customer ID: 0620-DLSLK
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was hoping to get help with my upload speed. It’s significantly slower than expected. 
+Agent: Absolutely, I understand your concern. Can you please provide me with your account details? 
+Customer: Sure, my username is [username] and my service address is [address].
+Agent: Thank you for providing that information. Let me investigate the issue now. 
+Customer: Great, thanks!
+Agent: I've taken a look at your connection and there doesn't seem to be any problems on our end.  
+Customer: Okay, well I hope it’s just temporary then? 
+Agent: Based on your recent usage pattern and speed test results, the upload speeds are within acceptable limits. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the explanation, I'm still experiencing slower than expected upload speeds despite the agent's assessment."
+Sentiment: Negative

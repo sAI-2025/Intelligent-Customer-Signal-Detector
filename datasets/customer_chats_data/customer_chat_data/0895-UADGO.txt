@@ -1,0 +1,20 @@
+Customer ID: 0895-UADGO
+Topic: customer cannot access included music service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't access my music service.  I get an error message saying it's unavailable. 
+
+Agent:  Hello! Thank you for contacting us.  What is your account number?
+
+Customer: It's [account number].  I have a two-year contract and was paying $44.55 per month. I use DSL internet.
+
+Agent:  Okay, thank you. Let me check on that for you.
+
+Customer: Thanks 
+
+Agent: We've noticed some technical issues with the music service. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and explained the issue clearly. I appreciate their update and look forward to accessing my music service again!
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 7544-ZVIKX
+Topic: network becomes slow during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, my internet speed has been really slow today, especially during peak hours. 
+Agent: I understand your frustration.  May I ask what device and activity is experiencing the slowdown?
+Customer: My laptop is showing a download speed of 10 Mbps, compared to usual speeds around 25-30 Mbps. 
+Agent: Thank you for that information.  Could you please provide your account details or any error messages on the network? 
+Customer: Here's my account number and my service address.
+Agent: I will take a look at the account, and check if there are any known issues with your area. 
+Customer: Thanks! 
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and prompt in addressing my issue, I hope the speed problems get resolved soon."
+Sentiment: Positive

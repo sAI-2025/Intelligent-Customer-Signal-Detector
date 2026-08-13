@@ -1,0 +1,16 @@
+Customer ID: 4455-BFSPD
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is slower than what I expected. I'm on the 100 Mbps plan but my speeds are only in the 50s. What can be done?
+Agent: Hi there! I understand you're experiencing slow download speeds despite being subscribed to 100 Mbps. Let me check into this for you. 
+Customer: Sure, that would be great thanks.
+Agent:  I have a look at your account and it seems your signal is fluctuating due to external factors. It might be worth trying the suggested troubleshooting steps in our FAQ section.
+Customer:  Okay, thanks! 
+Agent: You're welcome! If you face further issues, please let us know. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the explanation and troubleshooting suggestions, I still find the slow speeds to be disappointing.
+Sentiment: Negative

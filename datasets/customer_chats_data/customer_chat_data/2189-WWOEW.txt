@@ -1,0 +1,24 @@
+Customer ID: 2189-WWOEW
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is slower than expected. I'm paying $85.9 a month for Fiber optic internet and my speed test shows only 10 Mbps.
+
+Agent: Thank you for contacting us.  Could you please provide your account information or the name of the service you are referring to?
+
+Customer: My name is John, account number [redacted]. I've been using the service for fifteen months and haven't had this issue before. 
+
+Agent: We understand that you’re experiencing slower upload speeds than expected.  Let me check on your specific situation. 
+
+Customer: Can you explain what can cause this to happen?
+
+Agent: Let me have a look at your account.  We will resolve this for you. 
+
+Customer: Thank you.
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, but I'm still hoping for faster upload speeds to justify the price."
+Sentiment: Neutral

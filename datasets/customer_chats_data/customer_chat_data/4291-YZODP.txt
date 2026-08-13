@@ -1,0 +1,17 @@
+Customer ID: 4291-YZODP
+Topic: existing secondary line not connecting
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting my secondary line to connect.  I've tried restarting everything but it still isn't working. 
+Agent: Thank you for reaching out, we understand this can be frustrating. 
+Customer:  My contract is a year long and I'm paying $20.05 per month.  Is there anything we can do?
+Agent: Let me check your account details, one moment please. 
+Customer: Thanks. 
+Agent: Alright, it seems like the issue might be with the connection itself. We'll dispatch a technician to your location for further assessment and potential repair. 
+Customer: Okay, great!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, and I appreciate them sending a technician to fix the issue."
+Sentiment: Positive

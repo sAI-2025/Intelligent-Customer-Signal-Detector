@@ -1,0 +1,17 @@
+Customer ID: 9526-JAWYF
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having trouble with my upload speed. It's way slower than expected. 
+Agent:  Sure, thanks for reaching out! Can you please tell me your account number and what exactly the issue is?
+Customer: My account number is XXX-XXXX-XXXX. The speeds are just around 5 Mbps when I usually get 20-30 Mbps.
+Agent:  I see you're using fiber optic internet and have been with us for quite some time, thank you for your loyalty!  Let me look into what might be causing this issue.
+Customer: Thanks!
+Agent:  I’ve checked your account and it seems there might be a temporary congestion in the network. We are working on resolving this issue as quickly as possible. 
+Customer: Ok great, thanks for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful to know! Thanks for getting back to me so quickly and keeping me updated.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 4441-NIHPT
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speeds. They're much slower than what I'm paying for. 
+Agent:  I understand your frustration. Can you please provide me with your account information?
+Customer: Sure, here it is. My name is John, and my account number is 1234567890. 
+Agent: Thank you, John. I've checked your plan details and the fiber optic service speeds should be fine in your location.
+Customer: But, I can barely stream movies anymore!  Is there anything that can be done?
+Agent: Let me check our system for any issues. 
+Customer: Thanks so much. I really appreciate your help!
+Agent:  I've checked everything and it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting this sorted out, John! Appreciate the quick resolution and helpfulness.
+Sentiment: Positive

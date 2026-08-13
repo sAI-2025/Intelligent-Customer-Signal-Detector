@@ -1,0 +1,19 @@
+Customer ID: 8624-GIOUT
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been really slow and unstable lately. It's making it hard to work from home.
+Agent: I understand your frustration. Can you please tell me your account number and what kind of device you are using? 
+Customer: 123456789,  I use a laptop. 
+Agent: Thank you for providing that information.  We can check the connection speed and any potential issues on our end. 
+Customer: Okay. 
+Agent: I'm looking into your account now. Please hold for just a moment. 
+Customer: Thanks. 
+Agent: It appears there may be an issue with the DSL signal in your area right now. We will try to reroute you to a different connection or speed level as soon as possible. 
+Customer: Okay, thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and I appreciate their quick response and solution! 😊
+Sentiment: Positive

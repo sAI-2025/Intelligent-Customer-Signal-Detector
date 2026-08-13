@@ -1,0 +1,22 @@
+Customer ID: 2568-OIADY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just need some help with my upload speed. It’s significantly slower than usual. 
+
+Agent:  I understand your concern, [Customer Name]. Can you please provide me with your account information and the specific upload speeds you're seeing?
+
+Customer: Sure, it's [account email] and the upload speeds are averaging around 10 Mbps, which is much lower than my usual speed of about 50 Mbps.
+
+Agent: I see that you've been a loyal customer for over three years now, with your fiber optic plan at $99.5 per month. Is there anything else I can help you with?
+
+Customer: That’s correct, thanks.
+
+Agent:  I'd like to check on the speed and congestion issues within your area. Let me run a few diagnostics and I will be able to get back to you in just a moment. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for taking the time to troubleshoot my issue, it seems like things are getting worked on!"
+Sentiment: Positive

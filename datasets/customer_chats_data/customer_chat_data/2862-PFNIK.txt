@@ -1,0 +1,17 @@
+Customer ID: 2862-PFNIK
+Topic: customer unhappy with service reliability
+Customer Status: Joined         
+----------------------------------------
+
+Customer: I just don’t understand why my internet is so slow! My speeds are barely 1Mbps.  
+Agent: Hello, thank you for reaching out to us today. I'm sorry to hear about your slow connection speed. Could you please provide me with your account number or the email address associated with the account? 
+Customer: Here’s my email: [email address] 
+Agent: Thank you! I have reviewed your account and it seems like there might be an issue with the DSL line in your area. Let me investigate further.
+Customer: What does that mean?  
+Agent: We are working on resolving this for you. While we work on a fix, would you like to consider upgrading to our fiber internet service? 
+Customer: I'm not sure... it’s my first month and all I wanted was reliable internet! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate their willingness to help but wish the issue had been resolved sooner.
+Sentiment: Neutral

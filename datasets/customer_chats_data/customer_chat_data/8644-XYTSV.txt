@@ -1,0 +1,18 @@
+Customer ID: 8644-XYTSV
+Topic: line transfer or replacement problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble transferring my phone line and it keeps dropping calls. 
+Agent:  I understand your frustration,  Let me look into this for you. What is your account number?
+Customer: It's [account number]
+Agent: Alright, I see there are a couple of reports on your account regarding line transfer issues. Let me check and then we will get this sorted out right away. 
+Customer: That would be great. 
+Agent:  We need to replace the DSL modem as well, it is outdated. We can send you a new one. Please wait for my call back
+Customer: Okay. I'm on hold now. 
+Agent: (After few seconds)  Your phone line transfer is complete and your new modem will be delivered within the next two business days. Thanks for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out quickly! I appreciate the prompt communication and helpful solutions."
+Sentiment: Positive

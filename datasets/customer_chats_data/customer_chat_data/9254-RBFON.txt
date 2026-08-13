@@ -1,0 +1,15 @@
+Customer ID: 9254-RBFON
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is incredibly slow. I barely get 5 Mbps down, compared to my contract's promised 100. 
+Agent:  I understand your concern, [Customer Name]. We've got a team investigating potential issues with your connection right now. 
+Customer:  My speeds have been consistently poor for the past few weeks. What can I do?
+Agent: Please provide me with your account information so I can check the status of your service. 
+Customer: My name is [Customer Name], my account number is [account number] and my contract is an annual one year plan, paid $98.6 per month for fiber optic internet since last year. 
+Agent: Thank you, [Customer Name]. I have checked the account details and it seems there's a technical issue with your connection.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This is much appreciated! It's nice to know they are working to resolve this issue so I can actually get online.
+Sentiment: Positive

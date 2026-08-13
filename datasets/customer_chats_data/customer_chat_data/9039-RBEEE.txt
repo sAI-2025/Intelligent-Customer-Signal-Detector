@@ -1,0 +1,19 @@
+Customer ID: 9039-RBEEE
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My Wi-Fi signal is really weak in the kitchen and living room. 
+Agent: I understand your frustration, we want to get your connection working smoothly. Could you please tell me what kind of devices you're using?
+Customer: Laptop, iPhone, smart TV.  Mostly streaming services. 
+Agent: Okay, thanks for that detail. I can help with troubleshooting. Do you have a DSL modem and router in place?
+Customer: Yes, they are from the last package upgrade. 
+Agent: We’re here to help! Let's try some basic steps first.  
+Customer: Great, let me know what you need to do. 
+Agent: No problem at all! Please restart your modem and router. If that doesn't work, we can explore other options. 
+Customer: Thanks.  I hope it works.   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and got me started on troubleshooting, hopefully this will fix the issue!"
+Sentiment: Positive

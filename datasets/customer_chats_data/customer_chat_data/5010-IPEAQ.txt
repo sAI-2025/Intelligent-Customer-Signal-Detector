@@ -1,0 +1,24 @@
+Customer ID: 5010-IPEAQ
+Topic: unexpected data charges
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm looking into my recent data bill.  I just noticed it was significantly higher than usual. 
+
+Agent:  I understand your concern about the increased data charges.  Can you please provide me with your account number? 
+
+Customer: Sure, my account number is [account number].   It's been a long time since we’ve had unexpected bills like this.  
+
+Agent: Thank you. Let's take a look at your usage history and see what might have caused the spike.  
+
+Customer: I think something may be off with my DSL connection, or maybe even a third-party app? 
+
+Agent: We can definitely investigate that further for you.  Give me just a moment to pull up your data usage patterns. 
+
+Customer: Thanks!   Anything I can do?  I'm pretty tech-savvy.
+
+Agent: You might want to check your phone settings and see if there are any automatic downloads or background activity that might be contributing to the increased data usage.  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out! I appreciate you taking a look at my account."
+Sentiment: Positive

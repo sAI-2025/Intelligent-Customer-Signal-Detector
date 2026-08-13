@@ -1,0 +1,24 @@
+Customer ID: 2260-USTRB
+Topic: additional service charge is unclear
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I have a question about an additional service charge on my bill. My monthly payment is $70.20 and there's a sudden charge of $15.  Can you explain? 
+
+Agent: Certainly, I can help with that.  Please provide your account information so I can access your bill details. 
+
+Customer: Sure, it's [Account number]. My service is Fiber Optic internet. 
+
+Agent: Thank you for providing the account information. It looks like there may be a new service added to your plan. The additional charge for that service is $15 and is part of the monthly fee. 
+
+Customer: I don't understand why this new service would increase my bill, as I was already paying $70.20. 
+
+Agent: I apologize for any confusion.  The extra charge covers a specific feature you may have chosen, like streaming or premium data usage. Is there anything else I can help you with? 
+
+Customer: Yes, could you tell me what this new service is called? 
+ 
+Agent: You are currently subscribed to our premium data plan, which includes access to high-speed internet and additional features such as priority customer
+
+----------------------------------------
+Feedback: Feedback: "Thank you for clarifying the extra charges.  I'm glad to understand how the premium data plan works."
+Sentiment: Positive

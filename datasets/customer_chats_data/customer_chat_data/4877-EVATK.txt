@@ -1,0 +1,20 @@
+Customer ID: 4877-EVATK
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm experiencing frequent internet disconnections. It's been happening every hour or so since yesterday. 
+Agent:  I understand your frustration. Can you please provide me with your account information so I can check on the status of your connection?
+Customer: Sure, my name is John Smith and my account number is 1234567890. 
+Agent:  Thank you, John. Let me look into this for you right away. 
+Customer:  Thanks
+Agent: We've identified a temporary server issue that may be causing the disconnections. Our engineers are working to resolve it as quickly as possible. 
+Customer: Okay, great! 
+Agent: I will update you once we have an estimated resolution time. Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the quick response and update on the issue.  Hope it gets resolved soon!"
+Sentiment: Positive

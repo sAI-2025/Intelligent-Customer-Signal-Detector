@@ -1,0 +1,30 @@
+Customer ID: 5993-JSUWV
+Topic: customer asks about available service plans
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was looking at my current service plan and trying to understand what options are available. 
+
+Agent:  Certainly!  To give you the best options, could you tell me your account information?
+
+Customer: Sure, it's [customer name], account #[account number]
+ 
+Agent:  Thank you.  Your current plan is a two-year contract with $61.15 per month for DSL internet.
+
+Customer: Right. I was hoping to see what other plans are available and their pricing?
+
+Agent:  We offer various plans, some with faster speeds and data allowances. Would you like me to go over those options? 
+
+Customer: Yeah, that would be great.
+
+Agent: I can certainly do that.  Do you have an idea of the kind of speed or data you need right now?
+
+Customer: Something similar to what I've got now.
+
+
+Agent: Okay, we can definitely keep your current plan and just explore some options with a slight increase if needed. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and explained the options clearly.
+Sentiment: Positive

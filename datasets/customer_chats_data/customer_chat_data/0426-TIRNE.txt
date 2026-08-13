@@ -1,0 +1,24 @@
+Customer ID: 0426-TIRNE
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My internet is completely down and I can't access anything online. 
+
+Agent:  Hi there!  I understand you're having trouble with your internet connection. May I please have your account details so I can check the status?
+
+Customer: Sure, my account number is [account number].
+
+Agent: Thank you.  Let me just verify that information and then we can get to the bottom of this for you. 
+
+Customer: Thanks!
+
+Agent: We're seeing some reports of a widespread outage in your area. It should be back online soon.
+
+Customer: Okay, great. Thanks for letting me know.
+
+Agent:  I’m happy to help. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is much appreciated! Thankful to hear the outage will hopefully be resolved quickly.
+Sentiment: Positive

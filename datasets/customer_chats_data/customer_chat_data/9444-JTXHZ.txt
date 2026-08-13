@@ -1,0 +1,18 @@
+Customer ID: 9444-JTXHZ
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I need to report a weak Wi-Fi signal in my living room. 
+Agent: Hello! Thank you for reaching out.  Could you please tell me your account details so I can pull up your service plan?
+Customer: Sure, it's [account number]. My name is John and I signed up on the 15th of this month.
+Agent: Thank you, John. Based on your information, I see you are currently on a Month-to-Month contract.  
+Customer: Okay, that's why it's strange I can't get a strong signal in my living room, but other places like the kitchen and bedroom are working fine. 
+Agent: I understand. Can you please tell me which specific devices you're using to connect?
+Customer: Just my laptop and iPad.
+Agent: Okay, thanks for that information!  I can see a few possible troubleshooting steps we could try for your living room, but if those don't work, you may need to get a new router or the signal booster device. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While I appreciate the troubleshooting suggestions, I still haven't found a strong signal in my living room and would like some further assistance."
+Sentiment: Negative

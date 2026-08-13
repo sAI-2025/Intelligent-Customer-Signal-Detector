@@ -1,0 +1,16 @@
+Customer ID: 8510-TMWYB
+Topic: customer cannot find expected self-service option
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can’t find the self-service option on your website to change my internet speed. 
+Agent: Hello! I'm happy to help with that.  Can you tell me your username or account number? 
+Customer: My username is JohnSmith and my account number is 12345678.
+Agent: Thank you, JohnSmith. I see your current plan is for DSL internet. It's often easier to change speed through a phone call with us. Would you like me to call you back?  
+Customer: Yes, please.
+Agent: Absolutely! One moment while I connect you. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response and call!  The change process was a little confusing at first."
+Sentiment: Neutral

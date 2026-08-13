@@ -1,0 +1,24 @@
+Customer ID: 9221-OTIVJ
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. My ping is extremely high and I can barely load web pages. 
+
+Agent:  I understand you're experiencing high latency. To help me troubleshoot this issue, could you please tell me your location and what device(s) you're using?
+
+Customer:  I live in [City], my IP address is [IP Address]. My computer is running Windows and I am using a wired connection. 
+
+Agent: Thank you for that information. We are currently experiencing network congestion in this area, and we apologize for the inconvenience this may cause.  
+
+Customer: Oh, I see. Can it be fixed right away?
+
+Agent:  I'll do my best to resolve this issue as quickly as possible. It is likely there will be a slight delay while our technicians work on the network. 
+
+Customer: Okay. Thanks for your help!
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for explaining the situation and keeping me updated - appreciate the quick response."
+Sentiment: Positive

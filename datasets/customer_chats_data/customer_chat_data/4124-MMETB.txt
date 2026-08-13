@@ -1,0 +1,17 @@
+Customer ID: 4124-MMETB
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having frequent internet disconnections. It's been happening more often lately. 
+Agent:  I understand your frustration. Can you please provide me with your account information so I can look into this further? 
+Customer: Sure, my name is John Smith and the account number is 1234567890. 
+Agent: Thank you for providing that information, Mr. Smith.  I see you're on a month-to-month contract with fiber optic internet.  
+Customer: Is there something I can do to fix this? I pay $94.65 per month. 
+Agent: I apologize for the inconvenience. We will investigate the cause of the disconnections. Please allow me some time while we look into it. 
+Customer: Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While I appreciate the agent's prompt response and willingness to investigate,  I hope this issue is resolved quickly as frequent internet disconnections are becoming increasingly frustrating.
+Sentiment: Neutral

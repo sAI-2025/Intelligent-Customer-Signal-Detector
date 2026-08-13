@@ -1,0 +1,16 @@
+Customer ID: 9696-RMYBA
+Topic: customer reports incorrect account details
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I just realized my account details are incorrect on your website.  I think it might be a typo in the billing address and email. 
+Agent: Hello! Thank you for contacting us. Can you please provide me with your full name and current billing information so I can verify? 
+Customer: Sure, my name is Sarah Johnson and the email address is johns_sarah@yahoo.com. My phone number is (555) 123-4567.  
+Agent: Thank you, Sarah. Let me take a look at your account information. 
+Customer: Thanks!
+Agent: I've reviewed your information and it looks like there was an error in the billing address. We’ll update it for you right away. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very efficient and helpful, resolving my issue quickly and smoothly."
+Sentiment: Positive

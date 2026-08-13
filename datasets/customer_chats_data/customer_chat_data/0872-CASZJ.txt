@@ -1,0 +1,31 @@
+Customer ID: 0872-CASZJ
+Topic: customer asks about early termination terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need to know about early termination terms on my DSL internet plan. 
+
+Agent: Thank you for contacting us.  I understand you'd like information regarding early termination of your contract.  
+
+Customer: Yes, I signed a one-year contract and I want to cancel before the end of it. What are the fees involved? 
+
+Agent: Based on your current contract, there is a fee associated with terminating your service early. We can provide you with specific details regarding that.  Would you like me to run through some options with you?
+
+Customer: Yes, please.
+
+Agent: Your monthly payment of $69.10, plus any applicable fees, will be based on the remaining months of your contract. 
+
+Customer: Okay, thanks for the info.  I'm in a bind - could I get that information in writing? 
+   
+Agent: Absolutely. I can provide you with a termination statement outlining all charges and details. 
+    
+Customer: Great! Thank you.
+
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful in explaining the early termination fees, and the written confirmation will be very useful.
+Sentiment: Positive

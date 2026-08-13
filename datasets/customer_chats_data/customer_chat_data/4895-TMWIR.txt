@@ -1,0 +1,17 @@
+Customer ID: 4895-TMWIR
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet speed has been extremely slow. I can barely load any pages.
+Agent:  I'm sorry to hear you're experiencing slow speeds. Can you tell me your account information and location so I can take a look? 
+Customer: (account information provided)
+Agent: Okay, thank you. Let me investigate the cause of this latency. 
+Customer: It feels like it's been going on for hours! 
+Agent:  I understand, please hold while I check your connection status. 
+Customer:   
+Agent:  Okay, we're seeing some high ping/latency issues and are working to resolve them quickly. We will have this resolved by the end of the day.
+
+----------------------------------------
+Feedback: While the agent was helpful, it still feels like a long time for such an issue to be resolved.
+Sentiment: Neutral

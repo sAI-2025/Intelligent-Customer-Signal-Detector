@@ -1,0 +1,31 @@
+Customer ID: 2483-XSSMZ
+Topic: phone cannot connect to carrier network
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My phone can't connect to the carrier network. I'm getting a message saying something about network issues. 
+
+Agent:  I understand your frustration. Can you tell me which specific error message you're seeing? And what type of phone are you using?
+
+Customer: It says "Unable to establish connection." and it's an iPhone. 
+
+Agent: Okay, thank you for that information. I'm going to check on this now. 
+
+Customer:  It’s been happening all day.
+
+Agent:  I see there might be a temporary outage in your area. We are currently working on getting it resolved.  
+
+Customer:  How long will this take?
+
+Agent:  This is the estimated time for resolution, I'm going to check that for you. 
+
+Customer: Thanks!
+
+Agent:  Thank you for contacting us. 
+   
+    
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for your help, it seems like a network issue should be resolved soon."
+Sentiment: Neutral

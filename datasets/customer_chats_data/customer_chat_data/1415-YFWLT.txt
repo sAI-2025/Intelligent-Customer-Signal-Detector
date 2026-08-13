@@ -1,0 +1,21 @@
+Customer ID: 1415-YFWLT
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. It's very slow, especially during peak hours. 
+
+Agent:  I understand you're experiencing slow speeds.  Could you please provide me with your account information or service address so we can troubleshoot this further? 
+
+Customer: Sure, my account name is John Smith and I live at 123 Main Street. 
+
+Agent: Thank you, John.  I'm checking our network logs for any outages or congestion during peak hours.  
+
+Customer: That sounds good.
+
+Agent: We haven't reported any issues with the Fiber optic line connection, but I'm looking into possible network bottlenecks.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate your help getting to the bottom of this! Hopefully it gets resolved quickly.
+Sentiment: Positive

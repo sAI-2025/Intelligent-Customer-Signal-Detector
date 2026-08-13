@@ -1,0 +1,19 @@
+Customer ID: 3445-HXXGF
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I just wanted to report a problem with my Wi-Fi signal in some rooms of my house. It seems pretty weak in those areas. 
+Agent: Thank you for reaching out!  I can help you troubleshoot that. Can you tell me what type of device you're using and the location of the affected rooms?
+Customer: I'm using a laptop, and it's happening mostly in the living room and dining area.  They are furthest from the router, though. 
+Agent: Okay, I understand. Let me check some settings for you...
+Customer:  
+Agent: Alright, I just checked your signal strength and there's no obvious issue.  
+Customer:  Hmm, well I thought that wasn't possible.  Maybe we can check something else?  I have DSL internet, by the way. 
+Agent:  Yes, I see.  We do have some customers report issues with their DSL connection in certain conditions. Would you like me to walk you through some troubleshooting steps or would you prefer a new router setup?  
+Customer:  I'll just try resetting my modem and router first.  Thanks for your help! 
+Agent
+
+----------------------------------------
+Feedback: "While the agent was helpful, it seems like the problem may be deeper than just basic signal adjustments. "
+Sentiment: Neutral

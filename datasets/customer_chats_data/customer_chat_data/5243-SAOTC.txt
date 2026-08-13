@@ -1,0 +1,20 @@
+Customer ID: 5243-SAOTC
+Topic: customer cannot complete device setup
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble setting up my new device. The prompts won't let me finish the process. 
+Agent:  I'm sorry to hear that,  May I have your account information and the specific device model you're using? 
+Customer: Yes, it's [account number] and the router is an Arris TG1600.
+Agent: I see. Let me pull up the setup guide for the Arris TG1600.  
+Customer: Okay. 
+Agent:  There are a couple of steps that may be causing this issue. Can you please tell me what error message you're seeing?
+Customer: "Network connection not established." 
+Agent:  This could be because the device is not properly connected to your network, or there might be an issue with the wiring. Can you check for any loose connections and try again? 
+Customer: I checked the wiring, and it seems okay.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and quickly identified the problem.  I appreciate their prompt assistance!
+Sentiment: Positive

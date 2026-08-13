@@ -1,0 +1,24 @@
+Customer ID: 0835-JKADZ
+Topic: high-speed data appears to be throttled
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I noticed my internet speed has been very slow today. 
+
+Agent: Thank you for reaching out!  I understand your concern about your internet speed. Could you please tell me your account number and a brief description of the issue? 
+
+Customer: Sure, it's 1234567890. It feels like my speeds are throttled.
+
+Agent: I see your account information here.  I can look into this for you.
+
+Customer: Thanks! Could you check to see if there are any outages in our area?
+
+Agent:  My apologies, but we're currently experiencing high traffic volumes at the moment. 
+
+Customer: Oh, okay. 
+
+Agent: Let me check your service plan and see what options we have available for boosting speed now. Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a frustrating experience, but the agent quickly acknowledged my issue and was helpful in finding potential solutions.
+Sentiment: Neutral

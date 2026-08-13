@@ -1,0 +1,17 @@
+Customer ID: 2894-QOJRX
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is way slower than expected. It's barely even usable!
+Agent: I understand your frustration.  Could you please confirm your account information and service address? 
+Customer: Sure, my username is "John Doe", and my address is 123 Main Street, Anytown, USA. 
+Agent: Thank you for the details, John. Let's look into this further. 
+Customer: Thanks! 
+Agent: Based on your DSL service plan, we do often find slower speeds in certain areas.  Have you recently experienced any other issues? 
+Customer: Nope, just this upload speed problem. 
+Agent: We can adjust the network configuration to help improve your upload speed. I'll be sending you instructions shortly. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for looking into it! Hopefully, the adjustment will make a noticeable difference."
+Sentiment: Positive
