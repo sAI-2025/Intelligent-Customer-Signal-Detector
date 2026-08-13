@@ -1,0 +1,17 @@
+Customer ID: 6513-EECDB
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I was hoping to get some help with my upload speed. It's much slower than what I expected. 
+Agent: I understand your concern, [Customer Name].  I can take a look at your account details.  What's the specific average upload speed you're seeing?
+Customer:  It's around 10 Mbps instead of 25 Mbps as advertised.
+Agent: Let me check the connection speeds for your Fiber optic package and see if there are any issues that might be contributing to the slower speed. 
+Customer: Thanks, I really hope we can resolve this issue soon. 
+Agent:  I'm working on it now, [Customer Name]. We should have a resolution within the next hour or so.   
+Customer: Great, thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response, I appreciate your prompt attention to resolving this issue.
+Sentiment: Positive

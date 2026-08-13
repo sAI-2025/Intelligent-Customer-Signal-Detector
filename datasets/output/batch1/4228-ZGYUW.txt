@@ -1,0 +1,19 @@
+Customer ID: 4228-ZGYUW
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to the internet. The speeds are very slow during peak hours.
+Agent:  I understand your concern, we can definitely look into this for you. Can you please confirm your account details and what specific network performance issues you're experiencing? 
+Customer: Sure, my name is John, and I'm using Fiber optic internet. It slows down significantly around 7 pm and 9 pm.
+Agent: Alright, John, thank you.  I see your connection history and can confirm the speed drops are common during peak hours for our Fiber customers.
+Customer: So this is just a normal occurrence?
+Agent: Yes, it's something we work to minimize.   We do offer free priority service during those times as well. 
+Customer: Thanks!  Is there anything else I can do to speed up my internet?
+Agent: We always encourage our customers to use a wired connection whenever possible, or check for any congestion on your end like heavy download activity. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the explanation and helpful tips!  I appreciate the priority service during peak hours as well.
+Sentiment: Positive

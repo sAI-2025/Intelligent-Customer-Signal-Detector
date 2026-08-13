@@ -34,22 +34,13 @@ _FIELD_MAP = {
     "close_issue_count": "close_issue_count",
     "support_interaction_count": "support_interaction_count",
     "resolution_status_open_closed": "resolution_status_open_closed",
-    "referred_a_friend": "referred_a_friend",
-    "number_of_referrals": "number_of_referrals",
-    "total_refunds": "total_refunds",
-    "total_extra_data_charges": "total_extra_data_charges",
-    "total_long_distance_charges": "total_long_distance_charges",
-    "total_revenue": "total_revenue",
-    "avg_monthly_gb_download": "avg_monthly_gb_download",
 }
 
 _INT_FIELDS = {
     "senior_citizen", "age", "tenure_months", "open_issue_count",
-    "close_issue_count", "support_interaction_count", "number_of_referrals",
-    "total_refunds", "total_extra_data_charges", "total_long_distance_charges",
-    "total_revenue",
+    "close_issue_count", "support_interaction_count"
 }
-_FLOAT_FIELDS = {"monthly_charges", "avg_monthly_gb_download"}
+_FLOAT_FIELDS = {"monthly_charges"}
 
 
 def _coerce(field, value):
@@ -101,7 +92,8 @@ def ingest_csv(file, batch: UploadBatch) -> dict:
                 ).update(customer=obj, pending_customer_id="")
             else:
                 updated += 1
-        except Exception:
+        except Exception as e:
+            print(f"[Upload Error] Skipping row for CID '{row.get('customer_id', '')}': {e}")
             skipped += 1
             continue
 

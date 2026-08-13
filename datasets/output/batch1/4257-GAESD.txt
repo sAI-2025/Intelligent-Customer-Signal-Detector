@@ -1,0 +1,27 @@
+Customer ID: 4257-GAESD
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet is super slow and keeps dropping out. This has been happening for days now. 
+
+Agent: I apologize for the inconvenience.  Let's troubleshoot this. Could you please provide your account number or email address?
+
+Customer: Sure, my account number is 1234567890. My email is john.smith@email.com. 
+
+Agent: Thank you. I see that your DSL plan has been active for six months now.  Have you recently made any changes to your equipment or network setup? 
+
+Customer: No, everything's the same as it was a few days ago.
+ 
+Agent: Okay. To check further, could you run a speed test while I look into this? 
+
+
+Customer: (link provided) 
+
+Agent:  Thank you for contacting us. 
+ 
+ **Thank you for contacting us.**
+
+----------------------------------------
+Feedback: "The agent was helpful and quickly got to the bottom of the issue, thanks!"
+Sentiment: Positive

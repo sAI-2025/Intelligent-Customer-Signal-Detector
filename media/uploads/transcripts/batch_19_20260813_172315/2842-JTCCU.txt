@@ -1,0 +1,16 @@
+Customer ID: 2842-JTCCU
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, my internet connection has been very slow and unstable lately. 
+Agent: Hello! I'm happy to help with that.  Can you please tell me your account details so I can check on your DSL service?
+Customer: My name is Sarah, and it is 27 years old. My account number is 1234567890. 
+Agent: Thank you, Sarah. We're investigating the issue with your DSL connection now.  Do you notice any other symptoms like dropped connections?
+Customer: Yes, I am experiencing a lot of lag and slow downloads. It's been happening for about a week.
+Agent: We understand how frustrating this can be.  We will get that resolved by the end of today. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly! I appreciate your quick response and effort."
+Sentiment: Positive

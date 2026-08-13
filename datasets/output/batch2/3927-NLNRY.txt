@@ -1,0 +1,15 @@
+Customer ID: 3927-NLNRY
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My upload speed is significantly slower than usual. Is there anything I can do to fix this? 
+Agent:  Hello! I'm happy to help troubleshoot your upload speeds. What's your current connection status showing?
+Customer: It's around 5 Mbps, which is much lower than what's advertised in my contract. I thought it was supposed to be 20 Mbps or more. 
+Agent:  Let me take a look at your account details.  I can see you're on Fiber optic and have been with us for five years. 
+Customer:  That's right, thanks!
+Agent:  It seems like there might be an issue causing the slow speeds. I'll escalate this to our engineers to get it resolved as soon as possible. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting this sorted out so quickly, I appreciate your help."
+Sentiment: Positive

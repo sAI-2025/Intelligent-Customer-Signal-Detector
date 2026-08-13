@@ -1,0 +1,22 @@
+Customer ID: 7811-JIVPF
+Topic: TV streaming quality automatically decreases
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My TV streaming quality has been really bad lately. Videos are buffering and pixelating constantly. 
+
+Agent: I understand your frustration,  I'm sorry to hear you're experiencing such issues.  
+
+Customer: It started a few weeks ago and it hasn't gotten better. I use DSL internet and my plan is $49.7/month. 
+
+Agent: Could you tell me more about what kind of streaming services you're using? Also, please confirm your account information so I can check for any potential issues with your connection.  
+
+Customer: Netflix and Hulu are most affected. The same content on YouTube is fine.  
+
+Agent: Thank you.  I'll take a look at your account and investigate the issue further.  We will get this resolved by the end of the day. 
+ 
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was helpful, and I appreciate their quick action to try and resolve the issue!
+Sentiment: Positive

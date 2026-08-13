@@ -1,0 +1,17 @@
+Customer ID: 8854-CCVSQ
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need help regarding my download speed. It's been significantly slower than what I subscribed to. 
+Agent:  I understand your concern. Could you please provide your account details and the specific timeframe you've noticed a decrease in speed? 
+Customer: My name is John Smith. Account number is [redacted]. The issue started about three days ago.
+Agent: Thank you, John. I'm looking into it now.  
+Customer: Thanks. 
+Agent: Let me know if there are any updates. We'll get this resolved for you soon. 
+Customer: Okay, thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and efficient response. Hopefully the issue gets resolved quickly!
+Sentiment: Positive

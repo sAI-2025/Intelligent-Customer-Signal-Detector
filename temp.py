@@ -15,7 +15,7 @@ source_chat_folder = r"C:\Users\chskc\Desktop\FirstSource\Intelligent-Customer-S
 output_folder = r"C:\Users\chskc\Desktop\FirstSource\Intelligent-Customer-Signal-Detector\datasets\output"
 
 total_batches = 2#10
-batch_size = 300 #10
+batch_size = 30 #10
 
 # Set a number if you want the same random batches every time.
 # Change it to another number for a different random arrangement.

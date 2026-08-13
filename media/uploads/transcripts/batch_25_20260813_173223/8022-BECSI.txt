@@ -1,0 +1,17 @@
+Customer ID: 8022-BECSI
+Topic: phone signal weak or unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My phone signal is so weak lately. I can barely make calls!
+Agent:  I understand your concern. Can you tell me your account number and location? 
+Customer: 1234567890, Springfield, Ohio
+Agent: Thank you for providing that information. We're investigating the signal issues in your area right now. 
+Customer: That's so helpful!  Any updates on when I might be able to get a better connection?
+Agent:  I will update you as soon as I have any information. 
+Customer: Thank you.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was quick and helpful, thank you! Fingers crossed for better service soon.
+Sentiment: Positive

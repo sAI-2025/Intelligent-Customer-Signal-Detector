@@ -1,5 +1,3 @@
-// static/js/dashboard.js — CSRF fixed using meta tag
-
 function showToast(message, type = "info") {
   const container = document.getElementById("toast-container");
   if (!container) return;
@@ -13,7 +11,11 @@ function showToast(message, type = "info") {
 
 function getCsrfToken() {
   const meta = document.querySelector('meta[name="csrf-token"]');
-  return meta ? meta.getAttribute("content") : "";
+  if (meta && meta.getAttribute("content")) {
+    return meta.getAttribute("content");
+  }
+  const hidden = document.getElementById("csrf-token-hidden");
+  return hidden ? hidden.value : "";
 }
 
 window.CSRF_TOKEN = getCsrfToken();

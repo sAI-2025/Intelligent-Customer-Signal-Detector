@@ -1,0 +1,24 @@
+Customer ID: 7377-DMMRI
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having issues connecting to the internet frequently. It disconnects often and is very frustrating. 
+
+Agent:  Hello! Thanks for reaching out.  May I have your account information?  (Your first name) and (your last name). 
+
+Customer: Sure, my name is John Smith.  And my account number is 1234567890
+
+Agent: Thank you John.  I see that you've been having a lot of connectivity issues on your DSL line. Let me check into this for you. 
+
+Customer: Alright, thanks! 
+
+Agent: I have checked the logs and it looks like there may be some interference with your signal or a faulty device. We are going to send a technician to your home shortly. Would you like me to provide you with an estimated time of arrival? 
+
+Customer: Sure, that would be great.  
+
+Agent: No problem, John.  I'll let you know as soon as they confirm the ETA.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for quickly addressing my internet issues and sending out a technician! Hopefully it gets fixed soon."
+Sentiment: Positive

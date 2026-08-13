@@ -1,0 +1,17 @@
+Customer ID: 3207-OYBWH
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I have a problem with my Wi-Fi signal. It's weak in some rooms of my house. 
+Agent:  I understand your concern, ma'am. Please tell me what room(s) experience the poor connection and if there are any other details you think might be relevant. 
+Customer: Mostly the living room and dining area.  The rest of the house is fine.  And I just noticed my internet speed has been slower recently. 
+Agent: Thank you for that information, ma'am.  I'd like to investigate further. Could you please run a Speed Test while you are in those areas? 
+Customer:  Sure, do you have any instructions on how to do this? 
+Agent:  There are many ways to do a speed test, ma'am. You can use the website speedtest.net or download an app on your device.
+ Customer: Okay, thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for helping me troubleshoot this! I think the speed test results will give a clearer picture."
+Sentiment: Positive

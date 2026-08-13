@@ -1,0 +1,17 @@
+Customer ID: 7137-RYLPP
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with lag or latency.  
+Agent: I understand you're experiencing high ping while using our service. 
+Customer: Yes, it's been happening for a few days now.  I even tried restarting my modem and router.  
+Agent: Have you checked your connection speed? Sometimes, a slow internet connection can cause latency issues.
+Customer: No, I didn't think to check that.  How do I do that? 
+Agent: You can check your speed at [link] . It might help if you need a more detailed analysis.  
+Customer: Thanks!   Is there anything else I can do?  
+Agent: If the speed test doesn't show any issues, we recommend checking for interference with wireless devices or nearby electronic equipment. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for the help! Checking my internet speed helped me figure out the issue.
+Sentiment: Positive

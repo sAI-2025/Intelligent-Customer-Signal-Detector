@@ -1,0 +1,19 @@
+Customer ID: 8155-IBNHG
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speeds. They're much slower than they should be according to my plan. 
+Agent:  I understand your concern. Can you please provide me with your account details? 
+Customer: Sure, my account number is 123456789. 
+Agent: Thank you. I see that you're currently on a $75.4/month Fiber plan and have been a customer for 24 months.  Are you experiencing slow speeds in specific locations or at certain times?
+Customer: Mostly during the evening hours, but even browsing the internet is slow. 
+Agent:  I see you are located within our fiber optic network, which usually delivers high-speed service. We might need to run a speed test and check for any potential issues on your end. Would you be able to perform one and send me the results? 
+Customer: I'll do that right now. 
+Agent: Thank you for contacting us.  
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and responsive, and the speed test provided some good insight into potential issues.
+Sentiment: Positive

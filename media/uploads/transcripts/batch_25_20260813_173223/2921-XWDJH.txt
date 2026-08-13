@@ -1,0 +1,20 @@
+Customer ID: 2921-XWDJH
+Topic: movie catalog does not match subscription
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble finding movies on my catalog. It doesn't match what I signed up for. 
+Agent:  I understand your frustration, Mr./Ms. [Last Name].  Can you please provide your account number? 
+Customer: 1234567890
+Agent:  Let me check the details on our system...thankfully this is a common issue.  The catalog does not always match what we offer. 
+Customer: But I shouldn't have to pay for movies I can't find, especially since it costs $83.45. 
+Agent: You are correct, and I apologize about the confusion. Let me check your subscription and account settings.  
+Customer: Thanks. 
+Agent:  The catalog is updated monthly, but there may be some delays in updating your access to all the movies.   Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it would have been clearer if the initial issues were addressed proactively rather than only waiting for the customer to complain about not being able to find movies they signed up for. 
+
+
+Let me know if you'd like to explore other feedback options!  😊
+Sentiment: Neutral

@@ -1,0 +1,24 @@
+Customer ID: 0836-SEYLU
+Topic: Wi-Fi signal weak in certain rooms
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I’m having trouble connecting to my Wi-Fi. The signal is weak in certain rooms, especially in the living room.
+
+Agent: Thank you for contacting us!  I understand you're experiencing a weak Wi-Fi signal in some areas of your home. 
+
+Customer: Yes, it's been like that since yesterday.  It’s frustrating as I rely on this connection for my online appointments and work from home. 
+
+Agent: We’ll be happy to look into this for you. Can you please tell me the specific room(s) you are experiencing the issue? 
+ 
+Customer: It's primarily in the living room, and sometimes the kitchen too.
+
+Agent:  Thanks for the information.  I can check our network diagnostics and see if there’s anything that might be causing this. We'll get this figured out!  
+
+Customer: Thank you so much. 
+
+Agent: It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thank you for your help, the issue is now fixed!"
+Sentiment: Positive

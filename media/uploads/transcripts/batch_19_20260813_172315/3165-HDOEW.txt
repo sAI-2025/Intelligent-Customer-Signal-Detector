@@ -1,0 +1,18 @@
+Customer ID: 3165-HDOEW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having some trouble with my internet connection. It's been slow and dropping out frequently. 
+Agent:  I understand, let me gather some information to assist you further. Could you please tell me your account details?
+Customer: Sure, it's [account number], and my name is [name]. My plan is a month-to-month DSL connection, and I'm paying $45.85 per month.
+Agent: Thank you for providing that information.  I see there may be some issues with your service speed and stability. 
+Customer: That sounds frustrating!  
+Agent: No problem at all. Let me check the status of your line, while I do so, can you tell me what device you are using to access the internet?
+Customer: It's my laptop.
+Agent: Okay, thanks. Now we can take a look into the issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was very helpful and professional, and I appreciate their quick response."
+Sentiment: Positive

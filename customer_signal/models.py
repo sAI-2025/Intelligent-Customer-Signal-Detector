@@ -95,6 +95,8 @@ class SignalAnalysis(models.Model):
 class UploadBatch(models.Model):
     filename = models.CharField(max_length=255)
     file_type = models.CharField(max_length=10)  # csv / txt
+    # Path (relative to MEDIA_ROOT) where this batch's files were saved
+    storage_folder = models.CharField(max_length=500, blank=True)
     rows_added = models.IntegerField(default=0)
     rows_updated = models.IntegerField(default=0)
     rows_skipped_duplicate = models.IntegerField(default=0)

@@ -11,6 +11,7 @@ urlpatterns = [
 
     path("api/upload/csv/", views.api_upload_csv, name="api_upload_csv"),
     path("api/upload/transcripts/", views.api_upload_transcripts, name="api_upload_transcripts"),
+    path("api/upload/all/", views.api_upload_all, name="api_upload_all"),
     path("api/customer/manual/", views.api_manual_customer, name="api_manual_customer"),
     path("api/process/", views.api_process, name="api_process"),
     path("api/customer/<str:customer_id>/reanalyze/", views.reanalyze_customer, name="reanalyze_customer"),

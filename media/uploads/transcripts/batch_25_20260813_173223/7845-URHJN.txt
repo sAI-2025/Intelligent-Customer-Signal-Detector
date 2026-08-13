@@ -1,0 +1,23 @@
+Customer ID: 7845-URHJN
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there! My upload speed is really slow and it's making it difficult to work from home. 
+
+Agent: I understand your concern, I'd be happy to look into this for you. Could you please provide me with your account information?
+
+Customer: Sure, my username is "John_Doe" and the phone number linked to the account is XXX-XXX-XXXX.
+
+Agent: Thanks!  I see that your contract is month-to-month and you're currently on a $20.15 plan. 
+ 
+Customer:  Yeah, I just noticed it's lagging lately. It was fine before. 
+
+Agent: Let me check the speeds now and we'll get this resolved as soon as possible.
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Great, thank you for your quick help. Hopefully, this will resolve my slow upload speed issue!"
+Sentiment: Positive

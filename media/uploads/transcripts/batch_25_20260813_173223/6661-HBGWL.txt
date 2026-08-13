@@ -1,0 +1,18 @@
+Customer ID: 6661-HBGWL
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I was hoping to get some help with my upload speed. It seems much slower than expected, and it’s frustrating me.
+Agent:  I understand your frustration, Ms. [Last Name].  To best assist you, can you please provide your account number?
+Customer: Sure. 4567890
+Agent: Thank you! I'm looking into the details of your Fiber optic plan and seeing if there are any known issues with our network in your area. 
+Customer:  That would be great.
+Agent:  I’ve checked the signal strength, and it appears to be within acceptable limits. However, I may need to run some diagnostics on your modem and router to ensure everything is operating smoothly. 
+Customer: Okay. 
+Agent: Just a few minutes and we'll have things running at their optimal speed.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the help! Glad I could get this sorted out."
+Sentiment: Positive

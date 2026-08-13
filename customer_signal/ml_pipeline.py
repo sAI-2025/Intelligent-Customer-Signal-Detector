@@ -69,6 +69,7 @@ def preprocess(df: pd.DataFrame, is_training: bool = False) -> pd.DataFrame:
     Exact copy of your Colab Cell 1 preprocess(), adapted for your reduced
     37-column CSV schema. This MUST match training exactly.
     """
+    print(f"[ML Preprocess] Starting preprocessing on {len(df)} rows.")
     df = df.copy()
 
     # total_charges median-fill (kept for parity even if column absent)
@@ -174,6 +175,7 @@ def preprocess(df: pd.DataFrame, is_training: bool = False) -> pd.DataFrame:
     if TARGET_COL in df.columns and not is_training:
         df.drop(columns=[TARGET_COL], inplace=True)
 
+    print(f"[ML Preprocess] Finished preprocessing. Resulting shape: {df.shape}")
     return df
 
 
@@ -182,13 +184,17 @@ def run_pipeline(queryset=None) -> dict:
     Scores every Customer with a null or stale predicted_churn_score.
     Returns a summary dict: {processed, high_risk, attention, low}
     """
+    print("\n[ML Pipeline] === Starting Model Inference Pipeline ===")
     bundle = _load_model()
     model = bundle["model"]
     feature_columns = bundle["feature_columns"]
+    print(f"[ML Pipeline] Loaded model successfully. Expecting {len(feature_columns)} features.")
 
     qs = queryset if queryset is not None else Customer.objects.filter(predicted_churn_score__isnull=True)
     customers = list(qs)
+    print(f"[ML Pipeline] Found {len(customers)} customers needing prediction.")
     if not customers:
+        print("[ML Pipeline] === Finished Model Inference Pipeline (No Action Needed) ===\n")
         return {"processed": 0, "high_risk": 0, "attention": 0, "low": 0}
 
     rows = []
@@ -201,6 +207,7 @@ def run_pipeline(queryset=None) -> dict:
     processed_df = preprocess(df, is_training=False)
     processed_df = processed_df.reindex(columns=feature_columns, fill_value=0)
 
+    print(f"[ML Pipeline] Running model.predict() on {len(processed_df)} rows...")
     preds = model.predict(processed_df)
     preds = np.clip(preds, 0, 100)
 
@@ -216,6 +223,12 @@ def run_pipeline(queryset=None) -> dict:
     Customer.objects.bulk_update(
         customers, ["predicted_churn_score", "risk_band", "processed_at"]
     )
+
+    print(f"[ML Pipeline] Successfully processed {len(customers)} customers.")
+    print(f"   -> High Risk: {counts['High']}")
+    print(f"   -> Attention: {counts['Attention']}")
+    print(f"   -> Low Risk : {counts['Low']}")
+    print("[ML Pipeline] === Finished Model Inference Pipeline ===\n")
 
     return {
         "processed": len(customers),

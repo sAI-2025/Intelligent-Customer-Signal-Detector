@@ -1,0 +1,17 @@
+Customer ID: 4062-HBMOS
+Topic: internet connection slow or unstable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet connection has been super slow and unstable lately.  I'm getting dropped frequently, especially during streaming.
+Agent: I understand your concern about your internet speed. May I please have your account information so I can check on it? 
+Customer: Sure, here you go. [Account Number] and [Name]. 
+Agent: Thank you. Let me take a look at your details.  We've detected some recent issues with network traffic congestion.
+Customer: Okay, that's good to know. 
+Agent: We will run an expedite test on your connection right now.   I can give you estimated resolution time and check on possible billing discrepancies. 
+Customer: Thanks for the update! 
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful response, thanks for getting my internet back up to speed!
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 4531-AUZNK
+Topic: TV streaming performance worsens during peak hours
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My TV streaming has been really lagging during peak hours lately, even though my internet connection is good.  Is there an issue with service on your end? 
+
+Agent: We understand you're experiencing slow speeds during peak times. I can check the current status of our network and see if any issues are affecting your service.
+
+Customer: Thanks! It's been pretty frustrating, especially when trying to watch my favorite shows.  
+
+Agent: Let me have a look at your account and I’ll get that checked out for you. 
+
+Customer: Hopefully we can resolve this soon. 
+
+Agent: We will definitely see about fixing it for you ASAP. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for looking into it, hopefully the issue is resolved soon."
+Sentiment: Positive
