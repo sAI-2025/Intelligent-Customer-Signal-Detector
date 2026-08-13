@@ -1,0 +1,25 @@
+Customer ID: 7196-LIWRH
+Topic: customer dissatisfied with movie selection
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm very disappointed with the movie selection available right now.  I can't find any movies I want to watch! 
+
+Agent:  I understand your frustration. Could you tell me what kind of movies you typically enjoy?
+
+Customer:  I prefer older classic films and documentaries. There’s really nothing here that fits that category. 
+
+Agent: I apologize for the inconvenience, but we don't currently have a wide selection of specific genres in our catalog.  Would you like to explore other options? 
+
+
+Customer:  Well, I just want a little more variety.  Maybe some of those independent films.   
+
+Agent: We do have a small selection of independent films available through our "Unconventional Cinema" section. Would you like me to show you what's in that section? 
+
+Customer: That would be great. 
+ 
+ Agent:  Okay, here are some indie movies that might interest you.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent did eventually offer alternative suggestions, I still feel like there could be a wider selection of films to choose from within various genres.
+Sentiment: Neutral

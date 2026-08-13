@@ -1,0 +1,24 @@
+Customer ID: 8035-PWSEV
+Topic: high latency or ping during usage
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed has been really slow today. Ping is constantly high, like 30 seconds delay.  
+
+Agent: I understand your frustration with the current latency issues. Can you please tell me what device and location you're experiencing this on?
+
+Customer: On my laptop at home. It's usually pretty stable.  But now, it feels almost unusable.
+
+Agent: We apologize for the inconvenience. Let me check your account details to see if there are any specific issues related to your location or traffic patterns. 
+
+Customer: $89.25 a month is quite expensive for this. It's been slow for the past week now.
+
+Agent: I understand.  We don't usually experience delays with Fiber Optic internet, especially at your location. I'm checking our systems and will let you know what I find. 
+
+Customer: Thank you! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's quick response and willingness to investigate this issue. Hopefully, a resolution is found soon.
+Sentiment: Positive

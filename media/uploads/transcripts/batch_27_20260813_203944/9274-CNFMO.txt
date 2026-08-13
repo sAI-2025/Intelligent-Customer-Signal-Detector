@@ -1,0 +1,24 @@
+Customer ID: 9274-CNFMO
+Topic: movies buffering during playback
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with buffering during my movies.  I just started watching a movie and it keeps pausing. 
+
+Agent: I understand your frustration.  Can you tell me what kind of movie you are trying to watch?
+
+Customer: It's the new superhero flick on demand.
+
+Agent: Okay, I can see there might be an issue with that particular movie. Let me check your connection and update you.
+
+Customer: Great, thank you so much! 
+ 
+Agent:  I've checked your connection and it seems to be strong. However, sometimes buffering can occur due to high demand on the service.  
+
+Customer: Alright, hope this fixes the problem. Thanks again. 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quickly identified potential causes of the issue. Hopefully, the fix will be permanent!"
+Sentiment: Positive

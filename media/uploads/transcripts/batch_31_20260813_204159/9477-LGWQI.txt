@@ -1,0 +1,16 @@
+Customer ID: 9477-LGWQI
+Topic: download speed lower than subscribed plan
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My download speed is way slower than my subscribed plan. I’ve been experiencing slow speeds for a few days now. Is there any known issue with the service?
+Agent:  I understand your concern about slow download speeds. Can you please tell me your account number and the exact location where you are experiencing slowness? 
+Customer: My account number is [Account Number]. I'm located in [City, State]. 
+Agent: Thanks for providing that information. Let me check on this for you.  I see your DSL plan has been subscribed to since last year, but your speeds are currently much lower than the advertised speed.
+Customer: Really? How long before it gets fixed? 
+Agent: We're working on getting your download speed back up to its standard. Please give us a few minutes while we troubleshoot this issue. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's prompt response and quick work in addressing my slow download speeds!
+Sentiment: Positive

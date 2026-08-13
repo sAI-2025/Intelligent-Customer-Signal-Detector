@@ -1,0 +1,22 @@
+Customer ID: 0876-WDUUZ
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet speed has been very slow today, especially during peak hours. It's impossible to do work or video calls. 
+
+Agent: I understand your concern. Can you please tell me your account details and what specific speeds you're experiencing?  
+
+Customer: Sure, my account number is 1234567890. The internet speed has been so slow that video conferencing with clients is nearly impossible.
+
+Agent: Thank you for providing that information. I am looking into the network congestion at this time and will be checking your account details to see if there's a service issue. 
+
+Customer: Okay, thank you.  
+
+Agent: We should have an update within 15 minutes or so. In the meantime, please try to avoid using data-intensive applications for a few hours. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and kept me updated on the progress. Hopefully the issue gets resolved soon!
+Sentiment: Positive

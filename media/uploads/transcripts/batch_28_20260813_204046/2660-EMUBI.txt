@@ -1,0 +1,16 @@
+Customer ID: 2660-EMUBI
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My upload speed is really slow today. It's far lower than what I was expecting. 
+Agent: Thank you for reaching out to us!  I'd be happy to look into this issue for you. 
+Customer: I'm on a Month-to-Month contract and pay $95.35 per month, and I signed up for Fiber optic internet about ten months ago.  
+Agent:  Let me check your account details.   I understand it's frustrating when upload speed is slower than expected. 
+Customer: Thanks!
+Agent: We should be able to get your upload speed back to normal by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The agent was very helpful and I appreciate them getting my upload speed fixed! 😊
+Sentiment: Positive

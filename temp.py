@@ -12,10 +12,10 @@ customer_id_col = "customer_id"
 
 source_chat_folder = r"C:\Users\chskc\Desktop\FirstSource\Intelligent-Customer-Signal-Detector\datasets\customer_chat_data"
 
-output_folder = r"C:\Users\chskc\Desktop\FirstSource\Intelligent-Customer-Signal-Detector\datasets\output"
+output_folder = r"C:\Users\chskc\Desktop\FirstSource\output"
 
-total_batches = 2#10
-batch_size = 30 #10
+total_batches = 50#10
+batch_size = 35 #10
 
 # Set a number if you want the same random batches every time.
 # Change it to another number for a different random arrangement.

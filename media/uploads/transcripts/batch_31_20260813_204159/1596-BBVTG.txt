@@ -1,0 +1,19 @@
+Customer ID: 1596-BBVTG
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I’m having some trouble with my internet speed. It keeps lagging and dropping out frequently. 
+Agent: I'd be happy to help!  Could you please provide your account details?
+Customer: Sure, my account number is [account number] and I've been a customer for about 35 months.
+Agent: Thanks for that information.   Let me run a speed test right now. 
+Customer: Okay, thanks. 
+Agent:  The results show a slight decrease in speed. We may have some network issues affecting you currently. 
+Customer: Well, I just paid $75.35 for this service and I expect to connect with no lag or dropouts. 
+Agent:  I understand your frustration! We'll look into this issue further. Could you try restarting your router? 
+Customer: Okay, I’m going to do that now. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While the agent was helpful and did offer a solution, I still expect consistent performance for the price I pay."
+Sentiment: Neutral

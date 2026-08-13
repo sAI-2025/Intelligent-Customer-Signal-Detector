@@ -1,0 +1,18 @@
+Customer ID: 0031-PVLZI
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I need help with my internet connection. It's really slow and unstable lately. 
+Agent:  Hi there! What seems to be the problem? Can you tell me your account details?
+Customer: Sure, it’s [customer name], account number [account number]. 
+Agent: Thank you for providing that information. I see your contract is month-to-month and your monthly payment is $20.35.  
+Customer:  It's been quite unstable lately, speeds are fluctuating a lot. 
+Agent: Let me check on the connection speeds for you. 
+Customer: Thanks!
+Agent:  I’ve accessed your account and confirmed that there is no active outages in your area. We do have some reports of occasional congestion during peak hours. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick response, it's good to know there aren't any major outages affecting my connection."
+Sentiment: Positive

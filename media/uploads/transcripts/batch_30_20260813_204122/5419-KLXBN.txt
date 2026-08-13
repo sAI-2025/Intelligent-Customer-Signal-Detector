@@ -1,0 +1,19 @@
+Customer ID: 5419-KLXBN
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed has been incredibly slow lately. It’s nowhere near what I pay for.  
+Agent: I understand your concern about your internet speed.  What is your current download speed? 
+Customer: Around 10 Mbps. My plan says it should be around 100. 
+Agent: Thank you. I can check our network logs to see if there are any issues on our end. 
+Customer: It's been happening for weeks. 
+Agent:  I have found a known issue in the area affecting some customers with similar speeds. We’re currently working to resolve it as quickly as possible.
+Customer: That doesn't really help my current situation though.  
+Agent: I apologize for that, and I hope we can get your connection back up to speed soon. 
+Customer: Ok. Thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "While it's reassuring to know the issue is being worked on,  I would appreciate an estimated timeframe for resolution."
+Sentiment: Neutral

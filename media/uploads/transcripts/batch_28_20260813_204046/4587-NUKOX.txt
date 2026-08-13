@@ -1,0 +1,18 @@
+Customer ID: 4587-NUKOX
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble connecting to my internet. It keeps buffering and freezing every few minutes. 
+Agent: I understand your frustration with the slow speeds.  Could you please verify your account details? 
+Customer: Sure, it's [Name] - Account number [Account Number]. 
+Agent: Thank you! Let me check on your account for any potential issues. 
+Customer: Alright. 
+Agent: I see your Fiber optic internet connection is down at the moment. It might be a temporary issue with our network infrastructure.
+Customer: Okay, what can we do about it? Can you speed things up?  
+Agent: We apologize for the inconvenience and are working to resolve it as quickly as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for letting me know about the issue! I hope they can get my internet back up and running soon.
+Sentiment: Neutral

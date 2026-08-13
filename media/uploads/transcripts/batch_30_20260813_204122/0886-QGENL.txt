@@ -1,0 +1,18 @@
+Customer ID: 0886-QGENL
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I've been experiencing frequent internet disconnections lately.
+Agent:  I understand your frustration. Could you please provide me with your account number and the device you are using? 
+Customer: My account number is 1234567890, and I'm connecting through my laptop. 
+Agent: Thank you. I see a few reports of similar issues with Fiber connections recently. Let me check our logs... 
+Customer: It's been happening often for the past week or so. 
+Agent:  I am checking on that now. The issue might be with your network settings, try restarting your router and modem.
+Customer: I just did that a few minutes ago.
+Agent: Okay, I'll take a closer look at your account. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and responsive, but hopefully the issue with my network settings will be resolved soon."
+Sentiment: Neutral

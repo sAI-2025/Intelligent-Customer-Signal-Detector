@@ -1,0 +1,24 @@
+Customer ID: 4547-LYTDD
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there, I'm having trouble with my upload speed. It's significantly slower than expected. 
+
+Agent: Hello!  I understand your concern. Could you please provide your account number and the device you are using?
+
+Customer: Sure, it's [account number] and I'm using a laptop right now. 
+
+Agent: Thank you. Let me run a speed test for you.
+ 
+Customer: Okay, great!
+
+Agent: The upload speed appears to be limited by your network configuration.  We can adjust the settings to improve it. 
+
+Customer: Thanks for helping!
+
+Agent: No problem at all. We hope that resolves the issue for you. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick and helpful solution, I'm already seeing a noticeable improvement!"
+Sentiment: Positive

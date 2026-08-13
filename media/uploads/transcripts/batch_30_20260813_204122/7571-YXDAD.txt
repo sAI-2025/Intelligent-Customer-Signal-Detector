@@ -1,0 +1,17 @@
+Customer ID: 7571-YXDAD
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I am experiencing really high latency and ping spikes while streaming on my laptop. 
+Agent:  I understand your frustration, [Customer name], thank you for reaching out to our support team.  To investigate this further, could you please provide me with your modem/router model and the specific activities causing the lag? 
+Customer: My router is a Netgear Nighthawk R6700 X4. Streaming is my main issue.
+Agent:   Okay, I'll look into that.  Have you tried restarting your modem and router? This often resolves temporary connection issues.
+Customer: Tried it already, no change
+Agent: I see your service speed is fiber optic, which typically offers great performance. We need to investigate further to determine the cause of the high latency. 
+Customer: Thanks for checking into this.  
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful and thorough, it would be nice if they could provide some more specific solutions or timeline estimates for resolving the issue.
+Sentiment: Neutral

@@ -1,0 +1,17 @@
+Customer ID: 0829-XXPLX
+Topic: refund inquiry
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble getting a refund for my service. 
+Agent:  I understand you are requesting a refund for your Fiber optic internet service? 
+Customer: Yes, exactly. My contract ended on the 1st of this month. It's been 20 months, and I cancelled before the renewal date. 
+Agent:  Please provide your account information, such as your account number or name, so I can assist you further.
+Customer: Sure, my account number is XXXXXXX-XXXXX.
+Agent: Thank you for providing that information. Your request is being processed. 
+Customer: Great! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very efficient and helpful in resolving my refund issue quickly.
+Sentiment: Positive

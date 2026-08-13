@@ -1,0 +1,18 @@
+Customer ID: 2720-WGKHP
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello! I need help with my internet connection, it's been slow and unstable lately.
+Agent: Hi there! I understand that your connection isn't working at its best right now. Can you tell me your account information so I can look into this for you? 
+Customer: Sure, it's [Account Number] and the name on the account is [Name].  
+Agent: Thanks, I'm seeing some reports of a service outage in your area. We’ll have to check this out!
+Customer: Okay, thank you so much. 
+Agent: No problem at all, just bear with me while we sort that out for you. I’ll update you as soon as I know more. 
+Customer: Thank you.
+Agent: Thanks for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick response and update!  Hopefully the service outage will be resolved soon.
+Sentiment: Positive

@@ -1,0 +1,25 @@
+Customer ID: 0193-ESZXP
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I have been experiencing extremely high latency. My internet speed is unusable. 
+
+Agent: Thank you for contacting us!  I understand that slow connection speeds can be frustrating. Can you please provide your account information and any details regarding the issue? 
+
+Customer: Sure, my account number is 12345678. It has been happening on and off all day. I am using Fiber optic internet. 
+
+Agent: Thank you for providing that information. We're currently experiencing some issues with our fiber network in your area.  I apologize for the inconvenience this may cause. 
+
+Customer: Well, it’s costing me dearly!
+
+Agent: I understand.  Would you like to connect to a live chat representative right now?
+
+
+Customer: Yes please.
+Agent: Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful and explained the situation, it still feels frustrating dealing with such slow internet speeds.
+Sentiment: Negative

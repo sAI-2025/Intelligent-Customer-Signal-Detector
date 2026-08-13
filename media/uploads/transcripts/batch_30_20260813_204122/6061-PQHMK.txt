@@ -1,0 +1,17 @@
+Customer ID: 6061-PQHMK
+Topic: upload speed lower than expected
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My upload speed is much slower than expected.  I was expecting at least 10 Mbps.
+Agent: I understand your concern, [Customer Name].  Could you please provide me with your account details and service address? 
+Customer: Sure, my name is John Smith, my account number is 4567890, and the address is 123 Main Street, Anytown, USA. 
+Agent: Thank you for that information, Mr. Smith.  I am checking your speed test results now.
+Customer: Thanks. 
+Agent: My apologies, John.  Based on our system checks, there seems to be a temporary network issue affecting the upload speeds in your area. We are working on it right now.  
+Customer: Okay, thanks for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for keeping me updated, I appreciate your quick response and explanation of the slow speeds.
+Sentiment: Positive

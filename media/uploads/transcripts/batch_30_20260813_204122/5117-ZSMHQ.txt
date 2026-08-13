@@ -1,0 +1,17 @@
+Customer ID: 5117-ZSMHQ
+Topic: TV application crashes
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was just trying to switch my TV channel on my remote and now the app keeps crashing. 
+Agent:  I understand your frustration. Let's troubleshoot this together. Can you tell me what device you're using and which TV channels are having issues? 
+Customer: It's a Samsung TV, and it's happening with all the channels. I've been experiencing this issue for about an hour now. 
+Agent:  Thanks for that information. Please try restarting your TV and router. If that doesn't work, we can take it from there.
+Customer: Rebooted everything; still the same problem. 
+Agent:  Okay, let me check our system to see if anything is causing this issue on our end. 
+Customer: Thanks!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Frustrating that I couldn't get my TV working despite rebooting everything. Hoping a resolution can be found quickly."
+Sentiment: Negative

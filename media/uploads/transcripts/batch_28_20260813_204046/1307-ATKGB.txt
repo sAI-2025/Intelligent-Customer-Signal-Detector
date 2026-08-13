@@ -1,0 +1,18 @@
+Customer ID: 1307-ATKGB
+Topic: internet speed differs across devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed varies significantly across my devices.  It's really slow on my laptop compared to my phone and smart TV. 
+Agent: I understand your concern, we want you to have a smooth online experience.  What specific device are you experiencing issues with and what is the average speed you’re getting? 
+Customer: My laptop is showing speeds under 10 Mbps, but the phone and TV are averaging around 30-40 Mbps. 
+Agent: Can you please confirm your device's make/model and your account information?  We can then check if there are any technical issues affecting your connection. 
+Customer: Sure, it’s a MacBook Pro (2017) model - [Account Number]
+Agent: I see the details. Thank you for providing that information. We'll investigate further to ensure optimal performance. 
+Customer: Thanks!
+Agent: Please allow us a few minutes to review and will get back to you shortly with a solution.
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the agent's prompt response and willingness to help resolve my inconsistent internet speeds.
+Sentiment: Positive

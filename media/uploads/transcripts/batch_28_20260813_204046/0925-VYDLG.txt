@@ -1,0 +1,18 @@
+Customer ID: 0925-VYDLG
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I can't seem to connect to the internet at all. 
+Agent:  I understand. What is your account name and address?
+Customer: My name is Robert Smith, and my address is 123 Main Street, Anytown, USA.
+Agent: Thank you for providing that information, Mr. Smith. I'm checking on your service right now.
+Customer:  Is this a known issue in the area?
+Agent:  Yes, there seems to be an outage affecting several customers in your region. We are currently working to resolve it as quickly as possible. 
+Customer:  How long will this take? 
+Agent:  We're hoping to have things back up and running within the hour. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: It was good to hear that I wasn't alone in experiencing the outage and that someone is working on fixing it!
+Sentiment: Positive

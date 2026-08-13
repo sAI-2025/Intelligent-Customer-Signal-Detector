@@ -1,0 +1,16 @@
+Customer ID: 2371-JQHZZ
+Topic: customer wants to cancel entire service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I would like to cancel my entire service. 
+Agent:  I understand you'd like to cancel your service. Can you tell me your account number and the email address used for payment?
+Customer:  My account number is XXXXXXXXXX and my email is [email protected]
+Agent: Thank you, I can see your account details. You have a month-to-month contract with us, and you've been with us for 24 months. 
+Customer:  I just want to cancel the service. I don't need it anymore. 
+Agent:  No problem. We will ensure your cancellation is processed by the end of the day. 
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: The process was quick and efficient, thanks for helping me cancel my service!
+Sentiment: Positive

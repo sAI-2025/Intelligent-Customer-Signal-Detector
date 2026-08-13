@@ -1,0 +1,19 @@
+Customer ID: 7273-TEFQD
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble with my internet speed today. It's extremely slow during peak hours. 
+Agent:  I understand your frustration. Can you tell me more about what kind of problems you're experiencing? 
+Customer: It feels like the whole house is on hold. Everything seems to be taking forever, including loading pages and watching videos. 
+Agent:  Thank you for explaining that. I'll check our network logs to see if there are any issues with your connection right now. 
+Customer: Thanks for checking! 
+Agent:   Okay, I just checked the log, and it looks like other users around your area are experiencing a similar issue during peak hours.  
+Customer: So this is not unusual then? 
+Agent:  That's correct. We do get a lot of traffic at certain times, so we may experience some slowdowns.  
+Customer: Okay, thanks for letting me know. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was helpful and provided useful information about the slow internet speeds.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7241-AJHFS
+Topic: playlist fails to load
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble loading my playlist. It keeps saying it can't connect. 
+Agent: Hello!  I understand you are experiencing an issue with your playlist. Can you tell me a little more about what happens? For instance, what kind of device are you using and what error message(s) do you see? 
+Customer: My iPhone 12 Pro. I get the "No internet connection" error on my Apple TV app.  
+Agent: Thank you for that information. We'll need to look into this further. Can you confirm your account details, please? 
+Customer: Sure, my email is [customer email]. 
+Agent: My apologies for the inconvenience. Let me check and I should be able to resolve this issue shortly. 
+Customer: Thanks!   
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful and responsive, and I'm hoping for a quick resolution to my playlist issue!
+Sentiment: Positive

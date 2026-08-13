@@ -1,0 +1,17 @@
+Customer ID: 0637-UBJRP
+Topic: frequent internet disconnections
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! My internet has been disconnecting frequently lately. It's really frustrating. 
+Agent:  I understand your frustration, Sarah.  Can you please tell me what device and location are you experiencing this on?
+Customer: I use my laptop, usually in the living room. 
+Agent: Okay, thank you. Please let me check for any known outages in your area. 
+Customer: My service was fine a few days ago...
+Agent: I'm looking into that now, Sarah.  We’ll investigate to see if there’s anything we can do to resolve this issue.
+Customer: Thanks! 
+Agent: No problem, Sarah. We’re committed to keeping you connected with reliable service.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for getting back to me so quickly and looking into the issue.  Fingers crossed we can get my internet back up and running smoothly soon!
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7993-NQLJE
+Topic: customer wants cancellation fee clarification
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm trying to understand my cancellation fee. It seems pretty high compared to other providers. How does this work?
+Agent: Our standard cancellation fee is $100 for month-to-month contracts with fiber optic services like yours. 
+Customer:  Really? That's a lot! With my tenure, I expected some sort of reduction in the cost? 
+Agent: Of course! We understand that cancellations can be tough, and we strive to offer fair terms. Could you tell me your reason for wanting to cancel?
+Customer: I’ve decided to switch services, and it is cheaper than what I'm paying with your service now.
+Agent: I see.  We appreciate you reaching out and helping us understand your situation better. 
+Customer: Thank you! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it would have been nice to see a more significant discount considering my tenure with the service.
+Sentiment: Neutral

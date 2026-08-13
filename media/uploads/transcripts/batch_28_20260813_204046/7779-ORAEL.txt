@@ -1,0 +1,23 @@
+Customer ID: 7779-ORAEL
+Topic: router cannot connect to internet
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I need help connecting to the internet.  My router isn’t working properly and won’t show a connection.
+
+Agent: Hi there! My name is Alex.  I understand you're having trouble connecting to the internet. 
+
+Customer:  I’ve tried rebooting everything but nothing seems to work. 
+
+Agent: I see that your contract is for DSL, and you haven't had any issues in your tenure of 45 months before. Let me ask a few questions about your router setup.
+
+Customer:   My router model is [Router Model Name] and it’s been working fine until now.  I have no idea what to do next!
+
+Agent: Okay, I'm ready to walk you through the troubleshooting steps. Could you please tell me your account number? 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Frustrating that this issue arose after so long of reliable service.  Hope we can resolve it quickly."
+Sentiment: Negative
