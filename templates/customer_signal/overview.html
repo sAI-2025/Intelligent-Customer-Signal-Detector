@@ -1,0 +1,104 @@
+<!-- customer_signal/templates/customer_signal/overview.html -->
+{% extends "customer_signal/base.html" %}
+{% block title %}Overview — Signal Detector{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <div>
+    <h1 class="page-title">Intelligent Customer Signal Detector</h1>
+    <p class="page-subtitle">Proactively identify customer signals before they escalate.</p>
+  </div>
+  {% if not empty %}
+  <div class="page-header-right">
+    <span class="text-secondary">Last processed: {{ last_processed|date:"M d, Y, H:i" }}</span>
+    <button class="btn btn-secondary" onclick="location.reload()">Refresh</button>
+  </div>
+  {% endif %}
+</div>
+
+{% if empty %}
+  <div class="empty-state card">
+    <p>No customers processed yet. Go to Data / Upload to get started.</p>
+    <a href="{% url 'data_upload' %}" class="btn btn-primary">Go to Data / Upload</a>
+  </div>
+{% else %}
+
+  <div class="kpi-grid">
+    <div class="kpi-card">
+      <div class="kpi-value">{{ analyzed_count }}</div>
+      <div class="kpi-label">Customers Analyzed</div>
+    </div>
+    <div class="kpi-card accent-red">
+      <div class="kpi-value">{{ high_risk }}</div>
+      <div class="kpi-label">High Risk</div>
+    </div>
+    <div class="kpi-card">
+      <div class="kpi-value">{{ open_issues }}</div>
+      <div class="kpi-label">Open Issues</div>
+    </div>
+    <div class="kpi-card accent-red">
+      <div class="kpi-value">{{ negative_signals }}</div>
+      <div class="kpi-label">Negative Signals</div>
+    </div>
+  </div>
+
+  <div class="card section">
+    <h2 class="section-heading">Risk Distribution</h2>
+    <div class="risk-bars">
+      <div class="risk-bar-row">
+        <span class="risk-bar-label">High</span>
+        <div class="risk-bar-track"><div class="risk-bar-fill fill-high" style="width: {% widthratio high_risk risk_max 100 %}%"></div></div>
+        <span class="risk-bar-count">{{ high_risk }}</span>
+      </div>
+      <div class="risk-bar-row">
+        <span class="risk-bar-label">Attention</span>
+        <div class="risk-bar-track"><div class="risk-bar-fill fill-attention" style="width: {% widthratio attention risk_max 100 %}%"></div></div>
+        <span class="risk-bar-count">{{ attention }}</span>
+      </div>
+      <div class="risk-bar-row">
+        <span class="risk-bar-label">Low</span>
+        <div class="risk-bar-track"><div class="risk-bar-fill fill-low" style="width: {% widthratio low risk_max 100 %}%"></div></div>
+        <span class="risk-bar-count">{{ low }}</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="card section">
+    <div class="section-header-row">
+      <h2 class="section-heading">Prioritized Customer Signals</h2>
+      <a href="{% url 'customer_signals' %}" class="link-view-all">View all →</a>
+    </div>
+    <table class="data-table">
+      <thead>
+        <tr>
+          <th>Rank</th><th>Customer ID</th><th>Risk Score</th><th>Risk Band</th>
+          <th>Sentiment</th><th>Open Issues</th><th>Resolution</th><th></th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for row in top10_rows %}
+        <tr class="clickable-row" onclick="location.href='{% url 'customer_detail' row.customer.customer_id %}'">
+          <td>{{ row.rank }}</td>
+          <td class="mono">{{ row.customer.customer_id }}</td>
+          <td>{{ row.customer.predicted_churn_score|floatformat:0 }} / 100</td>
+          <td><span class="pill pill-{{ row.customer.risk_band|lower }}">{{ row.customer.risk_band|upper }}</span></td>
+          <td>
+            <span class="sentiment-dot dot-{{ row.sentiment|lower }}"></span>{{ row.sentiment }}
+          </td>
+          <td>{{ row.customer.open_issue_count }}</td>
+          <td>
+            {% if row.customer.resolution_status_open_closed == "NotResolved" %}
+              <span class="text-amber font-bold">Not Resolved</span>
+            {% else %}
+              <span class="text-secondary">{{ row.customer.resolution_status_open_closed|default:"—" }}</span>
+            {% endif %}
+          </td>
+          <td class="chevron">›</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+
+{% endif %}
+{% endblock %}

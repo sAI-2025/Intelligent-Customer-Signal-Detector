@@ -1,0 +1,38 @@
+<!-- customer_signal/templates/customer_signal/model_insights.html -->
+{% extends "customer_signal/base.html" %}
+{% block title %}Model Insights{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <div>
+    <h1 class="page-title">Model Insights</h1>
+    <p class="page-subtitle">Technical detail behind the risk score.</p>
+  </div>
+</div>
+
+<div class="card section">
+  <h2 class="section-heading">Model Summary</h2>
+  <div class="profile-grid">
+    <div><div class="profile-label">Model</div><div class="profile-value">{{ model_name }}</div></div>
+    <div><div class="profile-label">Target</div><div class="profile-value">{{ target_col }}</div></div>
+  </div>
+</div>
+
+<div class="card section">
+  <h2 class="section-heading">Top Feature Importance</h2>
+  <div class="feature-bars">
+    {% for f in feature_importances %}
+    <div class="feature-bar-row">
+      <span class="feature-bar-label">{{ f.label }}</span>
+      <div class="feature-bar-track">
+        <div class="feature-bar-fill" style="width: {% widthratio f.value max_importance 100 %}%"></div>
+      </div>
+      <span class="feature-bar-value">{{ f.value }}</span>
+    </div>
+    {% endfor %}
+  </div>
+  <p class="caption-text">Feature importance reflects influence on the model's prediction, not proven causation.</p>
+  <p class="caption-text">Satisfaction level is inversely correlated with churn risk (r ≈ −0.62); month-to-month contracts are positively correlated (r ≈ +0.37).</p>
+</div>
+
+{% endblock %}

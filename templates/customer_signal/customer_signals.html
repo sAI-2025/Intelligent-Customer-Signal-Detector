@@ -1,0 +1,111 @@
+<!-- customer_signal/templates/customer_signal/customer_signals.html -->
+{% extends "customer_signal/base.html" %}
+{% block title %}Customer Signals{% endblock %}
+{% block content %}
+
+<div class="page-header">
+  <div>
+    <h1 class="page-title">Customer Signals</h1>
+    <p class="page-subtitle">Browse, filter, and triage the full customer base.</p>
+  </div>
+</div>
+
+<form method="get" class="filter-bar card">
+  <input type="text" name="search" placeholder="🔍 Search customer ID..." value="{{ search }}" class="filter-search">
+
+  <select name="risk" class="filter-select">
+    {% for opt in "All,High,Attention,Low"|make_list %}{% endfor %}
+    <option value="All" {% if risk == "All" %}selected{% endif %}>Risk: All</option>
+    <option value="High" {% if risk == "High" %}selected{% endif %}>Risk: High</option>
+    <option value="Attention" {% if risk == "Attention" %}selected{% endif %}>Risk: Attention</option>
+    <option value="Low" {% if risk == "Low" %}selected{% endif %}>Risk: Low</option>
+  </select>
+
+  <select name="sentiment" class="filter-select">
+    <option value="All" {% if sentiment == "All" %}selected{% endif %}>Sentiment: All</option>
+    <option value="Positive" {% if sentiment == "Positive" %}selected{% endif %}>Positive</option>
+    <option value="Neutral" {% if sentiment == "Neutral" %}selected{% endif %}>Neutral</option>
+    <option value="Negative" {% if sentiment == "Negative" %}selected{% endif %}>Negative</option>
+  </select>
+
+  <select name="resolution" class="filter-select">
+    <option value="All" {% if resolution == "All" %}selected{% endif %}>Resolution: All</option>
+    <option value="Resolved" {% if resolution == "Resolved" %}selected{% endif %}>Resolved</option>
+    <option value="NotResolved" {% if resolution == "NotResolved" %}selected{% endif %}>Not Resolved</option>
+  </select>
+
+  <select name="contract" class="filter-select">
+    <option value="All" {% if contract == "All" %}selected{% endif %}>Contract: All</option>
+    <option value="Month-to-month" {% if contract == "Month-to-month" %}selected{% endif %}>Month-to-month</option>
+    <option value="One year" {% if contract == "One year" %}selected{% endif %}>One year</option>
+    <option value="Two year" {% if contract == "Two year" %}selected{% endif %}>Two year</option>
+  </select>
+
+  <select name="sort" class="filter-select">
+    <option value="risk_desc" {% if sort == "risk_desc" %}selected{% endif %}>Sort: Risk (high→low)</option>
+    <option value="risk_asc" {% if sort == "risk_asc" %}selected{% endif %}>Sort: Risk (low→high)</option>
+    <option value="tenure" {% if sort == "tenure" %}selected{% endif %}>Sort: Tenure</option>
+    <option value="monthly_charges" {% if sort == "monthly_charges" %}selected{% endif %}>Sort: Monthly charges</option>
+  </select>
+
+  <button type="submit" class="btn btn-primary">Apply</button>
+  {% if active_filters > 0 %}
+    <span class="filter-badge">{{ active_filters }} active</span>
+    <a href="{% url 'customer_signals' %}" class="link-clear">Clear filters</a>
+  {% endif %}
+</form>
+
+<p class="result-count">Showing {{ filtered_count }} of {{ total_count }} customers</p>
+
+<div class="card table-wrap">
+  <table class="data-table">
+    <thead>
+      <tr>
+        <th>Customer ID</th><th>Risk Score</th><th>Sentiment</th>
+        <th>Open Issues</th><th>Resolution</th><th>Contract</th><th></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for customer in page_obj %}
+      <tr class="clickable-row" onclick="location.href='{% url 'customer_detail' customer.customer_id %}'">
+        <td class="mono">{{ customer.customer_id }}</td>
+        <td>
+          {{ customer.predicted_churn_score|floatformat:0 }} / 100
+          <span class="pill pill-{{ customer.risk_band|lower }}">{{ customer.risk_band|upper }}</span>
+        </td>
+        <td>
+          {% with s=customer.transcript.stated_sentiment|default:"—" %}
+          <span class="sentiment-dot dot-{{ s|lower }}"></span>{{ s }}
+          {% endwith %}
+        </td>
+        <td>{{ customer.open_issue_count }}</td>
+        <td>
+          {% if customer.resolution_status_open_closed == "NotResolved" %}
+            <span class="text-amber font-bold">Not Resolved</span>
+          {% else %}
+            <span class="text-secondary">{{ customer.resolution_status_open_closed|default:"—" }}</span>
+          {% endif %}
+        </td>
+        <td>{{ customer.contract_type|default:"—" }}</td>
+        <td class="chevron">›</td>
+      </tr>
+      {% empty %}
+      <tr><td colspan="7" class="text-secondary" style="text-align:center; padding: 32px;">No customers match these filters.</td></tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+
+{% if page_obj.has_other_pages %}
+<div class="pagination">
+  {% if page_obj.has_previous %}
+    <a href="?page={{ page_obj.previous_page_number }}&search={{ search }}&risk={{ risk }}&sentiment={{ sentiment }}&resolution={{ resolution }}&contract={{ contract }}&sort={{ sort }}">‹ Prev</a>
+  {% endif %}
+  <span>Page {{ page_obj.number }} of {{ page_obj.paginator.num_pages }}</span>
+  {% if page_obj.has_next %}
+    <a href="?page={{ page_obj.next_page_number }}&search={{ search }}&risk={{ risk }}&sentiment={{ sentiment }}&resolution={{ resolution }}&contract={{ contract }}&sort={{ sort }}">Next ›</a>
+  {% endif %}
+</div>
+{% endif %}
+
+{% endblock %}
