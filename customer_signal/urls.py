@@ -9,6 +9,7 @@ urlpatterns = [
     path("model-insights/", views.model_insights, name="model_insights"),
     path("data/", views.data_upload, name="data_upload"),
     path("coming-soon/", views.coming_soon, name="coming_soon"),
+    path("api/health/", views.health_check, name="health_check"),
 
     path("api/upload/csv/", views.api_upload_csv, name="api_upload_csv"),
     path("api/upload/transcripts/", views.api_upload_transcripts, name="api_upload_transcripts"),

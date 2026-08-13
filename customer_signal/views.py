@@ -467,3 +467,9 @@ def coming_soon(request):
         "icon": "⚡"
     })
     return render(request, "customer_signal/coming_soon.html", {"meta": meta})
+
+
+def health_check(request):
+    return JsonResponse({
+        "status": "healthy",
+    })
