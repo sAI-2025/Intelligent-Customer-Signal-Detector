@@ -1,0 +1,17 @@
+Customer ID: 9231-ZJYAM
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My download speed is so slow!  I can barely stream anything. I’m paying $78.85 a month for Fiber internet and this feels like dial-up. 
+Agent:  Hi there!  My apologies for the slow speeds you're experiencing.  What is your current download speed? 
+Customer: It's around 1 Mbps. My plan says I'm supposed to get at least 50 Mbps. 
+Agent:  I can definitely help with that.  Let’s take a look at your account details and internet connection setup. Please provide me with your account name or email address.
+Customer: [account info] 
+Agent: Thank you! I will need to have a look at the technical aspects of your connection for you and then we can figure out if there's something we can adjust to get your speed up.  I’ll be back with you in a few minutes.
+Customer: Okay, thanks.
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It was good talking to the agent and I hope they can help with my slow speeds!"
+Sentiment: Positive

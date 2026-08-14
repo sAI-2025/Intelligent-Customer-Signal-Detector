@@ -1,0 +1,17 @@
+Customer ID: 7055-JCGNI
+Topic: movie streaming consumes excessive data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I just noticed my internet usage has been way over average lately. 
+Agent:  Hello! I understand your concern about high data consumption. Can you please provide me with your account number so I can take a look?
+Customer: Sure, it's [Account Number].
+Agent: Thank you. I see that you are on a $111.95/month plan with Fiber optic internet. 
+Customer:  I do have to watch all of my favorite movies and shows online now. Is there any way we can reduce my data usage?
+Agent: We offer various options for managing data usage, including choosing standard streaming resolutions or disabling auto-play for downloaded content. Would you like me to explain those further? 
+Customer:  Yes please! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for the helpful suggestions, I appreciate your assistance in managing my data usage. 😊
+Sentiment: Positive

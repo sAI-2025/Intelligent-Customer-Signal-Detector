@@ -1,0 +1,28 @@
+Customer ID: 7503-ZGUZJ
+Topic: upload speed lower than expected
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm having trouble with my upload speed. It's significantly slower than what I was expecting. 
+
+Agent:  I understand your concern, let's take a closer look at your account. Can you please provide your account information like the service address or username? 
+
+Customer: Sure, here it is: [Account info]
+
+Agent: Thanks for providing that information. I can see your upload speeds are currently slower than normal.  
+ 
+Customer: Really? I just signed up last month and paid $84.65 a month for Fiber optic internet.  What's the problem?
+
+Agent: The speed is sometimes affected by various factors, like network congestion or even distance to the server. We can check if there are any issues with your plan or service area. 
+   
+Customer: Okay, that makes sense. 
+
+Agent: Let me connect you to our network engineer for a more detailed assessment.  
+
+Customer: Thanks! 
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and I appreciate them connecting me with the network engineer. Hopefully this resolves my slow speeds issue!"
+Sentiment: Positive

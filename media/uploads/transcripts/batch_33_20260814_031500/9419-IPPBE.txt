@@ -1,0 +1,17 @@
+Customer ID: 9419-IPPBE
+Topic: new service activation delayed
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet service hasn't been activated yet and my contract is past due. 
+Agent:  I understand your concern. Can you please provide me with your account number or name?
+Customer: It’s [name], account #[account number]. I was expecting activation for last week.
+Agent:  I see that your service should have been activated on [date]. There has been an issue with the activation process, and we're working to get it resolved as soon as possible. 
+Customer: Thank you! Any timeline for when I can expect it? 
+Agent: We are prioritizing the activation process and will reach out to you within the next 24 hours to provide a more specific update.  
+Customer: Okay, great. Thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for keeping me updated; I appreciate your prompt response."
+Sentiment: Positive

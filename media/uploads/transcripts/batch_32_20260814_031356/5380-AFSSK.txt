@@ -1,0 +1,18 @@
+Customer ID: 5380-AFSSK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet. It's completely down. 
+Agent:  I understand your concern. Can you please provide me with your account information? 
+Customer: Sure, it's [Account Number], my name is John Doe, and I have a month-to-month contract for $93.9 per month.  I just started using fiber optic internet last month.
+Agent: Thank you for the details, John. Our system indicates no outages reported in your area at this time. 
+Customer: Okay, that's strange then, because I haven't been able to connect all morning. 
+Agent: Please try restarting your modem and router. If that doesn't work, let me know and we can take a closer look. 
+Customer: Thanks, I'll give it a try. 
+Agent: You're welcome, John. Thank you for contacting us. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the help but still haven't been able to connect all morning despite restarting my equipment.
+Sentiment: Negative

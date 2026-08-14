@@ -1,0 +1,17 @@
+Customer ID: 9761-XUJWD
+Topic: customer cannot access included music service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I can't access my music service. I keep getting an error message saying something about a connection issue. 
+Agent: We understand that's frustrating! Can you please tell me your account details and the specific error code?  
+Customer: My account details are: [redacted]. The error code is 404.
+Agent: Thank you for providing that information. Let me check on that for you... 
+Customer: Okay, thanks. 
+Agent: I've located the issue with your DSL connection. We can have it fixed shortly. Your service should be back online within the hour. 
+Customer: Great!  Thank you so much. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for resolving my issue quickly and efficiently!  The support was really helpful.
+Sentiment: Positive

@@ -1,0 +1,18 @@
+Customer ID: 5527-ACHSO
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I can't seem to connect to the internet at all. 
+Agent:  I understand your concern. Let me check on your account status. What is your full name and address? 
+Customer: John Smith, 123 Main Street, Anytown, USA
+Agent: Thanks John, I see you are on a month-to-month DSL plan. Can you confirm the last time you had internet access working?  
+Customer: Last night before my kids went to bed, everything was fine. Now it's completely dead. 
+Agent:  I apologize for this inconvenience.  Let me check our system. 
+Customer: Thanks! 
+Agent:  Based on our logs, there seems to be a network outage in your area. We are working to restore service as soon as possible. Will keep you updated on the progress.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the update and thanks for letting me know about the outage. Hopefully it's resolved quickly!"
+Sentiment: Positive

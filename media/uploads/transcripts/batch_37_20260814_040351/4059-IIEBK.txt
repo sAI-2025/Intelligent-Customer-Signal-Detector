@@ -1,0 +1,20 @@
+Customer ID: 4059-IIEBK
+Topic: customer dissatisfied with available TV content
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm calling to say I'm really disappointed with the TV selection lately. There just isn't anything interesting on offer anymore. 
+
+Agent:  I understand your frustration, and we appreciate you letting us know.  Can you tell me which channels you find lacking?
+
+Customer:  All the usual channels like HBO, FX, etc., are gone from the lineup. I also feel like there aren't many new movies on demand these days. 
+
+Agent:  I will look into that for you and see if we can add any more content to your plan. 
+
+Customer: Thanks.
+
+Agent:  Thank you for contacting us.
+
+----------------------------------------
+Feedback: While the agent was helpful, it would be great to see some actual changes made to the service.
+Sentiment: Neutral

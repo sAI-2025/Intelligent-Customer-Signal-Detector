@@ -1,0 +1,18 @@
+Customer ID: 5419-JPRRN
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hey there! I'm having some issues with lag/latency when I'm online. 
+Agent: Hello!  Can you please tell me your account details and what device you are using? 
+Customer: Sure. My name is John, my customer ID is [customer ID], and I'm on a month-to-month contract. 
+Agent: Thank you, John. We've noticed some high latency in the network for the past few days. 
+Customer:  I haven't encountered this issue before since starting with your service a month ago. My connection is fiber optic and I am using a desktop.
+Agent: I understand. Let me check on that.
+Customer: Thanks, I appreciate it. 
+Agent: We just had an outage in the area affecting some customers and we'll have that fixed soon.  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the outage! It makes sense why there was lag."
+Sentiment: Neutral

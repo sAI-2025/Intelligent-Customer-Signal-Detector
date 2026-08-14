@@ -1,0 +1,22 @@
+Customer ID: 3645-DEYGF
+Topic: specific songs unavailable
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hey there! I need some help, my favorite song isn't available on your platform. 
+
+Agent:  I understand your frustration. Could you tell me the name of the song and what specific plan you are currently using?
+
+Customer: It's "Dancing Queen" by ABBA. I have a month-to-month plan, the $20.75 option.
+ 
+Agent:  Let's look into this for you. Please allow me a moment while I check on that song availability.
+
+Customer: Thanks!
+
+Agent:  We are experiencing some temporary technical issues with certain songs being unavailable due to licensing constraints.  I apologize for the inconvenience. Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for letting me know about the technical issues. Hopefully, they'll be resolved soon!"
+Sentiment: Positive

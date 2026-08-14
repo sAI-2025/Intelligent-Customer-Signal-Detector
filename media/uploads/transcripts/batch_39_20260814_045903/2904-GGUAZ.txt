@@ -1,0 +1,28 @@
+Customer ID: 2904-GGUAZ
+Topic: internet speed differs across devices
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! My internet speed is really slow on my laptop and phone, but it’s fine on my desktop. Is this normal? 
+
+Agent:  Hi [customer name], thank you for reaching out. We'd be happy to help with your connection speed issues. Could you please tell me the type of device you're using, including the model number?
+
+
+Customer:  I use a MacBook Pro and an iPhone.  
+
+Agent: I see, thanks. Our speeds can sometimes vary depending on the device being used. Have you experienced any specific issues with latency or connectivity?
+ 
+Customer: The laptop is just very slow, and my phone is lagging in some apps like Instagram. 
+
+Agent: We're seeing that our fiber optic connection is performing well for desktop use. Let me check your account to see if there are any ongoing maintenance notifications.  
+
+
+Customer: I’m still concerned about the speed issue on all devices. Is there a way to boost it?
+ 
+Agent: For you, we can run a network diagnostic and troubleshoot further. Would you like us to do that now or schedule another time?
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I appreciate the troubleshooting, but I still haven't seen a significant improvement in my internet speed across all devices.
+Sentiment: Neutral

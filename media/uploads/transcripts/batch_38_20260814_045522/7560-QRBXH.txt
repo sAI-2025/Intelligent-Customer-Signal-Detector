@@ -1,0 +1,18 @@
+Customer ID: 7560-QRBXH
+Topic: customer wants to cancel entire service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'd like to cancel my service. 
+Agent: Absolutely!  Can you please confirm your account details so we can process your cancellation?
+Customer: My name is [redacted], and my account number is [redacted].  I have been a customer for four years.
+Agent: Thank you, [redacted].  I've located your account and confirmed the details. 
+Customer: I would like to cancel everything, including my internet service.
+Agent: Alright, we will process your request to cancel your internet services. You will receive confirmation in an email shortly. Your final payment will be due on the next billing cycle. 
+Customer:  I am sorry, but that is not a good policy for me! I need my account closed immediately. I had a long-term contract and did not know until now what this meant, I should not have been locked into it.   
+Agent: I understand your concern, [redacted]. However, based on our terms and conditions, we must process the request as outlined above for all cancellation requests. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: I'm disappointed that my account needs to go through a lengthy process even though it was a long-term contract.
+Sentiment: Negative

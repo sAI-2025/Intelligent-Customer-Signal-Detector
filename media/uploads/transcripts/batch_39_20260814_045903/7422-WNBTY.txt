@@ -1,0 +1,24 @@
+Customer ID: 7422-WNBTY
+Topic: customer requests package pricing clarification
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I was hoping to get some pricing clarification on my package. 
+
+Agent:  Certainly!  What specific questions do you have about your current plan? 
+
+Customer: I'm just trying to understand the price difference between the standard and premium packages since I've been a customer for 33 months with Fiber optic internet.
+
+Agent: Your monthly rate is $93.35, based on your month-to-month contract.  Would you like me to compare the differences in features and pricing?
+
+Customer: Yes, please. 
+
+Agent:  The standard package offers basic speeds at a cost of $89.95 per month, while the premium package comes with faster speeds for $109.95. 
+ 
+Customer: Thanks!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: **"Thanks for the clear breakdown, now I feel more confident about choosing the right plan."**
+Sentiment: Positive

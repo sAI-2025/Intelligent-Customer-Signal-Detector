@@ -1,0 +1,22 @@
+Customer ID: 4061-UKJWL
+Topic: download speed lower than subscribed plan
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hi, my download speed has been incredibly slow for the past couple of days. It's well below what I'm paying for.  
+
+Agent: Hello! Thank you for contacting us. Can you please provide your account number and the specific speeds you're seeing? 
+
+Customer: Sure, my account number is [account number]. The download speed is between 10-20 Mbps when it should be around 50 Mbps according to what I pay. 
+
+Agent: I see you have a DSL plan with a guaranteed speed of 50 Mbps. Can you tell me when this problem started?  
+
+Customer: It's been happening since about Tuesday,  I just noticed it today. 
+
+Agent: Thank you for that information. We will check on the cause and resolve it by the end of the day. 
+
+It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for getting back to me so quickly! Hopefully, this issue gets resolved soon."
+Sentiment: Positive

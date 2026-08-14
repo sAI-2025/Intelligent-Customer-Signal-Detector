@@ -1,0 +1,17 @@
+Customer ID: 7876-AEHIG
+Topic: data usage overage charge
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I need help understanding an overage charge on my bill. 
+Agent: Hello!  I'd be happy to help with that. Can you tell me your account number? 
+Customer: 1234567890
+Agent: Thank you. Your monthly service plan cost $60.15 and you have been using DSL internet for the past year. Do you recall how much data you typically use? 
+Customer: I'm not sure, but my bill says it was over the limit by almost 2GB.
+Agent: I see your usage was close to the plan limit. We will be able to adjust the billing for you.  
+Customer: Thank you!
+Agent: You're welcome. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "This was a quick and easy resolution, thank you!"
+Sentiment: Positive

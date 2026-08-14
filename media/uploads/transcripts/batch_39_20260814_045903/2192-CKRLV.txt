@@ -1,0 +1,18 @@
+Customer ID: 2192-CKRLV
+Topic: router cannot connect to internet
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting to the internet on my DSL. 
+Agent: Hi there!  I understand your concern about your internet connection.  Could you please tell me a little more about what’s happening?
+Customer: It just keeps saying "no internet connection" and I can't access anything online. 
+Agent: I see, it sounds like your modem is not properly set up. Let's try resetting the router and modem to see if that helps.  
+Customer: Okay, I’ve done that already but nothing seems to be working.  
+Agent: Alright, we can take a closer look at your account. Are you using the same device to access the internet as before? 
+Customer: Yes, the same laptop I used last week.
+Agent: Thanks for letting me know.  We can check if there are any issues with our service on your end.   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful but unfortunately the issue remains unsolved. Hopefully a deeper investigation will reveal the root of the problem."
+Sentiment: Neutral

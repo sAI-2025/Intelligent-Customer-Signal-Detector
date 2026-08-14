@@ -1,0 +1,17 @@
+Customer ID: 6549-YMFAW
+Topic: movies take too long to start
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: I'm having trouble getting my movie app to start. It takes way too long to load! 
+Agent:  I understand your frustration. Can you please provide me with your customer ID number?
+Customer: Sure, it's 1234567890
+Agent: Thanks for providing that information. I see you are on a month-to-month plan and have been a subscriber for 9 months. Would you like to explore some troubleshooting steps or would you prefer to escalate this issue?
+Customer:  I'd like to try the troubleshooting steps first.
+Agent: Okay, let me know if those don't help! We can then look into options for escalation if needed.
+Customer: Thanks 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: The troubleshooting steps helped, and the agent was very helpful throughout!
+Sentiment: Positive

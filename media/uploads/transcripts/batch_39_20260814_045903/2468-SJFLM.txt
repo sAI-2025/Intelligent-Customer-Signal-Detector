@@ -1,0 +1,26 @@
+Customer ID: 2468-SJFLM
+Topic: hardware configuration problem
+Customer Status: Joined         
+----------------------------------------
+
+Customer: Hello, I am having trouble configuring my modem and router. 
+
+Agent:  I understand you're having a problem with your modem and router configuration. To help me troubleshoot, can you please tell me what specific issue you are facing?
+
+Customer: My internet speed is extremely slow. It's about half the speed I should be getting. 
+
+Agent:  Could you please double-check that your modem and router are properly connected and powered on? Also, let me know your internet plan details. 
+
+Customer: Sure, it's a $74.3/month Fiber Optic plan. It's my first month with Spectrum.
+   
+Agent: Thank you for providing that information.  I can see that you are eligible for our Speed Test feature to check your connection speed and troubleshoot any potential issues.
+
+Customer: Ok, I'll do that now. 
+
+Agent: No problem. Please let me know the results of your speed test. Thank you for contacting us. 
+   
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The Speed Test feature was helpful and resolved my internet issues. Thanks!"
+Sentiment: Positive

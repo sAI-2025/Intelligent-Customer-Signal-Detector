@@ -1,0 +1,17 @@
+Customer ID: 3308-JSGML
+Topic: TV streaming buffering frequently
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there, I'm having trouble streaming my shows on the TV app. It keeps buffering and lagging constantly.
+Agent:  I understand your frustration, I apologize for the inconvenience. Can you please tell me what specific channels you're experiencing difficulties with? 
+Customer: The news channel and Disney Plus both seem to buffer a lot.
+Agent: Thank you for that information. I need to check on your internet connection.  Could you run a speed test for me?
+Customer: Sure, of course. (runs speed test)
+Agent:  Your DSL seems to be functioning well, but there's some heavy traffic on the network.  We can look into optimizing your streaming setup. 
+Customer: I appreciate that, thank you!
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thank you for helping me resolve my streaming issues. It's much appreciated!
+Sentiment: Positive

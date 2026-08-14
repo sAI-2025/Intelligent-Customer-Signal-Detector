@@ -1,0 +1,15 @@
+Customer ID: 3096-YXENJ
+Topic: installation appointment problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My installation appointment is tomorrow, but I noticed it’s at a time I won’t be home.  Can we reschedule? 
+Agent: Absolutely! We understand that scheduling conflicts happen. Please provide your preferred date and time and we'll do our best to accommodate your request. 
+Customer: Wednesday evening would work best, thank you! 
+Agent: Your new installation appointment is scheduled for Wednesday evening at [time]. You can expect a technician to arrive between then and [estimated end time].  
+Customer: Great, thanks again.  Have a good day! 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thanks for the quick resolution, everything is looking great!"
+Sentiment: Positive

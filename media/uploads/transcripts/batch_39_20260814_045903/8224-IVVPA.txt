@@ -1,0 +1,21 @@
+Customer ID: 8224-IVVPA
+Topic: internet completely unavailable
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi there! I'm having trouble connecting to the internet. It’s completely down. 
+
+Agent:  I understand you are experiencing an outage, I'm sorry to hear that. Can you please tell me your account number and the address where you live?
+
+Customer: My account number is #123456789. I live at 123 Main Street. 
+
+Agent: Thank you, I am looking into the issue now.  I'll have an update for you as soon as possible.
+
+Customer: Ok, thanks for checking.
+
+Agent: We are working to restore your service as quickly as possible. 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Appreciate the quick response and updates! Thanks again for getting this sorted out."
+Sentiment: Positive

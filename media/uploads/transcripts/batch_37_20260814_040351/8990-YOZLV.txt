@@ -1,0 +1,17 @@
+Customer ID: 8990-YOZLV
+Topic: repeated playback errors during movies
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I keep getting playback errors during movies lately.  My internet is DSL and I have a 2 year contract.
+Agent: Hello! I'm sorry to hear you're experiencing playback issues. Can you tell me more about the specific errors? 
+Customer: It's mostly when watching streaming content. Videos freeze, buffers, or even cut out completely.
+Agent:  I understand. To help us troubleshoot this, could you please check your internet speed and signal strength at the moment, as well as any recent software updates on your streaming device?
+Customer:  Done, I'll check my modem and router now. 
+Agent: Thank you! We will send you a link to our troubleshooting guide shortly. Please let us know if you have further questions or issues come up. 
+Customer: Okay, thanks.
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Hopefully this helps resolve the streaming issues quickly!"
+Sentiment: Positive
