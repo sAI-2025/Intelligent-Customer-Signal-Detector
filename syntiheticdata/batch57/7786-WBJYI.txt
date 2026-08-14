@@ -1,0 +1,24 @@
+Customer ID: 7786-WBJYI
+Topic: network becomes slow during peak hours
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi there, I'm experiencing slow internet speeds during peak hours.  My connection seems really sluggish.
+
+Agent: Hi! Thank you for reaching out to us. What kind of device are you using? 
+
+Customer:  I am using a MacBook Pro with the latest Wi-Fi adapter. 
+ 
+Agent: We can certainly look into that. Do you happen to have any recent activity logs from your router or your computer?
+
+Customer: I'm not sure about the router, but my MacBook shows a lot of dropped connection and speed tests are pretty slow. 
+
+Agent:  Okay, thank you for providing that information.  I’ll have our engineers investigate this further.  We'll be in touch shortly with an update.
+   
+Customer: Okay. Thanks!
+
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: It would be helpful to have a timeline of when the slow speeds started and if there are any known outages currently affecting the area.
+Sentiment: Neutral

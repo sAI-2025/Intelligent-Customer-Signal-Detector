@@ -1,0 +1,20 @@
+Customer ID: 7107-UBYKY
+Topic: customer asks about installation status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm trying to get an update on my installation. 
+
+Agent: Hi there!  What's your account number and name please?
+
+Customer:  My account number is XXX-XXXX and my name is John Smith.
+
+Agent: I see your account details are ready for installation. You are in the final stage of our verification process.  
+
+Customer: Alright, thanks. 
+
+Agent:  We'll be sending you an email with a link to confirm your installation date within the next 24 hours. If you have any further questions, please don't hesitate to contact us. Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was quick and helpful in providing the information I needed, and it looks like my installation is close!
+Sentiment: Positive

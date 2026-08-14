@@ -1,0 +1,17 @@
+Customer ID: 9185-TQCVP
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer:  Hey there, I'm experiencing really high latency/ping while browsing and streaming. 
+Agent:  Hi there! My name is Alex, how can I help you today?  
+Customer:  It's been happening for the last couple hours. Speeds were fine earlier. 
+Agent:  I understand, it sounds frustrating. Have you tried restarting your modem/router or checking for any other outages in your area? 
+Customer:  Tried that already, no luck. Still lagging a lot. I use fiber optic internet by the way.
+Agent:  Okay, thanks for letting me know. We'll look into this high latency issue right away. Let me check on the service status and see if there are any known network issues causing the problem. 
+Customer: Thanks! 
+Agent:  It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "The agent was helpful and I appreciate them looking into this for me. Hopefully it's fixed soon!"
+Sentiment: Positive

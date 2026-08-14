@@ -1,0 +1,23 @@
+Customer ID: 6584-VQMYT
+Topic: website form fails during submission
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My website form isn't submitting correctly. It keeps saying there's an error and asking me to try again.
+
+Agent: I understand your frustration, let's troubleshoot this.  What website form are you using? 
+
+Customer: The one on the account details page. 
+
+Agent: I see you have a DSL internet connection. Can you tell me what type of device you're using to access the site?  
+
+Customer: My laptop. 
+
+Agent: Okay, I'm looking into this now and will get back to you soon. Thank you for contacting us. 
+ 
+  
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "This issue seems resolved, thanks for the quick help!"
+Sentiment: Positive

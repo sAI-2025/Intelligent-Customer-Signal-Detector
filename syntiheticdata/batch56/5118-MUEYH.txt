@@ -1,0 +1,19 @@
+Customer ID: 5118-MUEYH
+Topic: customer wants to remove unlimited data
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi! I want to switch my data plan from unlimited to a 10GB limit. Is that possible?
+Agent:  Hello! Absolutely, we can help you with that. What's your account number?
+Customer:  [Account Number] 
+Agent: Thanks for providing that information. Let me check on the details for you.
+Customer:  I’m on a month-to-month contract, and I've been a customer for almost 48 months now.
+Agent: Okay, so your plan currently is $105.1 per month for fiber optic internet. It will be adjusted accordingly. 
+Customer:  How much would my new monthly cost be? 
+Agent: The new monthly cost for the 10GB plan will be $75. 
+Customer: Great, I'd like to proceed with this change today. 
+Agent: I’ll make the necessary changes to your account and it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: This was a quick and easy process! Thanks for helping me switch my data plan.
+Sentiment: Positive

@@ -1,0 +1,20 @@
+Customer ID: 6227-FBDXH
+Topic: customer asks how data usage is calculated
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering how my data usage is calculated?  
+
+Agent: Absolutely! We use a tiered system. You get [specific amount] GB of data included in your plan. 
+
+Customer: Okay, that's helpful. 
+
+Agent: Beyond the included data, any excess usage will be billed at $0.15 per GB. 
+
+Customer: Thanks for clarifying that, I appreciate it!
+
+Agent: You're welcome!  Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the clear explanation! It was very helpful to get that information about my data usage.
+Sentiment: Positive

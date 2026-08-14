@@ -1,0 +1,17 @@
+Customer ID: 0895-DQHEW
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: I'm having really bad latency issues and it's making it impossible to play online games. 
+Agent:  I apologize for the inconvenience, let me check on your account details.
+Customer: Thanks, my internet service is Fiber optic. I've been a long-time customer. 
+Agent: Okay, I see your account with an active contract and no issues were reported recently.
+Customer: But it's just terrible right now! Ping spikes to over 200ms, even during low traffic times.
+Agent:  I understand that's frustrating. Would you like me to run a diagnostics check on your connection?
+Customer: Yes please.
+Agent: I'm running diagnostics now and will be able to provide an update within the hour. Thank you for contacting us.
+
+----------------------------------------
+Feedback: "Thankful for the quick response, even though it looks like there might still be some connection issues to resolve."
+Sentiment: Positive

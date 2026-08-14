@@ -1,0 +1,17 @@
+Customer ID: 5982-FPVQN
+Topic: remote or TV device cannot connect to service
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hello, I'm having trouble connecting my remote or TV device to the service. 
+Agent: Hi there! My name is Sarah, how can I help you today?
+Customer:  I haven’t been able to connect for about an hour now and it’s frustrating.
+Agent: I understand that's frustrating.  Can you tell me what model of device you have?
+Customer: It's a Roku TV, model number is ROKU 4K. 
+Agent: Okay, thanks.  I'll check on this for you and get back to you shortly. 
+Customer: Thanks!
+Agent: We’ve got this one figured out, no problem! I'm going to have someone look into that right away for you, it will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: Thanks for getting it sorted out!  I appreciate your help.
+Sentiment: Positive

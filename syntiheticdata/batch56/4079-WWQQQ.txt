@@ -1,0 +1,31 @@
+Customer ID: 4079-WWQQQ
+Topic: poor TV picture quality
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I have a problem with my TV picture quality. It’s blurry and pixelated. 
+
+Agent:  I understand your frustration. I'd be happy to help. Could you please provide me with your account number?
+
+Customer:  It's 1234567890. 
+
+Agent: Thank you, I can see your account details. You are on a DSL connection, correct?
+
+Customer: Yes, my internet is DSL.
+
+Agent:  We have had some reports of inconsistent picture quality with DSL connections lately, we're working to fix it. Have you tried rebooting your TV and modem? 
+
+Customer: I did, but it didn’t help. 
+   
+Agent:  I apologize for the inconvenience. Could you tell me what model of TV you have? 
+
+Customer: It’s a Samsung Smart TV. 
+   
+Agent: Thank you for contacting us. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: While it's nice to know they are working on the issue, I wish this problem could be resolved sooner as my TV picture quality is still terrible!
+Sentiment: Negative

@@ -1,0 +1,26 @@
+Customer ID: 3755-JBMNH
+Topic: download speed lower than subscribed plan
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having trouble with my download speed. It's much slower than what I'm paying for. 
+
+Agent:  I understand your concern. May I have your account number and the specific speeds you are experiencing?
+
+Customer: My account number is [Account Number]. My upload speed is currently around 5 Mbps, and my advertised download speed is 100 Mbps.
+
+Agent: Thank you. I'm looking into this now. We can check your current connection and see what might be causing the issue. 
+ 
+Customer:  Thank you so much. 
+
+Agent:  No problem at all. We'll have a technician review your service shortly to address this.
+
+Customer: Ok, thank you. I appreciate it! 
+
+Agent:  Thank you for contacting us. 
+ 
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was a quick and helpful resolution. Thank you for getting my download speed issue addressed so quickly!
+Sentiment: Positive

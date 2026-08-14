@@ -1,0 +1,17 @@
+Customer ID: 1444-VVSGW
+Topic: internet connection slow or unstable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: My internet connection has been very slow and unstable lately.  I can barely load basic websites. 
+Agent: I understand your frustration. Can you please provide your account number or customer ID so I can access your service details?
+Customer: Sure, my account number is XXX-XXXXXXX. 
+Agent: Thank you for providing the information. I've reviewed your recent activity and noticed a potential fiber optic line issue.  
+Customer: How long will it take to get this fixed? 
+Agent: We are working on a solution now. Please stay connected as we investigate further. 
+Customer: Okay, thank you. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This was helpful and I appreciate the quick response! Hopefully they can resolve the issue soon.
+Sentiment: Positive

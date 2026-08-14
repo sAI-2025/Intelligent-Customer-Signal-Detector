@@ -1,0 +1,22 @@
+Customer ID: 4774-HHGGS
+Topic: customer dissatisfied with music catalog
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My music catalog has been pretty disappointing lately.  I was really looking forward to some new artists. 
+
+Agent: I understand your frustration. Can you tell me what specific genres or artists you're hoping for? 
+
+Customer: It’s mainly jazz. But also classical and folk. And the selection seems limited these days. 
+
+Agent:  I can definitely check on that, and see if there are any upcoming additions or changes to our catalog. I want to make sure you have a fantastic listening experience.
+
+Customer: Thanks! 
+
+Agent:  Absolutely, we’re here to help. 
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thanks for the quick response and for looking into my request!  I appreciate your helpfulness.
+Sentiment: Positive

@@ -1,0 +1,17 @@
+Customer ID: 7470-MCQTK
+Topic: internet completely unavailable
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi! I'm not able to get online at all.  My internet is completely down. 
+Agent: Hello! I understand that your DSL internet connection has been out of service. What is your account number?
+Customer: My account number is 1234567890.
+Agent: Thank you for providing your account number. Please hold while I check on the status of your service. 
+Customer: Okay, thank you!  
+Agent: We're experiencing a technical issue in our network affecting some customers. There should be an update within the hour.  We apologize for any inconvenience this may cause. 
+Customer:  Okay, thanks. 
+Agent: Thank you for contacting us.
+
+----------------------------------------
+Feedback: This is frustrating but appreciate the update and timeline for resolution.
+Sentiment: Negative

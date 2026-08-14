@@ -1,0 +1,20 @@
+Customer ID: 6100-QQHEB
+Topic: high latency or ping during usage
+Customer Status: Churned        
+----------------------------------------
+
+Customer: Hi, I'm having some issues with high latency/ping during online gaming. It seems to be happening regularly over the past few days. 
+
+Agent:  I understand your frustration.  Can you please provide me with your account information and a little more detail about the times this issue occurs? 
+
+Customer: Sure, my account name is [Account Name].  It usually happens in the evenings when I'm playing between 6 pm to 9pm PST.
+
+Agent: Thank you for that information. We're currently experiencing some network fluctuations due to heavy traffic at peak hours.  I will look into your account and see if we can resolve this.
+
+Customer: Okay, thank you.
+
+Agent:  We'll get this sorted out for you.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: "It seems like the issue is being addressed, thanks for the update!"
+Sentiment: Positive

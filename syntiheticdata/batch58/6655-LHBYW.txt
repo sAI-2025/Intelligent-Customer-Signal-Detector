@@ -1,0 +1,20 @@
+Customer ID: 6655-LHBYW
+Topic: device compatibility problem
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I'm having trouble connecting my new smart TV to my internet. 
+Agent: Hello! I understand that you’re having a difficult time connecting your new smart TV.  What model is the TV?
+Customer: It’s a Samsung QLED, model number UE65Q70A.
+Agent: Thank you for providing that information. We can check if there are any compatibility issues with this TV and your internet service. 
+Customer: I'm using Fiber optic internet and have been having trouble ever since we upgraded to the new router. 
+Agent: Could you please tell me what model of modem and router you’re currently using?  
+Customer: It's a Motorola MB8600 modem and an Arris Surfboard S37 from the ISP. 
+Agent: Thank you for providing that information. Let me look into this issue further. 
+
+
+Thank you for contacting us.
+
+----------------------------------------
+Feedback: "The agent was helpful and quickly identified the problem, which resolved my issue."
+Sentiment: Positive

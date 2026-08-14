@@ -1,0 +1,24 @@
+Customer ID: 2812-ENYMO
+Topic: question about contract renewal terms
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: Hi, I was wondering about my contract renewal terms. My current plan is $54.55 a month and I'm on DSL internet. 
+
+Agent:  Hello! Thank you for reaching out to us. Can you please provide your account name or ID number? 
+
+Customer: Sure, it's [Account Name]. 
+
+Agent: Your contract will be up for renewal in the next few months, and we do have some special offers on our different internet plans.  
+
+Customer: Really? I would like to know what options I have available to me.
+ 
+Agent: We can explore those options. Would you prefer a phone call or chat with me about this?
+
+Customer: A quick chat would be great, thank you! 
+
+Agent: Okay, let's talk about your contract and renewal options. Thanks for choosing us.  Thank you for contacting us.
+
+----------------------------------------
+Feedback: The agent was very helpful in explaining the options and I appreciate the personalized information they provided.
+Sentiment: Positive

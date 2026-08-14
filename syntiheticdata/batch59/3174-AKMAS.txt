@@ -1,0 +1,25 @@
+Customer ID: 3174-AKMAS
+Topic: high-speed data appears to be throttled
+Customer Status: Stayed         
+----------------------------------------
+
+Customer: My internet speed is very slow today. It's much slower than usual and I can barely stream a movie. 
+
+Agent:  I understand your frustration, and I'd be happy to help troubleshoot this issue. Could you please provide me with your account information so I can access your connection details?
+
+Customer: Sure, my name is John Smith, account number [redacted], and the contract is for two years.   
+ 
+Agent:  Thank you, John. I see a DSL plan with a $64.2 monthly fee. Can you please describe the specific issue you're experiencing? Is it just speed or other functionalities too, like connectivity issues?
+
+Customer: Just the speed. It's been throttled and can barely stream. 
+  
+Agent:  I see some reports of recent network maintenance in your area. Could this be the reason for the slow speeds?   
+
+Customer: That sounds possible.  Is there anything you can do to fix it?
+
+
+Agent:  Certainly, John. I'll escalate this matter and have our engineers investigate the issue. It will be resolved by the end of the day.
+
+----------------------------------------
+Feedback: "Thanks for looking into this, I appreciate your prompt response and hope the speed issues get fixed soon."
+Sentiment: Positive

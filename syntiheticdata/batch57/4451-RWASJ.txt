@@ -1,0 +1,20 @@
+Customer ID: 4451-RWASJ
+Topic: customer asks about installation status
+Customer Status: Stayed         
+----------------------------------------
+
+Customer:  Hi there, I was hoping to get an update on my installation status for my new service. 
+
+Agent:  Hello! I'd be happy to help with that. Could you please provide your account number or the name and address where the installation is planned? 
+
+Customer: My account number is [account number]. I live at 123 Main Street, Anytown, USA. 
+
+Agent: Thanks for that information!  The installation technician should be arriving shortly based on our records. 
+
+Customer: Great. Thank you! 
+
+Agent: You're welcome! We hope to hear from you once they complete the installation. Thank you for contacting us.
+
+----------------------------------------
+Feedback: Thankful for the update and looking forward to getting started with my new service.
+Sentiment: Positive
