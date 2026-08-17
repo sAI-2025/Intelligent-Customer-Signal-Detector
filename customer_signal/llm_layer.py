@@ -13,7 +13,7 @@ from .signal_logic import compute_signal_flags
 
 logger = logging.getLogger(__name__)
 
-MODEL_NAME = os.getenv("GROQ_MODEL_NAME", "llama-3.1-8b-instant")
+MODEL_NAME = os.getenv("GROQ_MODEL_NAME", "openai/gpt-oss-20b")
 
 
 class SignalOutput(BaseModel):
